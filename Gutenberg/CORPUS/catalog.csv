@@ -1,0 +1,1965 @@
+TITLE,AUTHOR,FILEPATHS,GENRE
+Monkey On His Back,['Charles V. De Vet'],['./CORPUS/ScienceFiction/26569.txt'],{'Science Fiction'}
+The First Men In The Moon,['H.G. Wells'],"['./CORPUS/Adventure/1013.txt', './CORPUS/Horror/1013.txt', './CORPUS/ScienceFiction/1013.txt']","{'Adventure', 'Horror', 'Science Fiction'}"
+The Box-Car Children,['Gertrude Chandler Warner'],['./CORPUS/CrimeMystery/42796.txt'],{'Crime and Mystery'}
+Shepherd of the Planets,['Alan Mattox'],['./CORPUS/ScienceFiction/28048.txt'],{'Science Fiction'}
+Education of a Martian,['Joseph Shallit'],['./CORPUS/ScienceFiction/50877.txt'],{'Science Fiction'}
+The Runaway Skyscraper,['Murray Leinster'],['./CORPUS/ScienceFiction/17355.txt'],{'Science Fiction'}
+Super Man and the Bug Out,['Cory Doctorow'],['./CORPUS/ScienceFiction/17030.txt'],{'Science Fiction'}
+The Raid on the Termites,['Paul Ernst'],['./CORPUS/ScienceFiction/27248.txt'],{'Science Fiction'}
+The Instant of Now,['Irving E. Cox Jr.'],['./CORPUS/ScienceFiction/31651.txt'],{'Science Fiction'}
+Revenge,['Arthur Porges'],['./CORPUS/ScienceFiction/27756.txt'],{'Science Fiction'}
+The Range Dwellers,['B.M. Bower'],['./CORPUS/Western/14334.txt'],{'Western'}
+The Merry Adventures of Robin Hood,['Howard Pyle'],"['./CORPUS/Adventure/10148.txt', './CORPUS/Fantasy/10148.txt']","{'Adventure', 'Fantasy'}"
+Cum Grano Salis,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/25234.txt'],{'Science Fiction'}
+Heist Job on Thizar,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/25028.txt'],{'Science Fiction'}
+Space Tug,['Murray Leinster'],"['./CORPUS/Adventure/18719.txt', './CORPUS/ScienceFiction/18719.txt']","{'Adventure', 'Science Fiction'}"
+Astoria,['Washington Irving'],['./CORPUS/Western/1371.txt'],{'Western'}
+The Wallet of Kai Lung,['Ernest Bramah'],['./CORPUS/Fantasy/1076.txt'],{'Fantasy'}
+The Mystery of 31 New Inn,['R. Austin Freeman'],['./CORPUS/CrimeMystery/12187.txt'],{'Crime and Mystery'}
+The Lone Star Ranger,['Zane Grey'],['./CORPUS/Western/1027.txt'],{'Western'}
+This One Problem,['M.C. Pease'],['./CORPUS/ScienceFiction/29354.txt'],{'Science Fiction'}
+Kai Lung's Golden Hours,['Ernest Bramah'],['./CORPUS/Fantasy/1267.txt'],{'Fantasy'}
+City of Endless Night,['Milo Hastings'],['./CORPUS/ScienceFiction/9862.txt'],{'Science Fiction'}
+The Sentimentalists,['Murray Leinster'],['./CORPUS/ScienceFiction/51102.txt'],{'Science Fiction'}
+The Riddle of the Sands,['Erskine Childers'],['./CORPUS/Adventure/2360.txt'],{'Adventure'}
+Venus is a Man's World,['William Tenn'],['./CORPUS/ScienceFiction/51150.txt'],{'Science Fiction'}
+Mate in Two Moves,['Winston Marks'],['./CORPUS/ScienceFiction/32748.txt'],{'Science Fiction'}
+The Laughing Prince,['Parker Fillmore'],['./CORPUS/FairyTale/19713.txt'],{'Fairy Tale'}
+The Trail of the White Mule,['B.M. Bower'],['./CORPUS/Western/2063.txt'],{'Western'}
+George Loves Gistla,['James McKimmey'],['./CORPUS/ScienceFiction/29578.txt'],{'Science Fiction'}
+The Devil's Asteroid,['Manly Wade Wellman'],['./CORPUS/ScienceFiction/22538.txt'],{'Science Fiction'}
+Raiders of the Universes,['Donald Wandrei'],['./CORPUS/ScienceFiction/29389.txt'],{'Science Fiction'}
+The Star Hyacinths,['James H. Schmitz'],['./CORPUS/ScienceFiction/26292.txt'],{'Science Fiction'}
+A Fine Fix,['R.C. Noll'],['./CORPUS/ScienceFiction/27696.txt'],{'Science Fiction'}
+The Mystery of Orcival,['Emile Gaboriau'],['./CORPUS/CrimeMystery/1651.txt'],{'Crime and Mystery'}
+Clean Break,['Roger Dee'],['./CORPUS/ScienceFiction/32212.txt'],{'Science Fiction'}
+"Home Again, Home Again",['Cory Doctorow'],['./CORPUS/ScienceFiction/17138.txt'],{'Science Fiction'}
+Sales Talk,['Con Blomberg'],['./CORPUS/ScienceFiction/51616.txt'],{'Science Fiction'}
+The Ambassador,['Samuel Kimball Merwin'],['./CORPUS/ScienceFiction/32587.txt'],{'Science Fiction'}
+The Wizard of the Sea,['Roy Rockwood'],['./CORPUS/ScienceFiction/20132.txt'],{'Science Fiction'}
+Cubs of the Wolf,['Raymond F. Jones'],['./CORPUS/ScienceFiction/22526.txt'],{'Science Fiction'}
+More English Fairy Tales,['Various'],['./CORPUS/FairyTale/14241.txt'],{'Fairy Tale'}
+Dave Dashaway and his Hydroplane,['Roy Rockwood'],['./CORPUS/ScienceFiction/6714.txt'],{'Science Fiction'}
+The Impossibles,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/22338.txt'],{'Science Fiction'}
+Unborn Tomorrow,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/23942.txt'],{'Science Fiction'}
+The Poison Belt,['Arthur Conan Doyle'],['./CORPUS/ScienceFiction/126.txt'],{'Science Fiction'}
+Jamieson,['William R. Doede'],['./CORPUS/ScienceFiction/51605.txt'],{'Science Fiction'}
+The Mystery of the Hasty Arrow,['Anna Katharine Green'],['./CORPUS/CrimeMystery/17763.txt'],{'Crime and Mystery'}
+"Adventures of Huckleberry Finn, Part 2",['Mark Twain'],['./CORPUS/Adventure/7101.txt'],{'Adventure'}
+Gone Fishing,['James H. Schmitz'],['./CORPUS/ScienceFiction/30140.txt'],{'Science Fiction'}
+A Book of Myths,['Jean Lang'],['./CORPUS/FairyTale/22693.txt'],{'Fairy Tale'}
+The Bell Tone,['Edmund H.  Leftwich'],['./CORPUS/ScienceFiction/22470.txt'],{'Science Fiction'}
+A Place in the Sun,['C.H. Thames'],['./CORPUS/ScienceFiction/26966.txt'],{'Science Fiction'}
+The Indulgence of Negu Mah,['Robert Andrew Arthur'],['./CORPUS/ScienceFiction/23688.txt'],{'Science Fiction'}
+The Risk Profession,['Donald Edwin Westlake'],['./CORPUS/ScienceFiction/27089.txt'],{'Science Fiction'}
+The Settlers,['William H.G. Kingston'],['./CORPUS/Adventure/21482.txt'],{'Adventure'}
+The Lost Princess of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/959.txt'],{'Fantasy'}
+Brown John's Body,['Winston Marks'],['./CORPUS/ScienceFiction/32076.txt'],{'Science Fiction'}
+The Rainbow Trail,['Zane Grey'],['./CORPUS/Western/5067.txt'],{'Western'}
+Four Max Carrados Detective Stories,['Ernest Bramah'],['./CORPUS/CrimeMystery/12932.txt'],{'Crime and Mystery'}
+The Lonesome Trail and Other Stories,['B.M. Bower'],['./CORPUS/Western/14542.txt'],{'Western'}
+The Chasers,['Daniel F. Galouye'],['./CORPUS/ScienceFiction/51508.txt'],{'Science Fiction'}
+Miss Ludington's Sister,['Edward Bellamy'],['./CORPUS/ScienceFiction/6903.txt'],{'Science Fiction'}
+The Nothing Equation,['Tom Godwin'],['./CORPUS/ScienceFiction/25628.txt'],{'Science Fiction'}
+Pen Pal,['Milton Lesser'],['./CORPUS/ScienceFiction/51286.txt'],{'Science Fiction'}
+The Amateurs,['Alan Cogan'],['./CORPUS/ScienceFiction/51081.txt'],{'Science Fiction'}
+Nightmare Planet,['Murray Leinster'],['./CORPUS/ScienceFiction/42987.txt'],{'Science Fiction'}
+The Destroyers,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24166.txt'],{'Science Fiction'}
+The Saracen: The Holy War,['Robert Shea'],['./CORPUS/ScienceFiction/28516.txt'],{'Science Fiction'}
+Falcons of Narabedla,['Marion Zimmer Bradley'],"['./CORPUS/ScienceFiction/50566.txt', './CORPUS/Fantasy/50566.txt']","{'Science Fiction', 'Fantasy'}"
+Sweet Their Blood and Sticky,['Albert Teichner'],['./CORPUS/ScienceFiction/21568.txt'],{'Science Fiction'}
+Star Born,['Andre Norton'],"['./CORPUS/Adventure/18458.txt', './CORPUS/ScienceFiction/18458.txt']","{'Adventure', 'Science Fiction'}"
+The Monster,['S.M. Tenneshaw'],['./CORPUS/ScienceFiction/24913.txt'],{'Science Fiction'}
+The Dash for Khartoum,['George Alfred Henty'],['./CORPUS/Adventure/21986.txt'],{'Adventure'}
+Astounding Stories of Super-Science February 1930,['Various'],['./CORPUS/ScienceFiction/28617.txt'],{'Science Fiction'}
+Hunter Patrol,"['Henry Beam Piper', 'John J. McGuire']",['./CORPUS/ScienceFiction/18641.txt'],{'Science Fiction'}
+Transfer Point,['Anthony Boucher'],['./CORPUS/ScienceFiction/51115.txt'],{'Science Fiction'}
+Out of This World Convention,['Forrest James Ackerman'],['./CORPUS/ScienceFiction/28535.txt'],{'Science Fiction'}
+Angel's Egg,['Edgar Pangborn'],['./CORPUS/ScienceFiction/51408.txt'],{'Science Fiction'}
+Dead Giveaway,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24054.txt'],{'Science Fiction'}
+"Jubilation, U.S.A.",['G.L. Vandenburg'],['./CORPUS/ScienceFiction/22589.txt'],{'Science Fiction'}
+Coming Attraction,['Fritz Leiber'],['./CORPUS/ScienceFiction/51082.txt'],{'Science Fiction'}
+A Bottle of Old Wine,['Richard O. Lewis'],['./CORPUS/ScienceFiction/30004.txt'],{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 7",['Mark Twain'],['./CORPUS/Adventure/7106.txt'],{'Adventure'}
+The Outlaw of Torn,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/369.txt'],{'Science Fiction'}
+Flight From Tomorrow,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18460.txt'],{'Science Fiction'}
+The Arrow of Gold,['Joseph Conrad'],['./CORPUS/Adventure/1083.txt'],{'Adventure'}
+The Deep One,['Neil P. Ruzic'],['./CORPUS/ScienceFiction/51091.txt'],{'Science Fiction'}
+Devil Crystals of Arret,['Hal K. Wells'],['./CORPUS/ScienceFiction/28628.txt'],{'Science Fiction'}
+My Lady Selene,['Magnus Ludens'],['./CORPUS/ScienceFiction/50892.txt'],{'Science Fiction'}
+The Place Where Chicago Was,['Jim Harmon'],['./CORPUS/ScienceFiction/51832.txt'],{'Science Fiction'}
+The Old Man in the Corner,['Baroness Orczy'],['./CORPUS/CrimeMystery/10556.txt'],{'Crime and Mystery'}
+Assassin,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/32237.txt'],{'Science Fiction'}
+The Young Franc Tireurs,['G.A. Henty'],['./CORPUS/Adventure/22060.txt'],{'Adventure'}
+The Great Nebraska Sea,['Allan Danzig'],['./CORPUS/ScienceFiction/50893.txt'],{'Science Fiction'}
+Racketty-Packetty House,['Frances H. Burnett'],['./CORPUS/Fantasy/8574.txt'],{'Fantasy'}
+The Disappearance of Lady Frances Carfax,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2348.txt'],{'Crime and Mystery'}
+Unwise Child,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23335.txt'],{'Science Fiction'}
+2 B R 0 2 B,['Kurt Vonnegut'],['./CORPUS/ScienceFiction/21279.txt'],{'Science Fiction'}
+Chain Reaction,['Boyd Ellanby'],['./CORPUS/ScienceFiction/51255.txt'],{'Science Fiction'}
+The Winds of Time,['James H. Schmitz'],['./CORPUS/ScienceFiction/24395.txt'],{'Science Fiction'}
+Cleek: the Man of the Forty Faces,['Thomas W. Hanshew'],['./CORPUS/CrimeMystery/14332.txt'],{'Crime and Mystery'}
+The Children of Odin,['Padraic Colum'],['./CORPUS/FairyTale/24737.txt'],{'Fairy Tale'}
+The Door in the Wall And Other Stories,['H.G. Wells'],['./CORPUS/ScienceFiction/456.txt'],{'Science Fiction'}
+Beach Scene,['Marshall King'],['./CORPUS/ScienceFiction/51494.txt'],{'Science Fiction'}
+How to Make Friends,['Jim Harmon'],['./CORPUS/ScienceFiction/50818.txt'],{'Science Fiction'}
+Before Egypt,['E.K. Jarvis'],['./CORPUS/ScienceFiction/30932.txt'],{'Science Fiction'}
+A World Apart,['Samuel Kimball Merwin'],['./CORPUS/ScienceFiction/31215.txt'],{'Science Fiction'}
+The Ignoble Savages,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/51413.txt'],{'Science Fiction'}
+Two Weeks in August,['Frank M. Robinson'],['./CORPUS/ScienceFiction/51008.txt'],{'Science Fiction'}
+Trees Are Where You Find Them,['Arthur Dekker Savage'],['./CORPUS/ScienceFiction/30010.txt'],{'Science Fiction'}
+Runaway,['William Morrison'],['./CORPUS/ScienceFiction/29897.txt'],{'Science Fiction'}
+The Radio Boys on the Mexican Border,['Gerald Breckenridge'],['./CORPUS/Adventure/14278.txt'],{'Adventure'}
+The Wisdom of Father Brown,['G.K. Chesterton'],['./CORPUS/CrimeMystery/223.txt'],{'Crime and Mystery'}
+The Fantasy Fan September 1933,['Various'],['./CORPUS/ScienceFiction/46222.txt'],{'Science Fiction'}
+Under Western Eyes,['Joseph Conrad'],['./CORPUS/Adventure/2480.txt'],{'Adventure'}
+Confidence Game,['Jim Harmon'],['./CORPUS/ScienceFiction/51305.txt'],{'Science Fiction'}
+Missing Link,['Frank Patrick Herbert'],['./CORPUS/ScienceFiction/23210.txt'],{'Science Fiction'}
+The Radio Boys' Search for the Inca's Treasure,['Gerald Breckenridge'],['./CORPUS/Adventure/35987.txt'],{'Adventure'}
+Charley de Milo,['Laurence Mark Janifer AKA Larry M. Harris'],['./CORPUS/ScienceFiction/23889.txt'],{'Science Fiction'}
+The Blind Spot,['Austin Hall'],['./CORPUS/ScienceFiction/4920.txt'],{'Science Fiction'}
+The Cartels Jungle,['Irving E. Cox Jr.'],['./CORPUS/ScienceFiction/31062.txt'],{'Science Fiction'}
+Glinda of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/961.txt'],{'Fantasy'}
+No Great Magic,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/23162.txt'],{'Science Fiction'}
+The Chapter Ends,['Poul William Anderson'],['./CORPUS/ScienceFiction/41064.txt'],{'Science Fiction'}
+An Occurrence at Owl Creek,['Ambrose Bierce'],['./CORPUS/Horror/375.txt'],{'Horror'}
+Shipping Clerk,['William Morrison'],['./CORPUS/ScienceFiction/50796.txt'],{'Science Fiction'}
+The Lost Kafoozalum,['Pauline Ashwell'],['./CORPUS/ScienceFiction/30427.txt'],{'Science Fiction'}
+The Adventure of Wisteria Lodge,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2343.txt'],{'Crime and Mystery'}
+The Adventure of the Devil's Foot,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2349.txt'],{'Crime and Mystery'}
+The Rivet in Grandfather's Neck,['James Branch Cabell'],['./CORPUS/Fantasy/10041.txt'],{'Fantasy'}
+The Sargasso of Space,['Edmond Hamilton'],['./CORPUS/ScienceFiction/28832.txt'],{'Science Fiction'}
+And All the Earth a Grave,['Carroll M. Capps'],['./CORPUS/ScienceFiction/23146.txt'],{'Science Fiction'}
+Starman's Quest,['Robert Silverberg'],['./CORPUS/ScienceFiction/27444.txt'],{'Science Fiction'}
+On the Fourth Planet,['J.F. Bone'],['./CORPUS/ScienceFiction/50904.txt'],{'Science Fiction'}
+Space Prison,['Tom Godwin'],['./CORPUS/ScienceFiction/22549.txt'],{'Science Fiction'}
+Rebel Spurs,['Andre Norton'],['./CORPUS/Western/20840.txt'],{'Western'}
+The Rat Racket,['David Henry Keller'],['./CORPUS/ScienceFiction/26890.txt'],{'Science Fiction'}
+The Wonderful Visit,['Herbert George Wells'],"['./CORPUS/ScienceFiction/33913.txt', './CORPUS/Horror/33913.txt']","{'Science Fiction', 'Horror'}"
+The End of Time,['Wallace West'],['./CORPUS/ScienceFiction/29410.txt'],{'Science Fiction'}
+Around the World in 80 Days,['Jules Verne'],['./CORPUS/Adventure/103.txt'],{'Adventure'}
+A Pail of Air,['Fritz Leiber'],['./CORPUS/ScienceFiction/51461.txt'],{'Science Fiction'}
+Martian V.F.W.,['G.L. Vandenburg'],['./CORPUS/ScienceFiction/22110.txt'],{'Science Fiction'}
+Wanted--7 Fearless Engineers!,['Warner Van Lorne'],['./CORPUS/ScienceFiction/26941.txt'],{'Science Fiction'}
+Brood of the Witch-Queen,['Sax Rohmer'],['./CORPUS/CrimeMystery/19706.txt'],{'Crime and Mystery'}
+The Man Who Rocked the Earth,['Arthur Train'],['./CORPUS/ScienceFiction/19174.txt'],{'Science Fiction'}
+The Repairman,['Harry Harrison'],['./CORPUS/ScienceFiction/22073.txt'],{'Science Fiction'}
+The Gringos,['B.M. Bower'],['./CORPUS/Western/12139.txt'],{'Western'}
+The Love of Frank Nineteen,['David Carpenter Knight'],['./CORPUS/ScienceFiction/27921.txt'],{'Science Fiction'}
+Catriona,['Robert Louis Stevenson'],['./CORPUS/Adventure/589.txt'],{'Adventure'}
+Double Take,['Richard Wilson'],['./CORPUS/ScienceFiction/30063.txt'],{'Science Fiction'}
+The Scarecrow of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/957.txt'],{'Fantasy'}
+Police Operation,['H. Beam Piper'],['./CORPUS/ScienceFiction/19067.txt'],{'Science Fiction'}
+Mr. Midshipman Easy,['Captain Frederick Marryat'],['./CORPUS/Adventure/21553.txt'],{'Adventure'}
+Potential Enemy,['Mack Reynolds'],['./CORPUS/ScienceFiction/40954.txt'],{'Science Fiction'}
+Fifty Per Cent Prophet,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30337.txt'],{'Science Fiction'}
+Mask of Death,['Paul Ernst'],['./CORPUS/ScienceFiction/32905.txt'],{'Science Fiction'}
+The Pygmy Planet,['John Stewart Williamson'],['./CORPUS/ScienceFiction/29177.txt'],{'Science Fiction'}
+Preferred Risk,['Edson McCann'],['./CORPUS/ScienceFiction/51814.txt'],{'Science Fiction'}
+Alarm Clock,['Everett B. Cole'],['./CORPUS/ScienceFiction/24180.txt'],{'Science Fiction'}
+Skyrider,['B.M. Bower'],['./CORPUS/Western/16871.txt'],{'Western'}
+Doctor,['Murray Leinster'],['./CORPUS/ScienceFiction/51782.txt'],{'Science Fiction'}
+The Radio Man,['Ralph Milne Farley'],['./CORPUS/ScienceFiction/52167.txt'],{'Science Fiction'}
+Twelve Stories and a Dream,['H.G. Wells'],['./CORPUS/ScienceFiction/1743.txt'],{'Science Fiction'}
+Mercenary,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/24370.txt'],{'Science Fiction'}
+The Ego Machine,['Henry Kuttner'],['./CORPUS/ScienceFiction/32108.txt'],{'Science Fiction'}
+The Mississippi Saucer,['Frank Belknap Long'],['./CORPUS/ScienceFiction/23568.txt'],{'Science Fiction'}
+My Shipmate--Columbus,['Stephen Wilder'],['./CORPUS/ScienceFiction/27019.txt'],{'Science Fiction'}
+Sky Island,['L. Frank Baum'],['./CORPUS/Fantasy/4356.txt'],{'Fantasy'}
+The King in Yellow,['Robert W. Chambers'],['./CORPUS/Horror/8492.txt'],{'Horror'}
+Meeting of the Minds,['Robert Sheckley'],['./CORPUS/ScienceFiction/51833.txt'],{'Science Fiction'}
+Egocentric Orbit,['John Cory'],['./CORPUS/ScienceFiction/24101.txt'],{'Science Fiction'}
+Where There's Hope,['Jerome Bixby'],['./CORPUS/ScienceFiction/30715.txt'],{'Science Fiction'}
+The Right Time,['Walter Bupp'],['./CORPUS/ScienceFiction/30770.txt'],{'Science Fiction'}
+The Hour of Battle,['Robert Sheckley'],['./CORPUS/ScienceFiction/29445.txt'],{'Science Fiction'}
+Tom Swift and his Wireless Message,['Victor Appleton'],['./CORPUS/Adventure/4227.txt'],{'Adventure'}
+By Pike and Dyke,['G.A. Henty'],['./CORPUS/Adventure/6952.txt'],{'Adventure'}
+Longevity,['Therese Windser'],['./CORPUS/ScienceFiction/24928.txt'],{'Science Fiction'}
+D-99,['H.B. Fyfe'],['./CORPUS/ScienceFiction/51866.txt'],{'Science Fiction'}
+The History of the Caliph Vathek,['William Beckford'],['./CORPUS/Fantasy/2060.txt'],{'Fantasy'}
+Blind Love,['Wilkie Collins'],"['./CORPUS/CrimeMystery/7890.txt', './CORPUS/Romance/7890.txt']","{'Crime and Mystery', 'Romance'}"
+The Rag and Bone Men,['Algis Budrys'],['./CORPUS/ScienceFiction/51589.txt'],{'Science Fiction'}
+Of Time and Texas,['William F. Nolan'],['./CORPUS/ScienceFiction/28893.txt'],{'Science Fiction'}
+The Water of the Wondrous Isles,['William Morris'],['./CORPUS/Fantasy/8778.txt'],{'Fantasy'}
+Two Boys in Wyoming,['Edward S. Ellis'],['./CORPUS/Western/20223.txt'],{'Western'}
+"Le Morte D'Arthur, Volume I (of II)",['Thomas Malory'],['./CORPUS/Fantasy/1251.txt'],{'Fantasy'}
+Pinocchio,['C. Collodi'],['./CORPUS/Fantasy/16865.txt'],{'Fantasy'}
+The Affair of the Brains,['Anthony Gilmore'],['./CORPUS/ScienceFiction/29310.txt'],{'Science Fiction'}
+Going Some,['Ellingwood Beach'],['./CORPUS/Western/6488.txt'],{'Western'}
+Noble Redman,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/31701.txt'],{'Science Fiction'}
+Ralestone Luck,['Andre Norton'],"['./CORPUS/ScienceFiction/18817.txt', './CORPUS/Fantasy/18817.txt']","{'Science Fiction', 'Fantasy'}"
+"The Country of the Blind, And Other Stories",['H.G. Wells'],['./CORPUS/ScienceFiction/11870.txt'],{'Science Fiction'}
+Tabby,['Winston Marks'],['./CORPUS/ScienceFiction/32613.txt'],{'Science Fiction'}
+The Certain Hour,['James Branch Cabell'],['./CORPUS/Fantasy/288.txt'],{'Fantasy'}
+A Thief in the Night,['E.W. Hornung'],['./CORPUS/CrimeMystery/2098.txt'],{'Crime and Mystery'}
+Blind Spot,['Bascom Jones'],['./CORPUS/ScienceFiction/30454.txt'],{'Science Fiction'}
+Progress Report,['Mark Clifton'],['./CORPUS/ScienceFiction/36867.txt'],{'Science Fiction'}
+The Aggravation of Elmer,['Robert Andrew Arthur'],['./CORPUS/ScienceFiction/29618.txt'],{'Science Fiction'}
+The Hills of Home,['Alfred Coppel'],['./CORPUS/ScienceFiction/22102.txt'],{'Science Fiction'}
+The Beasts of Tarzan,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/85.txt', './CORPUS/Fantasy/85.txt']","{'Adventure', 'Fantasy'}"
+The Phantom Ship,['Captain Frederick Marryat'],['./CORPUS/Adventure/12954.txt'],{'Adventure'}
+The Sea Fairies,['L. Frank Baum'],['./CORPUS/Fantasy/4358.txt'],{'Fantasy'}
+Bones in London,['Edgar Wallace'],['./CORPUS/Adventure/27525.txt'],{'Adventure'}
+The Princess and Curdie,['George MacDonald'],['./CORPUS/Fantasy/36612.txt'],{'Fantasy'}
+Vulcan's Workshop,['Harl Vincent'],['./CORPUS/ScienceFiction/29321.txt'],{'Science Fiction'}
+"Tree, Spare that Woodman",['Dave Dryfoos'],['./CORPUS/ScienceFiction/29794.txt'],{'Science Fiction'}
+My Book of Favorite Fairy Tales,['Edric  Vredenburg'],['./CORPUS/FairyTale/15145.txt'],{'Fairy Tale'}
+Pandemic,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/26206.txt'],{'Science Fiction'}
+The Coffin Cure,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/24276.txt'],{'Science Fiction'}
+Survival Kit,['Frederik Pohl'],['./CORPUS/ScienceFiction/51809.txt'],{'Science Fiction'}
+The Mysterious Affair at Styles,['Agatha Christie'],['./CORPUS/CrimeMystery/863.txt'],{'Crime and Mystery'}
+The Legion of Lazarus,['Edmond Hamilton'],['./CORPUS/ScienceFiction/32486.txt'],{'Science Fiction'}
+The Glimpses of the Moon,['Edith Wharton'],['./CORPUS/Romance/1263.txt'],{'Romance'}
+The Big Time,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/32256.txt'],{'Science Fiction'}
+The Hidden Children,['Robert W. Chambers'],['./CORPUS/Western/4984.txt'],{'Western'}
+The Riddle of the Frozen Flame,['Mary E. Hanshew'],['./CORPUS/CrimeMystery/17180.txt'],{'Crime and Mystery'}
+The Girl in the Golden Atom,['Raymond King Cummings'],['./CORPUS/ScienceFiction/21094.txt'],{'Science Fiction'}
+Desert Gold,['Zane Grey'],['./CORPUS/Western/502.txt'],{'Western'}
+In the Court of King Arthur,['Samuel Lowe'],['./CORPUS/Fantasy/6582.txt'],{'Fantasy'}
+The War of the Worlds,['H.G. Wells'],['./CORPUS/ScienceFiction/36.txt'],{'Science Fiction'}
+The Cavern of the Shining Ones,['Hal K. Wells'],['./CORPUS/ScienceFiction/27143.txt'],{'Science Fiction'}
+The Radio Planet,['Ralph Milne Farley'],['./CORPUS/ScienceFiction/52326.txt'],{'Science Fiction'}
+No Hiding Place,['Richard R. Smith'],['./CORPUS/ScienceFiction/29272.txt'],{'Science Fiction'}
+Five Weeks in a Balloon,['Jules Verne'],['./CORPUS/Adventure/3526.txt'],{'Adventure'}
+Uniform of a Man,['Dave Dryfoos'],['./CORPUS/ScienceFiction/32737.txt'],{'Science Fiction'}
+Tight Squeeze,['Dean Charles Ing'],['./CORPUS/ScienceFiction/23337.txt'],{'Science Fiction'}
+The House on the Borderland,['William Hope Hodgson'],"['./CORPUS/ScienceFiction/10002.txt', './CORPUS/Horror/10002.txt', './CORPUS/Fantasy/10002.txt']","{'Science Fiction', 'Horror', 'Fantasy'}"
+Junior,['Robert Abernathy'],['./CORPUS/ScienceFiction/49809.txt'],{'Science Fiction'}
+Operation Lorelie,['William P. Salton'],['./CORPUS/ScienceFiction/29160.txt'],{'Science Fiction'}
+"Futuria Fantasia, Fall 1939",['Ray Bradbury'],['./CORPUS/ScienceFiction/41624.txt'],{'Science Fiction'}
+The Pioneers,['James Fenimore Cooper'],['./CORPUS/Adventure/2275.txt'],{'Adventure'}
+Astounding Stories of Super-Science July 1930,['Various'],['./CORPUS/ScienceFiction/29198.txt'],{'Science Fiction'}
+The Measure of a Man,['Randall Garrett'],['./CORPUS/ScienceFiction/24135.txt'],{'Science Fiction'}
+The Mysterious Island,['Jules Verne'],['./CORPUS/ScienceFiction/1268.txt'],{'Science Fiction'}
+The Worshippers,['Damon Francis Knight'],['./CORPUS/ScienceFiction/22560.txt'],{'Science Fiction'}
+Solomon's Orbit,['William Carroll'],['./CORPUS/ScienceFiction/23160.txt'],{'Science Fiction'}
+The Queen's Cup,['G.A. Henty'],['./CORPUS/Adventure/17436.txt'],{'Adventure'}
+Beside Still Waters,['Robert Sheckley'],['./CORPUS/ScienceFiction/29446.txt'],{'Science Fiction'}
+Gun for Hire,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/24247.txt'],{'Science Fiction'}
+Address: Centauri,['F.L. Wallace'],['./CORPUS/ScienceFiction/50736.txt'],{'Science Fiction'}
+"Astounding Stories, March, 1931",['Various'],['./CORPUS/ScienceFiction/30166.txt'],{'Science Fiction'}
+The Memory of Mars,['Raymond F. Jones'],['./CORPUS/ScienceFiction/26093.txt'],{'Science Fiction'}
+Project Hush,['Philip Klass'],['./CORPUS/ScienceFiction/32654.txt'],{'Science Fiction'}
+Wandl the Invader,['Raymond King Cummings'],['./CORPUS/ScienceFiction/20859.txt'],{'Science Fiction'}
+The Elusive Pimpernel,['Baroness Emmuska Orczy'],['./CORPUS/Adventure/2785.txt'],{'Adventure'}
+The Eyes Have It,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30833.txt'],{'Science Fiction'}
+Harrigan,['Max Brand'],['./CORPUS/Western/9791.txt'],{'Western'}
+Martians Never Die,['Lucius Daniel'],['./CORPUS/ScienceFiction/29735.txt'],{'Science Fiction'}
+Danger in Deep Space,['Carey Rockwell'],['./CORPUS/ScienceFiction/19709.txt'],{'Science Fiction'}
+The Law and the Lady,['Wilkie Collins'],['./CORPUS/CrimeMystery/1622.txt'],{'Crime and Mystery'}
+Pagan Passions,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/22767.txt'],{'Science Fiction'}
+The Lair of the White Worm,['Bram Stoker'],['./CORPUS/Horror/1188.txt'],{'Horror'}
+The Thirty-nine Steps,['John Buchan'],"['./CORPUS/Adventure/558.txt', './CORPUS/CrimeMystery/558.txt']","{'Adventure', 'Crime and Mystery'}"
+The Professional Approach,['Charles Leonard Harness'],['./CORPUS/ScienceFiction/23872.txt'],{'Science Fiction'}
+Helpfully Yours,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/31644.txt'],{'Science Fiction'}
+Day of the Moron,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18949.txt'],{'Science Fiction'}
+Life Sentence,['James McConnell'],['./CORPUS/ScienceFiction/29889.txt'],{'Science Fiction'}
+John Thorndyke's Cases,['R. Austin Freeman'],['./CORPUS/CrimeMystery/13882.txt'],{'Crime and Mystery'}
+Satellite System,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/29990.txt'],{'Science Fiction'}
+The Heritage of the Sioux,['B.M. Bower'],['./CORPUS/Western/1299.txt'],{'Western'}
+Guns of the Gods,['Talbot Mundy'],['./CORPUS/Adventure/5606.txt'],{'Adventure'}
+Grove of the Unborn,['Lyn Venable'],['./CORPUS/ScienceFiction/29205.txt'],{'Science Fiction'}
+The Revolutions of Time,['Jonathan Dunn'],['./CORPUS/ScienceFiction/8735.txt'],{'Science Fiction'}
+Atom Drive,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/32067.txt'],{'Science Fiction'}
+Attrition,['Jim Wannamaker'],['./CORPUS/ScienceFiction/24282.txt'],{'Science Fiction'}
+White Fang,['Jack London'],['./CORPUS/Adventure/910.txt'],{'Adventure'}
+A World is Born,['Leigh Douglass Brackett'],['./CORPUS/ScienceFiction/22544.txt'],{'Science Fiction'}
+"Mary, Mary",['James Stephens'],['./CORPUS/CrimeMystery/24742.txt'],{'Crime and Mystery'}
+The Nostalgia Gene,['Roy Hutchins'],['./CORPUS/ScienceFiction/50989.txt'],{'Science Fiction'}
+It's a Small Solar System,['Allan Howard'],['./CORPUS/ScienceFiction/28437.txt'],{'Science Fiction'}
+The Lost World,['Arthur Conan Doyle'],"['./CORPUS/Adventure/139.txt', './CORPUS/ScienceFiction/139.txt']","{'Adventure', 'Science Fiction'}"
+There is a Reaper ...,['Charles V. De Vet'],['./CORPUS/ScienceFiction/29954.txt'],{'Science Fiction'}
+Scarhaven Keep,['J.S. Fletcher'],['./CORPUS/CrimeMystery/9807.txt'],{'Crime and Mystery'}
+The Hohokam Dig,['Theodore Pratt'],['./CORPUS/ScienceFiction/29793.txt'],{'Science Fiction'}
+From the Earth to the Moon,['Jules Verne'],"['./CORPUS/Adventure/83.txt', './CORPUS/ScienceFiction/83.txt']","{'Adventure', 'Science Fiction'}"
+Captains Courageous,['Rudyard Kipling'],['./CORPUS/Adventure/2225.txt'],{'Adventure'}
+Delay in Transit,['F.L. Wallace'],['./CORPUS/ScienceFiction/50998.txt'],{'Science Fiction'}
+Victory,['Joseph Conrad'],['./CORPUS/Adventure/6378.txt'],{'Adventure'}
+Off Course,['Mack Reynolds'],['./CORPUS/ScienceFiction/30035.txt'],{'Science Fiction'}
+The God Next Door,['Bill Doede'],['./CORPUS/ScienceFiction/51699.txt'],{'Science Fiction'}
+The Test Colony,['Winston Marks'],['./CORPUS/ScienceFiction/32676.txt'],{'Science Fiction'}
+Betty Zane,['Zane Grey'],['./CORPUS/Western/1261.txt'],{'Western'}
+A Princess of Mars,['Edgar Rice Burroughs'],"['./CORPUS/ScienceFiction/62.txt', './CORPUS/Fantasy/62.txt']","{'Science Fiction', 'Fantasy'}"
+The Emerald City of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/517.txt'],{'Fantasy'}
+Time Crime,['H. Beam Piper'],['./CORPUS/ScienceFiction/18151.txt'],{'Science Fiction'}
+The Einstein See-Saw,['Miles John Breuer'],['./CORPUS/ScienceFiction/29060.txt'],{'Science Fiction'}
+Tales of War,['Lord Dunsany'],['./CORPUS/Fantasy/5713.txt'],{'Fantasy'}
+The Imitation of Earth,['James Stamers'],['./CORPUS/ScienceFiction/51682.txt'],{'Science Fiction'}
+Solander's Radio Tomb,['Ellis Parker Butler'],['./CORPUS/ScienceFiction/26856.txt'],{'Science Fiction'}
+Masters of Space,['Edward Elmer Smith'],['./CORPUS/ScienceFiction/22754.txt'],{'Science Fiction'}
+Out of Time's Abyss,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/553.txt'],{'Science Fiction'}
+One Way,['Miriam Allen deFord'],['./CORPUS/ScienceFiction/32541.txt'],{'Science Fiction'}
+The Circular Staircase,['Mary Roberts Rinehart'],['./CORPUS/CrimeMystery/434.txt'],{'Crime and Mystery'}
+The Sorcery Club,"[""Elliott O'Donnell""]",['./CORPUS/Horror/14317.txt'],{'Horror'}
+The Time Machine,['H.G.  Wells'],['./CORPUS/ScienceFiction/35.txt'],{'Science Fiction'}
+"But, I Don't Think",['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24005.txt'],{'Science Fiction'}
+"Someone Comes to Town, Someone Leaves Town",['Cory Doctorow'],"['./CORPUS/ScienceFiction/18224.txt', './CORPUS/Fantasy/18224.txt']","{'Science Fiction', 'Fantasy'}"
+There Will Be School Tomorrow,['V.E. Thiessen'],['./CORPUS/ScienceFiction/29317.txt'],{'Science Fiction'}
+The Book of Nature Myths,['Florence Holbrook'],['./CORPUS/FairyTale/22420.txt'],{'Fairy Tale'}
+The Champdoce Mystery,['Emile Gaboriau'],['./CORPUS/CrimeMystery/2736.txt'],{'Crime and Mystery'}
+Suite Mentale,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/22763.txt'],{'Science Fiction'}
+The Phantom of the Opera,['Gaston Leroux'],"['./CORPUS/Romance/175.txt', './CORPUS/Fantasy/175.txt']","{'Romance', 'Fantasy'}"
+Equality,['Edward Bellamy'],['./CORPUS/ScienceFiction/7303.txt'],{'Science Fiction'}
+Reel Life Films,['Samuel Kimball Merwin'],['./CORPUS/ScienceFiction/29209.txt'],{'Science Fiction'}
+The Pathfinder,['James Fenimore Cooper'],['./CORPUS/Adventure/1880.txt'],{'Adventure'}
+Arsene Lupin,['Edgar Jepson'],['./CORPUS/CrimeMystery/4014.txt'],{'Crime and Mystery'}
+The Phoenix and the Carpet,['E. Nesbit'],['./CORPUS/Fantasy/836.txt'],{'Fantasy'}
+It Could Be Anything,['John Keith Laumer'],['./CORPUS/ScienceFiction/26782.txt'],{'Science Fiction'}
+My Lady's Money,['Wilkie Collins'],['./CORPUS/CrimeMystery/1628.txt'],{'Crime and Mystery'}
+The Man the Martians Made,['Frank Belknap Long'],['./CORPUS/ScienceFiction/29432.txt'],{'Science Fiction'}
+A City Near Centaurus,['Bill Doede'],['./CORPUS/ScienceFiction/50802.txt'],{'Science Fiction'}
+"And That's How It Was, Officer",['Ralph Sholto'],['./CORPUS/ScienceFiction/32562.txt'],{'Science Fiction'}
+Spacehounds of IPC,['Edward Elmer Smith'],['./CORPUS/ScienceFiction/20857.txt'],{'Science Fiction'}
+The Turn of the Screw,['Henry James'],['./CORPUS/Horror/209.txt'],{'Horror'}
+The Circuit Riders,['R.C. FitzPatrick'],['./CORPUS/ScienceFiction/24543.txt'],{'Science Fiction'}
+Police Your Planet,['Lester del Rey'],"['./CORPUS/Adventure/20212.txt', './CORPUS/ScienceFiction/20212.txt']","{'Adventure', 'Science Fiction'}"
+Wheels Within,['Charles V. De Vet'],['./CORPUS/ScienceFiction/32127.txt'],{'Science Fiction'}
+Compatible,['Richard R. Smith'],['./CORPUS/ScienceFiction/28922.txt'],{'Science Fiction'}
+The Dark Door,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22869.txt'],{'Science Fiction'}
+The Story of Doctor Dolittle,['Hugh Lofting'],['./CORPUS/Fantasy/501.txt'],{'Fantasy'}
+Seed of the Arctic Ice,['H.G. Winter'],['./CORPUS/ScienceFiction/32029.txt'],{'Science Fiction'}
+Valley of the Croen,['Lee Tarbell'],['./CORPUS/ScienceFiction/26010.txt'],{'Science Fiction'}
+Shatter the Wall,['Sydney Van Scyoc'],['./CORPUS/ScienceFiction/51576.txt'],{'Science Fiction'}
+Metamorphosis,['Charles V. de Vet'],['./CORPUS/ScienceFiction/51713.txt'],{'Science Fiction'}
+Legends That Every Child Should Know,['Hamilton Wright Mabie'],['./CORPUS/FairyTale/6622.txt'],{'Fairy Tale'}
+A Roving Commission,['G.A. Henty'],['./CORPUS/Adventure/38764.txt'],{'Adventure'}
+The Clean and Wholesome Land,['Ralph Sholto'],['./CORPUS/ScienceFiction/30405.txt'],{'Science Fiction'}
+The Birds of Lorrane,['Bill Doede'],['./CORPUS/ScienceFiction/50890.txt'],{'Science Fiction'}
+The World Set Free,['Herbert George Wells'],['./CORPUS/ScienceFiction/1059.txt'],{'Science Fiction'}
+Occasion for Disaster,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30434.txt'],{'Science Fiction'}
+The Weather on Mercury,['William Morrison'],['./CORPUS/ScienceFiction/50885.txt'],{'Science Fiction'}
+The Beast of Space,['F.E. Hardart'],['./CORPUS/ScienceFiction/23509.txt'],{'Science Fiction'}
+On the Trail of the Space Pirates,['Carey Rockwell'],['./CORPUS/ScienceFiction/21092.txt'],{'Science Fiction'}
+The Sea-Wolf,['Jack London'],['./CORPUS/Adventure/1074.txt'],{'Adventure'}
+G-r-r-r...!,['Roger Arcot'],['./CORPUS/ScienceFiction/29194.txt'],{'Science Fiction'}
+The Big Fix,['George Oliver Smith'],['./CORPUS/ScienceFiction/23599.txt'],{'Science Fiction'}
+Dracula,['Bram Stoker'],"['./CORPUS/CrimeMystery/345.txt', './CORPUS/Horror/345.txt']","{'Crime and Mystery', 'Horror'}"
+Stories the Iroquois Tell Their Children,['Mabel Powers'],['./CORPUS/FairyTale/22096.txt'],{'Fairy Tale'}
+Fairy Tales from Brazil,['Elsie Spicer Eells'],['./CORPUS/FairyTale/24714.txt'],{'Fairy Tale'}
+The Drug,['C.C. MacApp'],['./CORPUS/ScienceFiction/51519.txt'],{'Science Fiction'}
+Way of the Lawless,['Max Brand'],['./CORPUS/Western/9903.txt'],{'Western'}
+Time and the Gods,['Lord Dunsany Edward J.M.D. Plunkett'],['./CORPUS/Fantasy/8183.txt'],{'Fantasy'}
+The Story of Sigurd the Volsung,['William Morris'],['./CORPUS/Fantasy/13486.txt'],{'Fantasy'}
+The Middle Temple Murder,['J.S. Fletcher'],['./CORPUS/CrimeMystery/10373.txt'],{'Crime and Mystery'}
+Omnilingual,['H. Beam Piper'],['./CORPUS/ScienceFiction/19445.txt'],{'Science Fiction'}
+Gunman's Reckoning,['Max Brand'],['./CORPUS/Western/10066.txt'],{'Western'}
+The Mirror of Kong Ho,['Ernest Bramah'],['./CORPUS/Fantasy/1077.txt'],{'Fantasy'}
+A Voyage to Arcturus,['David Lindsay'],['./CORPUS/ScienceFiction/1329.txt'],{'Science Fiction'}
+Moment of Truth,['Basil Eugene Wells'],['./CORPUS/ScienceFiction/28111.txt'],{'Science Fiction'}
+To Choke an Ocean,['Jesse F.  Bone'],['./CORPUS/ScienceFiction/32124.txt'],{'Science Fiction'}
+I Am A Nucleus,['Stephen Barr'],['./CORPUS/ScienceFiction/51330.txt'],{'Science Fiction'}
+Today is Forever,['Roger Dee'],['./CORPUS/ScienceFiction/50884.txt'],{'Science Fiction'}
+Hellhounds of the Cosmos,['Clifford Donald Simak'],['./CORPUS/ScienceFiction/27013.txt'],{'Science Fiction'}
+A Transmutation of Muddles,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/24187.txt'],{'Science Fiction'}
+Wolfbane,['Frederik Pohl'],['./CORPUS/ScienceFiction/51845.txt'],{'Science Fiction'}
+Return to Pleasure Island,['Cory Doctorow'],['./CORPUS/ScienceFiction/17027.txt'],{'Science Fiction'}
+For Name and Fame,['G.A. Henty'],['./CORPUS/Adventure/21979.txt'],{'Adventure'}
+The Master of the World,['Jules Verne'],['./CORPUS/Adventure/3809.txt'],{'Adventure'}
+The Lani People,['J.F. Bone'],['./CORPUS/ScienceFiction/2509.txt'],{'Science Fiction'}
+Spacemen Die at Home,['Edward W. Ludwig'],['./CORPUS/ScienceFiction/51249.txt'],{'Science Fiction'}
+Sordman the Protector,['Tom Purdom'],['./CORPUS/ScienceFiction/51445.txt'],{'Science Fiction'}
+Tales of Wonder,['Baron Edward John Moreton Drax Plunkett Dunsany'],['./CORPUS/Fantasy/13821.txt'],{'Fantasy'}
+The Desert of Wheat,['Zane Grey'],['./CORPUS/Western/10201.txt'],{'Western'}
+In the Heart of the Rockies,['G.A. Henty'],['./CORPUS/Adventure/8670.txt'],{'Adventure'}
+The Planetoid of Peril,['Paul Ernst'],['./CORPUS/ScienceFiction/29771.txt'],{'Science Fiction'}
+The Highest Mountain,['Bryce Walton'],['./CORPUS/ScienceFiction/50868.txt'],{'Science Fiction'}
+The Trail of the Hawk,['Sinclair Lewis'],['./CORPUS/Adventure/26610.txt'],{'Adventure'}
+The Back of Our Heads,['Stephen Barr'],['./CORPUS/ScienceFiction/51823.txt'],{'Science Fiction'}
+Modus Vivendi,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30311.txt'],{'Science Fiction'}
+The Golden Judge,['Nathaniel Gordon'],['./CORPUS/ScienceFiction/24495.txt'],{'Science Fiction'}
+Flatland,['Edwin A. Abbott'],['./CORPUS/ScienceFiction/97.txt'],{'Science Fiction'}
+The Space Pioneers,['Carey Rockwell'],['./CORPUS/ScienceFiction/18753.txt'],{'Science Fiction'}
+Founding Father,['J.F. Bone'],['./CORPUS/ScienceFiction/51852.txt'],{'Science Fiction'}
+Shadows in Zamboula,['Robert E. Howard'],['./CORPUS/ScienceFiction/42196.txt'],{'Science Fiction'}
+Tarrano the Conqueror,['Raymond King Cummings'],['./CORPUS/ScienceFiction/21638.txt'],{'Science Fiction'}
+The Field of Ice,['Jules Verne'],['./CORPUS/Adventure/9618.txt'],{'Adventure'}
+Hard Guy,['H.B. Carleton'],['./CORPUS/ScienceFiction/26855.txt'],{'Science Fiction'}
+"Talents, Incorporated",['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/23845.txt'],{'Science Fiction'}
+"Astounding Stories of Super-Science, March 1930",['Various'],['./CORPUS/ScienceFiction/29607.txt'],{'Science Fiction'}
+One Against the Moon,['Donald A. Wollheim'],['./CORPUS/ScienceFiction/50713.txt'],{'Science Fiction'}
+Looking Backwards from 2000 to 1887,['Edward Bellamy'],['./CORPUS/ScienceFiction/624.txt'],{'Science Fiction'}
+Tarzan the Untamed,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/1401.txt', './CORPUS/Fantasy/1401.txt']","{'Adventure', 'Fantasy'}"
+The Vortex Blaster,['Edward Elmer Smith'],"['./CORPUS/Adventure/22629.txt', './CORPUS/ScienceFiction/22629.txt']","{'Adventure', 'Science Fiction'}"
+Benefactor,['George H. Smith'],['./CORPUS/ScienceFiction/28892.txt'],{'Science Fiction'}
+Wind,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/22590.txt'],{'Science Fiction'}
+The Secret of the Ninth Planet,['Donald Allen Wollheim'],['./CORPUS/ScienceFiction/33644.txt'],{'Science Fiction'}
+A Matter of Proportion,['Anne Walker'],['./CORPUS/ScienceFiction/23920.txt'],{'Science Fiction'}
+The Spirit of the Border,['Zane Grey'],['./CORPUS/Western/1239.txt'],{'Western'}
+Five Children and It,['E. Nesbit'],['./CORPUS/Fantasy/17314.txt'],{'Fantasy'}
+American Fairy Tales,['L. Frank Baum'],['./CORPUS/FairyTale/4357.txt'],{'Fairy Tale'}
+The Metal Moon,['Everett C. Smith'],['./CORPUS/ScienceFiction/41084.txt'],{'Science Fiction'}
+Dreamworld,['R.A. Lafferty'],['./CORPUS/ScienceFiction/51668.txt'],{'Science Fiction'}
+Puck of Pook's Hill,['Rudyard Kipling'],['./CORPUS/Fantasy/15976.txt'],{'Fantasy'}
+Carmilla,['J. Sheridan LeFanu'],['./CORPUS/Horror/10007.txt'],{'Horror'}
+"A Connecticut Yankee in King Arthur's Court, Part 2.",['Mark Twain'],"['./CORPUS/ScienceFiction/7243.txt', './CORPUS/Fantasy/7243.txt']","{'Science Fiction', 'Fantasy'}"
+The Short Life,['Francis Donovan'],['./CORPUS/ScienceFiction/23928.txt'],{'Science Fiction'}
+With a Vengeance,['J.B. Woodley'],['./CORPUS/ScienceFiction/30475.txt'],{'Science Fiction'}
+"We Didn't Do Anything Wrong, Hardly",['Roger Kuykendall'],['./CORPUS/ScienceFiction/24118.txt'],{'Science Fiction'}
+Comet's Burial,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/37448.txt'],{'Science Fiction'}
+Orphans of the Void,['Michael Shaara'],['./CORPUS/ScienceFiction/50827.txt'],{'Science Fiction'}
+"The Fantasy Fan, October 1933",['Various'],['./CORPUS/ScienceFiction/46339.txt'],{'Science Fiction'}
+The Gift Bearer,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/24975.txt'],{'Science Fiction'}
+The Radiant Shell,['Paul Ernst'],['./CORPUS/ScienceFiction/22171.txt'],{'Science Fiction'}
+Beyond the Door,['Philip K. Dick'],['./CORPUS/ScienceFiction/28644.txt'],{'Science Fiction'}
+The Hound of the Baskervilles,['A. Conan Doyle'],['./CORPUS/CrimeMystery/2852.txt'],{'Crime and Mystery'}
+The Delegate from Venus,['Henry Slesar'],['./CORPUS/ScienceFiction/25086.txt'],{'Science Fiction'}
+Operation Interstellar,['George O. Smith'],['./CORPUS/ScienceFiction/50406.txt'],{'Science Fiction'}
+Facing Death,['G.A. Henty'],['./CORPUS/Adventure/31128.txt'],{'Adventure'}
+Winds of the World,['Talbot Mundy'],['./CORPUS/Adventure/6751.txt'],{'Adventure'}
+Shaman,['Robert Shea'],['./CORPUS/ScienceFiction/28976.txt'],{'Science Fiction'}
+The Rescue,['Joseph Conrad'],['./CORPUS/Adventure/1712.txt'],{'Adventure'}
+Subversive,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/23197.txt'],{'Science Fiction'}
+Stories from the Ballads,['Mary  MacGregor'],['./CORPUS/FairyTale/22175.txt'],{'Fairy Tale'}
+The Magic of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/419.txt'],{'Fantasy'}
+Cat and Mouse,['Ralph Williams'],['./CORPUS/ScienceFiction/24392.txt'],{'Science Fiction'}
+The Red House Mystery,['A.A. Milne'],['./CORPUS/CrimeMystery/1872.txt'],{'Crime and Mystery'}
+Key Out of Time,['Andre Alice Norton'],['./CORPUS/ScienceFiction/19651.txt'],{'Science Fiction'}
+Tom Swift and his Airship,['Victor Appleton'],['./CORPUS/Adventure/3005.txt'],{'Adventure'}
+Domnei,['James Branch Cabell'],['./CORPUS/Fantasy/9663.txt'],{'Fantasy'}
+The Man in the Iron Mask,"['Alexandre Dumas', 'Pere']",['./CORPUS/Adventure/2759.txt'],{'Adventure'}
+I'm a Stranger Here Myself,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/26741.txt'],{'Science Fiction'}
+Beyond Lies the Wub,['Philip Kindred Dick'],['./CORPUS/ScienceFiction/28554.txt'],{'Science Fiction'}
+The Mercenaries,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18814.txt'],{'Science Fiction'}
+A World Called Crimson,['Darius John Granger'],['./CORPUS/ScienceFiction/25684.txt'],{'Science Fiction'}
+The Strange Case Of Dr. Jekyll And Mr. Hyde,['Robert Louis Stevenson'],['./CORPUS/Horror/43.txt'],{'Horror'}
+The Saracen: Land of the Infidel,['Robert Shea'],['./CORPUS/ScienceFiction/28515.txt'],{'Science Fiction'}
+Mutineer,['Robert J. Shea'],['./CORPUS/ScienceFiction/29196.txt'],{'Science Fiction'}
+Letter of the Law,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/24275.txt'],{'Science Fiction'}
+The Secret Agent,['Joseph Conrad'],"['./CORPUS/Adventure/974.txt', './CORPUS/CrimeMystery/974.txt']","{'Adventure', 'Crime and Mystery'}"
+The Adventure of the Cardboard Box,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2344.txt'],{'Crime and Mystery'}
+The Runaway Asteroid,['Michael D. Cooper'],['./CORPUS/ScienceFiction/11583.txt'],{'Science Fiction'}
+The Legends Of King Arthur And His Knights,['James Knowles'],['./CORPUS/Fantasy/12753.txt'],{'Fantasy'}
+Made to Measure,['William Campbell Gault'],['./CORPUS/ScienceFiction/51194.txt'],{'Science Fiction'}
+Earthbound,['Lester del Rey'],['./CORPUS/ScienceFiction/50876.txt'],{'Science Fiction'}
+Slave Planet,['Laurence Janifer'],['./CORPUS/ScienceFiction/51855.txt'],{'Science Fiction'}
+...And It Comes Out Here,['Lester del Rey'],['./CORPUS/ScienceFiction/51046.txt'],{'Science Fiction'}
+--And Devious the Line of Duty,['Tom Godwin'],['./CORPUS/ScienceFiction/22585.txt'],{'Science Fiction'}
+Warrior Race,['Robert Sheckley'],['./CORPUS/ScienceFiction/29548.txt'],{'Science Fiction'}
+The World of Romance,['William Morris'],['./CORPUS/Fantasy/17973.txt'],{'Fantasy'}
+The Lost Continent,['C.J. Cutcliffe Hyne'],['./CORPUS/ScienceFiction/285.txt'],{'Science Fiction'}
+Don't Shoot,['Robert Zacks'],['./CORPUS/ScienceFiction/51074.txt'],{'Science Fiction'}
+Otto of the Silver Hand,['Howard Pyle'],['./CORPUS/Fantasy/2865.txt'],{'Fantasy'}
+Jimsy and the Monsters,['Walt Sheldon'],['./CORPUS/ScienceFiction/31716.txt'],{'Science Fiction'}
+Summit,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/23669.txt'],{'Science Fiction'}
+Curiosities of the Sky,['Garrett Serviss'],['./CORPUS/ScienceFiction/6630.txt'],{'Science Fiction'}
+"Futuria Fantasia, Summer 1939",['Ray Bradbury'],['./CORPUS/ScienceFiction/41622.txt'],{'Science Fiction'}
+The Last Supper,['T.D. Hamm'],['./CORPUS/ScienceFiction/30348.txt'],{'Science Fiction'}
+Mr. Justice Raffles,['E.W. Hornung'],['./CORPUS/CrimeMystery/9806.txt'],{'Crime and Mystery'}
+Name Your Symptom,['Jim Harmon'],['./CORPUS/ScienceFiction/51202.txt'],{'Science Fiction'}
+Unthinkable,['Roger Phillips Graham'],['./CORPUS/ScienceFiction/27491.txt'],{'Science Fiction'}
+Venus Boy,['Lee Sutton'],['./CORPUS/ScienceFiction/50702.txt'],{'Science Fiction'}
+The Ruby of Kishmoor,['Howard Pyle'],['./CORPUS/Fantasy/3687.txt'],{'Fantasy'}
+"Psychotennis, Anyone?",['Lloyd Williams'],['./CORPUS/ScienceFiction/51232.txt'],{'Science Fiction'}
+A Gleeb for Earth,['Charles Shafhauser'],['./CORPUS/ScienceFiction/50869.txt'],{'Science Fiction'}
+Insidekick,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/32272.txt'],{'Science Fiction'}
+Zarlah the Martian,['R. Norman Grisewood'],['./CORPUS/ScienceFiction/13423.txt'],{'Science Fiction'}
+The Uphill Climb,['B.M. Bower'],['./CORPUS/Western/14456.txt'],{'Western'}
+You Don't Make Wine Like the Greeks Did,['David E. Fisher'],['./CORPUS/ScienceFiction/31897.txt'],{'Science Fiction'}
+Pharaoh's Broker,['Ellsworth Douglass'],['./CORPUS/ScienceFiction/25295.txt'],{'Science Fiction'}
+Reluctant Genius,['Henry Slesar'],['./CORPUS/ScienceFiction/28030.txt'],{'Science Fiction'}
+The Common Man,['Guy McCord'],['./CORPUS/ScienceFiction/23194.txt'],{'Science Fiction'}
+King Arthur's Knights,['Henry Gilbert'],['./CORPUS/FairyTale/22396.txt'],{'Fairy Tale'}
+The Borough Treasurer,['Joseph Smith Fletcher'],['./CORPUS/CrimeMystery/20630.txt'],{'Crime and Mystery'}
+Louise de la Valliere,"['Alexandre Dumas', 'Pere']",['./CORPUS/Adventure/2710.txt'],{'Adventure'}
+The Moonstone,['Wilkie Collins'],['./CORPUS/CrimeMystery/155.txt'],{'Crime and Mystery'}
+Breakaway,['Stanley Gimble'],['./CORPUS/ScienceFiction/23592.txt'],{'Science Fiction'}
+A Trace of Memory,['Keith Laumer'],['./CORPUS/ScienceFiction/51712.txt'],{'Science Fiction'}
+The Trouble with Telstar,['John Berryman'],['./CORPUS/ScienceFiction/30679.txt'],{'Science Fiction'}
+The Star Lord,['Boyd Ellanby'],['./CORPUS/ScienceFiction/32208.txt'],{'Science Fiction'}
+No Substitutions,['Jim Harmon'],['./CORPUS/ScienceFiction/51350.txt'],{'Science Fiction'}
+The Status Civilization,['Robert Sheckley'],['./CORPUS/ScienceFiction/20919.txt'],{'Science Fiction'}
+Gladiator,['Philip Wylie'],['./CORPUS/ScienceFiction/42914.txt'],{'Science Fiction'}
+Tea Tray in the Sky,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/50847.txt'],{'Science Fiction'}
+Spillthrough,['Daniel F. Galouye'],['./CORPUS/ScienceFiction/32657.txt'],{'Science Fiction'}
+Once a Greech,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/31664.txt'],{'Science Fiction'}
+David and the Phoenix,['Edward Ormondroyd'],['./CORPUS/Fantasy/27922.txt'],{'Fantasy'}
+That Sweet Little Old Lady,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23657.txt'],{'Science Fiction'}
+Ambition,['William L. Bade'],['./CORPUS/ScienceFiction/51274.txt'],{'Science Fiction'}
+The Slizzers,['Jerome Bixby'],['./CORPUS/ScienceFiction/33850.txt'],{'Science Fiction'}
+Favorite Fairy Tales,['Logan Marshall'],['./CORPUS/FairyTale/20748.txt'],{'Fairy Tale'}
+The First Men in the Moon,['H.G. Wells'],"['./CORPUS/Adventure/52501.txt', './CORPUS/Horror/52501.txt', './CORPUS/ScienceFiction/52501.txt']","{'Adventure', 'Horror', 'Science Fiction'}"
+Sight Gag,['Laurence Mark Janifer'],['./CORPUS/ScienceFiction/30288.txt'],{'Science Fiction'}
+Tarzan and the Jewels of Opar,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/92.txt', './CORPUS/Fantasy/92.txt']","{'Adventure', 'Fantasy'}"
+Up For Renewal,['Lucius Daniel'],['./CORPUS/ScienceFiction/51035.txt'],{'Science Fiction'}
+The Radio Boys with the Revenue Guards,['Gerald Breckenridge'],['./CORPUS/Adventure/28735.txt'],{'Adventure'}
+The Fairy Godmothers and Other Tales,['Mrs. Alfred Gatty'],['./CORPUS/FairyTale/11319.txt'],{'Fairy Tale'}
+The Young Pitcher,['Zane Grey'],['./CORPUS/Western/19246.txt'],{'Western'}
+A Martian Odyssey,['Stanley Grauman Weinbaum'],['./CORPUS/ScienceFiction/23731.txt'],{'Science Fiction'}
+The Dictator,['Milton Lesser'],['./CORPUS/ScienceFiction/32134.txt'],{'Science Fiction'}
+The Great Dome on Mercury,['Arthur Leo Zagat'],['./CORPUS/ScienceFiction/29190.txt'],{'Science Fiction'}
+Category Phoenix,['Boyd Ellanby'],['./CORPUS/ScienceFiction/32427.txt'],{'Science Fiction'}
+Doorstep,['Keith Laumer'],['./CORPUS/ScienceFiction/51509.txt'],{'Science Fiction'}
+Chivalry,['James Branch Cabell'],['./CORPUS/Fantasy/11752.txt'],{'Fantasy'}
+Industrial Revolution,['Poul William Anderson'],['./CORPUS/ScienceFiction/30971.txt'],{'Science Fiction'}
+Red Eve,['H. Rider Haggard'],['./CORPUS/Adventure/3094.txt'],{'Adventure'}
+Tom Swift and his Electric Runabout,['Victor Appleton'],['./CORPUS/Adventure/950.txt'],{'Adventure'}
+Attention Saint Patrick,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/23439.txt'],{'Science Fiction'}
+The Hyborian Age,['Robert E. Howard'],['./CORPUS/ScienceFiction/42182.txt'],{'Science Fiction'}
+Hunt the Hunter,['Kris Neville'],['./CORPUS/ScienceFiction/51433.txt'],{'Science Fiction'}
+The Plague,['Teddy Keller'],['./CORPUS/ScienceFiction/30062.txt'],{'Science Fiction'}
+The Cosmic Computer,['Henry Beam Piper'],['./CORPUS/ScienceFiction/20727.txt'],{'Science Fiction'}
+Folk Tales Every Child Should Know,['Various'],['./CORPUS/FairyTale/15164.txt'],{'Fairy Tale'}
+All Day September,['Roger Kuykendall'],['./CORPUS/ScienceFiction/24161.txt'],{'Science Fiction'}
+The Point of View,['Stanley Grauman Weinbaum'],['./CORPUS/ScienceFiction/22895.txt'],{'Science Fiction'}
+The Beasts in the Void,['Paul W. Fairman'],['./CORPUS/ScienceFiction/32162.txt'],{'Science Fiction'}
+Dream Town,['Henry Slesar'],['./CORPUS/ScienceFiction/29193.txt'],{'Science Fiction'}
+The Invader,['Alfred Coppel'],['./CORPUS/ScienceFiction/32684.txt'],{'Science Fiction'}
+Breakdown,['Herbert D. Kastle'],['./CORPUS/ScienceFiction/51662.txt'],{'Science Fiction'}
+B-12's Moon Glow,['Charles A. Stearns'],['./CORPUS/ScienceFiction/31364.txt'],{'Science Fiction'}
+The Road to Oz,['L. Frank Baum'],['./CORPUS/Fantasy/485.txt'],{'Fantasy'}
+The Universe -- or Nothing,['Meyer Moldeven'],['./CORPUS/ScienceFiction/18257.txt'],{'Science Fiction'}
+Earth Alert!,['Kris Neville'],['./CORPUS/ScienceFiction/33642.txt'],{'Science Fiction'}
+The Kenzie Report,['Mark Clifton'],['./CORPUS/ScienceFiction/32131.txt'],{'Science Fiction'}
+The Martian,['Allen Glasser'],['./CORPUS/ScienceFiction/40992.txt'],{'Science Fiction'}
+Affair in Araby,['Talbot Mundy'],['./CORPUS/Adventure/10551.txt'],{'Adventure'}
+Beyond Bedlam,['Wyman Guin'],['./CORPUS/ScienceFiction/51842.txt'],{'Science Fiction'}
+Youth,['Isaac Asimov'],['./CORPUS/ScienceFiction/31547.txt'],{'Science Fiction'}
+Foundling on Venus,['John de Courcy'],['./CORPUS/ScienceFiction/29181.txt'],{'Science Fiction'}
+Laughing Bill Hyde and Other Stories,['Rex Beach'],['./CORPUS/Western/11501.txt'],{'Western'}
+Appointment In Tomorrow,['Fritz Leiber'],['./CORPUS/ScienceFiction/51152.txt'],{'Science Fiction'}
+Not Fit for Children,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/50872.txt'],{'Science Fiction'}
+Duel on Syrtis,['Poul William Anderson'],['./CORPUS/ScienceFiction/32436.txt'],{'Science Fiction'}
+An Outcast of the Islands,['Joseph Conrad'],['./CORPUS/Adventure/638.txt'],{'Adventure'}
+Stopover,['William Gerken'],['./CORPUS/ScienceFiction/28450.txt'],{'Science Fiction'}
+Rescue Squad,"[""Thomas J. O'Hara""]",['./CORPUS/ScienceFiction/29822.txt'],{'Science Fiction'}
+Kidnapped,['Robert Louis Stevenson'],['./CORPUS/Adventure/421.txt'],{'Adventure'}
+The Hand in the Dark,['Arthur J. Rees'],['./CORPUS/CrimeMystery/20546.txt'],{'Crime and Mystery'}
+Amateur in Chancery,['George O. Smith'],['./CORPUS/ScienceFiction/51681.txt'],{'Science Fiction'}
+The Air of Castor Oil,['Jim Harmon'],['./CORPUS/ScienceFiction/51688.txt'],{'Science Fiction'}
+Heart of the Sunset,['Rex Beach'],['./CORPUS/Western/5099.txt'],{'Western'}
+The Carnivore,['G.A. Morris'],['./CORPUS/ScienceFiction/30044.txt'],{'Science Fiction'}
+Almayer's Folly,['Joseph Conrad'],['./CORPUS/Adventure/720.txt'],{'Adventure'}
+Star Hunter,['Andre Alice Norton'],['./CORPUS/ScienceFiction/19090.txt'],{'Science Fiction'}
+Kim,['Rudyard Kipling'],['./CORPUS/Adventure/2226.txt'],{'Adventure'}
+Warm,['Robert Sheckley'],['./CORPUS/ScienceFiction/29509.txt'],{'Science Fiction'}
+Nice Girl With 5 Husbands,['Fritz Leiber'],['./CORPUS/ScienceFiction/51101.txt'],{'Science Fiction'}
+The Mystery Of The Boule Cabinet,['Burton Egbert Stevenson'],['./CORPUS/CrimeMystery/10067.txt'],{'Crime and Mystery'}
+Star Surgeon,['Alan Nourse'],['./CORPUS/ScienceFiction/18492.txt'],{'Science Fiction'}
+The Wood Beyond the World,['William Morris'],['./CORPUS/Fantasy/3055.txt'],{'Fantasy'}
+Conditionally Human,['Walter M. Miller'],['./CORPUS/ScienceFiction/51651.txt'],{'Science Fiction'}
+What The Left Hand Was Doing,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/25166.txt'],{'Science Fiction'}
+The Mind Master,['Arthur J. Burks'],['./CORPUS/ScienceFiction/29416.txt'],{'Science Fiction'}
+Disturbing Sun,['Robert Shirley Richardson'],['./CORPUS/ScienceFiction/24150.txt'],{'Science Fiction'}
+Upstarts,['L.J. Stecher'],['./CORPUS/ScienceFiction/27492.txt'],{'Science Fiction'}
+Homesick,['Lyn Venable'],['./CORPUS/ScienceFiction/29599.txt'],{'Science Fiction'}
+The Man Outside,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/51337.txt'],{'Science Fiction'}
+Ten Years Later,"['Alexandre Dumas', 'Pere']",['./CORPUS/Adventure/2681.txt'],{'Adventure'}
+All Cats Are Gray,['Andre Alice Norton'],['./CORPUS/ScienceFiction/29019.txt'],{'Science Fiction'}
+Pirates of the Gorm,['Nat Schachner'],['./CORPUS/ScienceFiction/29299.txt'],{'Science Fiction'}
+Tik-Tok of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/956.txt'],{'Fantasy'}
+The Research Magnificent,['H.G. Wells'],['./CORPUS/ScienceFiction/1138.txt'],{'Science Fiction'}
+Garrity's Annuities,['David Mason'],['./CORPUS/ScienceFiction/50981.txt'],{'Science Fiction'}
+Casey Ryan,['B.M. Bower'],['./CORPUS/Western/12495.txt'],{'Western'}
+Final Weapon,['Everett B. Cole'],['./CORPUS/ScienceFiction/24723.txt'],{'Science Fiction'}
+Lex,['W.T. Haggert'],['./CORPUS/ScienceFiction/51362.txt'],{'Science Fiction'}
+Droozle,['Frank Banta'],['./CORPUS/ScienceFiction/23148.txt'],{'Science Fiction'}
+The Monster Men,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/96.txt'],{'Science Fiction'}
+"The Stars, My Brothers",['Edmond Hamilton'],['./CORPUS/ScienceFiction/24870.txt'],{'Science Fiction'}
+Operation: Outer Space,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/18361.txt'],{'Science Fiction'}
+Tom Swift and his Electric Rifle,['Victor Appleton'],['./CORPUS/Adventure/3777.txt'],{'Adventure'}
+The Misplaced Battleship,['Harry Harrison'],['./CORPUS/ScienceFiction/22541.txt'],{'Science Fiction'}
+The World Beyond,['Raymond King Cummings'],['./CORPUS/ScienceFiction/29059.txt'],{'Science Fiction'}
+Felony,['James Causey'],['./CORPUS/ScienceFiction/31922.txt'],{'Science Fiction'}
+Tales of Three Hemispheres,['Lord Dunsany'],['./CORPUS/Fantasy/11440.txt'],{'Fantasy'}
+The Return,['Walter de la Mare'],['./CORPUS/Horror/3075.txt'],{'Horror'}
+Luna Escapade,['H.B. Fyfe'],['./CORPUS/ScienceFiction/40961.txt'],{'Science Fiction'}
+The Ivory Trail,['Talbot Mundy'],['./CORPUS/Adventure/5194.txt'],{'Adventure'}
+Uller Uprising,"['Henry Beam Piper', 'John D. Clark', 'John F. Carr']",['./CORPUS/ScienceFiction/19474.txt'],{'Science Fiction'}
+The Awakening,['Jack Sharkey'],['./CORPUS/ScienceFiction/50834.txt'],{'Science Fiction'}
+Captain Blood,['Rafael Sabatini'],['./CORPUS/Adventure/1965.txt'],{'Adventure'}
+The Dunwich Horror,['H.P. Lovecraft'],['./CORPUS/ScienceFiction/50133.txt'],{'Science Fiction'}
+Slaves of Mercury,['Nat Schachner'],['./CORPUS/ScienceFiction/29966.txt'],{'Science Fiction'}
+Join Our Gang?,['Sterling E. Lanier'],['./CORPUS/ScienceFiction/29987.txt'],{'Science Fiction'}
+She,['H. Rider Haggard'],['./CORPUS/Adventure/3155.txt'],{'Adventure'}
+In the Irish Brigade,['G.A. Henty'],['./CORPUS/Adventure/18349.txt'],{'Adventure'}
+Don't Look Now,['Leonard Rubin'],['./CORPUS/ScienceFiction/51740.txt'],{'Science Fiction'}
+Anything You Can Do ...,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24436.txt'],{'Science Fiction'}
+Far from Home,['J.A. Taylor'],['./CORPUS/ScienceFiction/23408.txt'],{'Science Fiction'}
+"Holes, Incorporated",['L. Major Reynolds'],['./CORPUS/ScienceFiction/30468.txt'],{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 3.",['Mark Twain'],"['./CORPUS/ScienceFiction/7244.txt', './CORPUS/Fantasy/7244.txt']","{'Science Fiction', 'Fantasy'}"
+Each Man Kills,['Victoria Glad'],['./CORPUS/ScienceFiction/23301.txt'],{'Science Fiction'}
+The Ultimate Experiment,['Thornton DeKy'],['./CORPUS/ScienceFiction/22466.txt'],{'Science Fiction'}
+My Fair Planet,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/31648.txt'],{'Science Fiction'}
+Man in a Sewing Machine,['L.J. Stecher'],['./CORPUS/ScienceFiction/50936.txt'],{'Science Fiction'}
+The Hollow Needle,['Maurice Leblanc'],['./CORPUS/CrimeMystery/4017.txt'],{'Crime and Mystery'}
+First Lensman,['Edward Elmer Smith'],"['./CORPUS/Adventure/49525.txt', './CORPUS/ScienceFiction/49525.txt']","{'Adventure', 'Science Fiction'}"
+One Martian Afternoon,['Tom Leahy'],['./CORPUS/ScienceFiction/29975.txt'],{'Science Fiction'}
+Skin Game,['Charles E. Fritch'],['./CORPUS/ScienceFiction/31665.txt'],{'Science Fiction'}
+Morale,['Murray Leinster'],['./CORPUS/ScienceFiction/20920.txt'],{'Science Fiction'}
+Growing Up On Big Muddy,['Charles V. de Vet'],['./CORPUS/ScienceFiction/51398.txt'],{'Science Fiction'}
+Child Christopher,['William Morris'],['./CORPUS/Fantasy/234.txt'],{'Fantasy'}
+The Coming of the Ice,['G. Peyton Wertenbaker'],['./CORPUS/ScienceFiction/26967.txt'],{'Science Fiction'}
+Dr. Kometevsky's Day,['Fritz Leiber'],['./CORPUS/ScienceFiction/51353.txt'],{'Science Fiction'}
+The Man Who Hated Mars,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/25644.txt'],{'Science Fiction'}
+A Slave is a Slave,['Henry Beam Piper'],['./CORPUS/ScienceFiction/20726.txt'],{'Science Fiction'}
+Prester John,['John Buchan'],['./CORPUS/Adventure/611.txt'],{'Adventure'}
+The Eagle's Shadow,['James Branch Cabell'],['./CORPUS/Fantasy/10882.txt'],{'Fantasy'}
+He Walked Around the Horses,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18807.txt'],{'Science Fiction'}
+This Crowded Earth,['Robert Bloch'],['./CORPUS/ScienceFiction/25776.txt'],{'Science Fiction'}
+In the Fog,['Richard Harding Davis'],['./CORPUS/CrimeMystery/7884.txt'],{'Crime and Mystery'}
+King--of the Khyber Rifles,['Talbot Mundy'],['./CORPUS/Adventure/6066.txt'],{'Adventure'}
+Eight Keys to Eden,['Mark Irvin Clifton'],['./CORPUS/ScienceFiction/27595.txt'],{'Science Fiction'}
+Raffles,['E.W. Hornung'],['./CORPUS/CrimeMystery/707.txt'],{'Crime and Mystery'}
+Keep Out,['Fredric Brown'],['./CORPUS/ScienceFiction/29142.txt'],{'Science Fiction'}
+The Radio Boys on Secret Service Duty,['Gerald Breckenridge'],['./CORPUS/Adventure/39574.txt'],{'Adventure'}
+Tom Swift among the Fire Fighters,['Victor Appleton'],['./CORPUS/Adventure/1363.txt'],{'Adventure'}
+"Say ""Hello"" for Me",['Frank W. Coggins'],['./CORPUS/ScienceFiction/30382.txt'],{'Science Fiction'}
+The Cave of Gold,['Everett McNeil'],['./CORPUS/Western/20126.txt'],{'Western'}
+The Silver Menace,['Murray Leinster'],['./CORPUS/ScienceFiction/50622.txt'],{'Science Fiction'}
+Armageddon--2419 A.D.,['Philip Francis Nowlan'],['./CORPUS/ScienceFiction/32530.txt'],{'Science Fiction'}
+The Fairy Book,['Dinah Maria Mulock'],['./CORPUS/FairyTale/19734.txt'],{'Fairy Tale'}
+At the Earth's Core,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/123.txt', './CORPUS/ScienceFiction/123.txt']","{'Adventure', 'Science Fiction'}"
+Bones,['Edgar Wallace'],['./CORPUS/Adventure/24450.txt'],{'Adventure'}
+Colonel Thorndyke's Secret,['G.A. Henty'],"['./CORPUS/Adventure/8155.txt', './CORPUS/CrimeMystery/8155.txt']","{'Adventure', 'Crime and Mystery'}"
+Rip Foster in Ride the Gray Planet,['Harold Leland Goodwin'],['./CORPUS/ScienceFiction/18139.txt'],{'Science Fiction'}
+Old Friends Are the Best,['Jack Sharkey'],['./CORPUS/ScienceFiction/33871.txt'],{'Science Fiction'}
+Cliges: A Romance,['Chretien de Troyes'],['./CORPUS/Fantasy/2414.txt'],{'Fantasy'}
+The Putnam Tradition,['Sonya Hess Dorman'],['./CORPUS/ScienceFiction/26743.txt'],{'Science Fiction'}
+Oberheim (Voices),['Christopher Leadem'],['./CORPUS/ScienceFiction/13841.txt'],{'Science Fiction'}
+No Hero,['E.W. Hornung'],['./CORPUS/CrimeMystery/11153.txt'],{'Crime and Mystery'}
+Men of Iron,['Howard Pyle'],['./CORPUS/Fantasy/1557.txt'],{'Fantasy'}
+"Thuvia, Maid of Mars",['Edgar Rice Burroughs'],"['./CORPUS/ScienceFiction/72.txt', './CORPUS/Fantasy/72.txt']","{'Science Fiction', 'Fantasy'}"
+The Marvellous Land of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/54.txt'],{'Fantasy'}
+People Minus X,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/50063.txt'],{'Science Fiction'}
+The Semantic War,['Bill Clothier'],['./CORPUS/ScienceFiction/51153.txt'],{'Science Fiction'}
+The Lost Heir,['G.A. Henty'],['./CORPUS/Adventure/36975.txt'],{'Adventure'}
+A Scientist Rises,['Desmond Winter Hall'],['./CORPUS/ScienceFiction/27464.txt'],{'Science Fiction'}
+Turning Point,['Alfred Coppel'],['./CORPUS/ScienceFiction/32104.txt'],{'Science Fiction'}
+A Place so Foreign,['Cory Doctorow'],['./CORPUS/ScienceFiction/16721.txt'],{'Science Fiction'}
+The Players,['Everett B. Cole'],['./CORPUS/ScienceFiction/22426.txt'],{'Science Fiction'}
+R. Holmes & Co.,['John Kendrick Bangs'],['./CORPUS/CrimeMystery/20559.txt'],{'Crime and Mystery'}
+Search the Sky,['Frederik Pohl'],"['./CORPUS/Adventure/52228.txt', './CORPUS/ScienceFiction/52228.txt']","{'Adventure', 'Science Fiction'}"
+The Planet Strappers,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/25067.txt'],{'Science Fiction'}
+Dead Men's Money,['J.S. Fletcher'],['./CORPUS/CrimeMystery/12239.txt'],{'Crime and Mystery'}
+Pariah Planet,['Murray Leinster'],['./CORPUS/ScienceFiction/29448.txt'],{'Science Fiction'}
+Hopalong Cassidy's Rustler Round-Up,['Clarence Edward Mulford'],['./CORPUS/Western/2546.txt'],{'Western'}
+The Chamber of Life,['Green Peyton Wertenbaker'],['./CORPUS/ScienceFiction/25862.txt'],{'Science Fiction'}
+The Green Odyssey,['Philip José Farmer'],"['./CORPUS/Adventure/50571.txt', './CORPUS/ScienceFiction/50571.txt']","{'Adventure', 'Science Fiction'}"
+The Fourth Invasion,['Henry Josephs'],['./CORPUS/ScienceFiction/23099.txt'],{'Science Fiction'}
+Fresh Air Fiend,['Kris Neville'],['./CORPUS/ScienceFiction/51335.txt'],{'Science Fiction'}
+The Lodger,['Marie Belloc Lowndes'],['./CORPUS/CrimeMystery/2014.txt'],{'Crime and Mystery'}
+The Four-Faced Visitors of Ezekiel,['Arthur W. Orton'],['./CORPUS/ScienceFiction/30252.txt'],{'Science Fiction'}
+The Redheaded Outfield and Other Baseball Stories,['Zane Grey'],['./CORPUS/Western/385.txt'],{'Western'}
+Tom Cringle's Log,['Michael Scott'],['./CORPUS/Adventure/7281.txt'],{'Adventure'}
+The Book of All-Power,['Edgar Wallace'],['./CORPUS/Adventure/24920.txt'],{'Adventure'}
+Star Performer,['Robert J. Shea'],['./CORPUS/ScienceFiction/31736.txt'],{'Science Fiction'}
+The Book,['Michael Shaara'],['./CORPUS/ScienceFiction/32321.txt'],{'Science Fiction'}
+Proof of the Pudding,['Robert Sheckley'],['./CORPUS/ScienceFiction/50844.txt'],{'Science Fiction'}
+Twenty Years After,"['Alexandre Dumas', 'Pere']",['./CORPUS/Adventure/1259.txt'],{'Adventure'}
+Vanishing Point,['C.C. Beck'],['./CORPUS/ScienceFiction/23868.txt'],{'Science Fiction'}
+Love Under Fire,['Randall Parrish'],['./CORPUS/Romance/12015.txt'],{'Romance'}
+Vigorish,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24382.txt'],{'Science Fiction'}
+The Skull,['Philip K. Dick'],['./CORPUS/ScienceFiction/30255.txt'],{'Science Fiction'}
+Operation Distress,['Lester del Rey'],['./CORPUS/ScienceFiction/51168.txt'],{'Science Fiction'}
+Planet of Dreams,['James McKimmey'],['./CORPUS/ScienceFiction/30045.txt'],{'Science Fiction'}
+Innocent At Large,['Poul Anderson'],['./CORPUS/ScienceFiction/51650.txt'],{'Science Fiction'}
+Kazan,['James Oliver Curwood'],['./CORPUS/Adventure/10084.txt'],{'Adventure'}
+Flamedown,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/29936.txt'],{'Science Fiction'}
+The Machine That Saved The World,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/26174.txt'],{'Science Fiction'}
+"Astounding Stories, May, 1931",['Various'],['./CORPUS/ScienceFiction/30532.txt'],{'Science Fiction'}
+Child of Storm,['H. Rider Haggard'],['./CORPUS/Adventure/1711.txt'],{'Adventure'}
+Tulan,['Carroll Mather Capps'],['./CORPUS/ScienceFiction/27968.txt'],{'Science Fiction'}
+The Golden Spears,['Edmund Leamy'],['./CORPUS/FairyTale/22168.txt'],{'Fairy Tale'}
+The Shunned House,['Howard Phillips Lovecraft'],"['./CORPUS/ScienceFiction/31469.txt', './CORPUS/Horror/31469.txt']","{'Science Fiction', 'Horror'}"
+A Filbert Is a Nut,['Rick Raphael'],['./CORPUS/ScienceFiction/23588.txt'],{'Science Fiction'}
+The Crock of Gold,['James Stephens'],['./CORPUS/Fantasy/1605.txt'],{'Fantasy'}
+The Addicts,['William Morrison'],['./CORPUS/ScienceFiction/51240.txt'],{'Science Fiction'}
+Business For the Lawyers,['Ralph Robin'],['./CORPUS/ScienceFiction/49767.txt'],{'Science Fiction'}
+Sentry Of The Sky,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/51867.txt'],{'Science Fiction'}
+The Devolutionist and The Emancipatrix,['Homer Eon Flint'],['./CORPUS/ScienceFiction/5965.txt'],{'Science Fiction'}
+The Big Bounce,['Walter S. Tevis'],['./CORPUS/ScienceFiction/23153.txt'],{'Science Fiction'}
+The Rayner-Slade Amalgamation,['J.S. Fletcher'],['./CORPUS/CrimeMystery/10443.txt'],{'Crime and Mystery'}
+I Was a Teen-Age Secret Weapon,['Richard Sabia'],['./CORPUS/ScienceFiction/23591.txt'],{'Science Fiction'}
+Stairway to the Stars,['Larry Shaw'],['./CORPUS/ScienceFiction/23159.txt'],{'Science Fiction'}
+With These Hands,['C.M. Kornbluth'],['./CORPUS/ScienceFiction/51531.txt'],{'Science Fiction'}
+Exploiter's End,['James Causey'],['./CORPUS/ScienceFiction/40970.txt'],{'Science Fiction'}
+The Day Time Stopped Moving,['Bradner Buckner'],['./CORPUS/ScienceFiction/27053.txt'],{'Science Fiction'}
+Baron Trigault's Vengeance,['Emile Gaboriau'],['./CORPUS/CrimeMystery/547.txt'],{'Crime and Mystery'}
+And Then the Town Took Off,['Richard Wilson'],['./CORPUS/ScienceFiction/42111.txt'],{'Science Fiction'}
+The Wonder,['J.D. Beresford'],['./CORPUS/ScienceFiction/27188.txt'],{'Science Fiction'}
+The Big Engine,['Fritz Leiber'],['./CORPUS/ScienceFiction/51549.txt'],{'Science Fiction'}
+Falling in Love,['Grant Allen'],['./CORPUS/Romance/16807.txt'],{'Romance'}
+The Undersea Tube,['L. Taylor Hansen'],['./CORPUS/ScienceFiction/27609.txt'],{'Science Fiction'}
+A Husband for My Wife,['William W. Stuart'],['./CORPUS/ScienceFiction/51460.txt'],{'Science Fiction'}
+Med Ship Man,['Murray Leinster'],['./CORPUS/ScienceFiction/50999.txt'],{'Science Fiction'}
+Now We Are Three,['Joe L. Hensley'],['./CORPUS/ScienceFiction/29290.txt'],{'Science Fiction'}
+The Issahar Artifacts,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/29271.txt'],{'Science Fiction'}
+The Next Logical Step,['Benjamin William Bova'],['./CORPUS/ScienceFiction/28063.txt'],{'Science Fiction'}
+Animal Ghosts,"[""Elliott O'Donnell""]",['./CORPUS/Horror/18233.txt'],{'Horror'}
+Good Indian,['B.M. Bower'],['./CORPUS/Western/938.txt'],{'Western'}
+The Hoofer,['Walter M. Miller'],['./CORPUS/ScienceFiction/29170.txt'],{'Science Fiction'}
+The Mystery of the Sea,['Bram Stoker'],['./CORPUS/Adventure/42455.txt'],{'Adventure'}
+The Orange-Yellow Diamond,['J.S. Fletcher'],['./CORPUS/CrimeMystery/9297.txt'],{'Crime and Mystery'}
+Greylorn,['John Keith Laumer'],['./CORPUS/ScienceFiction/23028.txt'],{'Science Fiction'}
+Novice,['James H. Schmitz'],['./CORPUS/ScienceFiction/30458.txt'],{'Science Fiction'}
+Romance,"['Joseph Conrad', 'F.M. Hueffer']",['./CORPUS/Adventure/17642.txt'],{'Adventure'}
+Assignment's End,['Roger Dee'],['./CORPUS/ScienceFiction/32209.txt'],{'Science Fiction'}
+Toy Shop,['Henry Maxwell Dempsey'],['./CORPUS/ScienceFiction/22966.txt'],{'Science Fiction'}
+Mizora: A Prophecy,['Mary E. Bradley'],['./CORPUS/ScienceFiction/24750.txt'],{'Science Fiction'}
+The Stuff,['Henry Slesar'],['./CORPUS/ScienceFiction/51574.txt'],{'Science Fiction'}
+Hunter Quatermain's Story,['H. Rider Haggard'],['./CORPUS/Adventure/2728.txt'],{'Adventure'}
+The Man of the Forest,['Zane Grey'],['./CORPUS/Western/3457.txt'],{'Western'}
+Man and Wife,['Wilkie Collins'],['./CORPUS/CrimeMystery/1586.txt'],{'Crime and Mystery'}
+Zehru of Xollar,['Hal K. Wells'],['./CORPUS/ScienceFiction/26917.txt'],{'Science Fiction'}
+A Honeymoon in Space,['George Griffith'],['./CORPUS/ScienceFiction/19476.txt'],{'Science Fiction'}
+Empire,['Clifford Donald Simak'],"['./CORPUS/Adventure/28215.txt', './CORPUS/ScienceFiction/28215.txt']","{'Adventure', 'Science Fiction'}"
+The Gloved Hand,['Burton E. Stevenson'],['./CORPUS/CrimeMystery/13372.txt'],{'Crime and Mystery'}
+Revolution,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/23929.txt'],{'Science Fiction'}
+Cow-Country,['B.M. Bower'],['./CORPUS/Western/1723.txt'],{'Western'}
+Tom Swift and his Motor-cycle,['Victor Appleton'],['./CORPUS/Adventure/4230.txt'],{'Adventure'}
+The Copper-Clad World,['Harl Vincent'],['./CORPUS/ScienceFiction/28883.txt'],{'Science Fiction'}
+Percival Keene,['Frederick Marryat'],['./CORPUS/Adventure/21572.txt'],{'Adventure'}
+Operation Earthworm,['Joe Archibald'],['./CORPUS/ScienceFiction/29303.txt'],{'Science Fiction'}
+Planet of Dread,['Murray Leinster'],['./CORPUS/ScienceFiction/43046.txt'],{'Science Fiction'}
+Tom Swift and his Air Scout,['Victor Appleton'],['./CORPUS/Adventure/1284.txt'],{'Adventure'}
+The Moon Destroyers,['Monroe K. Ruch'],['./CORPUS/ScienceFiction/41029.txt'],{'Science Fiction'}
+The Sleuth of St. James's Square,['Melville Davisson Post'],['./CORPUS/CrimeMystery/2861.txt'],{'Crime and Mystery'}
+Sinister Paradise,['Robert Moore Williams'],['./CORPUS/ScienceFiction/32359.txt'],{'Science Fiction'}
+Rastignac the Devil,['Philip Jose Farmer'],['./CORPUS/ScienceFiction/31262.txt'],{'Science Fiction'}
+The Jewel of Seven Stars,['Bram Stoker'],['./CORPUS/Horror/3781.txt'],{'Horror'}
+The Alien,['Raymond F. Jones'],['./CORPUS/ScienceFiction/50783.txt'],{'Science Fiction'}
+Tom Swift and his Photo Telephone,['Victor Appleton'],['./CORPUS/Adventure/4532.txt'],{'Adventure'}
+"Chip, of the Flying U",['B.M. Bower'],['./CORPUS/Western/9267.txt'],{'Western'}
+The Red Hell of Jupiter,['Paul Ernst'],['./CORPUS/ScienceFiction/30214.txt'],{'Science Fiction'}
+Craphound,['Cory Doctorow'],['./CORPUS/ScienceFiction/17026.txt'],{'Science Fiction'}
+The Sea Lady,['Herbert George Wells'],"['./CORPUS/ScienceFiction/35920.txt', './CORPUS/Fantasy/35920.txt']","{'Science Fiction', 'Fantasy'}"
+Vital Ingredient,['Gerald Vance'],['./CORPUS/ScienceFiction/27797.txt'],{'Science Fiction'}
+A Little Journey,['Ray Bradbury'],['./CORPUS/ScienceFiction/51171.txt'],{'Science Fiction'}
+The Death-Traps of FX-31,['Sewell Peaslee Wright'],['./CORPUS/ScienceFiction/29309.txt'],{'Science Fiction'}
+The Oriental Story Book,['Wilhelm Hauff'],['./CORPUS/FairyTale/24593.txt'],{'Fairy Tale'}
+Control Group,['Roger Dee'],['./CORPUS/ScienceFiction/24949.txt'],{'Science Fiction'}
+The Doorway,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/29138.txt'],{'Science Fiction'}
+Tom Swift Among The Diamond Makers,['Victor Appleton'],['./CORPUS/Adventure/1282.txt'],{'Adventure'}
+The Lure of the Dim Trails,['B.M. Bower'],['./CORPUS/Western/1014.txt'],{'Western'}
+Meeting of the Board,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22867.txt'],{'Science Fiction'}
+The Thunder Bird,['B.M. Bower'],['./CORPUS/Western/14486.txt'],{'Western'}
+Robin Hood,['J. Walker McSpadden'],['./CORPUS/Fantasy/832.txt'],{'Fantasy'}
+Decision,['Frank M. Robinson'],['./CORPUS/ScienceFiction/29680.txt'],{'Science Fiction'}
+Peter Pan,['James M. Barrie'],"['./CORPUS/Adventure/16.txt', './CORPUS/Fantasy/16.txt']","{'Adventure', 'Fantasy'}"
+Valley of Dreams,['Stanley Grauman Weinbaum'],['./CORPUS/ScienceFiction/22301.txt'],{'Science Fiction'}
+The Man Who Was Six,['F.L. Wallace'],['./CORPUS/ScienceFiction/51295.txt'],{'Science Fiction'}
+The God in the Box,['Sewell Peaslee Wright'],['./CORPUS/ScienceFiction/28705.txt'],{'Science Fiction'}
+Allan Quatermain,['H. Rider Haggard'],['./CORPUS/Adventure/711.txt'],{'Adventure'}
+Robur the Conqueror,['Jules Verne'],['./CORPUS/Adventure/3808.txt'],{'Adventure'}
+"Sentiment, Inc.",['Poul William Anderson'],['./CORPUS/ScienceFiction/37653.txt'],{'Science Fiction'}
+Tarzan the Terrible,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/2020.txt', './CORPUS/Fantasy/2020.txt']","{'Adventure', 'Fantasy'}"
+Within an Inch of His Life,['Emile Gaboriau'],['./CORPUS/CrimeMystery/3336.txt'],{'Crime and Mystery'}
+The Odyssey of Sam Meecham,['Charles E. Fritch'],['./CORPUS/ScienceFiction/29355.txt'],{'Science Fiction'}
+Red Nails,['Robert E. Howard'],['./CORPUS/ScienceFiction/32759.txt'],{'Science Fiction'}
+The Crystal Crypt,['Philip Kindred Dick'],['./CORPUS/ScienceFiction/28698.txt'],{'Science Fiction'}
+The Defenders,['Philip K. Dick'],['./CORPUS/ScienceFiction/28767.txt'],{'Science Fiction'}
+Islands of Space,['John W Campbell'],['./CORPUS/ScienceFiction/20988.txt'],{'Science Fiction'}
+The Hunters,['William Morrison'],['./CORPUS/ScienceFiction/22524.txt'],{'Science Fiction'}
+Turnover Point,['Alfred Coppel'],['./CORPUS/ScienceFiction/31287.txt'],{'Science Fiction'}
+Prison of a Billion Years,['C.H. Thames'],['./CORPUS/ScienceFiction/32150.txt'],{'Science Fiction'}
+Field Trip,['Gene Hunter'],['./CORPUS/ScienceFiction/30379.txt'],{'Science Fiction'}
+The Log of a Cowboy,['Andy Adams'],['./CORPUS/Western/12797.txt'],{'Western'}
+If You Was A Moklin,['Murray Leinster'],['./CORPUS/ScienceFiction/51752.txt'],{'Science Fiction'}
+The Fantasy Fan April 1934,['Various'],['./CORPUS/ScienceFiction/49511.txt'],{'Science Fiction'}
+The Spicy Sound of Success,['Jim Harmon'],['./CORPUS/ScienceFiction/51351.txt'],{'Science Fiction'}
+The Finding of Haldgren,['Charles Willard Diffin'],['./CORPUS/ScienceFiction/29717.txt'],{'Science Fiction'}
+The Swiss Family Robinson,['Jean Rudolph Wyss'],['./CORPUS/Adventure/34808.txt'],{'Adventure'}
+Black Amazon of Mars,['Leigh Brackett'],['./CORPUS/ScienceFiction/32664.txt'],{'Science Fiction'}
+The Lion of Petra,['Talbot Mundy'],['./CORPUS/Adventure/19307.txt'],{'Adventure'}
+Three Men in a Boat,['Jerome K. Jerome'],['./CORPUS/Adventure/308.txt'],{'Adventure'}
+Spacemen Never Die!,['Morris Hershman'],['./CORPUS/ScienceFiction/29947.txt'],{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 5.",['Mark Twain'],"['./CORPUS/ScienceFiction/7246.txt', './CORPUS/Fantasy/7246.txt']","{'Science Fiction', 'Fantasy'}"
+Space Platform,['Murray Leinster'],"['./CORPUS/Adventure/25051.txt', './CORPUS/ScienceFiction/25051.txt']","{'Adventure', 'Science Fiction'}"
+The Adventures of Huckleberry Finn,['Mark Twain'],['./CORPUS/Adventure/32325.txt'],{'Adventure'}
+The Middle of Things,['J.S. Fletcher'],['./CORPUS/CrimeMystery/9902.txt'],{'Crime and Mystery'}
+Looking Backward,['Edward Bellamy'],['./CORPUS/ScienceFiction/25439.txt'],{'Science Fiction'}
+Houlihan's Equation,['Walt Sheldon'],['./CORPUS/ScienceFiction/29168.txt'],{'Science Fiction'}
+Lion Loose,['James H. Schmitz'],['./CORPUS/ScienceFiction/30493.txt'],{'Science Fiction'}
+The Gods of Pegana,['Lord Dunsany Edward J.M.D. Plunkett'],['./CORPUS/Fantasy/8395.txt'],{'Fantasy'}
+Green Grew the Lasses,['Ruth Laura Wainwright'],['./CORPUS/ScienceFiction/50842.txt'],{'Science Fiction'}
+Tom Swift and his Aerial Warship,['Victor Appleton'],['./CORPUS/Adventure/1281.txt'],{'Adventure'}
+Other Worlds,['Garrett P. Serviss'],['./CORPUS/ScienceFiction/18431.txt'],{'Science Fiction'}
+DP,['Arthur Dekker Savage'],['./CORPUS/ScienceFiction/30305.txt'],{'Science Fiction'}
+Moral Equivalent,['Kris Neville'],['./CORPUS/ScienceFiction/51449.txt'],{'Science Fiction'}
+"The Story of the Volsungs, (Volsunga Saga)",['Anonymous'],['./CORPUS/Fantasy/1152.txt'],{'Fantasy'}
+Pollony Undiverted,['Sydney Van Scyoc'],['./CORPUS/ScienceFiction/51047.txt'],{'Science Fiction'}
+Stop Look and Dig,['George O. Smith'],['./CORPUS/ScienceFiction/19963.txt'],{'Science Fiction'}
+"Astounding Stories,  August, 1931",['Various'],['./CORPUS/ScienceFiction/33016.txt'],{'Science Fiction'}
+Pygmalion's Spectacles,['Stanley Grauman Weinbaum'],['./CORPUS/ScienceFiction/22893.txt'],{'Science Fiction'}
+The Innocence of Father Brown,['G.K. Chesterton'],['./CORPUS/CrimeMystery/204.txt'],{'Crime and Mystery'}
+"Punch, or the London Charivari, Vol. 156, Apr 2, 1919",['Various'],['./CORPUS/Adventure/11617.txt'],{'Adventure'}
+The Hollow Land,['William Morris'],['./CORPUS/Fantasy/15948.txt'],{'Fantasy'}
+Has Anyone Here Seen Kelly?,['Bryce Walton'],['./CORPUS/ScienceFiction/30086.txt'],{'Science Fiction'}
+Twenty Thousand Leagues under the Sea,['Jules Verne'],"['./CORPUS/Adventure/164.txt', './CORPUS/ScienceFiction/164.txt']","{'Adventure', 'Science Fiction'}"
+Celtic Tales,['Louey Chisholm'],['./CORPUS/FairyTale/7488.txt'],{'Fairy Tale'}
+Unhappy Far-Off Things,['Lord Dunsany'],['./CORPUS/Fantasy/13820.txt'],{'Fantasy'}
+"The Fantasy Fan, March, 1934",['Various'],['./CORPUS/ScienceFiction/48866.txt'],{'Science Fiction'}
+Small World,['William F. Nolan'],['./CORPUS/ScienceFiction/29308.txt'],{'Science Fiction'}
+The World with a Thousand Moons,['Edmond Hamilton'],['./CORPUS/ScienceFiction/32317.txt'],{'Science Fiction'}
+Big Stupe,['Charles V. De Vet'],['./CORPUS/ScienceFiction/32551.txt'],{'Science Fiction'}
+The Red Dust,['Murray Leinster'],['./CORPUS/ScienceFiction/41586.txt'],{'Science Fiction'}
+Divinity,['William Morrison'],['./CORPUS/ScienceFiction/22623.txt'],{'Science Fiction'}
+The Eel,['Miriam Allen DeFord'],['./CORPUS/ScienceFiction/31981.txt'],{'Science Fiction'}
+Bar-20 Days,['Clarence E. Mulford'],['./CORPUS/Western/4922.txt'],{'Western'}
+Ham Sandwich,['James H. Schmitz'],['./CORPUS/ScienceFiction/30764.txt'],{'Science Fiction'}
+The Black Moth,['Georgette Heyer'],['./CORPUS/Romance/38703.txt'],{'Romance'}
+The Lost Continent,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/149.txt'],{'Science Fiction'}
+The Wonderful Wizard of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/55.txt'],{'Fantasy'}
+Badge of Infamy,['Lester del Rey'],['./CORPUS/ScienceFiction/19471.txt'],{'Science Fiction'}
+Sjambak,['John Holbrook Vance'],['./CORPUS/ScienceFiction/30002.txt'],{'Science Fiction'}
+The Barrier,['Rex Beach'],['./CORPUS/Western/4082.txt'],{'Western'}
+The Small World of M-75,['Ed M. Clinton Jr.'],['./CORPUS/ScienceFiction/32079.txt'],{'Science Fiction'}
+The Moon Pool,['A. Merritt'],['./CORPUS/ScienceFiction/765.txt'],{'Science Fiction'}
+World in a Bottle,['Allen Kim Lang'],['./CORPUS/ScienceFiction/51824.txt'],{'Science Fiction'}
+Thompson's Cat,['Robert Moore Williams'],['./CORPUS/ScienceFiction/31948.txt'],{'Science Fiction'}
+Alice's Adventures in Wonderland,['Lewis Carroll'],['./CORPUS/Fantasy/11.txt'],{'Fantasy'}
+Tom Swift and his Electric Locomotive,['Victor Appleton'],['./CORPUS/Adventure/1364.txt'],{'Adventure'}
+Flight Through Tomorrow,['Stanton Arthur Coblentz'],['./CORPUS/ScienceFiction/28453.txt'],{'Science Fiction'}
+The Syndic,['C.M. Kornbluth'],['./CORPUS/ScienceFiction/41714.txt'],{'Science Fiction'}
+Whiskaboom,['Alan Arkin'],['./CORPUS/ScienceFiction/51132.txt'],{'Science Fiction'}
+Never Come Midnight,['Christopher Grimm'],['./CORPUS/ScienceFiction/51834.txt'],{'Science Fiction'}
+Citizen Jell,['Michael Shaara'],['./CORPUS/ScienceFiction/51342.txt'],{'Science Fiction'}
+Pictures Don't Lie,['Katherine MacLean'],['./CORPUS/ScienceFiction/51193.txt'],{'Science Fiction'}
+Tales of lonely trails,['Zane Grey'],['./CORPUS/Western/12225.txt'],{'Western'}
+The King of the City,['Keith Laumer'],['./CORPUS/ScienceFiction/51781.txt'],{'Science Fiction'}
+Don Rodriguez,"['Edward John Moreton Drax Plunkett', 'Baron', 'Dunsany']",['./CORPUS/Fantasy/4282.txt'],{'Fantasy'}
+Trailin'!,['Max Brand'],['./CORPUS/Western/11093.txt'],{'Western'}
+Gods of the North,['Robert E. Howard'],['./CORPUS/ScienceFiction/42664.txt'],{'Science Fiction'}
+Poisoned Air,['Sterner St. Paul Meek'],['./CORPUS/ScienceFiction/29069.txt'],{'Science Fiction'}
+A Prize for Edie,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/26332.txt'],{'Science Fiction'}
+First on the Moon,['Jeff Sutton'],['./CORPUS/ScienceFiction/43235.txt'],{'Science Fiction'}
+The Indian Fairy Book,['Cornelius Mathews'],['./CORPUS/FairyTale/22248.txt'],{'Fairy Tale'}
+Viewpoint,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23563.txt'],{'Science Fiction'}
+Minor Detail,['John Michael Sharkey'],['./CORPUS/ScienceFiction/28156.txt'],{'Science Fiction'}
+The Treasure of the Incas,['G.A. Henty'],['./CORPUS/Adventure/7070.txt'],{'Adventure'}
+The Lady of the Shroud,['Bram Stoker'],['./CORPUS/Horror/3095.txt'],{'Horror'}
+The Stolen Bacillus and Other Incidents,['H.G.  Wells'],['./CORPUS/ScienceFiction/12750.txt'],{'Science Fiction'}
+Pipe of Peace,['James McKimmey'],['./CORPUS/ScienceFiction/30380.txt'],{'Science Fiction'}
+The First One,['Herbert D. Kastle'],['./CORPUS/ScienceFiction/24192.txt'],{'Science Fiction'}
+Triplanetary,['Edward Elmer Smith'],"['./CORPUS/Adventure/20782.txt', './CORPUS/ScienceFiction/20782.txt']","{'Adventure', 'Science Fiction'}"
+The Virginian,['Owen Wister'],['./CORPUS/Western/1298.txt'],{'Western'}
+Wailing Wall,['Roger Dee'],['./CORPUS/ScienceFiction/50940.txt'],{'Science Fiction'}
+I'll Kill You Tomorrow,['Helen Huber'],['./CORPUS/ScienceFiction/30034.txt'],{'Science Fiction'}
+Michael Strogoff,['Jules Verne'],['./CORPUS/Adventure/1842.txt'],{'Adventure'}
+Backlash,['Winston Marks'],['./CORPUS/ScienceFiction/32828.txt'],{'Science Fiction'}
+The Night Land,['William Hope Hodgson'],"['./CORPUS/ScienceFiction/10662.txt', './CORPUS/Horror/10662.txt', './CORPUS/Fantasy/10662.txt']","{'Science Fiction', 'Horror', 'Fantasy'}"
+Dawningsburgh,['Wallace West'],['./CORPUS/ScienceFiction/51663.txt'],{'Science Fiction'}
+The Jimmyjohn Boss and Other Stories,['Owen Wister'],['./CORPUS/Western/1390.txt'],{'Western'}
+Sorry: Wrong Dimension,['Ross Rocklynne'],['./CORPUS/ScienceFiction/29620.txt'],{'Science Fiction'}
+People Soup,['Alan Arkin'],['./CORPUS/ScienceFiction/51397.txt'],{'Science Fiction'}
+Erewhon,['Samuel Butler'],['./CORPUS/ScienceFiction/1906.txt'],{'Science Fiction'}
+Greener Than You Think,['Ward Moore'],['./CORPUS/ScienceFiction/24246.txt'],{'Science Fiction'}
+The King's Own,['Captain Frederick Marryat'],['./CORPUS/Adventure/21550.txt'],{'Adventure'}
+"Futuria Fantasia, Spring 1940",['Various'],['./CORPUS/ScienceFiction/41651.txt'],{'Science Fiction'}
+The Return of Dr. Fu-Manchu,['Sax Rohmer'],"['./CORPUS/Adventure/1183.txt', './CORPUS/CrimeMystery/1183.txt']","{'Adventure', 'Crime and Mystery'}"
+Astounding Stories of Super-Science September 1930,['Various'],['./CORPUS/ScienceFiction/29255.txt'],{'Science Fiction'}
+The Revolt on Venus,['Carey Rockwell'],['./CORPUS/ScienceFiction/19027.txt'],{'Science Fiction'}
+Of All Possible Worlds,['William Tenn'],['./CORPUS/ScienceFiction/50948.txt'],{'Science Fiction'}
+The Clue of the Twisted Candle,['Edgar Wallace'],['./CORPUS/CrimeMystery/2688.txt'],{'Crime and Mystery'}
+"Pamela, or Virtue Rewarded",['Samuel Richardson'],['./CORPUS/Romance/6124.txt'],{'Romance'}
+A Woman's Place,['Mark Irvin Clifton'],['./CORPUS/ScienceFiction/32833.txt'],{'Science Fiction'}
+Project Mastodon,['Clifford Donald Simak'],['./CORPUS/ScienceFiction/22216.txt'],{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Complete",['Mark Twain'],"['./CORPUS/ScienceFiction/86.txt', './CORPUS/Fantasy/86.txt']","{'Science Fiction', 'Fantasy'}"
+The Shrieking Pit,['Arthur J. Rees'],['./CORPUS/CrimeMystery/20494.txt'],{'Crime and Mystery'}
+The Last of the Plainsmen,['Zane Grey'],['./CORPUS/Western/2057.txt'],{'Western'}
+Circus,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22875.txt'],{'Science Fiction'}
+A World by the Tale,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30816.txt'],{'Science Fiction'}
+The Blue Tower,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/23104.txt'],{'Science Fiction'}
+Five Thousand Miles Underground,['Roy Rockwood'],['./CORPUS/ScienceFiction/4994.txt'],{'Science Fiction'}
+Half past Alligator,['Donald Colvin'],['./CORPUS/ScienceFiction/50889.txt'],{'Science Fiction'}
+The Adventure of the Red Circle,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2345.txt'],{'Crime and Mystery'}
+The Planet Mappers,['E. Everett Evans'],['./CORPUS/ScienceFiction/50682.txt'],{'Science Fiction'}
+The Solar Magnet,['Sterner St. Paul Meek'],['./CORPUS/ScienceFiction/29401.txt'],{'Science Fiction'}
+The Circular Study,['Anna Katharine Green'],['./CORPUS/CrimeMystery/18761.txt'],{'Crime and Mystery'}
+The People of the Black Circle,['Robert E. Howard'],['./CORPUS/ScienceFiction/42259.txt'],{'Science Fiction'}
+The Gun,['Philip K. Dick'],['./CORPUS/ScienceFiction/29132.txt'],{'Science Fiction'}
+Not a Creature Was Stirring,['Dean Evans'],['./CORPUS/ScienceFiction/51396.txt'],{'Science Fiction'}
+The Golden Road,['Lucy Maud Montgomery'],['./CORPUS/Adventure/316.txt'],{'Adventure'}
+Psichopath,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30304.txt'],{'Science Fiction'}
+The Girls From Earth,['Frank M. Robinson'],['./CORPUS/ScienceFiction/51268.txt'],{'Science Fiction'}
+The Seed of the Toc-Toc Birds,['Francis Flagg'],['./CORPUS/ScienceFiction/23831.txt'],{'Science Fiction'}
+Navy Day,['Harry Harrison'],['./CORPUS/ScienceFiction/30019.txt'],{'Science Fiction'}
+Little Fuzzy,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18137.txt'],{'Science Fiction'}
+The Tin Woodman of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/960.txt'],{'Fantasy'}
+Caves of Terror,['Talbot Mundy'],['./CORPUS/Adventure/18970.txt'],{'Adventure'}
+Second Sight,['Basil Eugene Wells'],['./CORPUS/ScienceFiction/29832.txt'],{'Science Fiction'}
+Montezuma's Daughter,['H. Rider Haggard'],['./CORPUS/Adventure/1848.txt'],{'Adventure'}
+Master of Life and Death,['Robert Silverberg'],['./CORPUS/ScienceFiction/50441.txt'],{'Science Fiction'}
+Treasure Island,['Robert Louis Stevenson'],['./CORPUS/Adventure/120.txt'],{'Adventure'}
+The Blockade Runners,['Jules Verne'],['./CORPUS/Adventure/8992.txt'],{'Adventure'}
+"The Long, Silvery Day",['Magnus Ludens'],['./CORPUS/ScienceFiction/51550.txt'],{'Science Fiction'}
+The Street That Wasn't There,['Clifford Donald Simak'],['./CORPUS/ScienceFiction/22218.txt'],{'Science Fiction'}
+A Trip to Venus,['John Munro'],['./CORPUS/ScienceFiction/13716.txt'],{'Science Fiction'}
+The Waker Dreams,['Richard Matheson'],['./CORPUS/ScienceFiction/51076.txt'],{'Science Fiction'}
+Brightside Crossing,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/49165.txt'],{'Science Fiction'}
+New Lamps,['Robert Moore Williams'],['./CORPUS/ScienceFiction/52009.txt'],{'Science Fiction'}
+A Witch Shall Be Born,['Robert E. Howard'],['./CORPUS/ScienceFiction/42227.txt'],{'Science Fiction'}
+Exile,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/22346.txt'],{'Science Fiction'}
+In the Year 2889,"['Jules Verne', 'Michel Verne']",['./CORPUS/ScienceFiction/19362.txt'],{'Science Fiction'}
+The Tunnel Under The World,['Frederik Pohl'],['./CORPUS/ScienceFiction/31979.txt'],{'Science Fiction'}
+The Enchanted Castle,['E. Nesbit'],['./CORPUS/Fantasy/34219.txt'],{'Fantasy'}
+The Mysterious Rider,['Zane Grey'],['./CORPUS/Western/13937.txt'],{'Western'}
+Blessed Are the Meek,['G.C. Edmondson'],['./CORPUS/ScienceFiction/23762.txt'],{'Science Fiction'}
+"Oh, Rats!",['Miriam Allen deFord'],['./CORPUS/ScienceFiction/51751.txt'],{'Science Fiction'}
+Prelude to Space,['Robert W. Haseltine'],['./CORPUS/ScienceFiction/30381.txt'],{'Science Fiction'}
+The Men in the Walls,['William Tenn'],['./CORPUS/ScienceFiction/51122.txt'],{'Science Fiction'}
+Mr. Standfast,['John Buchan'],['./CORPUS/Adventure/560.txt'],{'Adventure'}
+The Mind Digger,['Winston Marks'],['./CORPUS/ScienceFiction/32353.txt'],{'Science Fiction'}
+"Reed Anthony, Cowman",['Andy Adams'],['./CORPUS/Western/12884.txt'],{'Western'}
+A Texas Matchmaker,['Andy Adams'],['./CORPUS/Western/12919.txt'],{'Western'}
+Garth and the Visitor,['L.J. Stecher'],['./CORPUS/ScienceFiction/31956.txt'],{'Science Fiction'}
+Warlord of Mars,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/68.txt'],{'Science Fiction'}
+The Mysteries of Udolpho,['Ann Radcliffe'],"['./CORPUS/CrimeMystery/3268.txt', './CORPUS/Romance/3268.txt']","{'Crime and Mystery', 'Romance'}"
+Pastoral Affair,['Charles A. Stearns'],['./CORPUS/ScienceFiction/32303.txt'],{'Science Fiction'}
+The Young Forester,['Zane Grey'],['./CORPUS/Western/1882.txt'],{'Western'}
+Pet Farm,['Roger Dee'],['./CORPUS/ScienceFiction/32344.txt'],{'Science Fiction'}
+The Talkative Tree,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/23767.txt'],{'Science Fiction'}
+Watchbird,['Robert Sheckley'],['./CORPUS/ScienceFiction/29579.txt'],{'Science Fiction'}
+Rinkitink in Oz,['L. Frank Baum'],['./CORPUS/Fantasy/958.txt'],{'Fantasy'}
+Old-Fashioned Fairy Tales,['Juliana Horatia Gatty Ewing'],['./CORPUS/FairyTale/15592.txt'],{'Fairy Tale'}
+The Jewel Merchants,['James Branch Cabell'],['./CORPUS/Fantasy/9829.txt'],{'Fantasy'}
+My Friend Bobby,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22881.txt'],{'Science Fiction'}
+The Ideal,['Stanley Grauman Weinbaum'],['./CORPUS/ScienceFiction/22897.txt'],{'Science Fiction'}
+A Man Obsessed,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/49531.txt'],{'Science Fiction'}
+The Holes Around Mars,['Jerome Bixby'],['./CORPUS/ScienceFiction/32360.txt'],{'Science Fiction'}
+Song in a Minor Key,['Catherine Lucille Moore'],['./CORPUS/ScienceFiction/28550.txt'],{'Science Fiction'}
+The Leech,['Phillips Barbee'],['./CORPUS/ScienceFiction/29525.txt'],{'Science Fiction'}
+Manners of the Age,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/32764.txt'],{'Science Fiction'}
+The Curse of Carne's Hold,['G.A. Henty'],['./CORPUS/Adventure/39374.txt'],{'Adventure'}
+Death's Wisher,['Jim Wannamaker'],['./CORPUS/ScienceFiction/51767.txt'],{'Science Fiction'}
+The Quantum Jump,['Robert Wicks'],['./CORPUS/ScienceFiction/24418.txt'],{'Science Fiction'}
+The Protector,['Betsy Curtis'],['./CORPUS/ScienceFiction/51028.txt'],{'Science Fiction'}
+Supermind,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/22342.txt'],{'Science Fiction'}
+The Spy in the Elevator,['Donald E. Westlake'],['./CORPUS/ScienceFiction/51687.txt'],{'Science Fiction'}
+Lost on the Moon,['Roy Rockwood'],['./CORPUS/ScienceFiction/7473.txt'],{'Science Fiction'}
+Diagnosis,['R.A. Palmer'],['./CORPUS/ScienceFiction/49762.txt'],{'Science Fiction'}
+Security,['Poul William Anderson'],['./CORPUS/ScienceFiction/22239.txt'],{'Science Fiction'}
+Brink of Madness,['Walter J. Sheldon'],['./CORPUS/ScienceFiction/32339.txt'],{'Science Fiction'}
+The Hammer of Thor,['Charles Willard Diffin'],['./CORPUS/ScienceFiction/29202.txt'],{'Science Fiction'}
+Highways in Hiding,['George Oliver Smith'],['./CORPUS/ScienceFiction/20519.txt'],{'Science Fiction'}
+The Cool War,['Andrew Fetler'],['./CORPUS/ScienceFiction/51256.txt'],{'Science Fiction'}
+The Devil in Iron,['Robert E. Howard'],['./CORPUS/ScienceFiction/42209.txt'],{'Science Fiction'}
+The Gifts of Asti,['Andre Alice Norton'],['./CORPUS/ScienceFiction/19029.txt'],{'Science Fiction'}
+The Hand Of Fu-Manchu,['Sax Rohmer'],"['./CORPUS/Adventure/17959.txt', './CORPUS/CrimeMystery/17959.txt']","{'Adventure', 'Crime and Mystery'}"
+The Sweeper of Loray,"[""Finn O'Donnevan""]",['./CORPUS/ScienceFiction/51545.txt'],{'Science Fiction'}
+Poppa Needs Shorts,['Leigh Richmond'],['./CORPUS/ScienceFiction/29789.txt'],{'Science Fiction'}
+Spawn of the Comet,['Harold Thompson Rich'],['./CORPUS/ScienceFiction/29027.txt'],{'Science Fiction'}
+The White Feather Hex,['Don Peterson'],['./CORPUS/ScienceFiction/23308.txt'],{'Science Fiction'}
+Man in a Quandary,['L.J. Stecher'],['./CORPUS/ScienceFiction/51421.txt'],{'Science Fiction'}
+The Ultimate Weapon,['John Wood Campbell'],['./CORPUS/ScienceFiction/23790.txt'],{'Science Fiction'}
+The Emancipatrix,['Homer Eon Flint'],['./CORPUS/ScienceFiction/5699.txt'],{'Science Fiction'}
+The Yillian Way,['John Keith Laumer'],['./CORPUS/ScienceFiction/21782.txt'],{'Science Fiction'}
+Voodoo Planet,['Andre Norton'],['./CORPUS/ScienceFiction/18846.txt'],{'Science Fiction'}
+What's He Doing in There?,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/29504.txt'],{'Science Fiction'}
+The White Invaders,['Raymond King Cummings'],['./CORPUS/ScienceFiction/20551.txt'],{'Science Fiction'}
+The Real Hard Sell,['William W Stuart'],['./CORPUS/ScienceFiction/31038.txt'],{'Science Fiction'}
+Adaptation,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/24749.txt'],{'Science Fiction'}
+Fairy Tales of the Slav Peasants and Herdsmen,['Alexander Chodsko'],['./CORPUS/FairyTale/25555.txt'],{'Fairy Tale'}
+Old Rambling House,['Frank Patrick Herbert'],['./CORPUS/ScienceFiction/29492.txt'],{'Science Fiction'}
+"Monsieur Lecoq, v.1",['Emile Gaboriau'],['./CORPUS/CrimeMystery/4071.txt'],{'Crime and Mystery'}
+Zero Data,['Charles Saphro'],['./CORPUS/ScienceFiction/29727.txt'],{'Science Fiction'}
+Slingshot,['Irving W. Lande'],['./CORPUS/ScienceFiction/22462.txt'],{'Science Fiction'}
+"Tom Sawyer, Detective",['Mark Twain'],['./CORPUS/Adventure/93.txt'],{'Adventure'}
+Heart,['Henry Slesar'],['./CORPUS/ScienceFiction/30885.txt'],{'Science Fiction'}
+Card Trick,['Walter Bupp AKA Randall Garrett'],['./CORPUS/ScienceFiction/24277.txt'],{'Science Fiction'}
+Shamar's War,['Kris Neville'],['./CORPUS/ScienceFiction/51072.txt'],{'Science Fiction'}
+Deathworld,['Harry Harrison'],"['./CORPUS/Adventure/28346.txt', './CORPUS/CrimeMystery/28346.txt', './CORPUS/ScienceFiction/28346.txt']","{'Adventure', 'Crime and Mystery', 'Science Fiction'}"
+Syndrome Johnny,['Charles Dye'],['./CORPUS/ScienceFiction/51231.txt'],{'Science Fiction'}
+Pellucidar,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/605.txt', './CORPUS/ScienceFiction/605.txt']","{'Adventure', 'Science Fiction'}"
+Two Thousand Miles Below,['Charles Willard Diffin'],['./CORPUS/ScienceFiction/29965.txt'],{'Science Fiction'}
+The Fantasy Fan January 1934,['Various'],['./CORPUS/ScienceFiction/46615.txt'],{'Science Fiction'}
+The Shining Cow,['Alex James'],['./CORPUS/ScienceFiction/29328.txt'],{'Science Fiction'}
+Time Fuze,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/32347.txt'],{'Science Fiction'}
+The Sleeper Awakes,['H.G. Wells'],['./CORPUS/ScienceFiction/12163.txt'],{'Science Fiction'}
+Dead End,['Wallace Macfarlane'],['./CORPUS/ScienceFiction/51247.txt'],{'Science Fiction'}
+The House of the Wolfings,['William Morris'],['./CORPUS/Fantasy/2885.txt'],{'Fantasy'}
+The Troublemakers,['George O. Smith'],['./CORPUS/ScienceFiction/51868.txt'],{'Science Fiction'}
+Survival Tactics,['Al Sevcik'],['./CORPUS/ScienceFiction/24966.txt'],{'Science Fiction'}
+A Final Reckoning,['G.A. Henty'],['./CORPUS/Adventure/20031.txt'],{'Adventure'}
+Sunset Pass,['Charles King'],['./CORPUS/Western/19928.txt'],{'Western'}
+Anything You Can Do,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30742.txt'],{'Science Fiction'}
+Beyond the Vanishing Point,['Raymond King Cummings'],['./CORPUS/ScienceFiction/22527.txt'],{'Science Fiction'}
+Fairy Tales From The Arabian Nights,['E. Dixon'],['./CORPUS/FairyTale/8599.txt'],{'Fairy Tale'}
+Tom Swift and his Big Tunnel,['Victor Appleton'],['./CORPUS/Adventure/953.txt'],{'Adventure'}
+Old Mr. Wiley,['Fanny Greye La Spina'],['./CORPUS/ScienceFiction/23379.txt'],{'Science Fiction'}
+Forsyte's Retreat,['Winston Marks'],['./CORPUS/ScienceFiction/32735.txt'],{'Science Fiction'}
+Be It Ever Thus,['Robert Moore Williams'],['./CORPUS/ScienceFiction/29240.txt'],{'Science Fiction'}
+The Heritage of the Desert,['Zane Grey'],['./CORPUS/Western/1262.txt'],{'Western'}
+The Hated,['Frederik Pohl'],['./CORPUS/ScienceFiction/29503.txt'],{'Science Fiction'}
+The Big Trip Up Yonder,['Kurt Vonnegut'],['./CORPUS/ScienceFiction/30240.txt'],{'Science Fiction'}
+The Quest of the Sacred Slipper,['Sax Rohmer'],['./CORPUS/CrimeMystery/2126.txt'],{'Crime and Mystery'}
+A Bad Day for Vermin,['Keith Laumer'],['./CORPUS/ScienceFiction/51258.txt'],{'Science Fiction'}
+"Astounding Stories, June, 1931",['Various'],['./CORPUS/ScienceFiction/31893.txt'],{'Science Fiction'}
+Through the Air to the North Pole,['Roy Rockwood'],['./CORPUS/ScienceFiction/14665.txt'],{'Science Fiction'}
+Bull Hunter,['Max Brand'],['./CORPUS/Western/10324.txt'],{'Western'}
+Unspecialist,['Murray F. Yaco'],['./CORPUS/ScienceFiction/23443.txt'],{'Science Fiction'}
+Untechnological Employment,['E.M. Clinton'],['./CORPUS/ScienceFiction/23147.txt'],{'Science Fiction'}
+The Ghost Pirates,['William Hope Hodgson'],['./CORPUS/ScienceFiction/10966.txt'],{'Science Fiction'}
+The Three Musketeers,"['Alexandre Dumas', 'Pere']",['./CORPUS/Adventure/1257.txt'],{'Adventure'}
+The Sense of Wonder,['Milton Lesser'],['./CORPUS/ScienceFiction/51296.txt'],{'Science Fiction'}
+Desire No More,['Algirdas Jonas Budrys'],['./CORPUS/ScienceFiction/40968.txt'],{'Science Fiction'}
+The Second Deluge,['Garrett P. Serviss'],['./CORPUS/ScienceFiction/9194.txt'],{'Science Fiction'}
+The Sun King,['Gaston Derreaux'],['./CORPUS/ScienceFiction/24973.txt'],{'Science Fiction'}
+The Prairie,['J. Fenimore Cooper'],['./CORPUS/Adventure/6450.txt'],{'Adventure'}
+Blind Man's Lantern,['Allen Kim Lang'],['./CORPUS/ScienceFiction/24567.txt'],{'Science Fiction'}
+Lilith,['George MacDonald'],['./CORPUS/Fantasy/1640.txt'],{'Fantasy'}
+Make Me An Offer,['Con Blomberg'],['./CORPUS/ScienceFiction/51311.txt'],{'Science Fiction'}
+Cry from a Far Planet,['Tom Godwin'],['./CORPUS/ScienceFiction/23799.txt'],{'Science Fiction'}
+The Land of the Blue Flower,['Frances Hodgson Burnett'],['./CORPUS/Fantasy/5302.txt'],{'Fantasy'}
+The Cuckoo Clock,['Wesley Barefoot'],['./CORPUS/ScienceFiction/29623.txt'],{'Science Fiction'}
+Queen of the Black Coast,['Robert E. Howard'],['./CORPUS/ScienceFiction/42183.txt'],{'Science Fiction'}
+The Last Man,['Mary Shelley'],['./CORPUS/ScienceFiction/18247.txt'],{'Science Fiction'}
+The Untamed,['Max Brand'],['./CORPUS/Western/10886.txt'],{'Western'}
+Temple Trouble,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18861.txt'],{'Science Fiction'}
+The Damned,['Algernon Blackwood'],['./CORPUS/Horror/11074.txt'],{'Horror'}
+Atlantida,['Pierre Benoit'],['./CORPUS/ScienceFiction/14301.txt'],{'Science Fiction'}
+In Honour Bound,['Sydney Grundy'],['./CORPUS/Adventure/41369.txt'],{'Adventure'}
+My Father's Dragon,['Ruth Stiles Gannett'],['./CORPUS/Fantasy/30017.txt'],{'Fantasy'}
+The Moon Rock,['Arthur J. Rees'],['./CORPUS/CrimeMystery/12509.txt'],{'Crime and Mystery'}
+"Astounding Stories, July, 1931",['Various'],['./CORPUS/ScienceFiction/31168.txt'],{'Science Fiction'}
+English Fairy Tales,['Flora Annie Steel'],['./CORPUS/FairyTale/17034.txt'],{'Fairy Tale'}
+"Astounding Stories of Super-Science, December 1930",['Various'],['./CORPUS/ScienceFiction/30691.txt'],{'Science Fiction'}
+Don Quixote,['Miguel de Cervantes Saavedra'],['./CORPUS/Adventure/996.txt'],{'Adventure'}
+The Underground City,['Jules Verne'],['./CORPUS/Adventure/1355.txt'],{'Adventure'}
+The Moons of Mars,['Dean Evans'],['./CORPUS/ScienceFiction/50826.txt'],{'Science Fiction'}
+The Red Thumb Mark,['R. Austin Freeman'],['./CORPUS/CrimeMystery/11128.txt'],{'Crime and Mystery'}
+Ruth Fielding in the Great Northwest,['Alice B. Emerson'],['./CORPUS/Adventure/15720.txt'],{'Adventure'}
+Other People's Money,['Emile Gaboriau'],['./CORPUS/CrimeMystery/1748.txt'],{'Crime and Mystery'}
+The Door Through Space,['Marion Zimmer Bradley'],"['./CORPUS/Adventure/19726.txt', './CORPUS/ScienceFiction/19726.txt']","{'Adventure', 'Science Fiction'}"
+Spinifex and Sand,['David W Carnegie'],['./CORPUS/Western/4975.txt'],{'Western'}
+Hex,['Laurence Mark Janifer'],['./CORPUS/ScienceFiction/24397.txt'],{'Science Fiction'}
+"Le Morte D'Arthur, Volume II (of II)",['Thomas Malory'],['./CORPUS/Fantasy/1252.txt'],{'Fantasy'}
+Black Eyes and the Daily Grind,['Milton Lesser'],['./CORPUS/ScienceFiction/30329.txt'],{'Science Fiction'}
+Wildfire,['Zane Grey'],['./CORPUS/Western/2066.txt'],{'Western'}
+Jean of the Lazy A,['B.M. Bower'],['./CORPUS/Western/538.txt'],{'Western'}
+One Out of Ten,['J. Anthony Ferlaine'],['./CORPUS/ScienceFiction/28933.txt'],{'Science Fiction'}
+Gallantry,['James Branch Cabell'],['./CORPUS/Fantasy/8715.txt'],{'Fantasy'}
+Advance Agent,['Christopher Anvil'],['./CORPUS/ScienceFiction/51273.txt'],{'Science Fiction'}
+The Chessmen of Mars,['Edgar Rice Burroughs'],"['./CORPUS/ScienceFiction/1153.txt', './CORPUS/Fantasy/1153.txt']","{'Science Fiction', 'Fantasy'}"
+Planet of the Gods,['Robert Moore Williams'],['./CORPUS/ScienceFiction/32696.txt'],{'Science Fiction'}
+The Castle of Otranto,['Horace Walpole'],"['./CORPUS/Horror/696.txt', './CORPUS/Fantasy/696.txt']","{'Horror', 'Fantasy'}"
+Where the World is Quiet,['Henry Kuttner'],['./CORPUS/ScienceFiction/31207.txt'],{'Science Fiction'}
+The Patchwork Girl of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/955.txt'],{'Fantasy'}
+The Privateersman,['Frederick Marryat'],['./CORPUS/Adventure/21576.txt'],{'Adventure'}
+"Wall of Crystal, Eye of Night",['Algis Budrys'],['./CORPUS/ScienceFiction/51726.txt'],{'Science Fiction'}
+Despoilers of the Golden Empire,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24091.txt'],{'Science Fiction'}
+A Modern Utopia,['H.G. Wells'],['./CORPUS/ScienceFiction/6424.txt'],{'Science Fiction'}
+Sweet Tooth,['Robert F. Young'],['./CORPUS/ScienceFiction/50924.txt'],{'Science Fiction'}
+Aaron's Rod,['D.H. Lawrence'],['./CORPUS/Adventure/4520.txt'],{'Adventure'}
+The Woman in White,['Wilkie Collins'],['./CORPUS/CrimeMystery/583.txt'],{'Crime and Mystery'}
+White Jacket,['Herman Melville'],['./CORPUS/Adventure/10712.txt'],{'Adventure'}
+Sanders of the River,['Edgar Wallace'],['./CORPUS/Adventure/35545.txt'],{'Adventure'}
+The Man With The Broken Ear,['Edmond About'],['./CORPUS/ScienceFiction/20724.txt'],{'Science Fiction'}
+The Passenger from Calais,['Arthur Griffiths'],['./CORPUS/CrimeMystery/16339.txt'],{'Crime and Mystery'}
+In the Days of the Comet,['H.G. Wells'],['./CORPUS/ScienceFiction/3797.txt'],{'Science Fiction'}
+Love Story,['Irving E. Cox Jr.'],['./CORPUS/ScienceFiction/32078.txt'],{'Science Fiction'}
+The Sensitive Man,['Poul William Anderson'],['./CORPUS/ScienceFiction/31501.txt'],{'Science Fiction'}
+The Door into Infinity,['Edmond Hamilton'],['./CORPUS/ScienceFiction/32847.txt'],{'Science Fiction'}
+The Adventurer,['Cyril M. Kornbluth'],['./CORPUS/ScienceFiction/29908.txt'],{'Science Fiction'}
+The Damned Thing,['Ambrose Bierce'],['./CORPUS/Horror/23172.txt'],{'Horror'}
+Breaking Point,['James E. Gunn'],['./CORPUS/ScienceFiction/21988.txt'],{'Science Fiction'}
+The Butterfly Kiss,['Arthur Dekker Savage'],['./CORPUS/ScienceFiction/40991.txt'],{'Science Fiction'}
+The Ambulance Made Two Trips,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/24149.txt'],{'Science Fiction'}
+Cerebrum,['Albert Teichner'],['./CORPUS/ScienceFiction/26761.txt'],{'Science Fiction'}
+Dumbwaiter,['James Stamers'],['./CORPUS/ScienceFiction/51478.txt'],{'Science Fiction'}
+East In The Morning,['David E. Fisher'],['./CORPUS/ScienceFiction/51475.txt'],{'Science Fiction'}
+"Astounding Stories of Super-Science, November, 1930",['Various'],['./CORPUS/ScienceFiction/29919.txt'],{'Science Fiction'}
+The Creature from Cleveland Depths,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/23164.txt'],{'Science Fiction'}
+Happy Ending,['Fredric Brown'],['./CORPUS/ScienceFiction/29206.txt'],{'Science Fiction'}
+The Black Star Passes,['John W Campbell'],"['./CORPUS/Adventure/20707.txt', './CORPUS/ScienceFiction/20707.txt']","{'Adventure', 'Science Fiction'}"
+The Return,"['H. Beam Piper', 'John J. McGuire']",['./CORPUS/ScienceFiction/18855.txt'],{'Science Fiction'}
+Stand by for Mars!,['Carey Rockwell'],['./CORPUS/ScienceFiction/19526.txt'],{'Science Fiction'}
+Hopalong Cassidy,['Clarence E. Mulford'],['./CORPUS/Western/38234.txt'],{'Western'}
+By England's Aid,['G.A. Henty'],['./CORPUS/Adventure/6953.txt'],{'Adventure'}
+The Worlds of If,['Stanley Grauman Weinbaum'],['./CORPUS/ScienceFiction/22890.txt'],{'Science Fiction'}
+A Dreamer's Palace,['Lord Dunsany Edward J.M.D. Plunkett'],['./CORPUS/Fantasy/8129.txt'],{'Fantasy'}
+A Spaceship Named McGuire,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24198.txt'],{'Science Fiction'}
+Pick a Crime,['Richard R. Smith'],['./CORPUS/ScienceFiction/51656.txt'],{'Science Fiction'}
+Hira Singh,['Talbot Mundy'],['./CORPUS/Adventure/4400.txt'],{'Adventure'}
+"A Connecticut Yankee in King Arthur's Court, Part 8.",['Mark Twain'],"['./CORPUS/ScienceFiction/7249.txt', './CORPUS/Fantasy/7249.txt']","{'Science Fiction', 'Fantasy'}"
+The Ancient Allan,['H. Rider Haggard'],['./CORPUS/Adventure/5746.txt'],{'Adventure'}
+On Handling the Data,['M.I. Mayfield'],['./CORPUS/ScienceFiction/23429.txt'],{'Science Fiction'}
+Tom Swift and his Sky Racer,['Victor Appleton'],['./CORPUS/Adventure/951.txt'],{'Adventure'}
+The Triumphs of Eugene Valmont,['Robert Barr'],['./CORPUS/CrimeMystery/19369.txt'],{'Crime and Mystery'}
+The Eyes Have It,['Philip Kindred Dick'],['./CORPUS/ScienceFiction/31516.txt'],{'Science Fiction'}
+Voyage to Far N'jurd,['Kris Neville'],['./CORPUS/ScienceFiction/51344.txt'],{'Science Fiction'}
+Dead Ringer,['Lester del Rey'],['./CORPUS/ScienceFiction/30234.txt'],{'Science Fiction'}
+The Penal Cluster,['Ivar Jorgensen'],['./CORPUS/ScienceFiction/25061.txt'],{'Science Fiction'}
+Accidental Death,['Peter Baily'],['./CORPUS/ScienceFiction/24517.txt'],{'Science Fiction'}
+Texas Week,['Albert Hernhuter'],['./CORPUS/ScienceFiction/28647.txt'],{'Science Fiction'}
+Gold in the Sky,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/23882.txt'],{'Science Fiction'}
+The Flying U's Last Stand,['B.M. Bower'],['./CORPUS/Western/1740.txt'],{'Western'}
+Lease to Doomsday,['Lee Archer'],['./CORPUS/ScienceFiction/27392.txt'],{'Science Fiction'}
+Tom Swift and his Submarine Boat,['Victor Appleton'],['./CORPUS/Adventure/949.txt'],{'Adventure'}
+The Water-Babies,['Charles Kingsley'],['./CORPUS/Fantasy/25564.txt'],{'Fantasy'}
+Riders of the Purple Sage,['Zane Grey'],['./CORPUS/Western/1300.txt'],{'Western'}
+Confidence Game,['James McKimmey'],['./CORPUS/ScienceFiction/32243.txt'],{'Science Fiction'}
+In the Orbit of Saturn,['Roman Frederick Starzl'],['./CORPUS/ScienceFiction/29038.txt'],{'Science Fiction'}
+The Crystal Stopper,['Maurice LeBlanc'],['./CORPUS/CrimeMystery/1563.txt'],{'Crime and Mystery'}
+Ring Once for Death,['Robert Andrew Arthur'],['./CORPUS/ScienceFiction/31840.txt'],{'Science Fiction'}
+Myths That Every Child Should Know,['Various'],['./CORPUS/FairyTale/16537.txt'],{'Fairy Tale'}
+The Adventure of the Dying Detective,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2347.txt'],{'Crime and Mystery'}
+Code Three,['Rick Raphael'],['./CORPUS/ScienceFiction/19111.txt'],{'Science Fiction'}
+Larson's Luck,['Gerald Vance'],['./CORPUS/ScienceFiction/30437.txt'],{'Science Fiction'}
+The Atlantic Book of Modern Plays,['Various'],['./CORPUS/Fantasy/16435.txt'],{'Fantasy'}
+Rupert of Hentzau,['Anthony Hope'],['./CORPUS/Adventure/1145.txt'],{'Adventure'}
+A Columbus of Space,['Garrett P. Serviss'],['./CORPUS/ScienceFiction/8673.txt'],{'Science Fiction'}
+Dracula's Guest,['Bram Stoker'],['./CORPUS/Horror/10150.txt'],{'Horror'}
+Walls of Acid,['Henry Hasse'],['./CORPUS/ScienceFiction/28045.txt'],{'Science Fiction'}
+Image of the Gods,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22882.txt'],{'Science Fiction'}
+The Lookout Man,['B.M. Bower'],['./CORPUS/Western/15625.txt'],{'Western'}
+"A Connecticut Yankee in King Arthur's Court, Part 4.",['Mark Twain'],"['./CORPUS/ScienceFiction/7245.txt', './CORPUS/Fantasy/7245.txt']","{'Science Fiction', 'Fantasy'}"
+"The Business, As Usual",['Jack Sharkey'],['./CORPUS/ScienceFiction/51435.txt'],{'Science Fiction'}
+The Weakling,['Everett B. Cole'],['./CORPUS/ScienceFiction/28486.txt'],{'Science Fiction'}
+Someone to Watch Over Me,['Christopher Grimm'],['./CORPUS/ScienceFiction/51844.txt'],{'Science Fiction'}
+The Border Legion,['Zane Grey'],['./CORPUS/Western/4552.txt'],{'Western'}
+Figures of Earth,['James Branch Cabell'],['./CORPUS/Fantasy/11639.txt'],{'Fantasy'}
+Tom Swift and his Undersea Search,['Victor Appleton'],"['./CORPUS/Adventure/1362.txt', './CORPUS/ScienceFiction/1362.txt']","{'Adventure', 'Science Fiction'}"
+"Clarissa, Or The History Of A Young Lady, Volume 8",['Samuel Richardson'],['./CORPUS/Romance/12180.txt'],{'Romance'}
+The Mummy and Miss Nitocris,['George Griffith'],['./CORPUS/ScienceFiction/19231.txt'],{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 6.",['Mark Twain'],"['./CORPUS/ScienceFiction/7247.txt', './CORPUS/Fantasy/7247.txt']","{'Science Fiction', 'Fantasy'}"
+Storm Over Warlock,['Andre Norton'],"['./CORPUS/Adventure/20788.txt', './CORPUS/Fantasy/20788.txt', './CORPUS/ScienceFiction/20788.txt']","{'Adventure', 'Fantasy', 'Science Fiction'}"
+From An Unseen Censor,['Rosel George Brown'],['./CORPUS/ScienceFiction/51758.txt'],{'Science Fiction'}
+Wizard,['Laurence Mark Janifer'],['./CORPUS/ScienceFiction/24375.txt'],{'Science Fiction'}
+Inside John Barth,['William W. Stuart'],['./CORPUS/ScienceFiction/28608.txt'],{'Science Fiction'}
+Evolution,['Joseph Le Conte'],['./CORPUS/ScienceFiction/46834.txt'],{'Science Fiction'}
+She Knew He Was Coming,['Kris Neville'],['./CORPUS/ScienceFiction/33934.txt'],{'Science Fiction'}
+Ronicky Doone,['Max Brand'],['./CORPUS/Western/11880.txt'],{'Western'}
+The Wonderful Adventures of Nils,['Selma Lagerloef'],['./CORPUS/Fantasy/10935.txt'],{'Fantasy'}
+In Times of Peril,['G.A. Henty'],['./CORPUS/Adventure/7071.txt'],{'Adventure'}
+Break a Leg,['Jim Harmon'],['./CORPUS/ScienceFiction/51320.txt'],{'Science Fiction'}
+Priestess of the Flame,['Sewell Peaslee Wright'],['./CORPUS/ScienceFiction/29293.txt'],{'Science Fiction'}
+Gulliver of Mars,['Edwin L. Arnold'],"['./CORPUS/ScienceFiction/604.txt', './CORPUS/Fantasy/604.txt']","{'Science Fiction', 'Fantasy'}"
+Japanese Fairy Tales,['Yei Theodora Ozaki'],['./CORPUS/FairyTale/4018.txt'],{'Fairy Tale'}
+Irish Fairy Tales,['James Stephens'],"['./CORPUS/FairyTale/2892.txt', './CORPUS/Fantasy/2892.txt']","{'Fairy Tale', 'Fantasy'}"
+"Adventures of Huckleberry Finn, Part 8",['Mark Twain'],['./CORPUS/Adventure/7107.txt'],{'Adventure'}
+The Paradise Mystery,['J.S. Fletcher'],['./CORPUS/CrimeMystery/5308.txt'],{'Crime and Mystery'}
+The Draw,['Jerome Bixby'],['./CORPUS/ScienceFiction/31778.txt'],{'Science Fiction'}
+An Ounce of Cure,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22866.txt'],{'Science Fiction'}
+Test Rocket!,['Jack Douglas'],['./CORPUS/ScienceFiction/23651.txt'],{'Science Fiction'}
+The Fantasy Fan December 1933,['Charles D. Hornig'],['./CORPUS/ScienceFiction/46535.txt'],{'Science Fiction'}
+By Earthlight,['Bryce Walton'],['./CORPUS/ScienceFiction/33842.txt'],{'Science Fiction'}
+A Thousand Degrees Below Zero,['Murray Leinster'],['./CORPUS/ScienceFiction/50585.txt'],{'Science Fiction'}
+The Jewels of Aptor,['Samuel R. Delany'],['./CORPUS/ScienceFiction/41981.txt'],{'Science Fiction'}
+The Princess and the Goblin,['George MacDonald'],['./CORPUS/Fantasy/34339.txt'],{'Fantasy'}
+Wanderer of Infinity,['Harl Vincent'],['./CORPUS/ScienceFiction/29408.txt'],{'Science Fiction'}
+Perfect Answer,['L.J. Stecher'],['./CORPUS/ScienceFiction/51482.txt'],{'Science Fiction'}
+The Enchanted Island of Yew,['L. Frank Baum'],['./CORPUS/Fantasy/518.txt'],{'Fantasy'}
+The Vampyre; A Tale,['John William Polidori'],['./CORPUS/Horror/6087.txt'],{'Horror'}
+"Waste Not, Want",['Dave Dryfoos'],['./CORPUS/ScienceFiction/30416.txt'],{'Science Fiction'}
+To the Last Man,['Zane Grey'],['./CORPUS/Western/2070.txt'],{'Western'}
+The Airlords of Han,['Philip Francis Nowlan'],['./CORPUS/ScienceFiction/25438.txt'],{'Science Fiction'}
+Space Viking,['Henry Beam Piper'],['./CORPUS/ScienceFiction/20728.txt'],{'Science Fiction'}
+The Diamond Lens,"[""Fitz-James O'Brien""]",['./CORPUS/ScienceFiction/50332.txt'],{'Science Fiction'}
+Ten From Infinity,['Paul W. Fairman'],['./CORPUS/ScienceFiction/20856.txt'],{'Science Fiction'}
+The Rangeland Avenger,['Max Brand'],['./CORPUS/Western/10601.txt'],{'Western'}
+The Night of the Long Knives,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/25024.txt'],{'Science Fiction'}
+The Cords of Vanity,['James Branch Cabell'],['./CORPUS/Fantasy/9608.txt'],{'Fantasy'}
+More Russian Picture Tales,['Valery Carrick'],['./CORPUS/FairyTale/23462.txt'],{'Fairy Tale'}
+Tom Swift in the Land of Wonders,['Victor Appleton'],['./CORPUS/Adventure/499.txt'],{'Adventure'}
+"B. C. 30,000",['Sterner St. Paul Meek'],['./CORPUS/ScienceFiction/26989.txt'],{'Science Fiction'}
+Loot of the Void,['Edwin K. Sloat'],['./CORPUS/ScienceFiction/29457.txt'],{'Science Fiction'}
+Nor Iron Bars a Cage....,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30832.txt'],{'Science Fiction'}
+The Answer,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18342.txt'],{'Science Fiction'}
+Bad Memory,['Patrick Fahy'],['./CORPUS/ScienceFiction/51498.txt'],{'Science Fiction'}
+The Rustlers of Pecos County,['Zane Grey'],['./CORPUS/Western/15580.txt'],{'Western'}
+Hero-Myths & Legends of the British Race,['Maud Isabel Ebbutt'],['./CORPUS/FairyTale/25502.txt'],{'Fairy Tale'}
+Strange Alliance,['Bryce Walton'],['./CORPUS/ScienceFiction/28047.txt'],{'Science Fiction'}
+Just William,['Richmal Crompton'],['./CORPUS/Adventure/34414.txt'],{'Adventure'}
+Lord Jim,['Joseph Conrad'],['./CORPUS/Adventure/5658.txt'],{'Adventure'}
+The Eyes Have It,['James McKimmey'],['./CORPUS/ScienceFiction/30438.txt'],{'Science Fiction'}
+The Man Who Knew Too Much,['G.K. Chesterton'],['./CORPUS/CrimeMystery/1720.txt'],{'Crime and Mystery'}
+The Serpent River,['Don Wilcox'],['./CORPUS/ScienceFiction/50923.txt'],{'Science Fiction'}
+Beyond Pandora,['Robert J. Martin'],['./CORPUS/ScienceFiction/23930.txt'],{'Science Fiction'}
+Quest of the Golden Ape,['Ivar Jorgensen'],['./CORPUS/ScienceFiction/32953.txt'],{'Science Fiction'}
+The Radio Boys Rescue the Lost Alaska Expedition,['Gerald Breckenridge'],['./CORPUS/Adventure/36314.txt'],{'Adventure'}
+Hints for Lovers,['Arnold Haultain'],['./CORPUS/Romance/14255.txt'],{'Romance'}
+Invasion,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/29455.txt'],{'Science Fiction'}
+The Premiere,['Richard Sabia'],['./CORPUS/ScienceFiction/24865.txt'],{'Science Fiction'}
+The Dope on Mars,['John Michael Sharkey'],['./CORPUS/ScienceFiction/26843.txt'],{'Science Fiction'}
+The Face And The Mask,['Robert Barr'],['./CORPUS/ScienceFiction/8681.txt'],{'Science Fiction'}
+The Galaxy Primes,['Edward Elmer Smith'],"['./CORPUS/Adventure/20898.txt', './CORPUS/ScienceFiction/20898.txt']","{'Adventure', 'Science Fiction'}"
+One of the 28th,['G.A. Henty'],['./CORPUS/Adventure/14313.txt'],{'Adventure'}
+A Journey to the Centre of the Earth,['Jules Verne'],"['./CORPUS/ScienceFiction/18857.txt', './CORPUS/Fantasy/18857.txt']","{'Science Fiction', 'Fantasy'}"
+The Perfectionists,['Arnold Castle'],['./CORPUS/ScienceFiction/24977.txt'],{'Science Fiction'}
+Giants on the Earth,['Sterner St. Paul Meek'],['./CORPUS/ScienceFiction/22132.txt'],{'Science Fiction'}
+The Happy Family,['Bertha Muzzy Bower'],['./CORPUS/Western/13670.txt'],{'Western'}
+The Unnecessary Man,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24529.txt'],{'Science Fiction'}
+The Gravity Business,['James E. Gunn'],['./CORPUS/ScienceFiction/49897.txt'],{'Science Fiction'}
+Hail to the Chief,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/26109.txt'],{'Science Fiction'}
+The Mystery of the Yellow Room,['Gaston Leroux'],['./CORPUS/CrimeMystery/1685.txt'],{'Crime and Mystery'}
+"Astounding Stories of Super-Science, August 1930",['Various'],['./CORPUS/ScienceFiction/29768.txt'],{'Science Fiction'}
+Dead Men Tell No Tales,['E.W. Hornung'],['./CORPUS/CrimeMystery/1703.txt'],{'Crime and Mystery'}
+The Eye of Zeitoon,['Talbot Mundy'],['./CORPUS/Adventure/5241.txt'],{'Adventure'}
+Let There Be Light,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/32592.txt'],{'Science Fiction'}
+The Son of Tarzan,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/90.txt', './CORPUS/Fantasy/90.txt']","{'Adventure', 'Fantasy'}"
+No Strings Attached,['Lester del Rey'],['./CORPUS/ScienceFiction/32395.txt'],{'Science Fiction'}
+Kari the Elephant,['Dhan Gopal Mukerji'],['./CORPUS/Fantasy/24460.txt'],{'Fantasy'}
+The Survivors of the Chancellor,['Jules Verne'],['./CORPUS/Adventure/1652.txt'],{'Adventure'}
+Competition,['James Causey'],['./CORPUS/ScienceFiction/29632.txt'],{'Science Fiction'}
+The Hanging Stranger,['Philip K. Dick'],['./CORPUS/ScienceFiction/41562.txt'],{'Science Fiction'}
+The Outbreak of Peace,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/29989.txt'],{'Science Fiction'}
+Round-and-Round Trip,['H.B. Fyfe'],['./CORPUS/ScienceFiction/51741.txt'],{'Science Fiction'}
+Bread Overhead,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/22579.txt'],{'Science Fiction'}
+Inside Earth,['Poul Anderson'],['./CORPUS/ScienceFiction/51184.txt'],{'Science Fiction'}
+The Machine That Floats,['Joe Gibson'],['./CORPUS/ScienceFiction/49693.txt'],{'Science Fiction'}
+All The People,['R.A. Lafferty'],['./CORPUS/ScienceFiction/51603.txt'],{'Science Fiction'}
+The Outlet,['Andy Adams'],['./CORPUS/Western/1987.txt'],{'Western'}
+Rip Foster Rides the Gray Planet,['Blake Savage'],['./CORPUS/ScienceFiction/20147.txt'],{'Science Fiction'}
+The Hands,['Richard Sternbach'],['./CORPUS/ScienceFiction/29535.txt'],{'Science Fiction'}
+Scent Makes a Difference,['James Stamers'],['./CORPUS/ScienceFiction/51773.txt'],{'Science Fiction'}
+The Seventh Man,['Max Brand'],['./CORPUS/Western/1897.txt'],{'Western'}
+"Adventures of Huckleberry Finn, Part 4",['Mark Twain'],['./CORPUS/Adventure/7103.txt'],{'Adventure'}
+Acid Bath,['Vaseleos Garson'],['./CORPUS/ScienceFiction/29159.txt'],{'Science Fiction'}
+Resurrection,['Robert Joseph Shea'],"['./CORPUS/Adventure/28031.txt', './CORPUS/ScienceFiction/28031.txt']","{'Adventure', 'Science Fiction'}"
+Fee of the Frontier,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/30901.txt'],{'Science Fiction'}
+McIlvaine's Star,['August Derleth'],['./CORPUS/ScienceFiction/30199.txt'],{'Science Fiction'}
+Bad Medicine,['Robert Sheckley'],['./CORPUS/ScienceFiction/9055.txt'],{'Science Fiction'}
+The Foreign Hand Tie,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30497.txt'],{'Science Fiction'}
+Wonderwings and other Fairy Stories,['Edith Howes'],['./CORPUS/FairyTale/20366.txt'],{'Fairy Tale'}
+...Or Your Money Back,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23534.txt'],{'Science Fiction'}
+Watch the Sky,['James H. Schmitz'],['./CORPUS/ScienceFiction/24558.txt'],{'Science Fiction'}
+The K-Factor,['Harry Harrison'],['./CORPUS/ScienceFiction/22540.txt'],{'Science Fiction'}
+The Colors of Space,['Marion Zimmer Bradley'],['./CORPUS/ScienceFiction/20796.txt'],{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 6",['Mark Twain'],['./CORPUS/Adventure/7105.txt'],{'Adventure'}
+Max Carrados,['Ernest Bramah'],['./CORPUS/CrimeMystery/34732.txt'],{'Crime and Mystery'}
+The Mathematicians,['Arthur Feldman'],['./CORPUS/ScienceFiction/29140.txt'],{'Science Fiction'}
+The Pirates of Ersatz,['Murray Leinster'],['./CORPUS/ScienceFiction/24035.txt'],{'Science Fiction'}
+Wet Magic,['E. Nesbit'],['./CORPUS/Fantasy/50361.txt'],{'Fantasy'}
+Brain Twister,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/22332.txt'],{'Science Fiction'}
+The Water Eater,['Win Marks'],['./CORPUS/ScienceFiction/31841.txt'],{'Science Fiction'}
+The Immortals,['David Duncan'],['./CORPUS/ScienceFiction/51801.txt'],{'Science Fiction'}
+Shock Absorber,['E.G. von Wald'],['./CORPUS/ScienceFiction/24380.txt'],{'Science Fiction'}
+Eastern Standard Tribe,['Cory Doctorow'],['./CORPUS/ScienceFiction/17028.txt'],{'Science Fiction'}
+The Onslaught from Rigel,['Fletcher Pratt'],['./CORPUS/ScienceFiction/41049.txt'],{'Science Fiction'}
+Dearest,['Henry Beam Piper'],['./CORPUS/ScienceFiction/19102.txt'],{'Science Fiction'}
+Tom Swift in Captivity,['Victor Appleton'],['./CORPUS/Adventure/4608.txt'],{'Adventure'}
+"My Father, the Cat",['Henry Slesar'],['./CORPUS/ScienceFiction/28119.txt'],{'Science Fiction'}
+Nada the Lily,['H. Rider Haggard'],['./CORPUS/Adventure/1207.txt'],{'Adventure'}
+Roumanian Fairy Tales,['Various'],['./CORPUS/FairyTale/20552.txt'],{'Fairy Tale'}
+Cause of Death,['Max Tadlock'],['./CORPUS/ScienceFiction/51137.txt'],{'Science Fiction'}
+The Ordeal of Colonel Johns,['George H. Smith'],['./CORPUS/ScienceFiction/32688.txt'],{'Science Fiction'}
+A Study In Scarlet,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/244.txt'],{'Crime and Mystery'}
+The Clique of Gold,['Emile Gaboriau'],['./CORPUS/CrimeMystery/4604.txt'],{'Crime and Mystery'}
+The Bramble Bush,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23764.txt'],{'Science Fiction'}
+Phantastes,['George MacDonald'],['./CORPUS/Fantasy/325.txt'],{'Fantasy'}
+Memoirs of Sherlock Holmes,['Sir Arthur Conan Doyle'],['./CORPUS/CrimeMystery/834.txt'],{'Crime and Mystery'}
+"Astounding Stories of Super-Science, June, 1930",['Various'],['./CORPUS/ScienceFiction/29848.txt'],{'Science Fiction'}
+The Revolt of the Star Men,['Raymond Gallun'],['./CORPUS/ScienceFiction/41027.txt'],{'Science Fiction'}
+The Mating of the Moons,"[""Kenneth O'Hara""]",['./CORPUS/ScienceFiction/40969.txt'],{'Science Fiction'}
+Caesar Dies,['Talbot Mundy'],['./CORPUS/Adventure/10422.txt'],{'Adventure'}
+The Smiler,['Albert Hernhunter'],['./CORPUS/ScienceFiction/30353.txt'],{'Science Fiction'}
+Rung Ho!,['Talbot Mundy'],['./CORPUS/Adventure/5153.txt'],{'Adventure'}
+The Prisoner of Zenda,['Anthony Hope'],['./CORPUS/Adventure/95.txt'],{'Adventure'}
+The Cosmic Express,['John Stewart Williamson'],['./CORPUS/ScienceFiction/26066.txt'],{'Science Fiction'}
+Lighter Than You Think,['Nelson Bond'],['./CORPUS/ScienceFiction/29698.txt'],{'Science Fiction'}
+Astounding Stories of Super-Science April 1930,['Various'],['./CORPUS/ScienceFiction/29390.txt'],{'Science Fiction'}
+The Brain,['Alexander Blade'],['./CORPUS/ScienceFiction/32498.txt'],{'Science Fiction'}
+The Purple Cloud,['M.P. Shiel'],"['./CORPUS/Adventure/11229.txt', './CORPUS/ScienceFiction/11229.txt']","{'Adventure', 'Science Fiction'}"
+Russian Fairy Tales,['W.R.S. Ralston'],['./CORPUS/FairyTale/22373.txt'],{'Fairy Tale'}
+Spoken For,['William Morrison'],['./CORPUS/ScienceFiction/51121.txt'],{'Science Fiction'}
+When the Sleepers Woke,['Arthur Leo Zagat'],['./CORPUS/ScienceFiction/29322.txt'],{'Science Fiction'}
+Tom Swift and his Air Glider,['Victor Appleton'],['./CORPUS/Adventure/952.txt'],{'Adventure'}
+The Man Who Saw the Future,['Edmond Hamilton'],['./CORPUS/ScienceFiction/28062.txt'],{'Science Fiction'}
+Masterman Ready,['Captain Frederick Marryat'],['./CORPUS/Adventure/21552.txt'],{'Adventure'}
+The Adventures of Sherlock Holmes,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/1661.txt'],{'Crime and Mystery'}
+The Last Stroke,['Lawrence L. Lynch'],['./CORPUS/CrimeMystery/35304.txt'],{'Crime and Mystery'}
+The Amateur Cracksman,['E.W. Hornung'],['./CORPUS/CrimeMystery/706.txt'],{'Crime and Mystery'}
+Plays of Gods and Men,['Lord Dunsany'],['./CORPUS/Fantasy/11283.txt'],{'Fantasy'}
+Ultima Thule,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/30334.txt'],{'Science Fiction'}
+Two Plus Two Makes Crazy,['Walt Sheldon'],['./CORPUS/ScienceFiction/28894.txt'],{'Science Fiction'}
+The Last Place on Earth,['James Judson Harmon'],['./CORPUS/ScienceFiction/23426.txt'],{'Science Fiction'}
+One-Shot,['James Benjamin Blish'],['./CORPUS/ScienceFiction/22958.txt'],{'Science Fiction'}
+Shipwreck in the Sky,['Eando Binder'],['./CORPUS/ScienceFiction/29133.txt'],{'Science Fiction'}
+Subspace Survivors,['E.E. Smith'],['./CORPUS/ScienceFiction/21647.txt'],{'Science Fiction'}
+Rough Beast,['Roger Dee'],['./CORPUS/ScienceFiction/48880.txt'],{'Science Fiction'}
+Tarzan of the Apes,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/78.txt', './CORPUS/Fantasy/78.txt']","{'Adventure', 'Fantasy'}"
+The Venus Trap,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/31583.txt'],{'Science Fiction'}
+Cost of Living,['Robert Sheckley'],['./CORPUS/ScienceFiction/29458.txt'],{'Science Fiction'}
+The Leader,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/23612.txt'],{'Science Fiction'}
+The Hour of the Dragon,['Robert E. Howard'],['./CORPUS/ScienceFiction/42243.txt'],{'Science Fiction'}
+I Like Martian Music,['Charles E. Fritch'],['./CORPUS/ScienceFiction/28451.txt'],{'Science Fiction'}
+"Star, Bright",['Mark Clifton'],['./CORPUS/ScienceFiction/50935.txt'],{'Science Fiction'}
+Fire-Tongue,['Sax Rohmer'],['./CORPUS/CrimeMystery/1159.txt'],{'Crime and Mystery'}
+The Red Triangle,['Arthur Morrison'],['./CORPUS/CrimeMystery/28071.txt'],{'Crime and Mystery'}
+Traders Risk,['Roger Dee'],['./CORPUS/ScienceFiction/23103.txt'],{'Science Fiction'}
+Success Story,['Earl Goodale'],['./CORPUS/ScienceFiction/51805.txt'],{'Science Fiction'}
+The Keeper,['Henry Beam Piper'],['./CORPUS/ScienceFiction/19338.txt'],{'Science Fiction'}
+Wuthering Heights,['Emily Bronte'],['./CORPUS/Romance/768.txt'],{'Romance'}
+The Return of Tarzan,['Edgar Rice Burroughs'],['./CORPUS/Fantasy/81.txt'],{'Fantasy'}
+Double Standard,['Alfred Coppel'],['./CORPUS/ScienceFiction/51363.txt'],{'Science Fiction'}
+Toilers of the Sea,['Victor Hugo'],['./CORPUS/Adventure/32338.txt'],{'Adventure'}
+Murder in the Gunroom,['Henry Beam Piper'],['./CORPUS/CrimeMystery/17866.txt'],{'Crime and Mystery'}
+Mother America,['Sam McClatchie'],['./CORPUS/ScienceFiction/26180.txt'],{'Science Fiction'}
+The Time Traders,['Andre Norton'],['./CORPUS/ScienceFiction/19145.txt'],{'Science Fiction'}
+The Story of the Glittering Plain,['William Morris'],['./CORPUS/Fantasy/2565.txt'],{'Fantasy'}
+Soldier Boy,['Michael Shaara'],['./CORPUS/ScienceFiction/50848.txt'],{'Science Fiction'}
+Raiders Invisible,['Desmond Winter Hall'],['./CORPUS/ScienceFiction/29053.txt'],{'Science Fiction'}
+Instinct,['George Oliver Smith'],['./CORPUS/ScienceFiction/23931.txt'],{'Science Fiction'}
+The Altar at Midnight,['Cyril M. Kornbluth'],['./CORPUS/ScienceFiction/29619.txt'],{'Science Fiction'}
+Dr. Jekyll and Mr. Hyde,['Robert Louis Stevenson'],['./CORPUS/Horror/42.txt'],{'Horror'}
+The Phantom Herd,['B.M. Bower'],['./CORPUS/Western/12663.txt'],{'Western'}
+The Invisible Man,['H.G. Wells'],"['./CORPUS/ScienceFiction/5230.txt', './CORPUS/Horror/5230.txt']","{'Science Fiction', 'Horror'}"
+The Asses of Balaam,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30583.txt'],{'Science Fiction'}
+The Black Arrow,['Robert Louis Stevenson'],['./CORPUS/Adventure/848.txt'],{'Adventure'}
+The Fire People,['Ray Cummings'],['./CORPUS/ScienceFiction/25780.txt'],{'Science Fiction'}
+The Defiant Agents,['Andre Alice Norton'],"['./CORPUS/Adventure/25550.txt', './CORPUS/ScienceFiction/25550.txt']","{'Adventure', 'Science Fiction'}"
+A Thin Ghost and Others,['M.R.  James'],['./CORPUS/Horror/20387.txt'],{'Horror'}
+Pushbutton War,['Joseph P. Martino'],['./CORPUS/ScienceFiction/24122.txt'],{'Science Fiction'}
+Cry Snooker,['Andrew Fetler'],['./CORPUS/ScienceFiction/51570.txt'],{'Science Fiction'}
+Subject to Change,['Ron Goulart'],['./CORPUS/ScienceFiction/51571.txt'],{'Science Fiction'}
+Problem on Balak,['Roger D. Aycock'],['./CORPUS/ScienceFiction/33839.txt'],{'Science Fiction'}
+The Yellow Claw,['Sax Rohmer'],['./CORPUS/CrimeMystery/2028.txt'],{'Crime and Mystery'}
+The Story of Sigurd the Volsung and the Fall of the Niblungs,['William Morris'],['./CORPUS/Fantasy/18328.txt'],{'Fantasy'}
+A Coffin for Jacob,['Edward W. Ludwig'],['./CORPUS/ScienceFiction/51203.txt'],{'Science Fiction'}
+The Most Sentimental Man,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/29791.txt'],{'Science Fiction'}
+Jack of No Trades,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/49838.txt'],{'Science Fiction'}
+The Haunted Hotel,['Wilkie Collins'],['./CORPUS/Horror/170.txt'],{'Horror'}
+Astounding Stories of Super-Science January 1931,['Various'],['./CORPUS/ScienceFiction/30177.txt'],{'Science Fiction'}
+"The Envoy, Her",['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/32637.txt'],{'Science Fiction'}
+High Dragon Bump,['Don Thompson'],['./CORPUS/ScienceFiction/30330.txt'],{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 5",['Mark Twain'],['./CORPUS/Adventure/7104.txt'],{'Adventure'}
+Collector's Item,['Robert F. Young'],['./CORPUS/ScienceFiction/28924.txt'],{'Science Fiction'}
+Warning from the Stars,['Ron Cocking'],['./CORPUS/ScienceFiction/22545.txt'],{'Science Fiction'}
+Leviathan,['Thomas Hobbes'],['./CORPUS/Fantasy/3207.txt'],{'Fantasy'}
+The Last Letter,['Fritz Leiber'],['./CORPUS/ScienceFiction/51530.txt'],{'Science Fiction'}
+Creatures of the Abyss,['Murray Leinster'],"['./CORPUS/Adventure/42901.txt', './CORPUS/ScienceFiction/42901.txt']","{'Adventure', 'Science Fiction'}"
+Forty-one Thieves,['Angelo Hall'],['./CORPUS/Western/19695.txt'],{'Western'}
+Time In the Round,['Fritz Leiber'],['./CORPUS/ScienceFiction/51380.txt'],{'Science Fiction'}
+The Book of Wonder,"['Edward J.M.D. Plunkett', 'Lord Dunsany']",['./CORPUS/Fantasy/7477.txt'],{'Fantasy'}
+The Floating Island of Madness,['Jason Kirby'],['./CORPUS/ScienceFiction/29421.txt'],{'Science Fiction'}
+The Victor,['Bryce Walton'],['./CORPUS/ScienceFiction/32903.txt'],{'Science Fiction'}
+This World Is Taboo,['Murray Leinster'],['./CORPUS/ScienceFiction/18172.txt'],{'Science Fiction'}
+West Of The Sun,['Edgar Pangborn'],['./CORPUS/ScienceFiction/39572.txt'],{'Science Fiction'}
+When I Grow Up,['Richard E. Lowe'],['./CORPUS/ScienceFiction/28953.txt'],{'Science Fiction'}
+The Lost Stradivarius,['John Meade Falkner'],['./CORPUS/Horror/14107.txt'],{'Horror'}
+The League of the Scarlet Pimpernel,['Baroness Orczy'],['./CORPUS/Adventure/5805.txt'],{'Adventure'}
+Graveyard of Dreams,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18109.txt'],{'Science Fiction'}
+"Swenson, Dispatcher",['R. DeWitt Miller'],['./CORPUS/ScienceFiction/51331.txt'],{'Science Fiction'}
+Show Business,['William C. Boyd'],['./CORPUS/ScienceFiction/30189.txt'],{'Science Fiction'}
+Wainer,['Michael Shaara'],['./CORPUS/ScienceFiction/32230.txt'],{'Science Fiction'}
+That Affair at Elizabeth,['Burton E. Stevenson'],['./CORPUS/CrimeMystery/35247.txt'],{'Crime and Mystery'}
+Doomsday Eve,['Robert Moore Williams'],['./CORPUS/ScienceFiction/50138.txt'],{'Science Fiction'}
+"Astounding Stories,  April, 1931",['Various'],['./CORPUS/ScienceFiction/30452.txt'],{'Science Fiction'}
+The Success Machine,['Henry Slesar'],['./CORPUS/ScienceFiction/26168.txt'],{'Science Fiction'}
+Earthmen Bearing Gifts,['Fredric Brown'],['./CORPUS/ScienceFiction/26521.txt'],{'Science Fiction'}
+Naudsonce,['H. Beam Piper'],['./CORPUS/ScienceFiction/19076.txt'],{'Science Fiction'}
+Faithfully Yours,['Lou Tabakow'],['./CORPUS/ScienceFiction/24566.txt'],{'Science Fiction'}
+Scaramouche,['Rafael Sabatini'],['./CORPUS/Adventure/1947.txt'],{'Adventure'}
+The Fantasy Fan February 1934,['Various'],['./CORPUS/ScienceFiction/46616.txt'],{'Science Fiction'}
+Erewhon Revisited,['Samuel Butler'],['./CORPUS/ScienceFiction/1971.txt'],{'Science Fiction'}
+The People that Time Forgot,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/552.txt'],{'Science Fiction'}
+The Sky Is Falling,['Lester del Rey'],['./CORPUS/ScienceFiction/18768.txt'],{'Science Fiction'}
+Lords of the Stratosphere,['Arthur J. Burks'],['./CORPUS/ScienceFiction/29466.txt'],{'Science Fiction'}
+The Human Chord,['Algernon Blackwood'],['./CORPUS/Fantasy/11988.txt'],{'Fantasy'}
+Hunted Down,['Charles Dickens'],['./CORPUS/CrimeMystery/807.txt'],{'Crime and Mystery'}
+The Jupiter Weapon,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/27588.txt'],{'Science Fiction'}
+The Problem Makers,['Robert P. Hoskins'],['./CORPUS/ScienceFiction/50971.txt'],{'Science Fiction'}
+Instant of Decision,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/32088.txt'],{'Science Fiction'}
+"Astounding Stories of Super-Science, May, 1930",['Various'],['./CORPUS/ScienceFiction/29809.txt'],{'Science Fiction'}
+News from Nowhere,['William Morris'],"['./CORPUS/ScienceFiction/3261.txt', './CORPUS/Fantasy/3261.txt']","{'Science Fiction', 'Fantasy'}"
+The Picture of Dorian Gray,['Oscar Wilde'],['./CORPUS/Fantasy/174.txt'],{'Fantasy'}
+The Moon Metal,['Garrett P. Serviss'],['./CORPUS/ScienceFiction/8199.txt'],{'Science Fiction'}
+Mex,['William Logan'],['./CORPUS/ScienceFiction/28518.txt'],{'Science Fiction'}
+Belly Laugh,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/28643.txt'],{'Science Fiction'}
+Le Corbeau,['Edgar Allan Poe'],['./CORPUS/Horror/14082.txt'],{'Horror'}
+The Flying Cuspidors,['V.R. Francis'],['./CORPUS/ScienceFiction/29749.txt'],{'Science Fiction'}
+Contagion,['Katherine MacLean'],['./CORPUS/ScienceFiction/50774.txt'],{'Science Fiction'}
+The People Of The Mist,['H. Rider Haggard'],['./CORPUS/Adventure/6769.txt'],{'Adventure'}
+Consignment,['Alan E. Nourse'],['./CORPUS/ScienceFiction/41565.txt'],{'Science Fiction'}
+The Doomsman,['Van Tassel Sutphen'],['./CORPUS/ScienceFiction/27730.txt'],{'Science Fiction'}
+The 4-D Doodler,['Graph Waldeyer'],['./CORPUS/ScienceFiction/22227.txt'],{'Science Fiction'}
+Man's Best Friend,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/51050.txt'],{'Science Fiction'}
+Regeneration,['Charles Dye'],['./CORPUS/ScienceFiction/19964.txt'],{'Science Fiction'}
+The House of Souls,['Arthur Machen'],['./CORPUS/Horror/25016.txt'],{'Horror'}
+Under Arctic Ice,['H.G. Winter'],['./CORPUS/ScienceFiction/29475.txt'],{'Science Fiction'}
+Stories from Le Morte D'Arthur and the Mabinogion,['Beatrice Clay'],['./CORPUS/Fantasy/15551.txt'],{'Fantasy'}
+...After a Few Words...,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23960.txt'],{'Science Fiction'}
+Native Son,['T.D. Hamm'],['./CORPUS/ScienceFiction/30014.txt'],{'Science Fiction'}
+The Golden Scorpion,['Sax Rohmer'],['./CORPUS/CrimeMystery/18613.txt'],{'Crime and Mystery'}
+The Furious Rose,['Dean Evans'],['./CORPUS/ScienceFiction/51257.txt'],{'Science Fiction'}
+A Stone and a Spear,['Raymond F. Jones'],['./CORPUS/ScienceFiction/51075.txt'],{'Science Fiction'}
+Shadow of the Mothaship,['Cory Doctorow'],['./CORPUS/ScienceFiction/17029.txt'],{'Science Fiction'}
+This is Klon Calling,['Walt Sheldon'],['./CORPUS/ScienceFiction/28954.txt'],{'Science Fiction'}
+The Other Likeness,['James H. Schmitz'],['./CORPUS/ScienceFiction/30398.txt'],{'Science Fiction'}
+The Count of Monte Cristo,"['Alexandre Dumas', 'pÃ¨re']",['./CORPUS/Adventure/1184.txt'],{'Adventure'}
+Told in the East,['Talbot Mundy'],['./CORPUS/Adventure/5315.txt'],{'Adventure'}
+Caught In The Net,['Emile Gaboriau'],['./CORPUS/CrimeMystery/2451.txt'],{'Crime and Mystery'}
+The Best Made Plans,['Everett B. Cole'],['./CORPUS/ScienceFiction/22892.txt'],{'Science Fiction'}
+A Matter of Protocol,['Jack Sharkey'],['./CORPUS/ScienceFiction/51615.txt'],{'Science Fiction'}
+Hot Planet,['Hal Clement'],['./CORPUS/ScienceFiction/50928.txt'],{'Science Fiction'}
+The Well at the World's End,['William Morris'],['./CORPUS/Fantasy/169.txt'],{'Fantasy'}
+Prospector's Special,['Robert Sheckley'],['./CORPUS/ScienceFiction/51768.txt'],{'Science Fiction'}
+Tom Swift and his Giant Cannon,['Victor Appleton'],['./CORPUS/Adventure/1361.txt'],{'Adventure'}
+What Do You Read?,['Boyd Ellanby'],['./CORPUS/ScienceFiction/49754.txt'],{'Science Fiction'}
+With The Night Mail,['Rudyard Kipling'],['./CORPUS/ScienceFiction/29135.txt'],{'Science Fiction'}
+Step IV,['Rosel George Brown'],['./CORPUS/ScienceFiction/30884.txt'],{'Science Fiction'}
+Riders of the Silences,['Max Brand'],['./CORPUS/Western/9867.txt'],{'Western'}
+End as a Hero,['Keith Laumer'],"['./CORPUS/Adventure/51267.txt', './CORPUS/ScienceFiction/51267.txt']","{'Adventure', 'Science Fiction'}"
+The Hunted Heroes,['Robert Silverberg'],['./CORPUS/ScienceFiction/25627.txt'],{'Science Fiction'}
+The Call of the Wild,['Jack London'],['./CORPUS/Adventure/215.txt'],{'Adventure'}
+The Reluctant Heroes,['Frank M. Robinson'],['./CORPUS/ScienceFiction/51483.txt'],{'Science Fiction'}
+Bullet With His Name,['Fritz Leiber'],['./CORPUS/ScienceFiction/51436.txt'],{'Science Fiction'}
+Unbegotten Child,['Winston Marks'],['./CORPUS/ScienceFiction/32149.txt'],{'Science Fiction'}
+Treachery in Outer Space,"['Carey Rockwell', 'Louis Glanzman']",['./CORPUS/ScienceFiction/18786.txt'],{'Science Fiction'}
+Bucky O'Connor,['William MacLeod Raine'],['./CORPUS/Western/1809.txt'],{'Western'}
+A Matter of Magnitude,['Al Sevcik'],['./CORPUS/ScienceFiction/24927.txt'],{'Science Fiction'}
+The Dwindling Years,['Lester Del Rey'],['./CORPUS/ScienceFiction/50103.txt'],{'Science Fiction'}
+The Sword of Welleran and Other Stories,['Lord Dunsany'],['./CORPUS/Fantasy/10806.txt'],{'Fantasy'}
+"Astounding Stories of Super-Science, October, 1930",['Various'],['./CORPUS/ScienceFiction/29882.txt'],{'Science Fiction'}
+Twilight Land,['Howard Pyle'],['./CORPUS/Fantasy/1751.txt'],{'Fantasy'}
+The Space Rover,['Edwin K. Sloat'],['./CORPUS/ScienceFiction/29702.txt'],{'Science Fiction'}
+Big Pill,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/31929.txt'],{'Science Fiction'}
+The Jameson Satellite,['Neil Ronald Jones'],['./CORPUS/ScienceFiction/26906.txt'],{'Science Fiction'}
+Mars is my Destination,['Frank Belknap Long'],['./CORPUS/ScienceFiction/51125.txt'],{'Science Fiction'}
+Little Brother,['Cory Doctorow'],['./CORPUS/ScienceFiction/30142.txt'],{'Science Fiction'}
+Wells Brothers,['Andy Adams'],['./CORPUS/Western/12791.txt'],{'Western'}
+The Glory of Ippling,['Helen M. Urban'],['./CORPUS/ScienceFiction/23185.txt'],{'Science Fiction'}
+Weak on Square Roots,['Russell Burton'],['./CORPUS/ScienceFiction/29976.txt'],{'Science Fiction'}
+Swiss Family Robinson,['Johann David Wyss'],['./CORPUS/Adventure/3836.txt'],{'Adventure'}
+Fairy Tales Every Child Should Know,['Various'],['./CORPUS/FairyTale/14916.txt'],{'Fairy Tale'}
+The Celestial Hammerlock,['Donald Colvin'],['./CORPUS/ScienceFiction/51533.txt'],{'Science Fiction'}
+Trilby,['George Du Maurier'],['./CORPUS/Fantasy/39858.txt'],{'Fantasy'}
+Zen,['Jerome Bixby'],['./CORPUS/ScienceFiction/29750.txt'],{'Science Fiction'}
+The Anglers of Arz,['Roger Phillips Dee'],['./CORPUS/ScienceFiction/32665.txt'],{'Science Fiction'}
+The Feeling,['Roger Dee'],['./CORPUS/ScienceFiction/51518.txt'],{'Science Fiction'}
+Out with Garibaldi,['G.A. Henty'],['./CORPUS/Adventure/45573.txt'],{'Adventure'}
+Jimgrim and Allah's Peace,['Talbot Mundy'],['./CORPUS/Adventure/11357.txt'],{'Adventure'}
+Death Wish,['Robert Sheckley'],['./CORPUS/ScienceFiction/29876.txt'],{'Science Fiction'}
+Indirection,['Everett B. Cole'],['./CORPUS/ScienceFiction/23339.txt'],{'Science Fiction'}
+The Untouchable,['Stephen A. Kallis'],['./CORPUS/ScienceFiction/24221.txt'],{'Science Fiction'}
+The Food of the Gods and How It Came to Earth,['H.G. Wells'],['./CORPUS/ScienceFiction/11696.txt'],{'Science Fiction'}
+Cabin Fever,['B.M. Bower'],['./CORPUS/Western/1204.txt'],{'Western'}
+The Wing-and-Wing,['J. Fenimore Cooper'],['./CORPUS/Adventure/11957.txt'],{'Adventure'}
+Bodyguard,['Christopher Grimm'],['./CORPUS/ScienceFiction/50988.txt'],{'Science Fiction'}
+Alien Offer,['Al Sevcik'],['./CORPUS/ScienceFiction/26956.txt'],{'Science Fiction'}
+The Whispering Spheres,['Russell Robert  Winterbotham'],['./CORPUS/ScienceFiction/22226.txt'],{'Science Fiction'}
+Scrimshaw,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/23791.txt'],{'Science Fiction'}
+New Hire,['David M. Dryfoos'],['./CORPUS/ScienceFiction/33969.txt'],{'Science Fiction'}
+A Touch of E Flat,['Joe Gibson'],['./CORPUS/ScienceFiction/51304.txt'],{'Science Fiction'}
+Frankenstein,['Mary Shelley'],['./CORPUS/Horror/41445.txt'],{'Horror'}
+Under the Ocean to the South Pole,['Roy Rockwood'],['./CORPUS/ScienceFiction/19731.txt'],{'Science Fiction'}
+When the Sleeper Wakes,['Herbert George Wells'],['./CORPUS/ScienceFiction/775.txt'],{'Science Fiction'}
+"Sodom and Gomorrah, Texas",['Raphael Aloysius Lafferty'],['./CORPUS/ScienceFiction/23161.txt'],{'Science Fiction'}
+Warlord of Kor,['Terry Gene Carr'],['./CORPUS/ScienceFiction/17958.txt'],{'Science Fiction'}
+Time and Time Again,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18831.txt'],{'Science Fiction'}
+Forever,['Robert Sheckley'],['./CORPUS/ScienceFiction/29487.txt'],{'Science Fiction'}
+Vital Ingredient,['Charles V. De Vet'],['./CORPUS/ScienceFiction/30491.txt'],{'Science Fiction'}
+Selections from the Writings of Lord Dunsay,['Lord Dunsany'],['./CORPUS/Fantasy/13664.txt'],{'Fantasy'}
+The Piebald Hippogriff,['Karen Anderson'],['./CORPUS/ScienceFiction/43048.txt'],{'Science Fiction'}
+The Secret Martians,['Jack Sharkey'],['./CORPUS/ScienceFiction/50668.txt'],{'Science Fiction'}
+The Sword and the Atopen,['Taylor H. Greenfield'],['./CORPUS/ScienceFiction/26883.txt'],{'Science Fiction'}
+The Scarlet Pimpernel,['Baroness Orczy'],['./CORPUS/Adventure/60.txt'],{'Adventure'}
+Security Risk,['Ed M. Clinton'],['./CORPUS/ScienceFiction/35759.txt'],{'Science Fiction'}
+The Great Potlatch Riots,['Allen Kim Lang'],['./CORPUS/ScienceFiction/24864.txt'],{'Science Fiction'}
+English Fairy Tales,['Anonymous'],['./CORPUS/FairyTale/7439.txt'],{'Fairy Tale'}
+A Fall of Glass,['Stanley R. Lee'],['./CORPUS/ScienceFiction/51609.txt'],{'Science Fiction'}
+The Firelight Fairy Book,['Henry  Beston'],['./CORPUS/FairyTale/19207.txt'],{'Fairy Tale'}
+The Stowaway,['Alvin Heiner'],['./CORPUS/ScienceFiction/30361.txt'],{'Science Fiction'}
+Make Mine Homogenized,['Rick Raphael'],['./CORPUS/ScienceFiction/24119.txt'],{'Science Fiction'}
+Asteroid of Fear,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/32780.txt'],{'Science Fiction'}
+Picture Bride,['William Morrison'],['./CORPUS/ScienceFiction/51009.txt'],{'Science Fiction'}
+Man of Distinction,['Michael Shaara'],['./CORPUS/ScienceFiction/51288.txt'],{'Science Fiction'}
+Marie,['H. Rider Haggard'],['./CORPUS/Adventure/1690.txt'],{'Adventure'}
+Widdershins,['Oliver Onions'],['./CORPUS/Horror/14168.txt'],{'Horror'}
+The Secret Adversary,['Agatha Christie'],['./CORPUS/CrimeMystery/1155.txt'],{'Crime and Mystery'}
+In Case of Fire,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24521.txt'],{'Science Fiction'}
+Prologue to an Analogue,['Leigh Richmond'],['./CORPUS/ScienceFiction/30242.txt'],{'Science Fiction'}
+The Devil Doctor,['Sax Rohmer'],['./CORPUS/CrimeMystery/19142.txt'],{'Crime and Mystery'}
+Pardners,['Rex Beach'],['./CORPUS/Western/13135.txt'],{'Western'}
+Jane Eyre,['Charlotte Bronte'],['./CORPUS/Romance/1260.txt'],{'Romance'}
+Question of Comfort,['Les Collins'],['./CORPUS/ScienceFiction/22597.txt'],{'Science Fiction'}
+On a Torn-Away World,['Roy Rockwood'],['./CORPUS/ScienceFiction/6468.txt'],{'Science Fiction'}
+The Mantooth,['Christopher Leadem'],['./CORPUS/ScienceFiction/17394.txt'],{'Science Fiction'}
+Do Unto Others,['Mark Clifton'],['./CORPUS/ScienceFiction/32181.txt'],{'Science Fiction'}
+Oomphel in the Sky,['Henry Beam Piper'],['./CORPUS/ScienceFiction/20649.txt'],{'Science Fiction'}
+The Deerslayer,['James Fenimore Cooper'],['./CORPUS/Adventure/3285.txt'],{'Adventure'}
+Four Arthurian Romances,['Chretien DeTroyes'],['./CORPUS/Fantasy/831.txt'],{'Fantasy'}
+Damned If You Don't,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24064.txt'],{'Science Fiction'}
+Master of None,['Lloyd Neil Goble'],['./CORPUS/ScienceFiction/27383.txt'],{'Science Fiction'}
+Liza of Lambeth,['W. Somerset Maugham'],['./CORPUS/Romance/16517.txt'],{'Romance'}
+Dr. Heidenhoff's Process,['Edward Bellamy'],['./CORPUS/ScienceFiction/7052.txt'],{'Science Fiction'}
+Welsh Fairy-Tales And Other Stories,['Anonymous'],['./CORPUS/FairyTale/8675.txt'],{'Fairy Tale'}
+Creatures of Vibration,['Harl Vincent'],['./CORPUS/ScienceFiction/22154.txt'],{'Science Fiction'}
+Lord Tedric,['Edward Elmer Smith'],"['./CORPUS/Adventure/49462.txt', './CORPUS/ScienceFiction/49462.txt']","{'Adventure', 'Science Fiction'}"
+The Highest Treason,['Randall Garrett'],['./CORPUS/ScienceFiction/24302.txt'],{'Science Fiction'}
+The Great Drought,['Sterner St. Paul Meek'],['./CORPUS/ScienceFiction/29326.txt'],{'Science Fiction'}
+The Infra-Medians,['Sewell Peaslee Wright'],['./CORPUS/ScienceFiction/20838.txt'],{'Science Fiction'}
+The Secret of the Night,['Gaston Leroux'],['./CORPUS/CrimeMystery/1686.txt'],{'Crime and Mystery'}
+Stopover Planet,['Robert E. Gilbert'],['./CORPUS/ScienceFiction/30015.txt'],{'Science Fiction'}
+The Good Neighbors,['Edgar Pangborn'],['./CORPUS/ScienceFiction/26536.txt'],{'Science Fiction'}
+The Green Eyes of Bast,['Sax Rohmer'],['./CORPUS/CrimeMystery/15323.txt'],{'Crime and Mystery'}
+"The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar",['Maurice Leblanc'],['./CORPUS/CrimeMystery/6133.txt'],{'Crime and Mystery'}
+Always a Qurono,['Jim Harmon'],['./CORPUS/ScienceFiction/51623.txt'],{'Science Fiction'}
+Lone Star Planet,"['Henry Beam Piper', 'John Joseph McGuire']",['./CORPUS/ScienceFiction/20121.txt'],{'Science Fiction'}
+A Deal in Wheat,['Frank Norris'],['./CORPUS/Western/9905.txt'],{'Western'}
+Cinderella in the South,['Arthur Shearly Cripps'],['./CORPUS/FairyTale/22886.txt'],{'Fairy Tale'}
+The Marching Morons,['C.M. Kornbluth'],['./CORPUS/ScienceFiction/51233.txt'],{'Science Fiction'}
+Tom Sawyer Abroad,['Mark Twain'],['./CORPUS/Adventure/91.txt'],{'Adventure'}
+Mid Pleasures and Palaces,['James McKimmey'],['./CORPUS/ScienceFiction/31703.txt'],{'Science Fiction'}
+License to Steal,['Louis Newman'],['./CORPUS/ScienceFiction/51420.txt'],{'Science Fiction'}
+Flatland: A Romance of Many Dimensions (Illustrated),['Edwin A. Abbot'],['./CORPUS/ScienceFiction/201.txt'],{'Science Fiction'}
+Citadel,['Algirdas Jonas Budrys'],['./CORPUS/ScienceFiction/26191.txt'],{'Science Fiction'}
+The Vilbar Party,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/31626.txt'],{'Science Fiction'}
+"Astounding Stories, February, 1931",['Various'],['./CORPUS/ScienceFiction/30124.txt'],{'Science Fiction'}
+Dope,['Sax Rohmer'],['./CORPUS/CrimeMystery/1182.txt'],{'Crime and Mystery'}
+Juju,['Murray Leinster'],['./CORPUS/ScienceFiction/50719.txt'],{'Science Fiction'}
+The Variable Man,['Philip K. Dick'],['./CORPUS/ScienceFiction/32154.txt'],{'Science Fiction'}
+The Trial,['Franz Kafka'],"['./CORPUS/Horror/7849.txt', './CORPUS/Fantasy/7849.txt']","{'Horror', 'Fantasy'}"
+The Next Time We Die,['Robert Moore Williams'],['./CORPUS/ScienceFiction/32683.txt'],{'Science Fiction'}
+Millennium,['Everett B. Cole'],['./CORPUS/ScienceFiction/24779.txt'],{'Science Fiction'}
+"$1,000 A Plate",['Jack McKenty'],['./CORPUS/ScienceFiction/50921.txt'],{'Science Fiction'}
+A Chinese Wonder Book,['Norman Hinsdale Pitman'],['./CORPUS/FairyTale/18674.txt'],{'Fairy Tale'}
+The Princess and the Curdie,['George MacDonald'],['./CORPUS/Fantasy/709.txt'],{'Fantasy'}
+"Adventures of Huckleberry Finn, Part 1",['Mark Twain'],['./CORPUS/Adventure/7100.txt'],{'Adventure'}
+The Telenizer,['Don Thompson'],['./CORPUS/ScienceFiction/32574.txt'],{'Science Fiction'}
+Farmer,['Mack Reynolds'],['./CORPUS/ScienceFiction/51799.txt'],{'Science Fiction'}
+The Roots of the Mountains,['William Morris'],['./CORPUS/Fantasy/6050.txt'],{'Fantasy'}
+Salvage in Space,['John Stewart Williamson'],['./CORPUS/ScienceFiction/29283.txt'],{'Science Fiction'}
+The Light of Western Stars,['Zane Grey'],"['./CORPUS/Western/1095.txt', './CORPUS/Romance/1095.txt']","{'Western', 'Romance'}"
+The Big Tomorrow,['Paul Lohrman'],['./CORPUS/ScienceFiction/29931.txt'],{'Science Fiction'}
+The Troubadour,['Robert Augustine Ward Lowndes'],['./CORPUS/ScienceFiction/23091.txt'],{'Science Fiction'}
+The Mightiest Man,['Patrick Fahy'],['./CORPUS/ScienceFiction/21582.txt'],{'Science Fiction'}
+The Princess and the Physicist,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/51126.txt'],{'Science Fiction'}
+The Servant Problem,['Robert F. Young'],['./CORPUS/ScienceFiction/23232.txt'],{'Science Fiction'}
+Aloys,['R.A. Lafferty'],['./CORPUS/ScienceFiction/51596.txt'],{'Science Fiction'}
+The Last Trail,['Zane Grey'],['./CORPUS/Western/9932.txt'],{'Western'}
+The Wendigo,['Algernon Blackwood'],['./CORPUS/Horror/10897.txt'],{'Horror'}
+The Invaders,['Benjamin Ferris'],['./CORPUS/ScienceFiction/23535.txt'],{'Science Fiction'}
+Ghost Stories of an Antiquary,['M.R. James'],['./CORPUS/Horror/8486.txt'],{'Horror'}
+The Marooner,['Charles A. Stearns'],['./CORPUS/ScienceFiction/24791.txt'],{'Science Fiction'}
+Condemned as a Nihilist,['George Alfred Henty'],['./CORPUS/Adventure/26090.txt'],{'Adventure'}
+Butterfly 9,['Donald Keith'],['./CORPUS/ScienceFiction/51167.txt'],{'Science Fiction'}
+We're Civilized!,"['Mark Clifton', 'Alex Apostolides']",['./CORPUS/ScienceFiction/38287.txt'],{'Science Fiction'}
+Young Robin Hood,['G. Manville Fenn'],['./CORPUS/Fantasy/11097.txt'],{'Fantasy'}
+The Gallery,['Roger Phillips Graham'],['./CORPUS/ScienceFiction/26936.txt'],{'Science Fiction'}
+Brigands of the Moon,['Ray Cummings'],['./CORPUS/ScienceFiction/19066.txt'],{'Science Fiction'}
+Cully,['Jack Egan'],['./CORPUS/ScienceFiction/26751.txt'],{'Science Fiction'}
+The Link,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22876.txt'],{'Science Fiction'}
+Nothing But the Best,['Alan Cogan'],['./CORPUS/ScienceFiction/51136.txt'],{'Science Fiction'}
+Measure for a Loner,['James Judson Harmon'],['./CORPUS/ScienceFiction/22596.txt'],{'Science Fiction'}
+The Martian Cabal,['Roman Frederick Starzl'],['./CORPUS/ScienceFiction/29437.txt'],{'Science Fiction'}
+The World That Couldn't Be,['Clifford Donald Simak'],['./CORPUS/ScienceFiction/32026.txt'],{'Science Fiction'}
+Out Around Rigel,['Robert H. Wilson'],['./CORPUS/ScienceFiction/20553.txt'],{'Science Fiction'}
+Criminal Negligence,['Jesse Francis McComas'],['./CORPUS/ScienceFiction/24399.txt'],{'Science Fiction'}
+The Weirdest World,['R.A. Lafferty'],['./CORPUS/ScienceFiction/51774.txt'],{'Science Fiction'}
+Double or Nothing,['Jack Sharkey'],['./CORPUS/ScienceFiction/43041.txt'],{'Science Fiction'}
+Stamped Caution,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/32054.txt'],{'Science Fiction'}
+Lonesome Land,['B.M. Bower'],['./CORPUS/Western/8537.txt'],{'Western'}
+Varney the Vampire,['Thomas Preskett Prest'],['./CORPUS/Horror/14833.txt'],{'Horror'}
+Adventure,['Jack London'],['./CORPUS/Adventure/1163.txt'],{'Adventure'}
+"The Boats of the ""Glen Carrig",['William Hope Hodgson'],"['./CORPUS/Horror/10542.txt', './CORPUS/Fantasy/10542.txt']","{'Horror', 'Fantasy'}"
+Spies Die Hard!,['Arnold Marmor'],['./CORPUS/ScienceFiction/30383.txt'],{'Science Fiction'}
+Micro-Man,['Forrest James Ackerman'],['./CORPUS/ScienceFiction/32579.txt'],{'Science Fiction'}
+Gambler's World,['John Keith Laumer'],['./CORPUS/ScienceFiction/21627.txt'],{'Science Fiction'}
+Printcrime,['Cory Doctorow'],['./CORPUS/ScienceFiction/19000.txt'],{'Science Fiction'}
+"Ride Proud, Rebel!",['Andre Alice Norton'],['./CORPUS/Western/23624.txt'],{'Western'}
+Recruit for Andromeda,['Milton Lesser'],['./CORPUS/ScienceFiction/50449.txt'],{'Science Fiction'}
+An Elephant for the Prinkip,['L.J. Stecher'],['./CORPUS/ScienceFiction/51434.txt'],{'Science Fiction'}
+An African Millionaire,['Grant Allen'],['./CORPUS/CrimeMystery/4715.txt'],{'Crime and Mystery'}
+In Search of the Unknown,['Robert W. Chambers'],['./CORPUS/ScienceFiction/18668.txt'],{'Science Fiction'}
+World Beyond Pluto,['C.H. Thames'],['./CORPUS/ScienceFiction/32820.txt'],{'Science Fiction'}
+Later Than You Think,['Fritz Leiber'],['./CORPUS/ScienceFiction/50753.txt'],{'Science Fiction'}
+Arcturus Times Three,['Jack Sharkey'],['./CORPUS/ScienceFiction/51822.txt'],{'Science Fiction'}
+The Day of the Boomer Dukes,['Frederik Pohl'],['./CORPUS/ScienceFiction/22559.txt'],{'Science Fiction'}
+The Golden Asse,['Lucius Apuleius'],['./CORPUS/Fantasy/1666.txt'],{'Fantasy'}
+Tom Swift and His Giant Telescope,['Victor Appleton'],['./CORPUS/Adventure/21188.txt'],{'Adventure'}
+The Insidious Dr. Fu-Manchu,['Sax Rohmer'],"['./CORPUS/Adventure/173.txt', './CORPUS/CrimeMystery/173.txt']","{'Adventure', 'Crime and Mystery'}"
+Andersen's Fairy Tales,['Hans Christian Andersen'],['./CORPUS/FairyTale/1597.txt'],{'Fairy Tale'}
+Pursuit,['Lester del Rey'],['./CORPUS/ScienceFiction/31587.txt'],{'Science Fiction'}
+The Long Shadow,['B.M. Bower'],['./CORPUS/Western/12192.txt'],{'Western'}
+Diplomatic Immunity,['Robert Sheckley'],['./CORPUS/ScienceFiction/32040.txt'],{'Science Fiction'}
+Herland,['Charlotte Perkins Stetson Gilman'],['./CORPUS/ScienceFiction/32.txt'],{'Science Fiction'}
+The Stutterer,['R.R. Merliss'],['./CORPUS/ScienceFiction/22512.txt'],{'Science Fiction'}
+Impact,['Irving E. Cox'],['./CORPUS/ScienceFiction/25567.txt'],{'Science Fiction'}
+Blueblood,['Jim Harmon'],['./CORPUS/ScienceFiction/51499.txt'],{'Science Fiction'}
+Plague of Pythons,['Frederik Pohl'],['./CORPUS/ScienceFiction/51804.txt'],{'Science Fiction'}
+"The Nigger Of The ""Narcissus",['Joseph Conrad'],['./CORPUS/Adventure/17731.txt'],{'Adventure'}
+All Around the Moon,['Jules Verne'],['./CORPUS/ScienceFiction/16457.txt'],{'Science Fiction'}
+The Lights on Precipice Peak,['Stephen Tall'],['./CORPUS/ScienceFiction/49826.txt'],{'Science Fiction'}
+Planet of the Damned,['Harry Harrison'],['./CORPUS/ScienceFiction/21873.txt'],{'Science Fiction'}
+Get Out of Our Skies!,['E.K. Jarvis'],['./CORPUS/ScienceFiction/26795.txt'],{'Science Fiction'}
+The Plotters,['Alexander Blade'],['./CORPUS/ScienceFiction/32801.txt'],{'Science Fiction'}
+A Matter of Importance,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/23636.txt'],{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 9.",['Mark Twain'],"['./CORPUS/ScienceFiction/7250.txt', './CORPUS/Fantasy/7250.txt']","{'Science Fiction', 'Fantasy'}"
+Scottish Ghost Stories,"[""Elliott O'Donnell""]",['./CORPUS/Horror/20034.txt'],{'Horror'}
+The Mabinogion,['Lady Charlotte Guest'],['./CORPUS/Fantasy/5160.txt'],{'Fantasy'}
+The Snowball Effect,['Katherine MacLean'],['./CORPUS/ScienceFiction/50766.txt'],{'Science Fiction'}
+Flying U Ranch,['B.M. Bower'],['./CORPUS/Western/1206.txt'],{'Western'}
+Advanced Chemistry,['Jack G. Huekels'],['./CORPUS/ScienceFiction/26955.txt'],{'Science Fiction'}
+Moby Dick,['Herman Melville'],['./CORPUS/Adventure/15.txt'],{'Adventure'}
+Victory,['Lester del Rey'],['./CORPUS/ScienceFiction/24196.txt'],{'Science Fiction'}
+Voyage To Eternity,['Milton Lesser'],['./CORPUS/ScienceFiction/32351.txt'],{'Science Fiction'}
+Beyond the Black River,['Robert E. Howard'],['./CORPUS/ScienceFiction/42254.txt'],{'Science Fiction'}
+Deadly City,['Paul W. Fairman'],['./CORPUS/ScienceFiction/32705.txt'],{'Science Fiction'}
+The Great Stone of Sardis,['Frank R. Stockton'],"['./CORPUS/Adventure/6127.txt', './CORPUS/ScienceFiction/6127.txt']","{'Adventure', 'Science Fiction'}"
+"We're Friends, Now",['Henry Hasse'],['./CORPUS/ScienceFiction/29488.txt'],{'Science Fiction'}
+Sea Legs,['Frank Quattrocchi'],['./CORPUS/ScienceFiction/51407.txt'],{'Science Fiction'}
+Kreativity For Kats,['Fritz Leiber'],['./CORPUS/ScienceFiction/51493.txt'],{'Science Fiction'}
+Greenmantle,['John Buchan'],"['./CORPUS/Adventure/559.txt', './CORPUS/CrimeMystery/559.txt']","{'Adventure', 'Crime and Mystery'}"
+Freedom,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/30338.txt'],{'Science Fiction'}
+Self Portrait,['Bernard Wolfe'],['./CORPUS/ScienceFiction/51534.txt'],{'Science Fiction'}
+Heart of Darkness,['Joseph Conrad'],['./CORPUS/Adventure/219.txt'],{'Adventure'}
+Postmark Ganymede,['Robert Silverberg'],['./CORPUS/ScienceFiction/25629.txt'],{'Science Fiction'}
+Utopia,['Thomas More'],['./CORPUS/ScienceFiction/2130.txt'],{'Science Fiction'}
+The Luckiest Man in Denv,['Simon Eisner'],['./CORPUS/ScienceFiction/50835.txt'],{'Science Fiction'}
+The Leavenworth Case,['Anna Katherine Green'],['./CORPUS/CrimeMystery/4047.txt'],{'Crime and Mystery'}
+John Jones's Dollar,['Harry Stephen Keeler'],['./CORPUS/ScienceFiction/26867.txt'],{'Science Fiction'}
+If,"['Lord Dunsany Dunsany', 'Edward John Moreton Drax Plunkett', 'Baron']",['./CORPUS/Fantasy/1311.txt'],{'Fantasy'}
+Pythias,['Frederik Pohl'],['./CORPUS/ScienceFiction/30399.txt'],{'Science Fiction'}
+Gourmet,['Allen Kim Lang'],['./CORPUS/ScienceFiction/51597.txt'],{'Science Fiction'}
+The Freelancer,['Robert Zacks'],['./CORPUS/ScienceFiction/50980.txt'],{'Science Fiction'}
+The Ivory Child,['H. Rider Haggard'],['./CORPUS/Adventure/2841.txt'],{'Adventure'}
+Allan's Wife,['H. Rider Haggard'],['./CORPUS/Adventure/2727.txt'],{'Adventure'}
+Bridge Crossing,['Dave Dryfoos'],['./CORPUS/ScienceFiction/51241.txt'],{'Science Fiction'}
+Extracts from the Galactick Almanack,['Larry M. Harris'],['./CORPUS/ScienceFiction/51622.txt'],{'Science Fiction'}
+The Beetle,['Richard Marsh'],['./CORPUS/CrimeMystery/5164.txt'],{'Crime and Mystery'}
+The Second Voice,['Mann Rubin'],['./CORPUS/ScienceFiction/29910.txt'],{'Science Fiction'}
+Under Drake's Flag,['G.A. Henty'],['./CORPUS/Adventure/19206.txt'],{'Adventure'}
+The Native Soil,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/24274.txt'],{'Science Fiction'}
+The Rome Express,['Arthur Griffiths'],['./CORPUS/CrimeMystery/11451.txt'],{'Crime and Mystery'}
+Four Weird Tales,['Algernon Blackwood'],['./CORPUS/Horror/16726.txt'],{'Horror'}
+Judas Ram,['Sam Merwin'],['./CORPUS/ScienceFiction/51053.txt'],{'Science Fiction'}
+The Blindman's World,['Edward Bellamy'],['./CORPUS/ScienceFiction/22701.txt'],{'Science Fiction'}
+The Forgotten Planet,['Murray Leinster'],"['./CORPUS/Adventure/41637.txt', './CORPUS/ScienceFiction/41637.txt']","{'Adventure', 'Science Fiction'}"
+The Coming Race,['Edward Bulwer Lytton'],"['./CORPUS/Adventure/1951.txt', './CORPUS/ScienceFiction/1951.txt']","{'Adventure', 'Science Fiction'}"
+The Alternate Plan,['Gerry Maddren'],['./CORPUS/ScienceFiction/24792.txt'],{'Science Fiction'}
+Something Will Turn Up,['David Mason'],['./CORPUS/ScienceFiction/24189.txt'],{'Science Fiction'}
+The Surprising Adventures of the Magical Monarch of Mo and His People,['L. Frank Baum'],['./CORPUS/Fantasy/16259.txt'],{'Fantasy'}
+Big Baby,['Jack Sharkey'],['./CORPUS/ScienceFiction/51735.txt'],{'Science Fiction'}
+Big Ancestor,['F.L. Wallace'],['./CORPUS/ScienceFiction/50969.txt'],{'Science Fiction'}
+Thy Name Is Woman,['Bryce Walton'],['./CORPUS/ScienceFiction/32906.txt'],{'Science Fiction'}
+More William,['Richmal Crompton'],['./CORPUS/Adventure/17125.txt'],{'Adventure'}
+Dogfight--1973,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/29940.txt'],{'Science Fiction'}
+The Evolution of Love,['Emil Lucka'],['./CORPUS/Romance/17699.txt'],{'Romance'}
+The Planet Savers,['Marion Zimmer Bradley'],"['./CORPUS/ScienceFiction/31619.txt', './CORPUS/Fantasy/31619.txt']","{'Science Fiction', 'Fantasy'}"
+The Story of Grettir The Strong,"['Eirikr Magnusson', 'William Morris']",['./CORPUS/Fantasy/12747.txt'],{'Fantasy'}
+Thin Edge,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30869.txt'],{'Science Fiction'}
+They Also Serve,['Donald E. Westlake'],['./CORPUS/ScienceFiction/30474.txt'],{'Science Fiction'}
+The Call of the Canyon,['Zane Grey'],['./CORPUS/Western/1881.txt'],{'Western'}
+Tex,['Clarence E. Mulford'],['./CORPUS/Western/43100.txt'],{'Western'}
+The Fifth-Dimension Tube,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/30408.txt'],{'Science Fiction'}
+"Martin Hewitt, Investigator",['Arthur Morrison'],['./CORPUS/CrimeMystery/11252.txt'],{'Crime and Mystery'}
+Medal of Honor,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/27393.txt'],{'Science Fiction'}
+The Velvet Glove,['Harry Harrison'],['./CORPUS/ScienceFiction/29471.txt'],{'Science Fiction'}
+The Judas Valley,['Gerald Vance'],['./CORPUS/ScienceFiction/25713.txt'],{'Science Fiction'}
+Equation of Doom,['Gerald Vance'],['./CORPUS/ScienceFiction/29146.txt'],{'Science Fiction'}
+The Ethical Way,['Joseph Farrell'],['./CORPUS/ScienceFiction/31962.txt'],{'Science Fiction'}
+The Guardians,['Irving Cox'],['./CORPUS/ScienceFiction/24152.txt'],{'Science Fiction'}
+The Gods of Mars,['Edgar Rice Burroughs'],"['./CORPUS/ScienceFiction/64.txt', './CORPUS/Fantasy/64.txt']","{'Science Fiction', 'Fantasy'}"
+Made in Tanganyika,['Carl Richard Jacobi'],['./CORPUS/ScienceFiction/29242.txt'],{'Science Fiction'}
+Kilmeny of the Orchard,['Lucy Maud Montgomery'],['./CORPUS/Romance/5341.txt'],{'Romance'}
+A Mixture of Genius,['Arnold Castle'],['./CORPUS/ScienceFiction/32207.txt'],{'Science Fiction'}
+The Mystery of Edwin Drood,['Charles Dickens'],['./CORPUS/CrimeMystery/564.txt'],{'Crime and Mystery'}
+Through Space to Mars,['Roy Rockwood'],['./CORPUS/ScienceFiction/6717.txt'],{'Science Fiction'}
+The Shadow-Line,['Joseph Conrad'],['./CORPUS/Adventure/451.txt'],{'Adventure'}
+Bimmie Says,['Sydney Van Scyoc'],['./CORPUS/ScienceFiction/50800.txt'],{'Science Fiction'}
+Volpla,['Wyman Guin'],['./CORPUS/ScienceFiction/51201.txt'],{'Science Fiction'}
+Invaders from the Infinite,['John Wood Campbell'],['./CORPUS/ScienceFiction/20154.txt'],{'Science Fiction'}
+In the Control Tower,['Will Mohler'],['./CORPUS/ScienceFiction/23149.txt'],{'Science Fiction'}
+The Island of Doctor Moreau,['H.G. Wells'],"['./CORPUS/ScienceFiction/159.txt', './CORPUS/Horror/159.txt']","{'Science Fiction', 'Horror'}"
+Rebels of the Red Planet,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/20739.txt'],{'Science Fiction'}
+A Traveler in Time,['August Derleth'],['./CORPUS/ScienceFiction/40953.txt'],{'Science Fiction'}
+History Repeats,['George Oliver Smith'],['./CORPUS/ScienceFiction/23884.txt'],{'Science Fiction'}
+The Metal Monster,['A. Merritt'],"['./CORPUS/Adventure/3479.txt', './CORPUS/Fantasy/3479.txt', './CORPUS/ScienceFiction/3479.txt']","{'Adventure', 'Fantasy', 'Science Fiction'}"
+Alien Minds,['E. Everett Evans'],['./CORPUS/ScienceFiction/50863.txt'],{'Science Fiction'}
+The Vicomte de Bragelonne,"['Alexandre Dumas', 'Pere']",['./CORPUS/Adventure/2609.txt'],{'Adventure'}
+Viking Tales,['Jennie Hall'],['./CORPUS/FairyTale/24811.txt'],{'Fairy Tale'}
+Anchorite,['Randall Garrett'],['./CORPUS/ScienceFiction/23561.txt'],{'Science Fiction'}
+Second Variety,['Philip Kindred Dick'],['./CORPUS/ScienceFiction/32032.txt'],{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 7.",['Mark Twain'],"['./CORPUS/ScienceFiction/7248.txt', './CORPUS/Fantasy/7248.txt']","{'Science Fiction', 'Fantasy'}"
+The Dark Other,['Stanley G. Weinbaum'],['./CORPUS/ScienceFiction/50561.txt'],{'Science Fiction'}
+A Question of Courage,['Jesse Franklin Bone'],['./CORPUS/ScienceFiction/26772.txt'],{'Science Fiction'}
+The Sound of Silence,['Barbara Constant'],['./CORPUS/ScienceFiction/30283.txt'],{'Science Fiction'}
+The Beloved Traitor,['Frank L. Packard'],['./CORPUS/Romance/34034.txt'],{'Romance'}
+Astounding Stories of Super-Science January 1930,['Victor Rousseau'],['./CORPUS/ScienceFiction/41481.txt'],{'Science Fiction'}
+The Devil's Elixir,['E.T.A. Hoffmann'],['./CORPUS/Fantasy/36494.txt'],{'Fantasy'}
+Celtic Fairy Tales,['Joseph Jacobs'],['./CORPUS/FairyTale/7885.txt'],{'Fairy Tale'}
+The Valley of Fear,['Sir Arthur Conan Doyle'],['./CORPUS/CrimeMystery/3289.txt'],{'Crime and Mystery'}
+Disqualified,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/30251.txt'],{'Science Fiction'}
+The Wind in the Willows,['Kenneth Grahame'],['./CORPUS/Fantasy/27805.txt'],{'Fantasy'}
+Arm of the Law,['Harry Harrison'],['./CORPUS/ScienceFiction/29204.txt'],{'Science Fiction'}
+A Bad Day for Sales,['Fritz Leiber'],['./CORPUS/ScienceFiction/50819.txt'],{'Science Fiction'}
+...So They Baked a Cake,['Winston Marks'],['./CORPUS/ScienceFiction/51414.txt'],{'Science Fiction'}
+Satisfaction Guaranteed,['Joy Leache'],['./CORPUS/ScienceFiction/51727.txt'],{'Science Fiction'}
+The House of the Vampire,['George Sylvester Viereck'],['./CORPUS/Horror/17144.txt'],{'Horror'}
+The Heroes,['Charles Kingsley'],['./CORPUS/FairyTale/677.txt'],{'Fairy Tale'}
+The Great God Pan,['Arthur Machen'],['./CORPUS/Horror/389.txt'],{'Horror'}
+The Teeth of the Tiger,['Maurice Leblanc'],['./CORPUS/CrimeMystery/13058.txt'],{'Crime and Mystery'}
+The Wailing Asteroid,['Murray Leinster'],['./CORPUS/ScienceFiction/50022.txt'],{'Science Fiction'}
+Captives of the Flame,['Samuel R. Delany'],['./CORPUS/ScienceFiction/41905.txt'],{'Science Fiction'}
+General Max Shorter,['Kris Ottman Neville'],['./CORPUS/ScienceFiction/23571.txt'],{'Science Fiction'}
+Operation R.S.V.P.,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18261.txt'],{'Science Fiction'}
+Second Childhood,['Clifford D. Simak'],['./CORPUS/ScienceFiction/51037.txt'],{'Science Fiction'}
+The Moon-Voyage,['Jules Verne'],['./CORPUS/ScienceFiction/12901.txt'],{'Science Fiction'}
+Tom Swift and his Motor-boat,['Victor Appleton'],['./CORPUS/Adventure/2273.txt'],{'Adventure'}
+Saint Bartholomew's Eve,['G.A. Henty'],['./CORPUS/Adventure/20092.txt'],{'Adventure'}
+Summer Snow Storm,['Adam Chase'],['./CORPUS/ScienceFiction/26968.txt'],{'Science Fiction'}
+The Undetected,['George O. Smith'],['./CORPUS/ScienceFiction/51810.txt'],{'Science Fiction'}
+The Stoker and the Stars,['Algirdas Jonas Budrys'],['./CORPUS/ScienceFiction/22967.txt'],{'Science Fiction'}
+The Music Master of Babylon,['Edgar Pangborn'],['./CORPUS/ScienceFiction/51379.txt'],{'Science Fiction'}
+The One and the Many,['Milton Lesser'],['./CORPUS/ScienceFiction/30386.txt'],{'Science Fiction'}
+The Happy Unfortunate,['Robert Silverberg'],['./CORPUS/ScienceFiction/25035.txt'],{'Science Fiction'}
+The Cross-Cut,['Courtney Ryley Cooper'],['./CORPUS/Western/20104.txt'],{'Western'}
+Star-Crossed Lover,['William W. Stuart'],['./CORPUS/ScienceFiction/51736.txt'],{'Science Fiction'}
+Typee,['Herman Melville'],['./CORPUS/Adventure/1900.txt'],{'Adventure'}
+To Each His Star,['Bryce Walton'],['./CORPUS/ScienceFiction/31355.txt'],{'Science Fiction'}
+Tom Swift in the Caves of Ice,['Victor Appleton'],['./CORPUS/Adventure/3734.txt'],{'Adventure'}
+The Pathless Trail,['Arthur O.  Friel'],['./CORPUS/Adventure/30324.txt'],{'Adventure'}
+Her Prairie Knight,"['B.M. Sinclair', 'AKA B.M. Bower']",['./CORPUS/Western/1908.txt'],{'Western'}
+The Valor of Cappen Varra,['Poul William Anderson'],['./CORPUS/ScienceFiction/29542.txt'],{'Science Fiction'}
+Tales of Fantasy and Fact,['Brander Matthews'],['./CORPUS/ScienceFiction/23678.txt'],{'Science Fiction'}
+The Brothers Karamazov,['Fyodor Dostoyevsky'],['./CORPUS/CrimeMystery/28054.txt'],{'Crime and Mystery'}
+The Count's Millions,['Emile Gaboriau'],['./CORPUS/CrimeMystery/305.txt'],{'Crime and Mystery'}
+Think Yourself to Death,['C.H. Thames'],['./CORPUS/ScienceFiction/32827.txt'],{'Science Fiction'}
+The Green Beret,['Thomas Edward Purdom'],['./CORPUS/ScienceFiction/24278.txt'],{'Science Fiction'}
+The Bluff of the Hawk,['Anthony Gilmore'],['./CORPUS/ScienceFiction/29298.txt'],{'Science Fiction'}
+Gulliver's Travels,['Jonathan Swift'],['./CORPUS/Adventure/17157.txt'],{'Adventure'}
+In Greek Waters,['G.A. Henty'],['./CORPUS/Adventure/42276.txt'],{'Adventure'}
+Skylark Three,['Edward Elmer Smith'],['./CORPUS/ScienceFiction/21051.txt'],{'Science Fiction'}
+Rex Ex Machina,['Frederic Max'],['./CORPUS/ScienceFiction/28543.txt'],{'Science Fiction'}
+Lonesome Hearts,['Russell Robert Winterbotham'],['./CORPUS/ScienceFiction/30170.txt'],{'Science Fiction'}
+Such Blooming Talk,['L. Major Reynolds'],['./CORPUS/ScienceFiction/29356.txt'],{'Science Fiction'}
+Peter Pan in Kensington Gardens,['J.M. Barrie'],"['./CORPUS/Adventure/1332.txt', './CORPUS/Fantasy/1332.txt']","{'Adventure', 'Fantasy'}"
+Tom Swift and his Great Searchlight,['Victor Appleton'],['./CORPUS/Adventure/4635.txt'],{'Adventure'}
+The Last of the Mohicans,['James Fenimore Cooper'],['./CORPUS/Adventure/27681.txt'],{'Adventure'}
+"Omega, the Man",['Lowell Howard Morrow'],['./CORPUS/ScienceFiction/26882.txt'],{'Science Fiction'}
+Null-ABC,"['Henry Beam Piper', 'John Joseph McGuire']",['./CORPUS/ScienceFiction/18346.txt'],{'Science Fiction'}
+She and Allan,['H. Rider Haggard'],['./CORPUS/Adventure/5745.txt'],{'Adventure'}
+Jurgen,['James Branch Cabell'],['./CORPUS/Fantasy/8771.txt'],{'Fantasy'}
+PRoblem,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/24290.txt'],{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 3",['Mark Twain'],['./CORPUS/Adventure/7102.txt'],{'Adventure'}
+With No Strings Attached,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/23198.txt'],{'Science Fiction'}
+Sabotage in Space,['Carey Rockwell'],['./CORPUS/ScienceFiction/18520.txt'],{'Science Fiction'}
+Fly By Night,['Arthur Dekker Savage'],['./CORPUS/ScienceFiction/32734.txt'],{'Science Fiction'}
+Legacy,['James H Schmitz'],['./CORPUS/ScienceFiction/21510.txt'],{'Science Fiction'}
+The Story of the Champions of the Round Table,['Howard Pyle'],['./CORPUS/Fantasy/10745.txt'],{'Fantasy'}
+The Edge of the Knife,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18584.txt'],{'Science Fiction'}
+The Helpful Hand of God,['Tom Godwin'],['./CORPUS/ScienceFiction/30322.txt'],{'Science Fiction'}
+"Starr, of the Desert",['B. M Bower'],['./CORPUS/Western/12570.txt'],{'Western'}
+A Journey to the Interior of the Earth,['Jules Verne'],['./CORPUS/ScienceFiction/3748.txt'],{'Science Fiction'}
+The Lord of Death and the Queen of Life,['Homer Eon Flint'],['./CORPUS/ScienceFiction/5703.txt'],{'Science Fiction'}
+Zeritsky's Law,['Ann Griffith'],['./CORPUS/ScienceFiction/51234.txt'],{'Science Fiction'}
+The Secret of Kralitz,['Henry Kuttner'],['./CORPUS/ScienceFiction/32584.txt'],{'Science Fiction'}
+They Twinkled Like Jewels,['Philip Jose Farmer'],['./CORPUS/ScienceFiction/29559.txt'],{'Science Fiction'}
+Year of the Big Thaw,['Marion Zimmer Bradley'],['./CORPUS/ScienceFiction/28650.txt'],{'Science Fiction'}
+The Fire and the Sword,['Frank M. Robinson'],['./CORPUS/ScienceFiction/51170.txt'],{'Science Fiction'}
+By Conduct and Courage,['G.A. Henty'],['./CORPUS/Adventure/28357.txt'],{'Adventure'}
+Man Made,['Albert R. Teichner'],['./CORPUS/ScienceFiction/24955.txt'],{'Science Fiction'}
+Space Station 1,['Frank Belknap Long'],['./CORPUS/ScienceFiction/50290.txt'],{'Science Fiction'}
+Welsh Fairy Tales,['William Elliott Griffis'],['./CORPUS/FairyTale/9368.txt'],{'Fairy Tale'}
+Hall of Mirrors,['Fredric Brown'],['./CORPUS/ScienceFiction/29720.txt'],{'Science Fiction'}
+The Final Figure,['Samuel Kimball Merwin'],['./CORPUS/ScienceFiction/41062.txt'],{'Science Fiction'}
+Service with a Smile,['Charles Louis Fontenay'],['./CORPUS/ScienceFiction/30371.txt'],{'Science Fiction'}
+The Holladay Case,['Burton E. Stevenson'],['./CORPUS/CrimeMystery/19672.txt'],{'Crime and Mystery'}
+The White Company,['Arthur Conan Doyle'],['./CORPUS/Adventure/903.txt'],{'Adventure'}
+"A Connecticut Yankee in King Arthur's Court, Part 1.",['Mark Twain'],"['./CORPUS/ScienceFiction/7242.txt', './CORPUS/Fantasy/7242.txt']","{'Science Fiction', 'Fantasy'}"
+The Works of Edgar Allan Poe,['Edgar Allan Poe'],"['./CORPUS/CrimeMystery/2147.txt', './CORPUS/Horror/2147.txt']","{'Crime and Mystery', 'Horror'}"
+Lost in Translation,['Larry M. Harris'],['./CORPUS/ScienceFiction/30029.txt'],{'Science Fiction'}
+Jewels of Gwahlur,['Robert E. Howard'],['./CORPUS/ScienceFiction/42236.txt'],{'Science Fiction'}
+The Tale of Terror,['Edith Birkhead'],['./CORPUS/Horror/14154.txt'],{'Horror'}
+The Line of Love,['James Branch Cabell'],['./CORPUS/Fantasy/9488.txt'],{'Fantasy'}
+By Proxy,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24707.txt'],{'Science Fiction'}
+The Lamps of the Angels,['Richard Sabia'],['./CORPUS/ScienceFiction/51669.txt'],{'Science Fiction'}
+Operation Terror,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/17870.txt'],{'Science Fiction'}
+The Ashiel Mystery,['Mrs. Charles Bryce'],['./CORPUS/CrimeMystery/9746.txt'],{'Crime and Mystery'}
+The Angel of the Revolution,['George Griffith'],['./CORPUS/ScienceFiction/31324.txt'],{'Science Fiction'}
+The Willows,['Algernon Blackwood'],['./CORPUS/Horror/11438.txt'],{'Horror'}
+The Fantasy Fan November 1933,['Charles D. Hornig'],['./CORPUS/ScienceFiction/46534.txt'],{'Science Fiction'}
+Piper in the Woods,['Philip K. Dick'],['./CORPUS/ScienceFiction/32832.txt'],{'Science Fiction'}
+Tom Swift and The Visitor from Planet X,['Victor Appleton'],['./CORPUS/ScienceFiction/17985.txt'],{'Science Fiction'}
+Ministry of Disturbance,['Henry Beam Piper'],['./CORPUS/ScienceFiction/20659.txt'],{'Science Fiction'}
+Tedric,['Edward Elmer Smith'],['./CORPUS/ScienceFiction/49651.txt'],{'Science Fiction'}
+The Wolf Hunters,['James Oliver Curwood'],['./CORPUS/Adventure/12170.txt'],{'Adventure'}
+The Master Key,['L. Frank Baum'],['./CORPUS/Fantasy/436.txt'],{'Fantasy'}
+At the Back of the North Wind,['George MacDonald'],['./CORPUS/Fantasy/225.txt'],{'Fantasy'}
+Finished,['H. Rider Haggard'],['./CORPUS/Adventure/1724.txt'],{'Adventure'}
+"Cogito, Ergo Sum",['John Foster West'],['./CORPUS/ScienceFiction/29149.txt'],{'Science Fiction'}
+Jungle Tales of Tarzan,['Edgar Rice Burroughs'],"['./CORPUS/Adventure/106.txt', './CORPUS/Fantasy/106.txt']","{'Adventure', 'Fantasy'}"
+Out Like a Light,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/24444.txt'],{'Science Fiction'}
+Solar Stiff,['Chas. A. Stopher'],['./CORPUS/ScienceFiction/28646.txt'],{'Science Fiction'}
+Collector's Item,['Evelyn E. Smith'],['./CORPUS/ScienceFiction/31686.txt'],{'Science Fiction'}
+Last Enemy,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18800.txt'],{'Science Fiction'}
+Death of a Spaceman,['Walter M. Miller'],['./CORPUS/ScienceFiction/29643.txt'],{'Science Fiction'}
+Tales of Chinatown,['Sax Rohmer'],['./CORPUS/CrimeMystery/5697.txt'],{'Crime and Mystery'}
+The Year When Stardust Fell,['Raymond F. Jones'],['./CORPUS/ScienceFiction/33660.txt'],{'Science Fiction'}
+Handyman,['Frank Banta'],['./CORPUS/ScienceFiction/51546.txt'],{'Science Fiction'}
+Prime Difference,['Alan E. Nourse'],['./CORPUS/ScienceFiction/51321.txt'],{'Science Fiction'}
+The Mad Planet,['Murray Leinster'],['./CORPUS/ScienceFiction/35425.txt'],{'Science Fiction'}
+Red Cap Tales,['Samuel Rutherford Crockett'],['./CORPUS/FairyTale/22656.txt'],{'Fairy Tale'}
+Herein is Love,['Reuel L. Howe'],['./CORPUS/Romance/20289.txt'],{'Romance'}
+Common Denominator,['John D. MacDonald'],['./CORPUS/ScienceFiction/51148.txt'],{'Science Fiction'}
+The Passing of Ku Sui,['Anthony Gilmore'],['./CORPUS/ScienceFiction/30303.txt'],{'Science Fiction'}
+Sight Unseen,['Mary Roberts Rinehart'],['./CORPUS/CrimeMystery/1960.txt'],{'Crime and Mystery'}
+Tom Swift and his Wizard Camera,['Victor Appleton'],['./CORPUS/Adventure/1283.txt'],{'Adventure'}
+As Long As You Wish,"[""John O'Keefe""]",['./CORPUS/ScienceFiction/24121.txt'],{'Science Fiction'}
+The Graveyard of Space,['Milton Lesser'],['./CORPUS/ScienceFiction/32133.txt'],{'Science Fiction'}
+End as a World,['F.L. Wallace'],['./CORPUS/ScienceFiction/50959.txt'],{'Science Fiction'}
+Security Plan,['Joseph Farrell'],['./CORPUS/ScienceFiction/51588.txt'],{'Science Fiction'}
+The Narrative of Arthur Gordon Pym of Nantucket,['Edgar Allan Poe'],"['./CORPUS/Adventure/51060.txt', './CORPUS/Fantasy/51060.txt']","{'Adventure', 'Fantasy'}"
+Publicity Stunt,['Robert Moore Williams'],['./CORPUS/ScienceFiction/49779.txt'],{'Science Fiction'}
+One Man's Poison,['Robert Sheckley'],['./CORPUS/ScienceFiction/32041.txt'],{'Science Fiction'}
+Rattle OK,['Harry Warner'],['./CORPUS/ScienceFiction/51092.txt'],{'Science Fiction'}
+The Shadow of the Rope,['E.W. Hornung'],['./CORPUS/CrimeMystery/12590.txt'],{'Crime and Mystery'}
+The Man,['Bram Stoker'],"['./CORPUS/Horror/2520.txt', './CORPUS/Romance/2520.txt']","{'Horror', 'Romance'}"
+A Strange Disappearance,['Anna Katharine Green'],['./CORPUS/CrimeMystery/1167.txt'],{'Crime and Mystery'}
+Sand Doom,['William Fitzgerald Jenkins'],['./CORPUS/ScienceFiction/22467.txt'],{'Science Fiction'}
+No Pets Allowed,['M.A. Cummings'],['./CORPUS/ScienceFiction/29139.txt'],{'Science Fiction'}
+The Beautiful Eyes of Ysidria,['Charles A. Gunnison'],['./CORPUS/Western/18660.txt'],{'Western'}
+Fifty-one Tales,['Lord Dunsany Edward J.M.D. Plunkett'],['./CORPUS/Fantasy/7838.txt'],{'Fantasy'}
+The Deadly Daughters,['Winston K. Marks'],['./CORPUS/ScienceFiction/24965.txt'],{'Science Fiction'}
+Irresistible Weapon,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/29994.txt'],{'Science Fiction'}
+Remember the Alamo,['R.R. Fehrenbach'],['./CORPUS/ScienceFiction/30267.txt'],{'Science Fiction'}
+The Sign of the Four,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2097.txt'],{'Crime and Mystery'}
+Mary Louise,['Edith van Dyne'],['./CORPUS/Fantasy/5660.txt'],{'Fantasy'}
+The Adventure of the Bruce-Partington Plans,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2346.txt'],{'Crime and Mystery'}
+Dutch Fairy Tales for Young Folks,['William Elliot Griffis'],['./CORPUS/FairyTale/7871.txt'],{'Fairy Tale'}
+A Gift from Earth,['Manly Banister'],['./CORPUS/ScienceFiction/51129.txt'],{'Science Fiction'}
+The Talleyrand Maxim,['J.S. Fletcher'],['./CORPUS/CrimeMystery/9834.txt'],{'Crime and Mystery'}
+The Land That Time Forgot,['Edgar Rice Burroughs'],['./CORPUS/ScienceFiction/551.txt'],{'Science Fiction'}
+Anthem,['Ayn Rand'],['./CORPUS/ScienceFiction/1250.txt'],{'Science Fiction'}
+Tom Swift and his War Tank,['Victor Appleton'],['./CORPUS/Adventure/954.txt'],{'Adventure'}
+No Moving Parts,['Murray F. Yaco'],['./CORPUS/ScienceFiction/25078.txt'],{'Science Fiction'}
+Metamorphosis,['Franz Kafka'],['./CORPUS/Horror/5200.txt'],{'Horror'}
+Fables in Rhyme for Little Folks,['Jean de La Fontaine'],['./CORPUS/FairyTale/24108.txt'],{'Fairy Tale'}
+The Man Who Played to Lose,['Laurence Mark Janifer'],['./CORPUS/ScienceFiction/30259.txt'],{'Science Fiction'}
+Tales of Space and Time,['Herbert George Wells'],['./CORPUS/ScienceFiction/27365.txt'],{'Science Fiction'}
+Celebrity,['James McKimmey'],['./CORPUS/ScienceFiction/29962.txt'],{'Science Fiction'}
+A Primary Reader,['E. Louise Smythe'],['./CORPUS/FairyTale/7841.txt'],{'Fairy Tale'}
+Tinker's Dam,['Joseph Tinker'],['./CORPUS/ScienceFiction/24655.txt'],{'Science Fiction'}
+Mr. Spaceship,['Philip K. Dick'],['./CORPUS/ScienceFiction/32522.txt'],{'Science Fiction'}
+Home is Where You Left It,['Adam Chase'],['./CORPUS/ScienceFiction/32890.txt'],{'Science Fiction'}
+Shadows in the Moonlight,['Robert E. Howard'],['./CORPUS/ScienceFiction/42188.txt'],{'Science Fiction'}
+The Thing in the Attic,['James Benjamin Blish'],['./CORPUS/ScienceFiction/32447.txt'],{'Science Fiction'}
+The Barbarians,['John Sentry'],['./CORPUS/ScienceFiction/30828.txt'],{'Science Fiction'}
+This World Must Die!,['Horace Brown Fyfe'],['./CORPUS/ScienceFiction/23102.txt'],{'Science Fiction'}
+The Winged Men of Orcon,['David R. Sparks'],['./CORPUS/ScienceFiction/22176.txt'],{'Science Fiction'}
+Plague Ship,['Andre Norton'],['./CORPUS/ScienceFiction/16921.txt'],{'Science Fiction'}
+Zero Hour,['Alexander Blade'],['./CORPUS/ScienceFiction/30476.txt'],{'Science Fiction'}
+His Last Bow,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/2350.txt'],{'Crime and Mystery'}
+The Eight Strokes of the Clock,['Maurice Le Blanc'],['./CORPUS/CrimeMystery/7896.txt'],{'Crime and Mystery'}
+The Brand of Silence,['Harrington Strong'],['./CORPUS/CrimeMystery/21891.txt'],{'Crime and Mystery'}
+A Bullet for Cinderella,['John D. MacDonald'],['./CORPUS/CrimeMystery/49931.txt'],{'Crime and Mystery'}
+Dead World,['Jack Douglas'],['./CORPUS/ScienceFiction/27631.txt'],{'Science Fiction'}
+File No. 113,['Emile Gaboriau'],['./CORPUS/CrimeMystery/3803.txt'],{'Crime and Mystery'}
+The Angel of Terror,['Edgar Wallace'],['./CORPUS/CrimeMystery/21530.txt'],{'Crime and Mystery'}
+Crime and Punishment,['Fyodor Dostoevsky'],['./CORPUS/CrimeMystery/2554.txt'],{'Crime and Mystery'}
+"Writings in the United Amateur, 1915-1922",['Howard Phillips Lovecraft'],['./CORPUS/ScienceFiction/30637.txt'],{'Science Fiction'}
+An Incident on Route 12,['James H. Schmitz'],['./CORPUS/ScienceFiction/21897.txt'],{'Science Fiction'}
+On the Irrawaddy,['G.A. Henty'],['./CORPUS/Adventure/21242.txt'],{'Adventure'}
+The Calm Man,['Frank Belknap Long'],['./CORPUS/ScienceFiction/28583.txt'],{'Science Fiction'}
+Point of Departure,['Vaughan Shelton'],"['./CORPUS/ScienceFiction/50945.txt', './CORPUS/CrimeMystery/50945.txt']","{'Science Fiction', 'Crime and Mystery'}"
+Plays of Near & Far,['Lord Dunsany'],['./CORPUS/Fantasy/19393.txt'],{'Fantasy'}
+Breeder Reaction,['Winston Marks'],['./CORPUS/ScienceFiction/32077.txt'],{'Science Fiction'}
+The Sword,['Frank Quattrocchi'],['./CORPUS/ScienceFiction/32697.txt'],{'Science Fiction'}
+The Man Who Was Thursday,['G.K. Chesterton'],['./CORPUS/Adventure/1695.txt'],{'Adventure'}
+Disowned,['Victor Endersby'],['./CORPUS/ScienceFiction/29384.txt'],{'Science Fiction'}
+In the Hands of the Cave-Dwellers,['G.A. Henty'],['./CORPUS/Adventure/43067.txt'],{'Adventure'}
+The Return of Sherlock Holmes,['Arthur Conan Doyle'],['./CORPUS/CrimeMystery/108.txt'],{'Crime and Mystery'}
+"Goodbye, Dead Man!",['Tom W. Harris'],['./CORPUS/ScienceFiction/29963.txt'],{'Science Fiction'}
+Allan and the Holy Flower,['H. Rider Haggard'],['./CORPUS/Adventure/5174.txt'],{'Adventure'}
+The Keepers of the King's Peace,['Edgar Wallace'],['./CORPUS/Adventure/25803.txt'],{'Adventure'}
+Down and Out in the Magic Kingdom,['Cory Doctorow'],['./CORPUS/ScienceFiction/8086.txt'],{'Science Fiction'}
+Chronicles of Martin Hewitt,['Arthur Morrison'],['./CORPUS/CrimeMystery/37820.txt'],{'Crime and Mystery'}
+The Rat Race,['Jay Franklin'],['./CORPUS/ScienceFiction/51854.txt'],{'Science Fiction'}
+Tony and the Beetles,['Philip K. Dick'],['./CORPUS/ScienceFiction/40964.txt'],{'Science Fiction'}
+Bat Wing,['Sax Rohmer'],['./CORPUS/CrimeMystery/6382.txt'],{'Crime and Mystery'}
+Ayesha,['H. Rider Haggard'],['./CORPUS/Adventure/5228.txt'],{'Adventure'}
+Let'em Breathe Space,['Lester del Rey'],['./CORPUS/ScienceFiction/31286.txt'],{'Science Fiction'}
+Hawk Carse,['Anthony Gilmore'],['./CORPUS/ScienceFiction/30307.txt'],{'Science Fiction'}
+The Daffodil Mystery,['Edgar Wallace'],['./CORPUS/CrimeMystery/20912.txt'],{'Crime and Mystery'}
+"I, the Unspeakable",['Walt Sheldon'],['./CORPUS/ScienceFiction/51210.txt'],{'Science Fiction'}
+My Lady Greensleeves,['Frederik Pohl'],['./CORPUS/ScienceFiction/51310.txt'],{'Science Fiction'}
+The Widow Lerouge,['Emile Gaboriau'],['./CORPUS/CrimeMystery/3802.txt'],{'Crime and Mystery'}
+The Pilot and the Bushman,['Sylvia Jacobs'],['./CORPUS/ScienceFiction/51297.txt'],{'Science Fiction'}
+Vampires of Space,['Sewell Peaslee Wright'],['./CORPUS/ScienceFiction/29353.txt'],{'Science Fiction'}
+The Eternal Wall,['Raymond Zinke Gallun'],['./CORPUS/ScienceFiction/27110.txt'],{'Science Fiction'}
+Traveling Companion Wanted,['Richard Wilson'],['./CORPUS/ScienceFiction/51759.txt'],{'Science Fiction'}
+Oneness,['James H. Schmitz'],['./CORPUS/ScienceFiction/30728.txt'],{'Science Fiction'}
+Edison's Conquest of Mars,['Garrett Putman Serviss'],['./CORPUS/ScienceFiction/19141.txt'],{'Science Fiction'}
+The Sundering Flood,['William Morris'],['./CORPUS/Fantasy/25547.txt'],{'Fantasy'}
+To Remember Charlie By,['Roger Dee'],['./CORPUS/ScienceFiction/31599.txt'],{'Science Fiction'}
+Held Fast For England,['G.A. Henty'],['./CORPUS/Adventure/21788.txt'],{'Adventure'}
+Maiwa's Revenge,['H. Rider Haggard'],['./CORPUS/Adventure/2713.txt'],{'Adventure'}
+The Honor of the Name,['Emile Gaboriau'],['./CORPUS/CrimeMystery/4002.txt'],{'Crime and Mystery'}
+The Terror from the Depths,['Sewell Peaslee Wright'],['./CORPUS/ScienceFiction/29118.txt'],{'Science Fiction'}
+El Dorado,['Baroness Orczy'],['./CORPUS/Adventure/1752.txt'],{'Adventure'}
+"Futuria Fantasia, Winter 1940",['Ray Bradbury'],['./CORPUS/ScienceFiction/41627.txt'],{'Science Fiction'}
+Genesis,['H. Beam Piper'],['./CORPUS/ScienceFiction/18105.txt'],{'Science Fiction'}
+Selected Stories,['Bret Harte'],['./CORPUS/Western/1312.txt'],{'Western'}
+"Next Door, Next World",['Robert Donald Locke'],['./CORPUS/ScienceFiction/26205.txt'],{'Science Fiction'}
+The Peacemaker,['Alfred Coppel'],['./CORPUS/ScienceFiction/31767.txt'],{'Science Fiction'}
+Black Jack,['Max Brand'],['./CORPUS/Western/9925.txt'],{'Western'}
+The Beginning,['Henry Hasse'],['./CORPUS/ScienceFiction/27645.txt'],{'Science Fiction'}
+Charity Case,['Jim Harmon'],['./CORPUS/ScienceFiction/51657.txt'],{'Science Fiction'}
+Teething Ring,['James Causey'],['./CORPUS/ScienceFiction/29625.txt'],{'Science Fiction'}
+The Day of the Beast,['Zane Grey'],['./CORPUS/Western/15673.txt'],{'Western'}
+A Choice of Miracles,['James A. Cox'],['./CORPUS/ScienceFiction/26190.txt'],{'Science Fiction'}
+"Buck Peters, Ranchman","['Clarence E. Mulford', 'John Wood Clay']",['./CORPUS/Western/42800.txt'],{'Western'}
+The Great Gray Plague,['Raymond F. Jones'],['./CORPUS/ScienceFiction/28118.txt'],{'Science Fiction'}
+Junior Achievement,['William Lee'],['./CORPUS/ScienceFiction/27665.txt'],{'Science Fiction'}
+Hanging by a Thread,['Gordon Randall Garrett'],['./CORPUS/ScienceFiction/30308.txt'],{'Science Fiction'}
+All Jackson's Children,['Daniel F. Galouye'],['./CORPUS/ScienceFiction/51185.txt'],{'Science Fiction'}
+Ripeness is All,['Jesse Roarke'],['./CORPUS/ScienceFiction/43038.txt'],{'Science Fiction'}
+The U.P. Trail,['Zane Grey'],['./CORPUS/Western/4684.txt'],{'Western'}
+The Skylark of Space,"['Edward Elmer Smith', 'Lee Hawkins Garby']","['./CORPUS/Adventure/20869.txt', './CORPUS/ScienceFiction/20869.txt']","{'Adventure', 'Science Fiction'}"
+Second Sight,['Alan Edward Nourse'],['./CORPUS/ScienceFiction/22997.txt'],{'Science Fiction'}
+The Other Now,['Murray Leinster'],['./CORPUS/ScienceFiction/51112.txt'],{'Science Fiction'}
+The Story of the Amulet,['E. Nesbit'],"['./CORPUS/ScienceFiction/837.txt', './CORPUS/Fantasy/837.txt']","{'Science Fiction', 'Fantasy'}"
+Crossroads of Destiny,['Henry Beam Piper'],['./CORPUS/ScienceFiction/18632.txt'],{'Science Fiction'}
+Star Mother,['Robert F. Young'],['./CORPUS/ScienceFiction/26957.txt'],{'Science Fiction'}
+Spacewrecked on Venus,['Neil R. Jones'],['./CORPUS/ScienceFiction/40993.txt'],{'Science Fiction'}
+Off on a Comet,['Jules Verne'],['./CORPUS/ScienceFiction/1353.txt'],{'Science Fiction'}
+The Fourth R,['George Oliver Smith'],['./CORPUS/ScienceFiction/18602.txt'],{'Science Fiction'}
+Tom Swift and the Electronic Hydrolung,['Victor Appleton'],"['./CORPUS/Adventure/19258.txt', './CORPUS/ScienceFiction/19258.txt']","{'Adventure', 'Science Fiction'}"
+Birds of a Feather,['Robert Silverberg'],['./CORPUS/ScienceFiction/51361.txt'],{'Science Fiction'}
+Dorothy and the Wizard in Oz,['L Frank. Baum'],['./CORPUS/Fantasy/19450.txt'],{'Fantasy'}
+Two Timer,['Fredric Brown'],['./CORPUS/ScienceFiction/29948.txt'],{'Science Fiction'}
+Riya's Foundling,['Algirdas Jonas Budrys'],['./CORPUS/ScienceFiction/34420.txt'],{'Science Fiction'}
+Taboo,['James Branch Cabell'],['./CORPUS/Fantasy/17134.txt'],{'Fantasy'}
+The Tiger of Mysore,['G.A. Henty'],['./CORPUS/Adventure/18813.txt'],{'Adventure'}
+Keep Your Shape,['Robert Sheckley'],['./CORPUS/ScienceFiction/32346.txt'],{'Science Fiction'}
+Rowdy of the Cross L,"['B.M. Sinclair', 'AKA B.M. Bower']",['./CORPUS/Western/1907.txt'],{'Western'}
+What is Posat?,['Phyllis Sterling Smith'],['./CORPUS/ScienceFiction/51336.txt'],{'Science Fiction'}
+The Long Voyage,['Carl Richard Jacobi'],['./CORPUS/ScienceFiction/29742.txt'],{'Science Fiction'}
+Survival Type,['J.F. Bone'],['./CORPUS/ScienceFiction/51395.txt'],{'Science Fiction'}
+Solid Solution,['James Stamers'],['./CORPUS/ScienceFiction/51610.txt'],{'Science Fiction'}
+The Last Evolution,['John Wood Campbell'],['./CORPUS/ScienceFiction/27462.txt'],{'Science Fiction'}
+The Man from Time,['Frank Belknap Long'],['./CORPUS/ScienceFiction/29418.txt'],{'Science Fiction'}
+Brood of the Dark Moon,['Charles Willard Diffin'],['./CORPUS/ScienceFiction/32398.txt'],{'Science Fiction'}
+New Apples in the Garden,['Kris Ottman Neville'],['./CORPUS/ScienceFiction/30767.txt'],{'Science Fiction'}
+Ozma of Oz,['L. Frank Baum'],['./CORPUS/Fantasy/486.txt'],{'Fantasy'}
+The Magic City,['Edith Nesbit'],['./CORPUS/Fantasy/20606.txt'],{'Fantasy'}
+Cattle Brands,['Andy Adams'],['./CORPUS/Western/12281.txt'],{'Western'}
+The Snare,['Richard R. Smith'],['./CORPUS/ScienceFiction/49901.txt'],{'Science Fiction'}
+Ullr Uprising,['Henry Beam Piper'],['./CORPUS/ScienceFiction/19370.txt'],{'Science Fiction'}
+The Dueling Machine,['Benjamin William Bova'],['./CORPUS/ScienceFiction/30796.txt'],{'Science Fiction'}
+John Dough and the Cherub,['L. Frank Baum'],['./CORPUS/Fantasy/47166.txt'],{'Fantasy'}
+Second Landing,['Floyd Wallace'],['./CORPUS/ScienceFiction/24958.txt'],{'Science Fiction'}
+Trent's Last Case,['E.C.  Bentley'],['./CORPUS/CrimeMystery/2568.txt'],{'Crime and Mystery'}
+Adolescents Only,['Irving E. Cox'],['./CORPUS/ScienceFiction/32651.txt'],{'Science Fiction'}
+Man of Many Minds,['E. Everett Evans'],['./CORPUS/ScienceFiction/19660.txt'],{'Science Fiction'}
+"Quiet, Please",['Kevin Scott'],['./CORPUS/ScienceFiction/21541.txt'],{'Science Fiction'}
+The Heads of Apex,['Francis Flagg'],['./CORPUS/ScienceFiction/29046.txt'],{'Science Fiction'}
+Yesterday House,['Fritz Leiber'],['./CORPUS/ScienceFiction/50905.txt'],{'Science Fiction'}
+Pleasant Journey,['Richard F. Thieme'],['./CORPUS/ScienceFiction/29790.txt'],{'Science Fiction'}
+Lost in the Future,['John Victor Peterson'],['./CORPUS/ScienceFiction/28645.txt'],{'Science Fiction'}
+See?,['Edward G. Robles'],['./CORPUS/ScienceFiction/29601.txt'],{'Science Fiction'}
+Under the Andes,['Rex Stout'],['./CORPUS/Adventure/546.txt'],{'Adventure'}
+Delayed Action,['Charles Vincent De Vet'],['./CORPUS/ScienceFiction/33790.txt'],{'Science Fiction'}
+The Lost Warship,['Robert Moore Williams'],['./CORPUS/ScienceFiction/32563.txt'],{'Science Fiction'}
+Jaywalker,['Ross Rocklynne'],['./CORPUS/ScienceFiction/51027.txt'],{'Science Fiction'}
+The Knights of Arthur,['Frederik Pohl'],['./CORPUS/ScienceFiction/32004.txt'],{'Science Fiction'}
+The Sky Trap,['Frank Belknap Long'],['./CORPUS/ScienceFiction/24151.txt'],{'Science Fiction'}
+Status Quo,['Dallas McCord Reynolds'],['./CORPUS/ScienceFiction/30339.txt'],{'Science Fiction'}
+King Solomon's Mines,['H. Rider Haggard'],['./CORPUS/Adventure/2166.txt'],{'Adventure'}
+Ask a Foolish Question,['Robert Sheckley'],['./CORPUS/ScienceFiction/33854.txt'],{'Science Fiction'}
+Operation Haystack,['Frank Patrick Herbert'],['./CORPUS/ScienceFiction/24721.txt'],{'Science Fiction'}
+The Aliens,['Murray Leinster'],['./CORPUS/ScienceFiction/24104.txt'],{'Science Fiction'}
+The Quirt,['B.M. Bower'],['./CORPUS/Western/19166.txt'],{'Western'}
+It's All Yours,['Sam Merwin'],['./CORPUS/ScienceFiction/29195.txt'],{'Science Fiction'}
+A Christmas Carol,['Charles Dickens'],['./CORPUS/Horror/19337.txt'],{'Horror'}
+The Helpful Robots,['Robert J. Shea'],['./CORPUS/ScienceFiction/28438.txt'],{'Science Fiction'}
+Sense from Thought Divide,['Mark Irvin Clifton'],['./CORPUS/ScienceFiction/22513.txt'],{'Science Fiction'}
+Four-Day Planet,['Henry Beam Piper'],['./CORPUS/ScienceFiction/19478.txt'],{'Science Fiction'}
+Security,['Ernest M. Kenyon'],['./CORPUS/ScienceFiction/26140.txt'],{'Science Fiction'}
+Moonfleet,['J. Meade Falkner'],['./CORPUS/Adventure/10743.txt'],{'Adventure'}
+The Moon is Green,['Fritz Reuter Leiber'],['./CORPUS/ScienceFiction/29662.txt'],{'Science Fiction'}
+The Night Horseman,['Max Brand'],['./CORPUS/Western/12436.txt'],{'Western'}
+Find the Woman,['Arthur Somers Roche'],['./CORPUS/CrimeMystery/42740.txt'],{'Crime and Mystery'}

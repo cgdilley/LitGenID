@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gutenberg</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><h1 id="gutenberg-module">Gutenberg Module</h1>
+
+<p>This document will detail the various contents of the Gutenberg module, which was responsible for filtering and labeling the complete collection of texts from <a href="http://www.gutenberg.org/">Project Gutenberg</a>.</p>
+
+<p><div class="toc">
+<ul>
+<li><a href="#gutenberg-module">Gutenberg Module</a><ul>
+<li><a href="#directories">Directories</a><ul>
+<li><a href="#data">Data</a></li>
+<li><a href="#epub">ePub</a></li>
+<li><a href="#corpus">Corpus</a></li>
+<li><a href="#src">Src</a></li>
+</ul>
+</li>
+<li><a href="#sources">Sources</a><ul>
+<li><a href="#extractpy">Extract.py</a></li>
+<li><a href="#findlabelsgutenpy">FindLabels_Guten.py</a></li>
+<li><a href="#findurlsiblistpy">FindURLs_IBList.py</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</p>
+
+
+
+<h2 id="directories"><strong>Directories</strong></h2>
+
+<p>These directories, other than the <em>src</em> directory, are not included in the Git repository because of their enormous sizes. </p>
+
+<h3 id="data">Data</h3>
+
+<p>The data directory contains the texts downloaded by the Project Gutenberg’s robot tool (<a href="http://www.gutenberg.org/wiki/Gutenberg:Information_About_Robot_Access_to_our_Pages">link</a>).  We used this tool to collect all available English-language texts in plain-text (.txt) format.  Most of the texts are UTF-8/ASCII encoded, but some are ISO-8859-1 encoded as well.  All texts contained within are labelled with their Gutenberg eBook ID# as their file name.  Each file is contained within its own individual directory that also has this same eBook ID#.  These directories are also nested in a directory structure that allows one to search for a file with a particular ID number digit by digit, so that not all files are piled in one single directory.</p>
+
+<p>These text files also contain meta information and legal information relating to the text.  The meta information indicating the books’ titles and authors needed to extracting from this, and all of the non-book text needed to be trimmed before placing in the corpus.</p>
+
+<p>There seems to be no obvious structure to how ID numbers are assigned to the various texts, and there are several duplicate books within the collection that needed to be identified and removed.</p>
+
+
+
+<h3 id="epub">ePub</h3>
+
+<p>The epub directory contains catalog information relating to the Gutenberg texts, acquired from the Project Gutenberg website (<a href="http://www.gutenberg.org/wiki/Gutenberg:Feeds">link</a>).  This directory, unlike the data directory, does not have any structure designed to distribute its contents at all, and contains individual directories labelled with every Gutenberg eBook ID#.  These sub-directories contain .rdf files with information about their corresponding text, described with an XML structure.</p>
+
+
+
+<h3 id="corpus">Corpus</h3>
+
+<p>The CORPUS directory contains the output from all processing undertaken by the Gutenberg module.  This directory contains sub-directories labelled for each genre that is to be identified in this machine learning project.  Each of these sub-directories contain all text files that were able to be labelled with the corresponding genre label, copied from the data directory with the unnecessary information trimmed out.</p>
+
+<p>The CORPUS directory also contains a file <em>“catalog.csv”</em> that is a file in CSV format containing information relating to all texts in the corpus, including each book’s title, its author(s), its labelled genres, and paths to all places in the corpus where it is located.  The python script <em>“catalogManager.py”</em> in this directory serves to help navigate this catalog, allowing one to query for any of these criteria easily.</p>
+
+
+
+<h3 id="src">Src</h3>
+
+<p>The src directory contains all source Python files, described in greater detail below.</p>
+
+
+
+<h2 id="sources"><strong>Sources</strong></h2>
+
+<p>The code responsible for every stage of processing was written in separate python scripts, each of which are treated as being executed from the root <em>Gutenberg</em> directory (rather than from the <em>src</em> directory in which they are located).</p>
+
+<h3 id="extractpy">Extract.py</h3>
+
+<p>This script is responsible for the first stage of the processing sequence, which involved going through all text files in the <em>data</em> folder, and identifying the title and author of the text.  This title and author information, along with the path to the file, is then stored and eventually written to the file <em>“textData.txt”</em> in CSV format.</p>
+
+<p>Titles are identified by lines that began with the string <em>“Title:”</em>.  The remaining contents are determined to be the title of the book, and any leading or trailing whitespace is trimmed.</p>
+
+<p>Authors are identified by lines that began with the string <em>“Author”</em>.  However, the process of converting the remaining contents of the line into a list of authors is more complicated.  A number of aspects of the string are altered (such as removing certain symbols, or text inside parentheses) in order to more accurately pick out the authors’ names.  The string is also split by the word “and” and by commas, and each split component is treated as its own author in the list of authors.  This process does a decent job of properly attributing a particular author when that author has their name written differently in different texts or when they are a single author in a group of authors.</p>
+
+<p>Not all texts in the collection have effectively-labelled title and author information.  Any texts where this information is unable to ascertained are discarded.  This amounted to roughly 1% of the total texts in the collection.  Also, many texts had two text files for a single eBook ID# that were identical other than in their text encoding.  In such cases, just the UTF-8 encoded text was considered, and the other ignored.  This process narrowed down the 69199 text files in the collection down to 41430.</p>
+
+<p>The python script <strong>extract_utils.py</strong> contains some functions used by extract.py, separated out for a cleaner appearance.</p>
+
+
+
+<h3 id="findlabelsgutenpy">FindLabels_Guten.py</h3>
+
+<p>This script is responsible for reading the data output by <strong>extract.py</strong>, and using the Gutenberg catalog files in the <em>epub</em> directory to attribute a genre to the files.</p>
+
+<p>For this, the script first loads the title, author, and file path information stored in <em>textData.txt</em>.  The eBook ID# of the book is implied by the file path, and is used to look up the book in the catalog.  The catalog files are in XML format, and contain any number of “bookshelf” elements, which are akin to genres in the Project Gutenberg system.  These bookshelves are identified in the XML tree, and if they match the set of accepted genres, the book’s information along with this label are stored and later written into <em>“textDataWithGenre.txt”</em> in CSV format.</p>
+
+<p>This process reduced the 41430 texts from <strong>extract.py</strong> down to 1750 labelled texts.  Many of the texts on Project Gutenberg are poems, short stories, plays, historical documents, and other non-novel texts that are not the focus of our research, and so this level of reduction is not surprising.</p>
+
+<h3 id="findurlsiblistpy">FindURLs_IBList.py</h3>
+
+<p>This script is responsible for finding title and author matches of book data output by <strong>extract.py</strong> on the Internet Book List (<a href="http://www.iblist.com/">link</a>), and storing links to the book’s information page on this website.</p>
+
+<p>This is accomplished by formatting the title and author of the book into a search query URL for the website, requesting the page at the URL, and parsing the HTML response.  This response contains a well-formatted list of titles and authors, with links to information pages relating to the titles and authors referenced.  Matches are determined by employing weak/fuzzy string comparisons, to account for variations in how titles and authors were written.</p>
+
+<p>If a match is found, the URL linking to the book’s information is stored along with the other book information, and eventually written to <em>“textDataWithURL.txt”</em>.  This process takes a very long time (~10 hours) to run for all 41430 texts, and so results are written progressively and the already-searched texts are marked so that the process can be stopped and started without having to start over in case something happens.</p>
+
+<p>This process reduced the 41430 texts from <strong>extract.py</strong> down to 1245 texts with associated URLs.  It is unclear if this is an expected amount, or if many texts were lost due to not being properly matched when they should have.</p>
+
+
+
+<h3 id="findlabelsiblistpy">FindLabels_IBList.py</h3>
+
+<p>This script is responsible for using the URLs output by <strong>findURLs_IBList.py</strong> to query for the book information located at the URLs and assign a genre to the associated book.</p>
+
+<p>This is accomplished by extracting the title, author, file path, and URL information stored in <em>“textDataWithURL.txt”</em>, and requesting the page located at the URL.  The HTML response is then parsed to determine whether the book is categorized as a novel (if not, it is discarded), and any genres associated with the book are extracted.  Any genres found that match the list of acceptable genres are attributed to the books, stored, and eventually written to <em>“textDataWithGenre2.txt”</em>.</p>
+
+<p>This process reduced the 1245 texts from <strong>findURLs_IBList.py</strong> down to 458 labelled texts.</p>
+
+<h3 id="findlabelsutilspy">FindLabels_utils.py</h3>
+
+<p>This script contains a lot of utility methods used by <strong>findLabels_Guten.py</strong>, <strong>findURLs_IBList.py</strong>, and <strong>findLabels_IBList.py</strong>, as well as the class <em>TextData</em>.  This class is used to easily store information about individual books and accessing particular data stored in fields, such as title, author, etc.</p>
+
+
+
+<h3 id="processresultspy">ProcessResults.py</h3>
+
+<p>This script is responsible for merging the outputs of <strong>findLabels_Guten.py</strong> and <strong>findLabels_IBList.py</strong>, as well as merging/removing any duplicates, and converting their identified genres into a consistent schema of accepted genres.  This script also produces a nice human-readable summary of the entire collection of labelled texts.</p>
+
+<p>This is accomplished by first loading in the contents of both <em>“textDataWithGenre.txt</em>” and <em>“textDataWithGenre2.txt”</em>.  These elements are added one by one, checking that the referenced file path for each is unique (so that the same file is not referred to twice and thus duplicated).  To account for the fact that the Gutenberg files also have multiple text files and ID numbers containing the same book, titles are also tested for uniqueness when merging.  If a title match is found, it also tests that there is an author match as well (with fuzzy string matching), so that two books with the same title by different authors are still considered separate.  </p>
+
+<p>If duplicates are found, whichever was added first takes precedence and any further matches are discarded.  Before being discarded, however, their sets of labels/genres are merged in case the to-be-discarded text carries a label not yet assigned to the retained text.</p>
+
+<p>As the genres assigned by Gutenberg and by IBList aren’t identical, and don’t fall into the same buckets we wish to use for this research, all assigned genres are also mapped to an official set of genres used for labeling.</p>
+
+<p>The merged, labelled list of books is eventually written to <em>“textData_FINAL.txt”</em>.</p>
+
+<p>This process merged the 1750 texts from <strong>findLabels_Guten.py</strong> and the 458 texts from <strong>findLabels_IBList.py</strong> into one collection of 1964 labelled texts.</p>
+
+<p>The python script <strong>processResults_utils.py</strong> contains some functions used by processResults.py, separated out for a cleaner appearance.</p>
+
+<h3 id="assemblecorpuspy">AssembleCorpus.py</h3>
+
+<p>This script is responsible for reading the final labelled set of book information, constructing the corpus directory structure, and copying the files from the Gutenberg data into the corpus folders after trimming excess textual content from them.  A catalog of this corpus is also generated.</p>
+
+<p>This is accomplished by reading the <em>“textData_FINAL.txt</em>” file, getting the title, author, file path, and genre information for all books to be in the final corpus.  The corpus structure (with the genre sub-directories) is then generated, if it does not already exist.  Then, all texts are iterated through, reading the text contents of each file at the associated file path.  The beginning and end of the actual text component are determined, and this content is written to a new file (identified by its Gutenberg eBook ID#) in each of the folders corresponding to its associated genres.</p>
+
+<p>This means that the same text will occur in two different genre sub-directories if it has multiple genres attributed to it.  Only about 5% of all texts had multiple genres.  </p>
+
+<p>The extracted book information is then written into <em>“CORPUS/catalog.csv”</em>, with the original Gutenberg file path replaced with a list of paths to all of the text’s occurrences within the corpus.</p>
+
+
+
+<h2 id="text-files"><strong>Text Files</strong></h2>
+
+<p>The text files are mostly used as intermediary output between the different processing components.</p>
+
+<ul>
+<li><strong>textData.txt</strong> - Output from <em>extract.py</em>, input for <em>findLabels_Guten.py</em> and <em>findURLs_IBList.py</em>.</li>
+<li><strong>textDataWithURL.txt</strong> - Output from <em>findURLs_IBList.py”, input for *findLabels_IBList.py</em>.</li>
+<li><strong>textDataWithGenre.txt</strong> - Output from <em>findLabels_Guten.py</em>, input for <em>processResults.py</em>.</li>
+<li><strong>textDataWithGenre2.txt</strong> - Output from <em>findLabels_IBList.py</em>, input for <em>processResults.py</em>.</li>
+<li><strong>textData_FINAL.txt</strong> - Output from <em>processResults.py</em>, input for <em>assembleCorpus.py</em>.</li>
+<li><strong>saveMarker.txt</strong> - File for persistently holding how far progressed <em>findURLs_IBList.py</em> is. </li>
+<li><strong>genreCounts.txt</strong> - Pretty, human-readable output from <em>processResults.py</em>, detailing the texts that make up the corpus and the genres to which they belong.</li>
+</ul>
+
+<blockquote>
+  <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote></div></body>
+</html>

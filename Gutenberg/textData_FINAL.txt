@@ -1,0 +1,1965 @@
+TITLE,AUTHOR,FILEPATH,GENRE
+Ten From Infinity,['Paul W. Fairman'],./data/2/0/8/5/20856/20856.txt,{'Science Fiction'}
+The Beast of Space,['F.E. Hardart'],./data/2/3/5/0/23509/23509.txt,{'Science Fiction'}
+"Next Door, Next World",['Robert Donald Locke'],./data/2/6/2/0/26205/26205.txt,{'Science Fiction'}
+Warrior Race,['Robert Sheckley'],./data/2/9/5/4/29548/29548.txt,{'Science Fiction'}
+Planet of Dreams,['James McKimmey'],./data/3/0/0/4/30045/30045.txt,{'Science Fiction'}
+The Fourth R,['George Oliver Smith'],./data/1/8/6/0/18602/18602.txt,{'Science Fiction'}
+Garrity's Annuities,['David Mason'],./data/5/0/9/8/50981/50981.txt,{'Science Fiction'}
+Casey Ryan,['B.M. Bower'],./data/1/2/4/9/12495/12495.txt,{'Western'}
+The Secret Adversary,['Agatha Christie'],./data/1/1/5/1155/1155-0.txt,"{'Crime and Mystery', 'Detective Fiction'}"
+Graveyard of Dreams,['Henry Beam Piper'],./data/1/8/1/0/18109/18109.txt,{'Science Fiction'}
+The Strange Case Of Dr. Jekyll And Mr. Hyde,['Robert Louis Stevenson'],./data/4/43/43.txt,{'Horror'}
+Craphound,['Cory Doctorow'],./data/1/7/0/2/17026/17026/17026.txt,{'Science Fiction'}
+Out of Time's Abyss,['Edgar Rice Burroughs'],./data/5/5/553/553.txt,{'Science Fiction'}
+The Book of All-Power,['Edgar Wallace'],./data/2/4/9/2/24920/24920.txt,{'Adventure'}
+A Stone and a Spear,['Raymond F. Jones'],./data/5/1/0/7/51075/51075.txt,{'Science Fiction'}
+Three Men in a Boat,['Jerome K. Jerome'],./data/3/0/308/308.txt,{'Adventure'}
+Spacemen Never Die!,['Morris Hershman'],./data/2/9/9/4/29947/29947.txt,{'Science Fiction'}
+The Troublemakers,['George O. Smith'],./data/5/1/8/6/51868/51868.txt,{'Science Fiction'}
+Extracts from the Galactick Almanack,['Larry M. Harris'],./data/5/1/6/2/51622/51622.txt,{'Science Fiction'}
+Helpfully Yours,['Evelyn E. Smith'],./data/3/1/6/4/31644/31644.txt,{'Science Fiction'}
+Men of Iron,['Howard Pyle'],./data/1/5/5/1557/1557.txt,{'Fantasy'}
+Find the Woman,['Arthur Somers Roche'],./data/4/2/7/4/42740/42740.txt,{'Crime and Mystery'}
+The Story of Sigurd the Volsung,['William Morris'],./data/1/3/4/8/13486/13486.txt,{'Fantasy'}
+Lords of the Stratosphere,['Arthur J. Burks'],./data/2/9/4/6/29466/29466.txt,{'Science Fiction'}
+A Final Reckoning,['G.A. Henty'],./data/2/0/0/3/20031/20031.txt,{'Adventure'}
+Scaramouche,['Rafael Sabatini'],./data/1/9/4/1947/1947.txt,{'Adventure'}
+The Devil in Iron,['Robert E. Howard'],./data/4/2/2/0/42209/42209.txt,{'Science Fiction'}
+Fables in Rhyme for Little Folks,['Jean de La Fontaine'],./data/2/4/1/0/24108/24108.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Tarzan the Untamed,['Edgar Rice Burroughs'],./data/1/4/0/1401/1401.txt,"{'Adventure', 'Fantasy'}"
+Celebrity,['James McKimmey'],./data/2/9/9/6/29962/29962.txt,{'Science Fiction'}
+The Golden Asse,['Lucius Apuleius'],./data/1/6/6/1666/1666.txt,{'Fantasy'}
+Wanted--7 Fearless Engineers!,['Warner Van Lorne'],./data/2/6/9/4/26941/26941.txt,{'Science Fiction'}
+Scent Makes a Difference,['James Stamers'],./data/5/1/7/7/51773/51773.txt,{'Science Fiction'}
+"Omega, the Man",['Lowell Howard Morrow'],./data/2/6/8/8/26882/26882.txt,{'Science Fiction'}
+The 4-D Doodler,['Graph Waldeyer'],./data/2/2/2/2/22227/22227.txt,{'Science Fiction'}
+The Adventures of Sherlock Holmes,['Arthur Conan Doyle'],./data/1/6/6/1661/1661.txt,{'Detective Fiction'}
+Liza of Lambeth,['W. Somerset Maugham'],./data/1/6/5/1/16517/16517.txt,{'Romance'}
+The Dash for Khartoum,['George Alfred Henty'],./data/2/1/9/8/21986/21986.txt,{'Adventure'}
+Charity Case,['Jim Harmon'],./data/5/1/6/5/51657/51657.txt,{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 5.",['Mark Twain'],./data/7/2/4/7246/7246.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+Star Performer,['Robert J. Shea'],./data/3/1/7/3/31736/31736.txt,{'Science Fiction'}
+Atom Drive,['Charles Louis Fontenay'],./data/3/2/0/6/32067/32067.txt,{'Science Fiction'}
+Garth and the Visitor,['L.J. Stecher'],./data/3/1/9/5/31956/31956.txt,{'Science Fiction'}
+The Skull,['Philip K. Dick'],./data/3/0/2/5/30255/30255.txt,{'Science Fiction'}
+Unhappy Far-Off Things,['Lord Dunsany'],./data/1/3/8/2/13820/13820.txt,{'Fantasy'}
+Divinity,['William Morrison'],./data/2/2/6/2/22623/22623.txt,{'Science Fiction'}
+The Hanging Stranger,['Philip K. Dick'],./data/4/1/5/6/41562/41562.txt,{'Science Fiction'}
+The Blockade Runners,['Jules Verne'],./data/8/9/9/8992/8992.txt,{'Adventure'}
+Wolfbane,['Frederik Pohl'],./data/5/1/8/4/51845/51845-8.txt,{'Science Fiction'}
+The Colors of Space,['Marion Zimmer Bradley'],./data/2/0/7/9/20796/20796.txt,{'Science Fiction'}
+Dorothy and the Wizard in Oz,['L Frank. Baum'],./data/1/9/4/5/19450/19450.txt,{'Fantasy'}
+The Four-Faced Visitors of Ezekiel,['Arthur W. Orton'],./data/3/0/2/5/30252/30252.txt,{'Science Fiction'}
+The Radio Boys on the Mexican Border,['Gerald Breckenridge'],./data/1/4/2/7/14278/14278.txt,{'Adventure'}
+Under the Andes,['Rex Stout'],./data/5/4/546/546.txt,{'Adventure'}
+Cause of Death,['Max Tadlock'],./data/5/1/1/3/51137/51137.txt,{'Science Fiction'}
+Suite Mentale,['Gordon Randall Garrett'],./data/2/2/7/6/22763/22763.txt,{'Science Fiction'}
+Today is Forever,['Roger Dee'],./data/5/0/8/8/50884/50884.txt,{'Science Fiction'}
+A Voyage to Arcturus,['David Lindsay'],./data/1/3/2/1329/1329.txt,{'Science Fiction'}
+Ambition,['William L. Bade'],./data/5/1/2/7/51274/51274.txt,{'Science Fiction'}
+Police Your Planet,['Lester del Rey'],./data/2/0/2/1/20212/20212.txt,"{'Adventure', 'Science Fiction'}"
+Nice Girl With 5 Husbands,['Fritz Leiber'],./data/5/1/1/0/51101/51101-8.txt,{'Science Fiction'}
+The Love of Frank Nineteen,['David Carpenter Knight'],./data/2/7/9/2/27921/27921.txt,{'Science Fiction'}
+Sentry Of The Sky,['Evelyn E. Smith'],./data/5/1/8/6/51867/51867-8.txt,{'Science Fiction'}
+Four Weird Tales,['Algernon Blackwood'],./data/1/6/7/2/16726/16726.txt,{'Horror'}
+Held Fast For England,['G.A. Henty'],./data/2/1/7/8/21788/21788.txt,{'Adventure'}
+The Well at the World's End,['William Morris'],./data/1/6/169/169.txt,{'Fantasy'}
+Prester John,['John Buchan'],./data/6/1/611/611.txt,{'Adventure'}
+Question of Comfort,['Les Collins'],./data/2/2/5/9/22597/22597.txt,{'Science Fiction'}
+The Legends Of King Arthur And His Knights,['James Knowles'],./data/1/2/7/5/12753/12753.txt,{'Fantasy'}
+The Adventure of the Dying Detective,['Arthur Conan Doyle'],./data/2/3/4/2347/2347.txt,{'Detective Fiction'}
+People Minus X,['Raymond Zinke Gallun'],./data/5/0/0/6/50063/50063-8.txt,{'Science Fiction'}
+"My Father, the Cat",['Henry Slesar'],./data/2/8/1/1/28119/28119.txt,{'Science Fiction'}
+The Dope on Mars,['John Michael Sharkey'],./data/2/6/8/4/26843/26843.txt,{'Science Fiction'}
+Flying U Ranch,['B.M. Bower'],./data/1/2/0/1206/1206.txt,{'Western'}
+Flamedown,['Horace Brown Fyfe'],./data/2/9/9/3/29936/29936.txt,{'Science Fiction'}
+B-12's Moon Glow,['Charles A. Stearns'],./data/3/1/3/6/31364/31364.txt,{'Science Fiction'}
+In the Control Tower,['Will Mohler'],./data/2/3/1/4/23149/23149.txt,{'Science Fiction'}
+Time In the Round,['Fritz Leiber'],./data/5/1/3/8/51380/51380.txt,{'Science Fiction'}
+Memoirs of Sherlock Holmes,['Sir Arthur Conan Doyle'],./data/8/3/834/834.txt,{'Detective Fiction'}
+White Fang,['Jack London'],./data/9/1/910/910.txt,{'Adventure'}
+Letter of the Law,['Alan Edward Nourse'],./data/2/4/2/7/24275/24275.txt,{'Science Fiction'}
+More William,['Richmal Crompton'],./data/1/7/1/2/17125/17125.txt,{'Adventure'}
+The Tale of Terror,['Edith Birkhead'],./data/1/4/1/5/14154/14154.txt,{'Horror'}
+Business For the Lawyers,['Ralph Robin'],./data/4/9/7/6/49767/49767.txt,{'Science Fiction'}
+A Thin Ghost and Others,['M.R.  James'],./data/2/0/3/8/20387/20387.txt,{'Horror'}
+The Mathematicians,['Arthur Feldman'],./data/2/9/1/4/29140/29140.txt,{'Science Fiction'}
+The Return of Tarzan,['Edgar Rice Burroughs'],./data/8/81/81.txt,{'Fantasy'}
+Tik-Tok of Oz,['L. Frank Baum'],./data/9/5/956/956.txt,{'Fantasy'}
+World Beyond Pluto,['C.H. Thames'],./data/3/2/8/2/32820/32820.txt,{'Science Fiction'}
+The King's Own,['Captain Frederick Marryat'],./data/2/1/5/5/21550/21550.txt,{'Adventure'}
+Someone to Watch Over Me,['Christopher Grimm'],./data/5/1/8/4/51844/51844.txt,{'Science Fiction'}
+Wailing Wall,['Roger Dee'],./data/5/0/9/4/50940/50940-8.txt,{'Science Fiction'}
+Transfer Point,['Anthony Boucher'],./data/5/1/1/1/51115/51115-8.txt,{'Science Fiction'}
+Time Fuze,['Gordon Randall Garrett'],./data/3/2/3/4/32347/32347.txt,{'Science Fiction'}
+The First Men In The Moon,['H.G. Wells'],./data/1/0/1/1013/1013.txt,"{'Adventure', 'Horror', 'Science Fiction'}"
+Tales of Three Hemispheres,['Lord Dunsany'],./data/1/1/4/4/11440/11440.txt,{'Fantasy'}
+Skylark Three,['Edward Elmer Smith'],./data/2/1/0/5/21051/21051.txt,{'Science Fiction'}
+By Proxy,['Gordon Randall Garrett'],./data/2/4/7/0/24707/24707.txt,{'Science Fiction'}
+Lease to Doomsday,['Lee Archer'],./data/2/7/3/9/27392/27392.txt,{'Science Fiction'}
+"$1,000 A Plate",['Jack McKenty'],./data/5/0/9/2/50921/50921.txt,{'Science Fiction'}
+When the Sleeper Wakes,['Herbert George Wells'],./data/7/7/775/775.txt,{'Science Fiction'}
+Hunter Patrol,"['Henry Beam Piper', 'John J. McGuire']",./data/1/8/6/4/18641/18641.txt,{'Science Fiction'}
+License to Steal,['Louis Newman'],./data/5/1/4/2/51420/51420-8.txt,{'Science Fiction'}
+Andersen's Fairy Tales,['Hans Christian Andersen'],./data/1/5/9/1597/1597.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+"But, I Don't Think",['Gordon Randall Garrett'],./data/2/4/0/0/24005/24005.txt,{'Science Fiction'}
+The Variable Man,['Philip K. Dick'],./data/3/2/1/5/32154/32154.txt,{'Science Fiction'}
+In Case of Fire,['Gordon Randall Garrett'],./data/2/4/5/2/24521/24521.txt,{'Science Fiction'}
+Second Landing,['Floyd Wallace'],./data/2/4/9/5/24958/24958.txt,{'Science Fiction'}
+Hail to the Chief,['Gordon Randall Garrett'],./data/2/6/1/0/26109/26109.txt,{'Science Fiction'}
+Manners of the Age,['Horace Brown Fyfe'],./data/3/2/7/6/32764/32764.txt,{'Science Fiction'}
+Scarhaven Keep,['J.S. Fletcher'],./data/9/8/0/9807/9807.txt,{'Detective Fiction'}
+Pardners,['Rex Beach'],./data/1/3/1/3/13135/13135.txt,{'Western'}
+The Beautiful Eyes of Ysidria,['Charles A. Gunnison'],./data/1/8/6/6/18660/18660.txt,{'Western'}
+Herein is Love,['Reuel L. Howe'],./data/2/0/2/8/20289/20289.txt,{'Love'}
+Space Platform,['Murray Leinster'],./data/2/5/0/5/25051/25051.txt,"{'Adventure', 'Science Fiction'}"
+The Settlers,['William H.G. Kingston'],./data/2/1/4/8/21482/21482.txt,{'Adventure'}
+The Return,['Walter de la Mare'],./data/3/0/7/3075/3075.txt,{'Horror'}
+Storm Over Warlock,['Andre Norton'],./data/2/0/7/8/20788/20788.txt,"{'Adventure', 'Fantasy', 'Science Fantasy', 'Science Fiction'}"
+Subversive,['Dallas McCord Reynolds'],./data/2/3/1/9/23197/23197.txt,{'Science Fiction'}
+The Adventures of Huckleberry Finn,['Mark Twain'],./data/3/2/3/2/32325/32325.txt,{'Adventure'}
+What Do You Read?,['Boyd Ellanby'],./data/4/9/7/5/49754/49754.txt,{'Science Fiction'}
+Twenty Years After,"['Alexandre Dumas', 'Pere']",./data/1/2/5/1259/1259.txt,{'Adventure'}
+The Return,"['H. Beam Piper', 'John J. McGuire']",./data/1/8/8/5/18855/18855.txt,{'Science Fiction'}
+The Doorway,['Evelyn E. Smith'],./data/2/9/1/3/29138/29138.txt,{'Science Fiction'}
+The Alien,['Raymond F. Jones'],./data/5/0/7/8/50783/50783-8.txt,{'Science Fiction'}
+The Ultimate Weapon,['John Wood Campbell'],./data/2/3/7/9/23790/23790.txt,{'Science Fiction'}
+The Lani People,['J.F. Bone'],./data/2/5/0/2509/2509.txt,{'Science Fiction'}
+Vital Ingredient,['Gerald Vance'],./data/2/7/7/9/27797/27797.txt,{'Science Fiction'}
+Good Indian,['B.M. Bower'],./data/9/3/938/938.txt,{'Western'}
+Consignment,['Alan E. Nourse'],./data/4/1/5/6/41565/41565.txt,{'Science Fiction'}
+Sky Island,['L. Frank Baum'],./data/4/3/5/4356/4356.txt,{'Fantasy'}
+Martian V.F.W.,['G.L. Vandenburg'],./data/2/2/1/1/22110/22110.txt,{'Science Fiction'}
+"Astounding Stories, July, 1931",['Various'],./data/3/1/1/6/31168/31168.txt,{'Science Fiction'}
+The Seed of the Toc-Toc Birds,['Francis Flagg'],./data/2/3/8/3/23831/23831.txt,{'Science Fiction'}
+Four Arthurian Romances,['Chretien DeTroyes'],./data/8/3/831/831.txt,{'Fantasy'}
+If You Was A Moklin,['Murray Leinster'],./data/5/1/7/5/51752/51752.txt,{'Science Fiction'}
+Compatible,['Richard R. Smith'],./data/2/8/9/2/28922/28922.txt,{'Science Fiction'}
+Lost in Translation,['Larry M. Harris'],./data/3/0/0/2/30029/30029.txt,{'Science Fiction'}
+Sjambak,['John Holbrook Vance'],./data/3/0/0/0/30002/30002.txt,{'Science Fiction'}
+What The Left Hand Was Doing,['Gordon Randall Garrett'],./data/2/5/1/6/25166/25166.txt,{'Science Fiction'}
+The Ashiel Mystery,['Mrs. Charles Bryce'],./data/9/7/4/9746/9746.txt,{'Detective Fiction'}
+Occasion for Disaster,['Gordon Randall Garrett'],./data/3/0/4/3/30434/30434.txt,{'Science Fiction'}
+The Risk Profession,['Donald Edwin Westlake'],./data/2/7/0/8/27089/27089.txt,{'Science Fiction'}
+Eastern Standard Tribe,['Cory Doctorow'],./data/1/7/0/2/17028/17028/17028.txt,{'Science Fiction'}
+The Lights on Precipice Peak,['Stephen Tall'],./data/4/9/8/2/49826/49826.txt,{'Science Fiction'}
+Wandl the Invader,['Raymond King Cummings'],./data/2/0/8/5/20859/20859.txt,{'Science Fiction'}
+Rupert of Hentzau,['Anthony Hope'],./data/1/1/4/1145/1145.txt,{'Adventure'}
+Invasion,['William Fitzgerald Jenkins'],./data/2/9/4/5/29455/29455.txt,{'Science Fiction'}
+The Fourth Invasion,['Henry Josephs'],./data/2/3/0/9/23099/23099.txt,{'Science Fiction'}
+The Einstein See-Saw,['Miles John Breuer'],./data/2/9/0/6/29060/29060.txt,{'Science Fiction'}
+Null-ABC,"['Henry Beam Piper', 'John Joseph McGuire']",./data/1/8/3/4/18346/18346.txt,{'Science Fiction'}
+Final Weapon,['Everett B. Cole'],./data/2/4/7/2/24723/24723.txt,{'Science Fiction'}
+The Laughing Prince,['Parker Fillmore'],./data/1/9/7/1/19713/19713.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Wonder,['J.D. Beresford'],./data/2/7/1/8/27188/27188.txt,{'Science Fiction'}
+Looking Backwards from 2000 to 1887,['Edward Bellamy'],./data/6/2/624/624.txt,{'Science Fiction'}
+Benefactor,['George H. Smith'],./data/2/8/8/9/28892/28892.txt,{'Science Fiction'}
+Astounding Stories of Super-Science September 1930,['Various'],./data/2/9/2/5/29255/29255.txt,{'Science Fiction'}
+The Eye of Zeitoon,['Talbot Mundy'],./data/5/2/4/5241/5241.txt,{'Adventure'}
+The Heritage of the Desert,['Zane Grey'],./data/1/2/6/1262/1262.txt,{'Western'}
+On the Trail of the Space Pirates,['Carey Rockwell'],./data/2/1/0/9/21092/21092.txt,{'Science Fiction'}
+Deathworld,['Harry Harrison'],./data/2/8/3/4/28346/28346.txt,"{'Adventure', 'Mystery and Detectives', 'Science Fiction'}"
+Folk Tales Every Child Should Know,['Various'],./data/1/5/1/6/15164/15164.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Brain Twister,['Gordon Randall Garrett'],./data/2/2/3/3/22332/22332.txt,{'Science Fiction'}
+The Story of the Amulet,['E. Nesbit'],./data/8/3/837/837.txt,"{'Fantasy', 'Time Travel'}"
+The Emerald City of Oz,['L. Frank Baum'],./data/5/1/517/517.txt,{'Fantasy'}
+--And Devious the Line of Duty,['Tom Godwin'],./data/2/2/5/8/22585/22585.txt,{'Science Fiction'}
+Japanese Fairy Tales,['Yei Theodora Ozaki'],./data/4/0/1/4018/4018.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+All Cats Are Gray,['Andre Alice Norton'],./data/2/9/0/1/29019/29019.txt,{'Science Fiction'}
+Mary Louise,['Edith van Dyne'],./data/5/6/6/5660/5660.txt,{'Fantasy'}
+The Revolt of the Star Men,['Raymond Gallun'],./data/4/1/0/2/41027/41027.txt,{'Science Fiction'}
+Dope,['Sax Rohmer'],./data/1/1/8/1182/1182.txt,{'Crime Fiction'}
+The Radio Boys Rescue the Lost Alaska Expedition,['Gerald Breckenridge'],./data/3/6/3/1/36314/36314.txt,{'Adventure'}
+The Cords of Vanity,['James Branch Cabell'],./data/9/6/0/9608/9608.txt,{'Fantasy'}
+In Honour Bound,['Sydney Grundy'],./data/4/1/3/6/41369/41369.txt,{'Adventure'}
+The Small World of M-75,['Ed M. Clinton Jr.'],./data/3/2/0/7/32079/32079.txt,{'Science Fiction'}
+The Children of Odin,['Padraic Colum'],./data/2/4/7/3/24737/24737.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Runaway Skyscraper,['Murray Leinster'],./data/1/7/3/5/17355/17355.txt,{'Science Fiction'}
+Allan's Wife,['H. Rider Haggard'],./data/2/7/2/2727/2727.txt,{'Adventure'}
+Warm,['Robert Sheckley'],./data/2/9/5/0/29509/29509.txt,{'Science Fiction'}
+The Young Franc Tireurs,['G.A. Henty'],./data/2/2/0/6/22060/22060.txt,{'Adventure'}
+Man Made,['Albert R. Teichner'],./data/2/4/9/5/24955/24955.txt,{'Science Fiction'}
+Lonesome Hearts,['Russell Robert Winterbotham'],./data/3/0/1/7/30170/30170.txt,{'Science Fiction'}
+Bucky O'Connor,['William MacLeod Raine'],./data/1/8/0/1809/1809.txt,{'Western'}
+End as a Hero,['Keith Laumer'],./data/5/1/2/6/51267/51267.txt,"{'Adventure', 'Science Fiction'}"
+Acid Bath,['Vaseleos Garson'],./data/2/9/1/5/29159/29159.txt,{'Science Fiction'}
+Collector's Item,['Evelyn E. Smith'],./data/3/1/6/8/31686/31686.txt,{'Science Fiction'}
+Man in a Quandary,['L.J. Stecher'],./data/5/1/4/2/51421/51421.txt,{'Science Fiction'}
+The Phantom Herd,['B.M. Bower'],./data/1/2/6/6/12663/12663.txt,{'Western'}
+Celtic Fairy Tales,['Joseph Jacobs'],./data/7/8/8/7885/7885.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Resurrection,['Robert Joseph Shea'],./data/2/8/0/3/28031/28031.txt,"{'Adventure', 'Science Fiction'}"
+A Little Journey,['Ray Bradbury'],./data/5/1/1/7/51171/51171.txt,{'Science Fiction'}
+The Hour of the Dragon,['Robert E. Howard'],./data/4/2/2/4/42243/42243.txt,{'Science Fiction'}
+The Fire People,['Ray Cummings'],./data/2/5/7/8/25780/25780.txt,{'Science Fiction'}
+The Ordeal of Colonel Johns,['George H. Smith'],./data/3/2/6/8/32688/32688.txt,{'Science Fiction'}
+Tom Swift and The Visitor from Planet X,['Victor Appleton'],./data/1/7/9/8/17985/17985.txt,{'Science Fiction'}
+Longevity,['Therese Windser'],./data/2/4/9/2/24928/24928.txt,{'Science Fiction'}
+Printcrime,['Cory Doctorow'],./data/1/9/0/0/19000/19000.txt,{'Science Fiction'}
+The Field of Ice,['Jules Verne'],./data/9/6/1/9618/9618.txt,{'Adventure'}
+The Untouchable,['Stephen A. Kallis'],./data/2/4/2/2/24221/24221.txt,{'Science Fiction'}
+The Fire and the Sword,['Frank M. Robinson'],./data/5/1/1/7/51170/51170-8.txt,{'Science Fiction'}
+The Eyes Have It,['Gordon Randall Garrett'],./data/3/0/8/3/30833/30833.txt,{'Science Fiction'}
+The Sea-Wolf,['Jack London'],./data/1/0/7/1074/1074.txt,{'Adventure'}
+The Space Rover,['Edwin K. Sloat'],./data/2/9/7/0/29702/29702.txt,{'Science Fiction'}
+Shock Absorber,['E.G. von Wald'],./data/2/4/3/8/24380/24380.txt,{'Science Fiction'}
+The Riddle of the Frozen Flame,['Mary E. Hanshew'],./data/1/7/1/8/17180/17180.txt,{'Detective Fiction'}
+Falling in Love,['Grant Allen'],./data/1/6/8/0/16807/16807.txt,{'Love'}
+Common Denominator,['John D. MacDonald'],./data/5/1/1/4/51148/51148.txt,{'Science Fiction'}
+The Patchwork Girl of Oz,['L. Frank Baum'],./data/9/5/955/955.txt,{'Fantasy'}
+Search the Sky,['Frederik Pohl'],./data/5/2/2/2/52228/52228-0.txt,"{'Adventure', 'Science Fiction'}"
+Mizora: A Prophecy,['Mary E. Bradley'],./data/2/4/7/5/24750/24750.txt,{'Science Fiction'}
+The Onslaught from Rigel,['Fletcher Pratt'],./data/4/1/0/4/41049/41049.txt,{'Science Fiction'}
+The Firelight Fairy Book,['Henry  Beston'],./data/1/9/2/0/19207/19207.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Young Robin Hood,['G. Manville Fenn'],./data/1/1/0/9/11097/11097.txt,{'Fantasy'}
+Prologue to an Analogue,['Leigh Richmond'],./data/3/0/2/4/30242/30242.txt,{'Science Fiction'}
+The Innocence of Father Brown,['G.K. Chesterton'],./data/2/0/204/204.txt,{'Detective Fiction'}
+"The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar",['Maurice Leblanc'],./data/6/1/3/6133/6133.txt,{'Crime Fiction'}
+We're Civilized!,"['Mark Clifton', 'Alex Apostolides']",./data/3/8/2/8/38287/38287.txt,{'Science Fiction'}
+The Affair of the Brains,['Anthony Gilmore'],./data/2/9/3/1/29310/29310.txt,{'Science Fiction'}
+Armageddon--2419 A.D.,['Philip Francis Nowlan'],./data/3/2/5/3/32530/32530.txt,{'Science Fiction'}
+A Prize for Edie,['Jesse Franklin Bone'],./data/2/6/3/3/26332/26332.txt,{'Science Fiction'}
+The Cavern of the Shining Ones,['Hal K. Wells'],./data/2/7/1/4/27143/27143.txt,{'Science Fiction'}
+The Test Colony,['Winston Marks'],./data/3/2/6/7/32676/32676.txt,{'Science Fiction'}
+Round-and-Round Trip,['H.B. Fyfe'],./data/5/1/7/4/51741/51741.txt,{'Science Fiction'}
+Made to Measure,['William Campbell Gault'],./data/5/1/1/9/51194/51194.txt,{'Science Fiction'}
+The Magic City,['Edith Nesbit'],./data/2/0/6/0/20606/20606.txt,{'Fantasy'}
+Tom Swift and his Air Scout,['Victor Appleton'],./data/1/2/8/1284/1284.txt,{'Adventure'}
+Venus Boy,['Lee Sutton'],./data/5/0/7/0/50702/50702.txt,{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 8",['Mark Twain'],./data/7/1/0/7107/7107.txt,{'Adventure'}
+The Wind in the Willows,['Kenneth Grahame'],./data/2/7/8/0/27805/27805.txt,{'Fantasy'}
+Man in a Sewing Machine,['L.J. Stecher'],./data/5/0/9/3/50936/50936-8.txt,{'Science Fiction'}
+Captain Blood,['Rafael Sabatini'],./data/1/9/6/1965/1965.txt,{'Adventure'}
+The Flying Cuspidors,['V.R. Francis'],./data/2/9/7/4/29749/29749.txt,{'Science Fiction'}
+Heist Job on Thizar,['Gordon Randall Garrett'],./data/2/5/0/2/25028/25028.txt,{'Science Fiction'}
+Oberheim (Voices),['Christopher Leadem'],./data/1/3/8/4/13841/13841.txt,{'Science Fiction'}
+Dr. Kometevsky's Day,['Fritz Leiber'],./data/5/1/3/5/51353/51353.txt,{'Science Fiction'}
+Raiders Invisible,['Desmond Winter Hall'],./data/2/9/0/5/29053/29053.txt,{'Science Fiction'}
+Stairway to the Stars,['Larry Shaw'],./data/2/3/1/5/23159/23159.txt,{'Science Fiction'}
+Sea Legs,['Frank Quattrocchi'],./data/5/1/4/0/51407/51407.txt,{'Science Fiction'}
+Erewhon,['Samuel Butler'],./data/1/9/0/1906/1906.txt,{'Science Fiction'}
+Traders Risk,['Roger Dee'],./data/2/3/1/0/23103/23103.txt,{'Science Fiction'}
+"Astounding Stories, June, 1931",['Various'],./data/3/1/8/9/31893/31893.txt,{'Science Fiction'}
+Millennium,['Everett B. Cole'],./data/2/4/7/7/24779/24779.txt,{'Science Fiction'}
+Spawn of the Comet,['Harold Thompson Rich'],./data/2/9/0/2/29027/29027.txt,{'Science Fiction'}
+The Jameson Satellite,['Neil Ronald Jones'],./data/2/6/9/0/26906/26906.txt,{'Science Fiction'}
+Slingshot,['Irving W. Lande'],./data/2/2/4/6/22462/22462.txt,{'Science Fiction'}
+Piper in the Woods,['Philip K. Dick'],./data/3/2/8/3/32832/32832.txt,{'Science Fiction'}
+Five Children and It,['E. Nesbit'],./data/1/7/3/1/17314/17314.txt,{'Fantasy'}
+The Hunted Heroes,['Robert Silverberg'],./data/2/5/6/2/25627/25627.txt,{'Science Fiction'}
+The Forgotten Planet,['Murray Leinster'],./data/4/1/6/3/41637/41637.txt,"{'Adventure', 'Science Fiction'}"
+The Mind Master,['Arthur J. Burks'],./data/2/9/4/1/29416/29416.txt,{'Science Fiction'}
+The Gods of Pegana,['Lord Dunsany Edward J.M.D. Plunkett'],./data/8/3/9/8395/8395.txt,{'Fantasy'}
+The Lost Continent,['Edgar Rice Burroughs'],./data/1/4/149/149.txt,{'Science Fiction'}
+Anything You Can Do,['Gordon Randall Garrett'],./data/3/0/7/4/30742/30742.txt,{'Science Fiction'}
+Diagnosis,['R.A. Palmer'],./data/4/9/7/6/49762/49762.txt,{'Science Fiction'}
+Caught In The Net,['Emile Gaboriau'],./data/2/4/5/2451/2451.txt,{'Detective Fiction'}
+Lighter Than You Think,['Nelson Bond'],./data/2/9/6/9/29698/29698.txt,{'Science Fiction'}
+The Silver Menace,['Murray Leinster'],./data/5/0/6/2/50622/50622-8.txt,{'Science Fiction'}
+Handyman,['Frank Banta'],./data/5/1/5/4/51546/51546.txt,{'Science Fiction'}
+Instant of Decision,['Gordon Randall Garrett'],./data/3/2/0/8/32088/32088.txt,{'Science Fiction'}
+Bridge Crossing,['Dave Dryfoos'],./data/5/1/2/4/51241/51241.txt,{'Science Fiction'}
+Spies Die Hard!,['Arnold Marmor'],./data/3/0/3/8/30383/30383.txt,{'Science Fiction'}
+"Le Morte D'Arthur, Volume I (of II)",['Thomas Malory'],./data/1/2/5/1251/1251.txt,{'Fantasy'}
+The Man of the Forest,['Zane Grey'],./data/3/4/5/3457/3457.txt,{'Western'}
+By England's Aid,['G.A. Henty'],./data/6/9/5/6953/6953.txt,{'Adventure'}
+The Ignoble Savages,['Evelyn E. Smith'],./data/5/1/4/1/51413/51413.txt,{'Science Fiction'}
+The Golden Spears,['Edmund Leamy'],./data/2/2/1/6/22168/22168.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Borough Treasurer,['Joseph Smith Fletcher'],./data/2/0/6/3/20630/20630.txt,{'Detective Fiction'}
+Contagion,['Katherine MacLean'],./data/5/0/7/7/50774/50774.txt,{'Science Fiction'}
+Hopalong Cassidy's Rustler Round-Up,['Clarence Edward Mulford'],./data/2/5/4/2546/2546.txt,{'Western'}
+The Scarlet Pimpernel,['Baroness Orczy'],./data/6/60/60.txt,{'Adventure'}
+The Rescue,['Joseph Conrad'],./data/1/7/1/1712/1712.txt,{'Adventure'}
+Masterman Ready,['Captain Frederick Marryat'],./data/2/1/5/5/21552/21552.txt,{'Adventure'}
+Green Grew the Lasses,['Ruth Laura Wainwright'],./data/5/0/8/4/50842/50842.txt,{'Science Fiction'}
+Subspace Survivors,['E.E. Smith'],./data/2/1/6/4/21647/21647.txt,{'Science Fiction'}
+The Doomsman,['Van Tassel Sutphen'],./data/2/7/7/3/27730/27730.txt,{'Science Fiction'}
+The Impossibles,['Gordon Randall Garrett'],./data/2/2/3/3/22338/22338.txt,{'Science Fiction'}
+Return to Pleasure Island,['Cory Doctorow'],./data/1/7/0/2/17027/17027.txt,{'Science Fiction'}
+Fairy Tales From The Arabian Nights,['E. Dixon'],./data/8/5/9/8599/8599.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Plague of Pythons,['Frederik Pohl'],./data/5/1/8/0/51804/51804.txt,{'Science Fiction'}
+Uniform of a Man,['Dave Dryfoos'],./data/3/2/7/3/32737/32737.txt,{'Science Fiction'}
+Control Group,['Roger Dee'],./data/2/4/9/4/24949/24949.txt,{'Science Fiction'}
+The Quest of the Sacred Slipper,['Sax Rohmer'],./data/2/1/2/2126/2126.txt,{'Crime Fiction'}
+Colonel Thorndyke's Secret,['G.A. Henty'],./data/8/1/5/8155/8155.txt,"{'Adventure', 'Mystery'}"
+My Book of Favorite Fairy Tales,['Edric  Vredenburg'],./data/1/5/1/4/15145/15145.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Story of the Glittering Plain,['William Morris'],./data/2/5/6/2565/2565.txt,{'Fantasy'}
+Forsyte's Retreat,['Winston Marks'],./data/3/2/7/3/32735/32735.txt,{'Science Fiction'}
+The Wizard of the Sea,['Roy Rockwood'],./data/2/0/1/3/20132/20132.txt,{'Science Fiction'}
+The Black Star Passes,['John W Campbell'],./data/2/0/7/0/20707/20707.txt,"{'Adventure', 'Science Fiction'}"
+The Last Stroke,['Lawrence L. Lynch'],./data/3/5/3/0/35304/35304.txt,{'Detective Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 7.",['Mark Twain'],./data/7/2/4/7248/7248.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+The Log of a Cowboy,['Andy Adams'],./data/1/2/7/9/12797/12797.txt,{'Western'}
+The Border Legion,['Zane Grey'],./data/4/5/5/4552/4552.txt,{'Western'}
+Don't Look Now,['Leonard Rubin'],./data/5/1/7/4/51740/51740.txt,{'Science Fiction'}
+Before Egypt,['E.K. Jarvis'],./data/3/0/9/3/30932/30932.txt,{'Science Fiction'}
+The Floating Island of Madness,['Jason Kirby'],./data/2/9/4/2/29421/29421.txt,{'Science Fiction'}
+Creatures of the Abyss,['Murray Leinster'],./data/4/2/9/0/42901/42901.txt,"{'Adventure', 'Science Fiction'}"
+The Mystery of Orcival,['Emile Gaboriau'],./data/1/6/5/1651/1651.txt,{'Detective Fiction'}
+The Devolutionist and The Emancipatrix,['Homer Eon Flint'],./data/5/9/6/5965/5965.txt,{'Science Fiction'}
+Pastoral Affair,['Charles A. Stearns'],./data/3/2/3/0/32303/32303.txt,{'Science Fiction'}
+Le Corbeau,['Edgar Allan Poe'],./data/1/4/0/8/14082/14082-8.txt,{'Horror'}
+Caves of Terror,['Talbot Mundy'],./data/1/8/9/7/18970/18970.txt,{'Adventure'}
+The Shining Cow,['Alex James'],./data/2/9/3/2/29328/29328.txt,{'Science Fiction'}
+The Food of the Gods and How It Came to Earth,['H.G. Wells'],./data/1/1/6/9/11696/11696.txt,{'Science Fiction'}
+"Monsieur Lecoq, v.1",['Emile Gaboriau'],./data/4/0/7/4071/4071.txt,{'Detective Fiction'}
+The Green Odyssey,['Philip José Farmer'],./data/5/0/5/7/50571/50571-8.txt,"{'Adventure', 'Science Fiction'}"
+"Tom Sawyer, Detective",['Mark Twain'],./data/9/93/93.txt,{'Adventure'}
+Tom Swift and his Electric Runabout,['Victor Appleton'],./data/9/5/950/950.txt,{'Adventure'}
+The Holladay Case,['Burton E. Stevenson'],./data/1/9/6/7/19672/19672.txt,{'Detective Fiction'}
+Beyond the Black River,['Robert E. Howard'],./data/4/2/2/5/42254/42254.txt,{'Science Fiction'}
+Celtic Tales,['Louey Chisholm'],./data/7/4/8/7488/7488.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Sense from Thought Divide,['Mark Irvin Clifton'],./data/2/2/5/1/22513/22513.txt,{'Science Fiction'}
+The Sky Is Falling,['Lester del Rey'],./data/1/8/7/6/18768/18768.txt,{'Science Fiction'}
+A Coffin for Jacob,['Edward W. Ludwig'],./data/5/1/2/0/51203/51203.txt,{'Science Fiction'}
+Under the Ocean to the South Pole,['Roy Rockwood'],./data/1/9/7/3/19731/19731.txt,{'Science Fiction'}
+In the Court of King Arthur,['Samuel Lowe'],./data/6/5/8/6582/6582.txt,{'Fantasy'}
+A Princess of Mars,['Edgar Rice Burroughs'],./data/6/62/62.txt,"{'Science Fantasy', 'Science Fiction'}"
+The Young Pitcher,['Zane Grey'],./data/1/9/2/4/19246/19246.txt,{'Western'}
+The Trail of the White Mule,['B.M. Bower'],./data/2/0/6/2063/2063.txt,{'Western'}
+East In The Morning,['David E. Fisher'],./data/5/1/4/7/51475/51475-8.txt,{'Science Fiction'}
+Within an Inch of His Life,['Emile Gaboriau'],./data/3/3/3/3336/3336.txt,{'Detective Fiction'}
+Danger in Deep Space,['Carey Rockwell'],./data/1/9/7/0/19709/19709.txt,{'Science Fiction'}
+The World with a Thousand Moons,['Edmond Hamilton'],./data/3/2/3/1/32317/32317.txt,{'Science Fiction'}
+The Book,['Michael Shaara'],./data/3/2/3/2/32321/32321.txt,{'Science Fiction'}
+"Astounding Stories, February, 1931",['Various'],./data/3/0/1/2/30124/30124.txt,{'Science Fiction'}
+The Circular Staircase,['Mary Roberts Rinehart'],./data/4/3/434/434.txt,{'Detective Fiction'}
+The House on the Borderland,['William Hope Hodgson'],./data/1/0/0/0/10002/10002.txt,"{'Fantasy', 'Dark Fantasy', 'Horror', 'Science Fiction'}"
+The Hand Of Fu-Manchu,['Sax Rohmer'],./data/1/7/9/5/17959/17959.txt,"{'Adventure', 'Crime and Mystery', 'Crime Fiction'}"
+The White Invaders,['Raymond King Cummings'],./data/2/0/5/5/20551/20551.txt,{'Science Fiction'}
+Be It Ever Thus,['Robert Moore Williams'],./data/2/9/2/4/29240/29240.txt,{'Science Fiction'}
+The Fairy Godmothers and Other Tales,['Mrs. Alfred Gatty'],./data/1/1/3/1/11319/11319.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Ripeness is All,['Jesse Roarke'],./data/4/3/0/3/43038/43038.txt,{'Science Fiction'}
+The Blind Spot,['Austin Hall'],./data/4/9/2/4920/4920.txt,{'Science Fiction'}
+The Dunwich Horror,['H.P. Lovecraft'],./data/5/0/1/3/50133/50133-8.txt,{'Science Fiction'}
+Survival Type,['J.F. Bone'],./data/5/1/3/9/51395/51395.txt,{'Science Fiction'}
+"Astounding Stories of Super-Science, November, 1930",['Various'],./data/2/9/9/1/29919/29919.txt,{'Science Fiction'}
+"Jubilation, U.S.A.",['G.L. Vandenburg'],./data/2/2/5/8/22589/22589.txt,{'Science Fiction'}
+Lilith,['George MacDonald'],./data/1/6/4/1640/1640.txt,{'Fantasy'}
+"Home Again, Home Again",['Cory Doctorow'],./data/1/7/1/3/17138/17138/17138.txt,{'Science Fiction'}
+Fairy Tales from Brazil,['Elsie Spicer Eells'],./data/2/4/7/1/24714/24714.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Roots of the Mountains,['William Morris'],./data/6/0/5/6050/6050-0.txt,{'Fantasy'}
+The Semantic War,['Bill Clothier'],./data/5/1/1/5/51153/51153.txt,{'Science Fiction'}
+John Thorndyke's Cases,['R. Austin Freeman'],./data/1/3/8/8/13882/13882.txt,{'Detective Fiction'}
+The Drug,['C.C. MacApp'],./data/5/1/5/1/51519/51519.txt,{'Science Fiction'}
+Unwise Child,['Gordon Randall Garrett'],./data/2/3/3/3/23335/23335.txt,{'Science Fiction'}
+Satellite System,['Horace Brown Fyfe'],./data/2/9/9/9/29990/29990.txt,{'Science Fiction'}
+The God in the Box,['Sewell Peaslee Wright'],./data/2/8/7/0/28705/28705.txt,{'Science Fiction'}
+Confidence Game,['Jim Harmon'],./data/5/1/3/0/51305/51305.txt,{'Science Fiction'}
+The Coming of the Ice,['G. Peyton Wertenbaker'],./data/2/6/9/6/26967/26967.txt,{'Science Fiction'}
+The Fantasy Fan September 1933,['Various'],./data/4/6/2/2/46222/46222.txt,{'Science Fiction'}
+The Cosmic Computer,['Henry Beam Piper'],./data/2/0/7/2/20727/20727.txt,{'Science Fiction'}
+The Mysterious Island,['Jules Verne'],./data/1/2/6/1268/1268.txt,{'Science Fiction'}
+Legends That Every Child Should Know,['Hamilton Wright Mabie'],./data/6/6/2/6622/6622.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Real Hard Sell,['William W Stuart'],./data/3/1/0/3/31038/31038.txt,{'Science Fiction'}
+Moby Dick,['Herman Melville'],./data/1/15/15.txt,{'Adventure'}
+The Kenzie Report,['Mark Clifton'],./data/3/2/1/3/32131/32131.txt,{'Science Fiction'}
+Pursuit,['Lester del Rey'],./data/3/1/5/8/31587/31587.txt,{'Science Fiction'}
+The Book of Wonder,"['Edward J.M.D. Plunkett', 'Lord Dunsany']",./data/7/4/7/7477/7477.txt,{'Fantasy'}
+Cry from a Far Planet,['Tom Godwin'],./data/2/3/7/9/23799/23799.txt,{'Science Fiction'}
+Sweet Their Blood and Sticky,['Albert Teichner'],./data/2/1/5/6/21568/21568.txt,{'Science Fiction'}
+The Moonstone,['Wilkie Collins'],./data/1/5/155/155.txt,"{'Mystery Fiction', 'Crime and Mystery', 'Detective Fiction'}"
+The Bramble Bush,['Gordon Randall Garrett'],./data/2/3/7/6/23764/23764.txt,{'Science Fiction'}
+"Astounding Stories of Super-Science, December 1930",['Various'],./data/3/0/6/9/30691/30691.txt,{'Science Fiction'}
+The Eyes Have It,['Philip Kindred Dick'],./data/3/1/5/1/31516/31516.txt,{'Science Fiction'}
+Wizard,['Laurence Mark Janifer'],./data/2/4/3/7/24375/24375.txt,{'Science Fiction'}
+In the Heart of the Rockies,['G.A. Henty'],./data/8/6/7/8670/8670.txt,{'Adventure'}
+Micro-Man,['Forrest James Ackerman'],./data/3/2/5/7/32579/32579.txt,{'Science Fiction'}
+The Sensitive Man,['Poul William Anderson'],./data/3/1/5/0/31501/31501.txt,{'Science Fiction'}
+"The Envoy, Her",['Horace Brown Fyfe'],./data/3/2/6/3/32637/32637.txt,{'Science Fiction'}
+George Loves Gistla,['James McKimmey'],./data/2/9/5/7/29578/29578.txt,{'Science Fiction'}
+The Black Moth,['Georgette Heyer'],./data/3/8/7/0/38703/38703.txt,{'Romance'}
+Bat Wing,['Sax Rohmer'],./data/6/3/8/6382/6382.txt,{'Crime Fiction'}
+King Solomon's Mines,['H. Rider Haggard'],./data/2/1/6/2166/2166.txt,{'Adventure'}
+There is a Reaper ...,['Charles V. De Vet'],./data/2/9/9/5/29954/29954.txt,{'Science Fiction'}
+The Hohokam Dig,['Theodore Pratt'],./data/2/9/7/9/29793/29793.txt,{'Science Fiction'}
+Gourmet,['Allen Kim Lang'],./data/5/1/5/9/51597/51597-8.txt,{'Science Fiction'}
+Show Business,['William C. Boyd'],./data/3/0/1/8/30189/30189.txt,{'Science Fiction'}
+Tom Swift in the Caves of Ice,['Victor Appleton'],./data/3/7/3/3734/3734.txt,{'Adventure'}
+The Planet Mappers,['E. Everett Evans'],./data/5/0/6/8/50682/50682.txt,{'Science Fiction'}
+The Alternate Plan,['Gerry Maddren'],./data/2/4/7/9/24792/24792.txt,{'Science Fiction'}
+My Shipmate--Columbus,['Stephen Wilder'],./data/2/7/0/1/27019/27019.txt,{'Science Fiction'}
+Pen Pal,['Milton Lesser'],./data/5/1/2/8/51286/51286.txt,{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 6",['Mark Twain'],./data/7/1/0/7105/7105.txt,{'Adventure'}
+Bad Medicine,['Robert Sheckley'],./data/9/0/5/9055/9055.txt,{'Science Fiction'}
+The Long Shadow,['B.M. Bower'],./data/1/2/1/9/12192/12192.txt,{'Western'}
+The Box-Car Children,['Gertrude Chandler Warner'],./data/4/2/7/9/42796/42796.txt,{'Mystery'}
+Other People's Money,['Emile Gaboriau'],./data/1/7/4/1748/1748.txt,{'Detective Fiction'}
+The Brothers Karamazov,['Fyodor Dostoyevsky'],./data/2/8/0/5/28054/28054.txt,{'Crime and Mystery'}
+"Adventures of Huckleberry Finn, Part 3",['Mark Twain'],./data/7/1/0/7102/7102.txt,{'Adventure'}
+Pollony Undiverted,['Sydney Van Scyoc'],./data/5/1/0/4/51047/51047.txt,{'Science Fiction'}
+See?,['Edward G. Robles'],./data/2/9/6/0/29601/29601.txt,{'Science Fiction'}
+The Teeth of the Tiger,['Maurice Leblanc'],./data/1/3/0/5/13058/13058.txt,{'Crime Fiction'}
+Fifty-one Tales,['Lord Dunsany Edward J.M.D. Plunkett'],./data/7/8/3/7838/7838.txt,{'Fantasy'}
+Master of None,['Lloyd Neil Goble'],./data/2/7/3/8/27383/27383.txt,{'Science Fiction'}
+The Wallet of Kai Lung,['Ernest Bramah'],./data/1/0/7/1076/1076.txt,{'Fantasy'}
+Quest of the Golden Ape,['Ivar Jorgensen'],./data/3/2/9/5/32953/32953.txt,{'Science Fiction'}
+The World Set Free,['Herbert George Wells'],./data/1/0/5/1059/1059.txt,{'Science Fiction'}
+Tedric,['Edward Elmer Smith'],./data/4/9/6/5/49651/49651.txt,{'Science Fiction'}
+The Jewel Merchants,['James Branch Cabell'],./data/9/8/2/9829/9829.txt,{'Fantasy'}
+Creatures of Vibration,['Harl Vincent'],./data/2/2/1/5/22154/22154.txt,{'Science Fiction'}
+The Thing in the Attic,['James Benjamin Blish'],./data/3/2/4/4/32447/32447.txt,{'Science Fiction'}
+Wuthering Heights,['Emily Bronte'],./data/7/6/768/768.txt,{'Romance'}
+Card Trick,['Walter Bupp AKA Randall Garrett'],./data/2/4/2/7/24277/24277.txt,{'Science Fiction'}
+One Martian Afternoon,['Tom Leahy'],./data/2/9/9/7/29975/29975.txt,{'Science Fiction'}
+Salvage in Space,['John Stewart Williamson'],./data/2/9/2/8/29283/29283.txt,{'Science Fiction'}
+The Machine That Saved The World,['William Fitzgerald Jenkins'],./data/2/6/1/7/26174/26174.txt,{'Science Fiction'}
+The First One,['Herbert D. Kastle'],./data/2/4/1/9/24192/24192.txt,{'Science Fiction'}
+Lord Jim,['Joseph Conrad'],./data/5/6/5/5658/5658.txt,{'Adventure'}
+The Sense of Wonder,['Milton Lesser'],./data/5/1/2/9/51296/51296.txt,{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 6.",['Mark Twain'],./data/7/2/4/7247/7247.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+Anything You Can Do ...,['Gordon Randall Garrett'],./data/2/4/4/3/24436/24436.txt,{'Science Fiction'}
+Jaywalker,['Ross Rocklynne'],./data/5/1/0/2/51027/51027.txt,{'Science Fiction'}
+In Search of the Unknown,['Robert W. Chambers'],./data/1/8/6/6/18668/18668.txt,{'Science Fiction'}
+Mr. Spaceship,['Philip K. Dick'],./data/3/2/5/2/32522/32522.txt,{'Science Fiction'}
+The Evolution of Love,['Emil Lucka'],./data/1/7/6/9/17699/17699.txt,{'Love'}
+The Valor of Cappen Varra,['Poul William Anderson'],./data/2/9/5/4/29542/29542.txt,{'Science Fiction'}
+Astounding Stories of Super-Science January 1930,['Victor Rousseau'],./data/4/1/4/8/41481/41481.txt,{'Science Fiction'}
+The Planetoid of Peril,['Paul Ernst'],./data/2/9/7/7/29771/29771.txt,{'Science Fiction'}
+Myths That Every Child Should Know,['Various'],./data/1/6/5/3/16537/16537.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Psichopath,['Gordon Randall Garrett'],./data/3/0/3/0/30304/30304.txt,{'Science Fiction'}
+Riders of the Silences,['Max Brand'],./data/9/8/6/9867/9867.txt,{'Western'}
+I Was a Teen-Age Secret Weapon,['Richard Sabia'],./data/2/3/5/9/23591/23591.txt,{'Science Fiction'}
+Publicity Stunt,['Robert Moore Williams'],./data/4/9/7/7/49779/49779.txt,{'Science Fiction'}
+The Vilbar Party,['Evelyn E. Smith'],./data/3/1/6/2/31626/31626.txt,{'Science Fiction'}
+Varney the Vampire,['Thomas Preskett Prest'],./data/1/4/8/3/14833/14833.txt,{'Horror'}
+Mercenary,['Dallas McCord Reynolds'],./data/2/4/3/7/24370/24370.txt,{'Science Fiction'}
+People Soup,['Alan Arkin'],./data/5/1/3/9/51397/51397.txt,{'Science Fiction'}
+The Scarecrow of Oz,['L. Frank Baum'],./data/9/5/957/957.txt,{'Fantasy'}
+The Cosmic Express,['John Stewart Williamson'],./data/2/6/0/6/26066/26066.txt,{'Science Fiction'}
+Down and Out in the Magic Kingdom,['Cory Doctorow'],./data/8/0/8/8086/8086.txt,{'Science Fiction'}
+Murder in the Gunroom,['Henry Beam Piper'],./data/1/7/8/6/17866/17866.txt,{'Crime Fiction'}
+The Last Supper,['T.D. Hamm'],./data/3/0/3/4/30348/30348.txt,{'Science Fiction'}
+The Survivors of the Chancellor,['Jules Verne'],./data/1/6/5/1652/1652.txt,{'Adventure'}
+Day of the Moron,['Henry Beam Piper'],./data/1/8/9/4/18949/18949.txt,{'Science Fiction'}
+I'm a Stranger Here Myself,['Dallas McCord Reynolds'],./data/2/6/7/4/26741/26741.txt,{'Science Fiction'}
+The Red Triangle,['Arthur Morrison'],./data/2/8/0/7/28071/28071.txt,{'Detective Fiction'}
+Yesterday House,['Fritz Leiber'],./data/5/0/9/0/50905/50905.txt,{'Science Fiction'}
+A World Called Crimson,['Darius John Granger'],./data/2/5/6/8/25684/25684.txt,{'Science Fiction'}
+The Keepers of the King's Peace,['Edgar Wallace'],./data/2/5/8/0/25803/25803.txt,{'Adventure'}
+The Snowball Effect,['Katherine MacLean'],./data/5/0/7/6/50766/50766.txt,{'Science Fiction'}
+Instinct,['George Oliver Smith'],./data/2/3/9/3/23931/23931.txt,{'Science Fiction'}
+Wonderwings and other Fairy Stories,['Edith Howes'],./data/2/0/3/6/20366/20366.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Lone Star Planet,"['Henry Beam Piper', 'John Joseph McGuire']",./data/2/0/1/2/20121/20121.txt,{'Science Fiction'}
+Morale,['Murray Leinster'],./data/2/0/9/2/20920/20920.txt,{'Science Fiction'}
+Ring Once for Death,['Robert Andrew Arthur'],./data/3/1/8/4/31840/31840.txt,{'Science Fiction'}
+The Ultimate Experiment,['Thornton DeKy'],./data/2/2/4/6/22466/22466.txt,{'Science Fiction'}
+The Cuckoo Clock,['Wesley Barefoot'],./data/2/9/6/2/29623/29623.txt,{'Science Fiction'}
+Tom Swift and his Great Searchlight,['Victor Appleton'],./data/4/6/3/4635/4635.txt,{'Adventure'}
+Plays of Near & Far,['Lord Dunsany'],./data/1/9/3/9/19393/19393.txt,{'Fantasy'}
+"Adventures of Huckleberry Finn, Part 7",['Mark Twain'],./data/7/1/0/7106/7106.txt,{'Adventure'}
+The Purple Cloud,['M.P. Shiel'],./data/1/1/2/2/11229/11229.txt,"{'Adventure', 'Science Fiction'}"
+A Bullet for Cinderella,['John D. MacDonald'],./data/4/9/9/3/49931/49931-8.txt,{'Crime and Mystery'}
+Something Will Turn Up,['David Mason'],./data/2/4/1/8/24189/24189.txt,{'Science Fiction'}
+Alarm Clock,['Everett B. Cole'],./data/2/4/1/8/24180/24180.txt,{'Science Fiction'}
+Monkey On His Back,['Charles V. De Vet'],./data/2/6/5/6/26569/26569.txt,{'Science Fiction'}
+The Back of Our Heads,['Stephen Barr'],./data/5/1/8/2/51823/51823-8.txt,{'Science Fiction'}
+Pharaoh's Broker,['Ellsworth Douglass'],./data/2/5/2/9/25295/25295.txt,{'Science Fiction'}
+Tea Tray in the Sky,['Evelyn E. Smith'],./data/5/0/8/4/50847/50847-8.txt,{'Science Fiction'}
+Meeting of the Board,['Alan Edward Nourse'],./data/2/2/8/6/22867/22867.txt,{'Science Fiction'}
+A Chinese Wonder Book,['Norman Hinsdale Pitman'],./data/1/8/6/7/18674/18674.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+A Slave is a Slave,['Henry Beam Piper'],./data/2/0/7/2/20726/20726.txt,{'Science Fiction'}
+"B. C. 30,000",['Sterner St. Paul Meek'],./data/2/6/9/8/26989/26989.txt,{'Science Fiction'}
+Around the World in 80 Days,['Jules Verne'],./data/1/0/103/103.txt,{'Adventure'}
+A Question of Courage,['Jesse Franklin Bone'],./data/2/6/7/7/26772/26772.txt,{'Science Fiction'}
+Stand by for Mars!,['Carey Rockwell'],./data/1/9/5/2/19526/19526.txt,{'Science Fiction'}
+Supermind,['Gordon Randall Garrett'],./data/2/2/3/4/22342/22342.txt,{'Science Fiction'}
+Ozma of Oz,['L. Frank Baum'],./data/4/8/486/486.txt,{'Fantasy'}
+The Death-Traps of FX-31,['Sewell Peaslee Wright'],./data/2/9/3/0/29309/29309.txt,{'Science Fiction'}
+Jurgen,['James Branch Cabell'],./data/8/7/7/8771/8771.txt,{'Fantasy'}
+Beside Still Waters,['Robert Sheckley'],./data/2/9/4/4/29446/29446.txt,{'Science Fiction'}
+Hero-Myths & Legends of the British Race,['Maud Isabel Ebbutt'],./data/2/5/5/0/25502/25502.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Do Unto Others,['Mark Clifton'],./data/3/2/1/8/32181/32181.txt,{'Science Fiction'}
+Montezuma's Daughter,['H. Rider Haggard'],./data/1/8/4/1848/1848.txt,{'Adventure'}
+Novice,['James H. Schmitz'],./data/3/0/4/5/30458/30458.txt,{'Science Fiction'}
+Last Enemy,['Henry Beam Piper'],./data/1/8/8/0/18800/18800.txt,{'Science Fiction'}
+Happy Ending,['Fredric Brown'],./data/2/9/2/0/29206/29206.txt,{'Science Fiction'}
+Operation Distress,['Lester del Rey'],./data/5/1/1/6/51168/51168.txt,{'Science Fiction'}
+The Secret Agent,['Joseph Conrad'],./data/9/7/974/974.txt,"{'Mystery Fiction', 'Adventure'}"
+Irresistible Weapon,['Horace Brown Fyfe'],./data/2/9/9/9/29994/29994.txt,{'Science Fiction'}
+It's All Yours,['Sam Merwin'],./data/2/9/1/9/29195/29195.txt,{'Science Fiction'}
+Valley of the Croen,['Lee Tarbell'],./data/2/6/0/1/26010/26010.txt,{'Science Fiction'}
+The Mississippi Saucer,['Frank Belknap Long'],./data/2/3/5/6/23568/23568.txt,{'Science Fiction'}
+Don Rodriguez,"['Edward John Moreton Drax Plunkett', 'Baron', 'Dunsany']",./data/4/2/8/4282/4282.txt,{'Fantasy'}
+The Gravity Business,['James E. Gunn'],./data/4/9/8/9/49897/49897-8.txt,{'Science Fiction'}
+Wainer,['Michael Shaara'],./data/3/2/2/3/32230/32230.txt,{'Science Fiction'}
+The Lion of Petra,['Talbot Mundy'],./data/1/9/3/0/19307/19307.txt,{'Adventure'}
+Beyond Lies the Wub,['Philip Kindred Dick'],./data/2/8/5/5/28554/28554.txt,{'Science Fiction'}
+The People of the Black Circle,['Robert E. Howard'],./data/4/2/2/5/42259/42259.txt,{'Science Fiction'}
+Zero Hour,['Alexander Blade'],./data/3/0/4/7/30476/30476.txt,{'Science Fiction'}
+The Lost Princess of Oz,['L. Frank Baum'],./data/9/5/959/959.txt,{'Fantasy'}
+The Chasers,['Daniel F. Galouye'],./data/5/1/5/0/51508/51508.txt,{'Science Fiction'}
+The Privateersman,['Frederick Marryat'],./data/2/1/5/7/21576/21576.txt,{'Adventure'}
+Alice's Adventures in Wonderland,['Lewis Carroll'],./data/1/11/11.txt,{'Fantasy'}
+Life Sentence,['James McConnell'],./data/2/9/8/8/29889/29889.txt,{'Science Fiction'}
+Plague Ship,['Andre Norton'],./data/1/6/9/2/16921/16921.txt,{'Science Fiction'}
+Spacehounds of IPC,['Edward Elmer Smith'],./data/2/0/8/5/20857/20857.txt,{'Science Fiction'}
+Each Man Kills,['Victoria Glad'],./data/2/3/3/0/23301/23301.txt,{'Science Fiction'}
+Dracula,['Bram Stoker'],./data/3/4/345/345.txt,"{'Horror', 'Mystery Fiction'}"
+One Way,['Miriam Allen deFord'],./data/3/2/5/4/32541/32541.txt,{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 3.",['Mark Twain'],./data/7/2/4/7244/7244.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+The People that Time Forgot,['Edgar Rice Burroughs'],./data/5/5/552/552.txt,{'Science Fiction'}
+The Next Time We Die,['Robert Moore Williams'],./data/3/2/6/8/32683/32683.txt,{'Science Fiction'}
+Rung Ho!,['Talbot Mundy'],./data/5/1/5/5153/5153.txt,{'Adventure'}
+Kim,['Rudyard Kipling'],./data/2/2/2/2226/2226.txt,{'Adventure'}
+"Futuria Fantasia, Summer 1939",['Ray Bradbury'],./data/4/1/6/2/41622/41622.txt,{'Science Fiction'}
+Zero Data,['Charles Saphro'],./data/2/9/7/2/29727/29727.txt,{'Science Fiction'}
+Tinker's Dam,['Joseph Tinker'],./data/2/4/6/5/24655/24655.txt,{'Science Fiction'}
+The Slizzers,['Jerome Bixby'],./data/3/3/8/5/33850/33850.txt,{'Science Fiction'}
+Dawningsburgh,['Wallace West'],./data/5/1/6/6/51663/51663-8.txt,{'Science Fiction'}
+The Road to Oz,['L. Frank Baum'],./data/4/8/485/485.txt,{'Fantasy'}
+More English Fairy Tales,['Various'],./data/1/4/2/4/14241/14241.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Honor of the Name,['Emile Gaboriau'],./data/4/0/0/4002/4002.txt,{'Detective Fiction'}
+The Green Eyes of Bast,['Sax Rohmer'],./data/1/5/3/2/15323/15323.txt,{'Crime Fiction'}
+Where There's Hope,['Jerome Bixby'],./data/3/0/7/1/30715/30715.txt,{'Science Fiction'}
+Trilby,['George Du Maurier'],./data/3/9/8/5/39858/39858-0.txt,{'Fantasy'}
+"A Connecticut Yankee in King Arthur's Court, Part 9.",['Mark Twain'],./data/7/2/5/7250/7250.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+The Middle of Things,['J.S. Fletcher'],./data/9/9/0/9902/9902.txt,{'Detective Fiction'}
+Legacy,['James H Schmitz'],./data/2/1/5/1/21510/21510.txt,{'Science Fiction'}
+The Happy Unfortunate,['Robert Silverberg'],./data/2/5/0/3/25035/25035.txt,{'Science Fiction'}
+Birds of a Feather,['Robert Silverberg'],./data/5/1/3/6/51361/51361.txt,{'Science Fiction'}
+The Most Sentimental Man,['Evelyn E. Smith'],./data/2/9/7/9/29791/29791.txt,{'Science Fiction'}
+Picture Bride,['William Morrison'],./data/5/1/0/0/51009/51009.txt,{'Science Fiction'}
+Flatland,['Edwin A. Abbott'],./data/9/97/97.txt,{'Science Fiction'}
+Her Prairie Knight,"['B.M. Sinclair', 'AKA B.M. Bower']",./data/1/9/0/1908/1908.txt,{'Western'}
+Potential Enemy,['Mack Reynolds'],./data/4/0/9/5/40954/40954.txt,{'Science Fiction'}
+Victory,['Lester del Rey'],./data/2/4/1/9/24196/24196.txt,{'Science Fiction'}
+Jean of the Lazy A,['B.M. Bower'],./data/5/3/538/538.txt,{'Western'}
+A World by the Tale,['Gordon Randall Garrett'],./data/3/0/8/1/30816/30816.txt,{'Science Fiction'}
+The Marooner,['Charles A. Stearns'],./data/2/4/7/9/24791/24791.txt,{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 1.",['Mark Twain'],./data/7/2/4/7242/7242.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+The Machine That Floats,['Joe Gibson'],./data/4/9/6/9/49693/49693.txt,{'Science Fiction'}
+The Clue of the Twisted Candle,['Edgar Wallace'],./data/2/6/8/2688/2688.txt,{'Detective Fiction'}
+Little Brother,['Cory Doctorow'],./data/3/0/1/4/30142/30142-8.txt,{'Science Fiction'}
+Cully,['Jack Egan'],./data/2/6/7/5/26751/26751.txt,{'Science Fiction'}
+Inside Earth,['Poul Anderson'],./data/5/1/1/8/51184/51184-8.txt,{'Science Fiction'}
+The Final Figure,['Samuel Kimball Merwin'],./data/4/1/0/6/41062/41062.txt,{'Science Fiction'}
+Field Trip,['Gene Hunter'],./data/3/0/3/7/30379/30379.txt,{'Science Fiction'}
+When the Sleepers Woke,['Arthur Leo Zagat'],./data/2/9/3/2/29322/29322.txt,{'Science Fiction'}
+The Man in the Iron Mask,"['Alexandre Dumas', 'Pere']",./data/2/7/5/2759/2759.txt,{'Adventure'}
+A Mixture of Genius,['Arnold Castle'],./data/3/2/2/0/32207/32207.txt,{'Science Fiction'}
+Through Space to Mars,['Roy Rockwood'],./data/6/7/1/6717/6717.txt,{'Science Fiction'}
+Baron Trigault's Vengeance,['Emile Gaboriau'],./data/5/4/547/547.txt,{'Detective Fiction'}
+The Time Traders,['Andre Norton'],./data/1/9/1/4/19145/19145.txt,"{'Time Travel', 'Science Fiction'}"
+The Adventure of the Cardboard Box,['Arthur Conan Doyle'],./data/2/3/4/2344/2344.txt,{'Detective Fiction'}
+The Coffin Cure,['Alan Edward Nourse'],./data/2/4/2/7/24276/24276.txt,{'Science Fiction'}
+Warlord of Mars,['Edgar Rice Burroughs'],./data/6/68/68.txt,{'Science Fiction'}
+The Cool War,['Andrew Fetler'],./data/5/1/2/5/51256/51256-8.txt,{'Science Fiction'}
+Scottish Ghost Stories,"[""Elliott O'Donnell""]",./data/2/0/0/3/20034/20034.txt,{'Horror'}
+Rowdy of the Cross L,"['B.M. Sinclair', 'AKA B.M. Bower']",./data/1/9/0/1907/1907.txt,{'Western'}
+I Like Martian Music,['Charles E. Fritch'],./data/2/8/4/5/28451/28451.txt,{'Science Fiction'}
+Treachery in Outer Space,"['Carey Rockwell', 'Louis Glanzman']",./data/1/8/7/8/18786/18786.txt,{'Science Fiction'}
+Tales of Chinatown,['Sax Rohmer'],./data/5/6/9/5697/5697.txt,{'Crime Fiction'}
+The Heroes,['Charles Kingsley'],./data/6/7/677/677.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Mysteries of Udolpho,['Ann Radcliffe'],./data/3/2/6/3268/3268.txt,"{'Crime and Mystery', 'Romance'}"
+Brood of the Witch-Queen,['Sax Rohmer'],./data/1/9/7/0/19706/19706.txt,{'Crime Fiction'}
+Junior,['Robert Abernathy'],./data/4/9/8/0/49809/49809.txt,{'Science Fiction'}
+Tom Swift and his Aerial Warship,['Victor Appleton'],./data/1/2/8/1281/1281.txt,{'Adventure'}
+The Barrier,['Rex Beach'],./data/4/0/8/4082/4082.txt,{'Western'}
+Greenmantle,['John Buchan'],./data/5/5/559/559.txt,"{'Adventure', 'Mystery Fiction'}"
+The Undersea Tube,['L. Taylor Hansen'],./data/2/7/6/0/27609/27609.txt,{'Science Fiction'}
+The Winds of Time,['James H. Schmitz'],./data/2/4/3/9/24395/24395.txt,{'Science Fiction'}
+"The Fantasy Fan, October 1933",['Various'],./data/4/6/3/3/46339/46339.txt,{'Science Fiction'}
+Domnei,['James Branch Cabell'],./data/9/6/6/9663/9663.txt,{'Fantasy'}
+Angel's Egg,['Edgar Pangborn'],./data/5/1/4/0/51408/51408.txt,{'Science Fiction'}
+Heart of the Sunset,['Rex Beach'],./data/5/0/9/5099/5099.txt,{'Western'}
+Code Three,['Rick Raphael'],./data/1/9/1/1/19111/19111.txt,{'Science Fiction'}
+No Moving Parts,['Murray F. Yaco'],./data/2/5/0/7/25078/25078.txt,{'Science Fiction'}
+By Earthlight,['Bryce Walton'],./data/3/3/8/4/33842/33842.txt,{'Science Fiction'}
+With No Strings Attached,['Gordon Randall Garrett'],./data/2/3/1/9/23198/23198.txt,{'Science Fiction'}
+Damned If You Don't,['Gordon Randall Garrett'],./data/2/4/0/6/24064/24064.txt,{'Science Fiction'}
+Project Mastodon,['Clifford Donald Simak'],./data/2/2/2/1/22216/22216.txt,{'Science Fiction'}
+Kilmeny of the Orchard,['Lucy Maud Montgomery'],./data/5/3/4/5341/5341.txt,{'Romance'}
+The Shrieking Pit,['Arthur J. Rees'],./data/2/0/4/9/20494/20494.txt,{'Detective Fiction'}
+Bones,['Edgar Wallace'],./data/2/4/4/5/24450/24450.txt,{'Adventure'}
+Nada the Lily,['H. Rider Haggard'],./data/1/2/0/1207/1207.txt,{'Adventure'}
+A Woman's Place,['Mark Irvin Clifton'],./data/3/2/8/3/32833/32833.txt,{'Science Fiction'}
+In Times of Peril,['G.A. Henty'],./data/7/0/7/7071/7071.txt,{'Adventure'}
+The Human Chord,['Algernon Blackwood'],./data/1/1/9/8/11988/11988.txt,{'Fantasy'}
+A Trace of Memory,['Keith Laumer'],./data/5/1/7/1/51712/51712-8.txt,{'Science Fiction'}
+The Barbarians,['John Sentry'],./data/3/0/8/2/30828/30828.txt,{'Science Fiction'}
+The Putnam Tradition,['Sonya Hess Dorman'],./data/2/6/7/4/26743/26743.txt,{'Science Fiction'}
+Operation Terror,['William Fitzgerald Jenkins'],./data/1/7/8/7/17870/17870.txt,{'Science Fiction'}
+The Widow Lerouge,['Emile Gaboriau'],./data/3/8/0/3802/3802.txt,{'Detective Fiction'}
+Tom Swift among the Fire Fighters,['Victor Appleton'],./data/1/3/6/1363/1363.txt,{'Adventure'}
+Big Ancestor,['F.L. Wallace'],./data/5/0/9/6/50969/50969.txt,{'Science Fiction'}
+Time and Time Again,['Henry Beam Piper'],./data/1/8/8/3/18831/18831.txt,{'Science Fiction'}
+The Pirates of Ersatz,['Murray Leinster'],./data/2/4/0/3/24035/24035.txt,{'Science Fiction'}
+Tulan,['Carroll Mather Capps'],./data/2/7/9/6/27968/27968.txt,{'Science Fiction'}
+Oneness,['James H. Schmitz'],./data/3/0/7/2/30728/30728.txt,{'Science Fiction'}
+The Vampyre; A Tale,['John William Polidori'],./data/6/0/8/6087/6087.txt,{'Horror'}
+Big Baby,['Jack Sharkey'],./data/5/1/7/3/51735/51735-8.txt,{'Science Fiction'}
+The Great Potlatch Riots,['Allen Kim Lang'],./data/2/4/8/6/24864/24864.txt,{'Science Fiction'}
+The Dwindling Years,['Lester Del Rey'],./data/5/0/1/0/50103/50103-0.txt,{'Science Fiction'}
+Saint Bartholomew's Eve,['G.A. Henty'],./data/2/0/0/9/20092/20092.txt,{'Adventure'}
+Lost in the Future,['John Victor Peterson'],./data/2/8/6/4/28645/28645.txt,{'Science Fiction'}
+Old-Fashioned Fairy Tales,['Juliana Horatia Gatty Ewing'],./data/1/5/5/9/15592/15592.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Shadows in the Moonlight,['Robert E. Howard'],./data/4/2/1/8/42188/42188.txt,{'Science Fiction'}
+The Willows,['Algernon Blackwood'],./data/1/1/4/3/11438/11438.txt,{'Horror'}
+Pandemic,['Jesse Franklin Bone'],./data/2/6/2/0/26206/26206.txt,{'Science Fiction'}
+Ministry of Disturbance,['Henry Beam Piper'],./data/2/0/6/5/20659/20659.txt,{'Science Fiction'}
+The Serpent River,['Don Wilcox'],./data/5/0/9/2/50923/50923.txt,{'Science Fiction'}
+Beyond Bedlam,['Wyman Guin'],./data/5/1/8/4/51842/51842.txt,{'Science Fiction'}
+Chivalry,['James Branch Cabell'],./data/1/1/7/5/11752/11752.txt,{'Fantasy'}
+The Golden Scorpion,['Sax Rohmer'],./data/1/8/6/1/18613/18613.txt,"{'Crime and Mystery', 'Crime Fiction'}"
+The Water-Babies,['Charles Kingsley'],./data/2/5/5/6/25564/25564.txt,{'Fantasy'}
+Unthinkable,['Roger Phillips Graham'],./data/2/7/4/9/27491/27491.txt,{'Science Fiction'}
+Under Western Eyes,['Joseph Conrad'],./data/2/4/8/2480/2480.txt,{'Adventure'}
+He Walked Around the Horses,['Henry Beam Piper'],./data/1/8/8/0/18807/18807.txt,{'Science Fiction'}
+The Crock of Gold,['James Stephens'],./data/1/6/0/1605/1605.txt,{'Fantasy'}
+The Edge of the Knife,['Henry Beam Piper'],./data/1/8/5/8/18584/18584.txt,{'Science Fiction'}
+The Hidden Children,['Robert W. Chambers'],./data/4/9/8/4984/4984-8.txt,{'Western'}
+Tom Swift and his Air Glider,['Victor Appleton'],./data/9/5/952/952.txt,{'Adventure'}
+Traveling Companion Wanted,['Richard Wilson'],./data/5/1/7/5/51759/51759.txt,{'Science Fiction'}
+Hira Singh,['Talbot Mundy'],./data/4/4/0/4400/4400.txt,{'Adventure'}
+The Story of Doctor Dolittle,['Hugh Lofting'],./data/5/0/501/501-0.txt,{'Fantasy'}
+The Devil's Elixir,['E.T.A. Hoffmann'],./data/3/6/4/9/36494/36494.txt,{'Fantasy'}
+Tales of lonely trails,['Zane Grey'],./data/1/2/2/2/12225/12225.txt,{'Western'}
+The Invaders,['Benjamin Ferris'],./data/2/3/5/3/23535/23535.txt,{'Science Fiction'}
+The Moon Metal,['Garrett P. Serviss'],./data/8/1/9/8199/8199.txt,{'Science Fiction'}
+Mr. Standfast,['John Buchan'],./data/5/6/560/560.txt,{'Adventure'}
+Adventure,['Jack London'],./data/1/1/6/1163/1163.txt,{'Adventure'}
+Tom Swift in Captivity,['Victor Appleton'],./data/4/6/0/4608/4608.txt,{'Adventure'}
+Heart of Darkness,['Joseph Conrad'],./data/2/1/219/219.txt,{'Adventure'}
+The Big Fix,['George Oliver Smith'],./data/2/3/5/9/23599/23599.txt,{'Science Fiction'}
+Advanced Chemistry,['Jack G. Huekels'],./data/2/6/9/5/26955/26955.txt,{'Science Fiction'}
+Assassin,['Jesse Franklin Bone'],./data/3/2/2/3/32237/32237.txt,{'Science Fiction'}
+The League of the Scarlet Pimpernel,['Baroness Orczy'],./data/5/8/0/5805/5805.txt,{'Adventure'}
+Tom Swift and his Motor-boat,['Victor Appleton'],./data/2/2/7/2273/2273.txt,{'Adventure'}
+Viewpoint,['Gordon Randall Garrett'],./data/2/3/5/6/23563/23563.txt,{'Science Fiction'}
+One Out of Ten,['J. Anthony Ferlaine'],./data/2/8/9/3/28933/28933.txt,{'Science Fiction'}
+Tom Swift and his Electric Rifle,['Victor Appleton'],./data/3/7/7/3777/3777.txt,{'Adventure'}
+The Call of the Canyon,['Zane Grey'],./data/1/8/8/1881/1881.txt,{'Western'}
+Tom Swift and his Sky Racer,['Victor Appleton'],./data/9/5/951/951.txt,{'Adventure'}
+Catriona,['Robert Louis Stevenson'],./data/5/8/589/589-0.txt,{'Adventure'}
+Eight Keys to Eden,['Mark Irvin Clifton'],./data/2/7/5/9/27595/27595.txt,{'Science Fiction'}
+Charley de Milo,['Laurence Mark Janifer AKA Larry M. Harris'],./data/2/3/8/8/23889/23889.txt,{'Science Fiction'}
+The Trial,['Franz Kafka'],./data/7/8/4/7849/7849.txt,"{'Horror', 'Fantasy'}"
+Two Timer,['Fredric Brown'],./data/2/9/9/4/29948/29948.txt,{'Science Fiction'}
+Astoria,['Washington Irving'],./data/1/3/7/1371/1371.txt,{'Western'}
+Growing Up On Big Muddy,['Charles V. de Vet'],./data/5/1/3/9/51398/51398.txt,{'Science Fiction'}
+"Reed Anthony, Cowman",['Andy Adams'],./data/1/2/8/8/12884/12884.txt,{'Western'}
+A Study In Scarlet,['Arthur Conan Doyle'],./data/2/4/244/244.txt,"{'Crime and Mystery', 'Detective Fiction'}"
+...Or Your Money Back,['Gordon Randall Garrett'],./data/2/3/5/3/23534/23534.txt,{'Science Fiction'}
+The Flying U's Last Stand,['B.M. Bower'],./data/1/7/4/1740/1740.txt,{'Western'}
+The Land of the Blue Flower,['Frances Hodgson Burnett'],./data/5/3/0/5302/5302.txt,{'Fantasy'}
+"Pamela, or Virtue Rewarded",['Samuel Richardson'],./data/6/1/2/6124/6124.txt,{'Romance'}
+Marie,['H. Rider Haggard'],./data/1/6/9/1690/1690.txt,{'Adventure'}
+Step IV,['Rosel George Brown'],./data/3/0/8/8/30884/30884.txt,{'Science Fiction'}
+Houlihan's Equation,['Walt Sheldon'],./data/2/9/1/6/29168/29168.txt,{'Science Fiction'}
+Kazan,['James Oliver Curwood'],./data/1/0/0/8/10084/10084.txt,{'Adventure'}
+The Premiere,['Richard Sabia'],./data/2/4/8/6/24865/24865.txt,{'Science Fiction'}
+Gulliver of Mars,['Edwin L. Arnold'],./data/6/0/604/604.txt,"{'Fantasy', 'Science Fiction'}"
+Anchorite,['Randall Garrett'],./data/2/3/5/6/23561/23561.txt,{'Science Fiction'}
+What's He Doing in There?,['Fritz Reuter Leiber'],./data/2/9/5/0/29504/29504.txt,{'Science Fiction'}
+Double Standard,['Alfred Coppel'],./data/5/1/3/6/51363/51363.txt,{'Science Fiction'}
+Toilers of the Sea,['Victor Hugo'],./data/3/2/3/3/32338/32338.txt,{'Adventure'}
+PRoblem,['Alan Edward Nourse'],./data/2/4/2/9/24290/24290.txt,{'Science Fiction'}
+The Middle Temple Murder,['J.S. Fletcher'],./data/1/0/3/7/10373/10373.txt,{'Detective Fiction'}
+The Mystery of the Sea,['Bram Stoker'],./data/4/2/4/5/42455/42455.txt,{'Adventure'}
+The Asses of Balaam,['Gordon Randall Garrett'],./data/3/0/5/8/30583/30583.txt,{'Science Fiction'}
+The Universe -- or Nothing,['Meyer Moldeven'],./data/1/8/2/5/18257/18257.txt,{'Science Fiction'}
+The Devil Doctor,['Sax Rohmer'],./data/1/9/1/4/19142/19142.txt,{'Crime Fiction'}
+The Sargasso of Space,['Edmond Hamilton'],./data/2/8/8/3/28832/28832.txt,{'Science Fiction'}
+The Calm Man,['Frank Belknap Long'],./data/2/8/5/8/28583/28583.txt,{'Science Fiction'}
+The Turn of the Screw,['Henry James'],./data/2/0/209/209.txt,{'Horror'}
+Utopia,['Thomas More'],./data/2/1/3/2130/2130.txt,{'Science Fiction'}
+The Sound of Silence,['Barbara Constant'],./data/3/0/2/8/30283/30283.txt,{'Science Fiction'}
+West Of The Sun,['Edgar Pangborn'],./data/3/9/5/7/39572/39572.txt,{'Science Fiction'}
+Watch the Sky,['James H. Schmitz'],./data/2/4/5/5/24558/24558.txt,{'Science Fiction'}
+Stopover Planet,['Robert E. Gilbert'],./data/3/0/0/1/30015/30015.txt,{'Science Fiction'}
+Navy Day,['Harry Harrison'],./data/3/0/0/1/30019/30019.txt,{'Science Fiction'}
+Captives of the Flame,['Samuel R. Delany'],./data/4/1/9/0/41905/41905.txt,{'Science Fiction'}
+Going Some,['Ellingwood Beach'],./data/6/4/8/6488/6488.txt,{'Western'}
+My Lady's Money,['Wilkie Collins'],./data/1/6/2/1628/1628.txt,{'Crime and Mystery'}
+New Hire,['David M. Dryfoos'],./data/3/3/9/6/33969/33969.txt,{'Science Fiction'}
+The Night Horseman,['Max Brand'],./data/1/2/4/3/12436/12436.txt,{'Western'}
+Sand Doom,['William Fitzgerald Jenkins'],./data/2/2/4/6/22467/22467.txt,{'Science Fiction'}
+Finished,['H. Rider Haggard'],./data/1/7/2/1724/1724.txt,{'Adventure'}
+The Mystery of 31 New Inn,['R. Austin Freeman'],./data/1/2/1/8/12187/12187.txt,{'Detective Fiction'}
+An Ounce of Cure,['Alan Edward Nourse'],./data/2/2/8/6/22866/22866.txt,{'Science Fiction'}
+Tom Sawyer Abroad,['Mark Twain'],./data/9/91/91.txt,{'Adventure'}
+The Door into Infinity,['Edmond Hamilton'],./data/3/2/8/4/32847/32847.txt,{'Science Fiction'}
+Alien Minds,['E. Everett Evans'],./data/5/0/8/6/50863/50863.txt,{'Science Fiction'}
+The Pygmy Planet,['John Stewart Williamson'],./data/2/9/1/7/29177/29177.txt,{'Science Fiction'}
+Arcturus Times Three,['Jack Sharkey'],./data/5/1/8/2/51822/51822-8.txt,{'Science Fiction'}
+The Long Voyage,['Carl Richard Jacobi'],./data/2/9/7/4/29742/29742.txt,{'Science Fiction'}
+Attention Saint Patrick,['William Fitzgerald Jenkins'],./data/2/3/4/3/23439/23439.txt,{'Science Fiction'}
+The Master of the World,['Jules Verne'],./data/3/8/0/3809/3809.txt,{'Adventure'}
+The Moon-Voyage,['Jules Verne'],./data/1/2/9/0/12901/12901.txt,{'Science Fiction'}
+Man of Many Minds,['E. Everett Evans'],./data/1/9/6/6/19660/19660.txt,{'Science Fiction'}
+Rastignac the Devil,['Philip Jose Farmer'],./data/3/1/2/6/31262/31262.txt,{'Science Fiction'}
+The Ego Machine,['Henry Kuttner'],./data/3/2/1/0/32108/32108.txt,{'Science Fiction'}
+The Man Who Played to Lose,['Laurence Mark Janifer'],./data/3/0/2/5/30259/30259.txt,{'Science Fiction'}
+Lion Loose,['James H. Schmitz'],./data/3/0/4/9/30493/30493.txt,{'Science Fiction'}
+Prospector's Special,['Robert Sheckley'],./data/5/1/7/6/51768/51768.txt,{'Science Fiction'}
+The Hound of the Baskervilles,['A. Conan Doyle'],./data/2/8/5/2852/2852.txt,"{'Crime and Mystery', 'Detective Fiction'}"
+The Heads of Apex,['Francis Flagg'],./data/2/9/0/4/29046/29046.txt,{'Science Fiction'}
+First on the Moon,['Jeff Sutton'],./data/4/3/2/3/43235/43235.txt,{'Science Fiction'}
+Turnover Point,['Alfred Coppel'],./data/3/1/2/8/31287/31287.txt,{'Science Fiction'}
+The Deep One,['Neil P. Ruzic'],./data/5/1/0/9/51091/51091.txt,{'Science Fiction'}
+Disowned,['Victor Endersby'],./data/2/9/3/8/29384/29384.txt,{'Science Fiction'}
+General Max Shorter,['Kris Ottman Neville'],./data/2/3/5/7/23571/23571.txt,{'Science Fiction'}
+"Chip, of the Flying U",['B.M. Bower'],./data/9/2/6/9267/9267.txt,{'Western'}
+Youth,['Isaac Asimov'],./data/3/1/5/4/31547/31547.txt,{'Science Fiction'}
+Breakdown,['Herbert D. Kastle'],./data/5/1/6/6/51662/51662.txt,{'Science Fiction'}
+No Great Magic,['Fritz Reuter Leiber'],./data/2/3/1/6/23162/23162.txt,{'Science Fiction'}
+The Master Key,['L. Frank Baum'],./data/4/3/436/436.txt,{'Fantasy'}
+Gunman's Reckoning,['Max Brand'],./data/1/0/0/6/10066/10066/10066.txt,{'Western'}
+"Astounding Stories,  April, 1931",['Various'],./data/3/0/4/5/30452/30452.txt,{'Science Fiction'}
+Accidental Death,['Peter Baily'],./data/2/4/5/1/24517/24517.txt,{'Science Fiction'}
+The Amateurs,['Alan Cogan'],./data/5/1/0/8/51081/51081.txt,{'Science Fiction'}
+"I, the Unspeakable",['Walt Sheldon'],./data/5/1/2/1/51210/51210.txt,{'Science Fiction'}
+Mex,['William Logan'],./data/2/8/5/1/28518/28518.txt,{'Science Fiction'}
+The Brain,['Alexander Blade'],./data/3/2/4/9/32498/32498.txt,{'Science Fiction'}
+Out Like a Light,['Gordon Randall Garrett'],./data/2/4/4/4/24444/24444.txt,{'Science Fiction'}
+Vanishing Point,['C.C. Beck'],./data/2/3/8/6/23868/23868.txt,{'Science Fiction'}
+The Secret of the Ninth Planet,['Donald Allen Wollheim'],./data/3/3/6/4/33644/33644.txt,{'Science Fiction'}
+Voyage to Far N'jurd,['Kris Neville'],./data/5/1/3/4/51344/51344.txt,{'Science Fiction'}
+A Modern Utopia,['H.G. Wells'],./data/6/4/2/6424/6424.txt,{'Science Fiction'}
+The Gods of Mars,['Edgar Rice Burroughs'],./data/6/64/64.txt,"{'Science Fantasy', 'Science Fiction'}"
+Jimgrim and Allah's Peace,['Talbot Mundy'],./data/1/1/3/5/11357/11357.txt,{'Adventure'}
+The Monster Men,['Edgar Rice Burroughs'],./data/9/96/96.txt,{'Science Fiction'}
+Wells Brothers,['Andy Adams'],./data/1/2/7/9/12791/12791.txt,{'Western'}
+Greener Than You Think,['Ward Moore'],./data/2/4/2/4/24246/24246.txt,{'Science Fiction'}
+The Red Hell of Jupiter,['Paul Ernst'],./data/3/0/2/1/30214/30214.txt,{'Science Fiction'}
+The Dark Door,['Alan Edward Nourse'],./data/2/2/8/6/22869/22869.txt,{'Science Fiction'}
+"Writings in the United Amateur, 1915-1922",['Howard Phillips Lovecraft'],./data/3/0/6/3/30637/30637.txt,{'Science Fiction'}
+The Graveyard of Space,['Milton Lesser'],./data/3/2/1/3/32133/32133.txt,{'Science Fiction'}
+You Don't Make Wine Like the Greeks Did,['David E. Fisher'],./data/3/1/8/9/31897/31897.txt,{'Science Fiction'}
+Of Time and Texas,['William F. Nolan'],./data/2/8/8/9/28893/28893.txt,{'Science Fiction'}
+Welsh Fairy-Tales And Other Stories,['Anonymous'],./data/8/6/7/8675/8675.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Sky Trap,['Frank Belknap Long'],./data/2/4/1/5/24151/24151.txt,{'Science Fiction'}
+Sanders of the River,['Edgar Wallace'],./data/3/5/5/4/35545/35545.txt,{'Adventure'}
+"And That's How It Was, Officer",['Ralph Sholto'],./data/3/2/5/6/32562/32562.txt,{'Science Fiction'}
+Decision,['Frank M. Robinson'],./data/2/9/6/8/29680/29680.txt,{'Science Fiction'}
+The Dark Other,['Stanley G. Weinbaum'],./data/5/0/5/6/50561/50561.txt,{'Science Fiction'}
+The Sleuth of St. James's Square,['Melville Davisson Post'],./data/2/8/6/2861/2861.txt,{'Detective Fiction'}
+Tom Swift and the Electronic Hydrolung,['Victor Appleton'],./data/1/9/2/5/19258/19258.txt,"{'Adventure', 'Science Fiction'}"
+A Scientist Rises,['Desmond Winter Hall'],./data/2/7/4/6/27464/27464.txt,{'Science Fiction'}
+Puck of Pook's Hill,['Rudyard Kipling'],./data/1/5/9/7/15976/15976.txt,{'Fantasy'}
+Fifty Per Cent Prophet,['Gordon Randall Garrett'],./data/3/0/3/3/30337/30337.txt,{'Science Fiction'}
+The Riddle of the Sands,['Erskine Childers'],./data/2/3/6/2360/2360.txt,{'Adventure'}
+The Three Musketeers,"['Alexandre Dumas', 'Pere']",./data/1/2/5/1257/1257.txt,{'Adventure'}
+The Virginian,['Owen Wister'],./data/1/2/9/1298/1298.txt,{'Western'}
+Cry Snooker,['Andrew Fetler'],./data/5/1/5/7/51570/51570.txt,{'Science Fiction'}
+The Lord of Death and the Queen of Life,['Homer Eon Flint'],./data/5/7/0/5703/5703.txt,{'Science Fiction'}
+This is Klon Calling,['Walt Sheldon'],./data/2/8/9/5/28954/28954.txt,{'Science Fiction'}
+The Invader,['Alfred Coppel'],./data/3/2/6/8/32684/32684.txt,{'Science Fiction'}
+Pick a Crime,['Richard R. Smith'],./data/5/1/6/5/51656/51656.txt,{'Science Fiction'}
+The Misplaced Battleship,['Harry Harrison'],./data/2/2/5/4/22541/22541.txt,{'Science Fiction'}
+Pellucidar,['Edgar Rice Burroughs'],./data/6/0/605/605.txt,"{'Adventure', 'Science Fiction'}"
+The Best Made Plans,['Everett B. Cole'],./data/2/2/8/9/22892/22892.txt,{'Science Fiction'}
+A Filbert Is a Nut,['Rick Raphael'],./data/2/3/5/8/23588/23588.txt,{'Science Fiction'}
+When I Grow Up,['Richard E. Lowe'],./data/2/8/9/5/28953/28953.txt,{'Science Fiction'}
+The Son of Tarzan,['Edgar Rice Burroughs'],./data/9/90/90.txt,"{'Adventure', 'Fantasy'}"
+Texas Week,['Albert Hernhuter'],./data/2/8/6/4/28647/28647.txt,{'Science Fiction'}
+The Wisdom of Father Brown,['G.K. Chesterton'],./data/2/2/223/223.txt,{'Detective Fiction'}
+The Weather on Mercury,['William Morrison'],./data/5/0/8/8/50885/50885-8.txt,{'Science Fiction'}
+The Mind Digger,['Winston Marks'],./data/3/2/3/5/32353/32353.txt,{'Science Fiction'}
+The Island of Doctor Moreau,['H.G. Wells'],./data/1/5/159/159.txt,"{'Horror', 'Science Fiction'}"
+Shadow of the Mothaship,['Cory Doctorow'],./data/1/7/0/2/17029/17029/17029.txt,{'Science Fiction'}
+Betty Zane,['Zane Grey'],./data/1/2/6/1261/1261.txt,{'Western'}
+The Orange-Yellow Diamond,['J.S. Fletcher'],./data/9/2/9/9297/9297.txt,{'Detective Fiction'}
+Two Weeks in August,['Frank M. Robinson'],./data/5/1/0/0/51008/51008.txt,{'Science Fiction'}
+A Fall of Glass,['Stanley R. Lee'],./data/5/1/6/0/51609/51609.txt,{'Science Fiction'}
+Treasure Island,['Robert Louis Stevenson'],./data/1/2/120/120.txt,{'Adventure'}
+The Wonderful Adventures of Nils,['Selma Lagerloef'],./data/1/0/9/3/10935/10935.txt,{'Fantasy'}
+The Gringos,['B.M. Bower'],./data/1/2/1/3/12139/12139.txt,{'Western'}
+Wildfire,['Zane Grey'],./data/2/0/6/2066/2066.txt,{'Western'}
+Cat and Mouse,['Ralph Williams'],./data/2/4/3/9/24392/24392.txt,{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 4",['Mark Twain'],./data/7/1/0/7103/7103.txt,{'Adventure'}
+The Radio Man,['Ralph Milne Farley'],./data/5/2/1/6/52167/52167.txt,{'Science Fiction'}
+The Nothing Equation,['Tom Godwin'],./data/2/5/6/2/25628/25628.txt,{'Science Fiction'}
+Second Sight,['Basil Eugene Wells'],./data/2/9/8/3/29832/29832.txt,{'Science Fiction'}
+Let There Be Light,['Horace Brown Fyfe'],./data/3/2/5/9/32592/32592.txt,{'Science Fiction'}
+The Talkative Tree,['Horace Brown Fyfe'],./data/2/3/7/6/23767/23767.txt,{'Science Fiction'}
+Astounding Stories of Super-Science January 1931,['Various'],./data/3/0/1/7/30177/30177.txt,{'Science Fiction'}
+Satisfaction Guaranteed,['Joy Leache'],./data/5/1/7/2/51727/51727.txt,{'Science Fiction'}
+Make Me An Offer,['Con Blomberg'],./data/5/1/3/1/51311/51311.txt,{'Science Fiction'}
+El Dorado,['Baroness Orczy'],./data/1/7/5/1752/1752.txt,{'Adventure'}
+Blind Spot,['Bascom Jones'],./data/3/0/4/5/30454/30454.txt,{'Science Fiction'}
+The Players,['Everett B. Cole'],./data/2/2/4/2/22426/22426.txt,{'Science Fiction'}
+"Mary, Mary",['James Stephens'],./data/2/4/7/4/24742/24742.txt,{'Crime and Mystery'}
+The Mummy and Miss Nitocris,['George Griffith'],./data/1/9/2/3/19231/19231.txt,{'Science Fiction'}
+The Hills of Home,['Alfred Coppel'],./data/2/2/1/0/22102/22102.txt,{'Science Fiction'}
+The Shunned House,['Howard Phillips Lovecraft'],./data/3/1/4/6/31469/31469.txt,"{'Horror', 'Science Fiction'}"
+Desert Gold,['Zane Grey'],./data/5/0/502/502.txt,{'Western'}
+Coming Attraction,['Fritz Leiber'],./data/5/1/0/8/51082/51082.txt,{'Science Fiction'}
+Condemned as a Nihilist,['George Alfred Henty'],./data/2/6/0/9/26090/26090.txt,{'Adventure'}
+"Ride Proud, Rebel!",['Andre Alice Norton'],./data/2/3/6/2/23624/23624.txt,{'Western'}
+The Hyborian Age,['Robert E. Howard'],./data/4/2/1/8/42182/42182.txt,{'Science Fiction'}
+Solander's Radio Tomb,['Ellis Parker Butler'],./data/2/6/8/5/26856/26856.txt,{'Science Fiction'}
+The Rustlers of Pecos County,['Zane Grey'],./data/1/5/5/8/15580/15580.txt,{'Western'}
+The Stuff,['Henry Slesar'],./data/5/1/5/7/51574/51574.txt,{'Science Fiction'}
+This One Problem,['M.C. Pease'],./data/2/9/3/5/29354/29354.txt,{'Science Fiction'}
+Master of Life and Death,['Robert Silverberg'],./data/5/0/4/4/50441/50441-8.txt,{'Science Fiction'}
+Shaman,['Robert Shea'],./data/2/8/9/7/28976/28976.txt,{'Science Fiction'}
+Egocentric Orbit,['John Cory'],./data/2/4/1/0/24101/24101.txt,{'Science Fiction'}
+To the Last Man,['Zane Grey'],./data/2/0/7/2070/2070.txt,{'Western'}
+The Magic of Oz,['L. Frank Baum'],./data/4/1/419/419.txt,{'Fantasy'}
+The Indian Fairy Book,['Cornelius Mathews'],./data/2/2/2/4/22248/22248.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Lord Tedric,['Edward Elmer Smith'],./data/4/9/4/6/49462/49462.txt,"{'Adventure', 'Science Fiction'}"
+The Celestial Hammerlock,['Donald Colvin'],./data/5/1/5/3/51533/51533.txt,{'Science Fiction'}
+The Prairie,['J. Fenimore Cooper'],./data/6/4/5/6450/6450.txt,{'Adventure'}
+High Dragon Bump,['Don Thompson'],./data/3/0/3/3/30330/30330.txt,{'Science Fiction'}
+Trees Are Where You Find Them,['Arthur Dekker Savage'],./data/3/0/0/1/30010/30010.txt,{'Science Fiction'}
+The Wonderful Wizard of Oz,['L. Frank Baum'],./data/5/55/55.txt,{'Fantasy'}
+Ralestone Luck,['Andre Norton'],./data/1/8/8/1/18817/18817.txt,"{'Fantasy', 'Science Fiction'}"
+World in a Bottle,['Allen Kim Lang'],./data/5/1/8/2/51824/51824-8.txt,{'Science Fiction'}
+The Great God Pan,['Arthur Machen'],./data/3/8/389/389.txt,{'Horror'}
+Doctor,['Murray Leinster'],./data/5/1/7/8/51782/51782-8.txt,{'Science Fiction'}
+Slaves of Mercury,['Nat Schachner'],./data/2/9/9/6/29966/29966.txt,{'Science Fiction'}
+The Raid on the Termites,['Paul Ernst'],./data/2/7/2/4/27248/27248.txt,{'Science Fiction'}
+Peter Pan in Kensington Gardens,['J.M. Barrie'],./data/1/3/3/1332/1332.txt,"{'Adventure', 'Fantasy'}"
+Off on a Comet,['Jules Verne'],./data/1/3/5/1353/1353.txt,{'Science Fiction'}
+Out of This World Convention,['Forrest James Ackerman'],./data/2/8/5/3/28535/28535.txt,{'Science Fiction'}
+Hanging by a Thread,['Gordon Randall Garrett'],./data/3/0/3/0/30308/30308.txt,{'Science Fiction'}
+Rough Beast,['Roger Dee'],./data/4/8/8/8/48880/48880-0.txt,{'Science Fiction'}
+Competition,['James Causey'],./data/2/9/6/3/29632/29632.txt,{'Science Fiction'}
+Told in the East,['Talbot Mundy'],./data/5/3/1/5315/5315.txt,{'Adventure'}
+Four Max Carrados Detective Stories,['Ernest Bramah'],./data/1/2/9/3/12932/12932.txt,{'Detective Fiction'}
+The World of Romance,['William Morris'],./data/1/7/9/7/17973/17973.txt,{'Fantasy'}
+The Second Voice,['Mann Rubin'],./data/2/9/9/1/29910/29910.txt,{'Science Fiction'}
+Gods of the North,['Robert E. Howard'],./data/4/2/6/6/42664/42664.txt,{'Science Fiction'}
+The God Next Door,['Bill Doede'],./data/5/1/6/9/51699/51699.txt,{'Science Fiction'}
+Two Plus Two Makes Crazy,['Walt Sheldon'],./data/2/8/8/9/28894/28894.txt,{'Science Fiction'}
+The Moon Destroyers,['Monroe K. Ruch'],./data/4/1/0/2/41029/41029.txt,{'Science Fiction'}
+The Carnivore,['G.A. Morris'],./data/3/0/0/4/30044/30044.txt,{'Science Fiction'}
+Beyond the Door,['Philip K. Dick'],./data/2/8/6/4/28644/28644.txt,{'Science Fiction'}
+A Dreamer's Palace,['Lord Dunsany Edward J.M.D. Plunkett'],./data/8/1/2/8129/8129.txt,{'Fantasy'}
+Irish Fairy Tales,['James Stephens'],./data/2/8/9/2892/2892.txt,"{'Fantasy', ""Children's Myths, Fairy Tales, etc.""}"
+Category Phoenix,['Boyd Ellanby'],./data/3/2/4/2/32427/32427.txt,{'Science Fiction'}
+New Apples in the Garden,['Kris Ottman Neville'],./data/3/0/7/6/30767/30767.txt,{'Science Fiction'}
+The Copper-Clad World,['Harl Vincent'],./data/2/8/8/8/28883/28883.txt,{'Science Fiction'}
+English Fairy Tales,['Anonymous'],./data/7/4/3/7439/7439.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Warning from the Stars,['Ron Cocking'],./data/2/2/5/4/22545/22545.txt,{'Science Fiction'}
+Aloys,['R.A. Lafferty'],./data/5/1/5/9/51596/51596.txt,{'Science Fiction'}
+The Chamber of Life,['Green Peyton Wertenbaker'],./data/2/5/8/6/25862/25862.txt,{'Science Fiction'}
+The Hollow Land,['William Morris'],./data/1/5/9/4/15948/15948.txt,{'Fantasy'}
+Made in Tanganyika,['Carl Richard Jacobi'],./data/2/9/2/4/29242/29242.txt,{'Science Fiction'}
+Riya's Foundling,['Algirdas Jonas Budrys'],./data/3/4/4/2/34420/34420.txt,{'Science Fiction'}
+The Measure of a Man,['Randall Garrett'],./data/2/4/1/3/24135/24135.txt,{'Science Fiction'}
+The Highest Treason,['Randall Garrett'],./data/2/4/3/0/24302/24302.txt,{'Science Fiction'}
+Black Jack,['Max Brand'],./data/9/9/2/9925/9925.txt,{'Western'}
+Red Cap Tales,['Samuel Rutherford Crockett'],./data/2/2/6/5/22656/22656.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Devil Crystals of Arret,['Hal K. Wells'],./data/2/8/6/2/28628/28628.txt,{'Science Fiction'}
+The Reluctant Heroes,['Frank M. Robinson'],./data/5/1/4/8/51483/51483.txt,{'Science Fiction'}
+Foundling on Venus,['John de Courcy'],./data/2/9/1/8/29181/29181.txt,{'Science Fiction'}
+The War of the Worlds,['H.G. Wells'],./data/3/36/36.txt,{'Science Fiction'}
+The Worshippers,['Damon Francis Knight'],./data/2/2/5/6/22560/22560.txt,{'Science Fiction'}
+The Airlords of Han,['Philip Francis Nowlan'],./data/2/5/4/3/25438/25438.txt,{'Science Fiction'}
+Proof of the Pudding,['Robert Sheckley'],./data/5/0/8/4/50844/50844.txt,{'Science Fiction'}
+Dutch Fairy Tales for Young Folks,['William Elliot Griffis'],./data/7/8/7/7871/7871-8.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Equation of Doom,['Gerald Vance'],./data/2/9/1/4/29146/29146.txt,{'Science Fiction'}
+Gun for Hire,['Dallas McCord Reynolds'],./data/2/4/2/4/24247/24247.txt,{'Science Fiction'}
+The Helpful Hand of God,['Tom Godwin'],./data/3/0/3/2/30322/30322.txt,{'Science Fiction'}
+Dream Town,['Henry Slesar'],./data/2/9/1/9/29193/29193.txt,{'Science Fiction'}
+The Last of the Mohicans,['James Fenimore Cooper'],./data/2/7/6/8/27681/27681.txt,{'Adventure'}
+Death Wish,['Robert Sheckley'],./data/2/9/8/7/29876/29876.txt,{'Science Fiction'}
+Typee,['Herman Melville'],./data/1/9/0/1900/1900.txt,{'Adventure'}
+The Last Letter,['Fritz Leiber'],./data/5/1/5/3/51530/51530-8.txt,{'Science Fiction'}
+The Crystal Stopper,['Maurice LeBlanc'],./data/1/5/6/1563/1563.txt,{'Crime Fiction'}
+That Sweet Little Old Lady,['Gordon Randall Garrett'],./data/2/3/6/5/23657/23657.txt,{'Science Fiction'}
+Image of the Gods,['Alan Edward Nourse'],./data/2/2/8/8/22882/22882.txt,{'Science Fiction'}
+The Sea Fairies,['L. Frank Baum'],./data/4/3/5/4358/4358.txt,{'Fantasy'}
+All The People,['R.A. Lafferty'],./data/5/1/6/0/51603/51603.txt,{'Science Fiction'}
+Now We Are Three,['Joe L. Hensley'],./data/2/9/2/9/29290/29290.txt,{'Science Fiction'}
+The Red House Mystery,['A.A. Milne'],./data/1/8/7/1872/1872.txt,{'Detective Fiction'}
+There Will Be School Tomorrow,['V.E. Thiessen'],./data/2/9/3/1/29317/29317.txt,{'Science Fiction'}
+Dogfight--1973,['Dallas McCord Reynolds'],./data/2/9/9/4/29940/29940.txt,{'Science Fiction'}
+The Happy Family,['Bertha Muzzy Bower'],./data/1/3/6/7/13670/13670.txt,{'Western'}
+The Delegate from Venus,['Henry Slesar'],./data/2/5/0/8/25086/25086.txt,{'Science Fiction'}
+Spoken For,['William Morrison'],./data/5/1/1/2/51121/51121.txt,{'Science Fiction'}
+Raiders of the Universes,['Donald Wandrei'],./data/2/9/3/8/29389/29389.txt,{'Science Fiction'}
+The Servant Problem,['Robert F. Young'],./data/2/3/2/3/23232/23232.txt,{'Science Fiction'}
+The Shadow of the Rope,['E.W. Hornung'],./data/1/2/5/9/12590/12590.txt,{'Crime Fiction'}
+Strange Alliance,['Bryce Walton'],./data/2/8/0/4/28047/28047.txt,{'Science Fiction'}
+Miss Ludington's Sister,['Edward Bellamy'],./data/6/9/0/6903/6903.txt,{'Science Fiction'}
+Taboo,['James Branch Cabell'],./data/1/7/1/3/17134/17134.txt,{'Fantasy'}
+"Astounding Stories,  August, 1931",['Various'],./data/3/3/0/1/33016/33016.txt,{'Science Fiction'}
+The Moon Pool,['A. Merritt'],./data/7/6/765/765.txt,{'Science Fiction'}
+Tales of War,['Lord Dunsany'],./data/5/7/1/5713/5713.txt,{'Fantasy'}
+Five Thousand Miles Underground,['Roy Rockwood'],./data/4/9/9/4994/4994.txt,{'Science Fiction'}
+The Eternal Wall,['Raymond Zinke Gallun'],./data/2/7/1/1/27110/27110.txt,{'Science Fiction'}
+Equality,['Edward Bellamy'],./data/7/3/0/7303/7303.txt,{'Science Fiction'}
+Cinderella in the South,['Arthur Shearly Cripps'],./data/2/2/8/8/22886/22886.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+"A Connecticut Yankee in King Arthur's Court, Complete",['Mark Twain'],./data/8/86/86.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+Alien Offer,['Al Sevcik'],./data/2/6/9/5/26956/26956.txt,{'Science Fiction'}
+The Disappearance of Lady Frances Carfax,['Arthur Conan Doyle'],./data/2/3/4/2348/2348.txt,{'Detective Fiction'}
+A World Apart,['Samuel Kimball Merwin'],./data/3/1/2/1/31215/31215.txt,{'Science Fiction'}
+Survival Tactics,['Al Sevcik'],./data/2/4/9/6/24966/24966.txt,{'Science Fiction'}
+Edison's Conquest of Mars,['Garrett Putman Serviss'],./data/1/9/1/4/19141/19141.txt,{'Science Fiction'}
+Gambler's World,['John Keith Laumer'],./data/2/1/6/2/21627/21627.txt,{'Science Fiction'}
+Despoilers of the Golden Empire,['Gordon Randall Garrett'],./data/2/4/0/9/24091/24091.txt,{'Science Fiction'}
+Hawk Carse,['Anthony Gilmore'],./data/3/0/3/0/30307/30307.txt,{'Science Fiction'}
+Way of the Lawless,['Max Brand'],./data/9/9/0/9903/9903.txt,{'Western'}
+The Pathless Trail,['Arthur O.  Friel'],./data/3/0/3/2/30324/30324.txt,{'Adventure'}
+Status Quo,['Dallas McCord Reynolds'],./data/3/0/3/3/30339/30339.txt,{'Science Fiction'}
+Spinifex and Sand,['David W Carnegie'],./data/4/9/7/4975/4975.txt,{'Western'}
+My Lady Selene,['Magnus Ludens'],./data/5/0/8/9/50892/50892.txt,{'Science Fiction'}
+Always a Qurono,['Jim Harmon'],./data/5/1/6/2/51623/51623.txt,{'Science Fiction'}
+Double Take,['Richard Wilson'],./data/3/0/0/6/30063/30063.txt,{'Science Fiction'}
+The Plotters,['Alexander Blade'],./data/3/2/8/0/32801/32801.txt,{'Science Fiction'}
+The Immortals,['David Duncan'],./data/5/1/8/0/51801/51801.txt,{'Science Fiction'}
+The Desert of Wheat,['Zane Grey'],./data/1/0/2/0/10201/10201/10201.txt,{'Western'}
+Mutineer,['Robert J. Shea'],./data/2/9/1/9/29196/29196.txt,{'Science Fiction'}
+Frankenstein,['Mary Shelley'],./data/4/1/4/4/41445/41445.txt,{'Horror'}
+The Star Lord,['Boyd Ellanby'],./data/3/2/2/0/32208/32208.txt,{'Science Fiction'}
+Sordman the Protector,['Tom Purdom'],./data/5/1/4/4/51445/51445.txt,{'Science Fiction'}
+Earth Alert!,['Kris Neville'],./data/3/3/6/4/33642/33642.txt,{'Science Fiction'}
+A Thousand Degrees Below Zero,['Murray Leinster'],./data/5/0/5/8/50585/50585-8.txt,{'Science Fiction'}
+The Beasts in the Void,['Paul W. Fairman'],./data/3/2/1/6/32162/32162.txt,{'Science Fiction'}
+Tom Swift and his Wizard Camera,['Victor Appleton'],./data/1/2/8/1283/1283.txt,{'Adventure'}
+Vampires of Space,['Sewell Peaslee Wright'],./data/2/9/3/5/29353/29353.txt,{'Science Fiction'}
+Love Under Fire,['Randall Parrish'],./data/1/2/0/1/12015/12015.txt,{'Romance'}
+Shatter the Wall,['Sydney Van Scyoc'],./data/5/1/5/7/51576/51576.txt,{'Science Fiction'}
+Cubs of the Wolf,['Raymond F. Jones'],./data/2/2/5/2/22526/22526.txt,{'Science Fiction'}
+The Freelancer,['Robert Zacks'],./data/5/0/9/8/50980/50980.txt,{'Science Fiction'}
+The Mantooth,['Christopher Leadem'],./data/1/7/3/9/17394/17394-8.txt,{'Science Fiction'}
+The Passing of Ku Sui,['Anthony Gilmore'],./data/3/0/3/0/30303/30303.txt,{'Science Fiction'}
+By Conduct and Courage,['G.A. Henty'],./data/2/8/3/5/28357/28357.txt,{'Adventure'}
+Tight Squeeze,['Dean Charles Ing'],./data/2/3/3/3/23337/23337.txt,{'Science Fiction'}
+Ullr Uprising,['Henry Beam Piper'],./data/1/9/3/7/19370/19370.txt,{'Science Fiction'}
+The Wolf Hunters,['James Oliver Curwood'],./data/1/2/1/7/12170/12170.txt,{'Adventure'}
+The Fantasy Fan April 1934,['Various'],./data/4/9/5/1/49511/49511.txt,{'Science Fiction'}
+The Wailing Asteroid,['Murray Leinster'],./data/5/0/0/2/50022/50022-8.txt,{'Science Fiction'}
+Ten Years Later,"['Alexandre Dumas', 'Pere']",./data/2/6/8/2681/2681.txt,{'Adventure'}
+No Substitutions,['Jim Harmon'],./data/5/1/3/5/51350/51350.txt,{'Science Fiction'}
+Mid Pleasures and Palaces,['James McKimmey'],./data/3/1/7/0/31703/31703.txt,{'Science Fiction'}
+Mask of Death,['Paul Ernst'],./data/3/2/9/0/32905/32905.txt,{'Science Fiction'}
+Love Story,['Irving E. Cox Jr.'],./data/3/2/0/7/32078/32078.txt,{'Science Fiction'}
+Exploiter's End,['James Causey'],./data/4/0/9/7/40970/40970.txt,{'Science Fiction'}
+The Mad Planet,['Murray Leinster'],./data/3/5/4/2/35425/35425.txt,{'Science Fiction'}
+A Gift from Earth,['Manly Banister'],./data/5/1/1/2/51129/51129.txt,{'Science Fiction'}
+The Great Nebraska Sea,['Allan Danzig'],./data/5/0/8/9/50893/50893.txt,{'Science Fiction'}
+Breaking Point,['James E. Gunn'],./data/2/1/9/8/21988/21988.txt,{'Science Fiction'}
+Operation R.S.V.P.,['Henry Beam Piper'],./data/1/8/2/6/18261/18261.txt,{'Science Fiction'}
+The Lost Heir,['G.A. Henty'],./data/3/6/9/7/36975/36975.txt,{'Adventure'}
+R. Holmes & Co.,['John Kendrick Bangs'],./data/2/0/5/5/20559/20559.txt,{'Detective Fiction'}
+Kari the Elephant,['Dhan Gopal Mukerji'],./data/2/4/4/6/24460/24460.txt,{'Fantasy'}
+Shepherd of the Planets,['Alan Mattox'],./data/2/8/0/4/28048/28048.txt,{'Science Fiction'}
+David and the Phoenix,['Edward Ormondroyd'],./data/2/7/9/2/27922/27922.txt,{'Fantasy'}
+The Law and the Lady,['Wilkie Collins'],./data/1/6/2/1622/1622.txt,{'Crime and Mystery'}
+Man's Best Friend,['Evelyn E. Smith'],./data/5/1/0/5/51050/51050-8.txt,{'Science Fiction'}
+The Return of Sherlock Holmes,['Arthur Conan Doyle'],./data/1/0/108/108.txt,{'Detective Fiction'}
+Assignment's End,['Roger Dee'],./data/3/2/2/0/32209/32209.txt,{'Science Fiction'}
+Success Story,['Earl Goodale'],./data/5/1/8/0/51805/51805.txt,{'Science Fiction'}
+The Spirit of the Border,['Zane Grey'],./data/1/2/3/1239/1239.txt,{'Western'}
+McIlvaine's Star,['August Derleth'],./data/3/0/1/9/30199/30199.txt,{'Science Fiction'}
+The Outlet,['Andy Adams'],./data/1/9/8/1987/1987.txt,{'Western'}
+Revenge,['Arthur Porges'],./data/2/7/7/5/27756/27756.txt,{'Science Fiction'}
+On the Irrawaddy,['G.A. Henty'],./data/2/1/2/4/21242/21242.txt,{'Adventure'}
+The Planet Strappers,['Raymond Zinke Gallun'],./data/2/5/0/6/25067/25067.txt,{'Science Fiction'}
+The Imitation of Earth,['James Stamers'],./data/5/1/6/8/51682/51682.txt,{'Science Fiction'}
+Atlantida,['Pierre Benoit'],./data/1/4/3/0/14301/14301.txt,{'Science Fiction'}
+Old Friends Are the Best,['Jack Sharkey'],./data/3/3/8/7/33871/33871.txt,{'Science Fiction'}
+Nightmare Planet,['Murray Leinster'],./data/4/2/9/8/42987/42987.txt,{'Science Fiction'}
+Astounding Stories of Super-Science April 1930,['Various'],./data/2/9/3/9/29390/29390.txt,{'Science Fiction'}
+The Second Deluge,['Garrett P. Serviss'],./data/9/1/9/9194/9194.txt,{'Science Fiction'}
+The Girl in the Golden Atom,['Raymond King Cummings'],./data/2/1/0/9/21094/21094.txt,{'Science Fiction'}
+John Jones's Dollar,['Harry Stephen Keeler'],./data/2/6/8/6/26867/26867.txt,{'Science Fiction'}
+The King of the City,['Keith Laumer'],./data/5/1/7/8/51781/51781.txt,{'Science Fiction'}
+Star Born,['Andre Norton'],./data/1/8/4/5/18458/18458.txt,"{'Adventure', 'Science Fiction'}"
+She,['H. Rider Haggard'],./data/3/1/5/3155/3155-0.txt,{'Adventure'}
+The Luckiest Man in Denv,['Simon Eisner'],./data/5/0/8/3/50835/50835.txt,{'Science Fiction'}
+Song in a Minor Key,['Catherine Lucille Moore'],./data/2/8/5/5/28550/28550.txt,{'Science Fiction'}
+No Pets Allowed,['M.A. Cummings'],./data/2/9/1/3/29139/29139.txt,{'Science Fiction'}
+Solid Solution,['James Stamers'],./data/5/1/6/1/51610/51610.txt,{'Science Fiction'}
+Turning Point,['Alfred Coppel'],./data/3/2/1/0/32104/32104.txt,{'Science Fiction'}
+The Revolutions of Time,['Jonathan Dunn'],./data/8/7/3/8735/8735.txt,{'Science Fiction'}
+Test Rocket!,['Jack Douglas'],./data/2/3/6/5/23651/23651.txt,{'Science Fiction'}
+Desire No More,['Algirdas Jonas Budrys'],./data/4/0/9/6/40968/40968.txt,{'Science Fiction'}
+The Princess and Curdie,['George MacDonald'],./data/3/6/6/1/36612/36612.txt,{'Fantasy'}
+"The Stars, My Brothers",['Edmond Hamilton'],./data/2/4/8/7/24870/24870.txt,{'Science Fiction'}
+The Status Civilization,['Robert Sheckley'],./data/2/0/9/1/20919/20919.txt,{'Science Fiction'}
+Falcons of Narabedla,['Marion Zimmer Bradley'],./data/5/0/5/6/50566/50566.txt,"{'Science Fantasy', 'Science Fiction'}"
+The Ambassador,['Samuel Kimball Merwin'],./data/3/2/5/8/32587/32587.txt,{'Science Fiction'}
+Off Course,['Mack Reynolds'],./data/3/0/0/3/30035/30035.txt,{'Science Fiction'}
+Star Hunter,['Andre Alice Norton'],./data/1/9/0/9/19090/19090.txt,{'Science Fiction'}
+The Works of Edgar Allan Poe,['Edgar Allan Poe'],./data/2/1/4/2147/2147-0.txt,"{'Mystery Fiction', 'Detective Fiction', 'Horror'}"
+Child Christopher,['William Morris'],./data/2/3/234/234.txt,{'Fantasy'}
+Tom Swift and his Submarine Boat,['Victor Appleton'],./data/9/4/949/949.txt,{'Adventure'}
+The Heritage of the Sioux,['B.M. Bower'],./data/1/2/9/1299/1299.txt,{'Western'}
+A Strange Disappearance,['Anna Katharine Green'],./data/1/1/6/1167/1167.txt,{'Detective Fiction'}
+Zen,['Jerome Bixby'],./data/2/9/7/5/29750/29750.txt,{'Science Fiction'}
+Mr. Midshipman Easy,['Captain Frederick Marryat'],./data/2/1/5/5/21553/21553.txt,{'Adventure'}
+The Rat Race,['Jay Franklin'],./data/5/1/8/5/51854/51854-8.txt,{'Science Fiction'}
+Space Tug,['Murray Leinster'],./data/1/8/7/1/18719/18719.txt,"{'Adventure', 'Science Fiction'}"
+Join Our Gang?,['Sterling E. Lanier'],./data/2/9/9/8/29987/29987.txt,{'Science Fiction'}
+Dr. Heidenhoff's Process,['Edward Bellamy'],./data/7/0/5/7052/7052.txt,{'Science Fiction'}
+It's a Small Solar System,['Allan Howard'],./data/2/8/4/3/28437/28437.txt,{'Science Fiction'}
+"Tree, Spare that Woodman",['Dave Dryfoos'],./data/2/9/7/9/29794/29794.txt,{'Science Fiction'}
+The Weirdest World,['R.A. Lafferty'],./data/5/1/7/7/51774/51774.txt,{'Science Fiction'}
+How to Make Friends,['Jim Harmon'],./data/5/0/8/1/50818/50818.txt,{'Science Fiction'}
+"Astounding Stories of Super-Science, October, 1930",['Various'],./data/2/9/8/8/29882/29882.txt,{'Science Fiction'}
+In the Hands of the Cave-Dwellers,['G.A. Henty'],./data/4/3/0/6/43067/43067.txt,{'Adventure'}
+The Defiant Agents,['Andre Alice Norton'],./data/2/5/5/5/25550/25550.txt,"{'Adventure', 'Time Travel', 'Science Fiction'}"
+The Jewels of Aptor,['Samuel R. Delany'],./data/4/1/9/8/41981/41981.txt,{'Science Fiction'}
+The Mirror of Kong Ho,['Ernest Bramah'],./data/1/0/7/1077/1077.txt,{'Fantasy'}
+A Husband for My Wife,['William W. Stuart'],./data/5/1/4/6/51460/51460.txt,{'Science Fiction'}
+Fresh Air Fiend,['Kris Neville'],./data/5/1/3/3/51335/51335.txt,{'Science Fiction'}
+Scrimshaw,['William Fitzgerald Jenkins'],./data/2/3/7/9/23791/23791.txt,{'Science Fiction'}
+Jamieson,['William R. Doede'],./data/5/1/6/0/51605/51605.txt,{'Science Fiction'}
+Moonfleet,['J. Meade Falkner'],./data/1/0/7/4/10743/10743.txt,{'Adventure'}
+The Sorcery Club,"[""Elliott O'Donnell""]",./data/1/4/3/1/14317/14317.txt,{'Horror'}
+A Columbus of Space,['Garrett P. Serviss'],./data/8/6/7/8673/8673.txt,{'Science Fiction'}
+The Feeling,['Roger Dee'],./data/5/1/5/1/51518/51518.txt,{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 4.",['Mark Twain'],./data/7/2/4/7245/7245.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+A Book of Myths,['Jean Lang'],./data/2/2/6/9/22693/22693.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Green Beret,['Thomas Edward Purdom'],./data/2/4/2/7/24278/24278.txt,{'Science Fiction'}
+My Lady Greensleeves,['Frederik Pohl'],./data/5/1/3/1/51310/51310.txt,{'Science Fiction'}
+The Jimmyjohn Boss and Other Stories,['Owen Wister'],./data/1/3/9/1390/1390.txt,{'Western'}
+English Fairy Tales,['Flora Annie Steel'],./data/1/7/0/3/17034/17034.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+By Pike and Dyke,['G.A. Henty'],./data/6/9/5/6952/6952.txt,{'Adventure'}
+Hellhounds of the Cosmos,['Clifford Donald Simak'],./data/2/7/0/1/27013/27013.txt,{'Science Fiction'}
+The Ambulance Made Two Trips,['William Fitzgerald Jenkins'],./data/2/4/1/4/24149/24149.txt,{'Science Fiction'}
+Animal Ghosts,"[""Elliott O'Donnell""]",./data/1/8/2/3/18233/18233.txt,{'Horror'}
+Tom Swift and His Giant Telescope,['Victor Appleton'],./data/2/1/1/8/21188/21188.txt,{'Adventure'}
+Poisoned Air,['Sterner St. Paul Meek'],./data/2/9/0/6/29069/29069.txt,{'Science Fiction'}
+The Adventure of the Devil's Foot,['Arthur Conan Doyle'],./data/2/3/4/2349/2349.txt,{'Detective Fiction'}
+Sight Unseen,['Mary Roberts Rinehart'],./data/1/9/6/1960/1960.txt,{'Crime and Mystery'}
+Twilight Land,['Howard Pyle'],./data/1/7/5/1751/1751.txt,{'Fantasy'}
+Homesick,['Lyn Venable'],./data/2/9/5/9/29599/29599.txt,{'Science Fiction'}
+Percival Keene,['Frederick Marryat'],./data/2/1/5/7/21572/21572.txt,{'Adventure'}
+Blueblood,['Jim Harmon'],./data/5/1/4/9/51499/51499.txt,{'Science Fiction'}
+Gallantry,['James Branch Cabell'],./data/8/7/1/8715/8715.txt,{'Fantasy'}
+The Treasure of the Incas,['G.A. Henty'],./data/7/0/7/7070/7070.txt,{'Adventure'}
+Security,['Ernest M. Kenyon'],./data/2/6/1/4/26140/26140.txt,{'Science Fiction'}
+Spillthrough,['Daniel F. Galouye'],./data/3/2/6/5/32657/32657.txt,{'Science Fiction'}
+The Professional Approach,['Charles Leonard Harness'],./data/2/3/8/7/23872/23872.txt,{'Science Fiction'}
+Metamorphosis,['Franz Kafka'],./data/5/2/0/5200/5200.txt,{'Horror'}
+The Sun King,['Gaston Derreaux'],./data/2/4/9/7/24973/24973.txt,{'Science Fiction'}
+The Door Through Space,['Marion Zimmer Bradley'],./data/1/9/7/2/19726/19726.txt,"{'Adventure', 'Science Fiction'}"
+Fly By Night,['Arthur Dekker Savage'],./data/3/2/7/3/32734/32734.txt,{'Science Fiction'}
+Name Your Symptom,['Jim Harmon'],./data/5/1/2/0/51202/51202.txt,{'Science Fiction'}
+Watchbird,['Robert Sheckley'],./data/2/9/5/7/29579/29579.txt,{'Science Fiction'}
+2 B R 0 2 B,['Kurt Vonnegut'],./data/2/1/2/7/21279/21279.txt,{'Science Fiction'}
+Dracula's Guest,['Bram Stoker'],./data/1/0/1/5/10150/10150.txt,{'Horror'}
+The Last Man,['Mary Shelley'],./data/1/8/2/4/18247/18247.txt,{'Science Fiction'}
+The Water of the Wondrous Isles,['William Morris'],./data/8/7/7/8778/8778-0.txt,{'Fantasy'}
+The Native Soil,['Alan Edward Nourse'],./data/2/4/2/7/24274/24274.txt,{'Science Fiction'}
+Cerebrum,['Albert Teichner'],./data/2/6/7/6/26761/26761.txt,{'Science Fiction'}
+"Futuria Fantasia, Winter 1940",['Ray Bradbury'],./data/4/1/6/2/41627/41627.txt,{'Science Fiction'}
+The Yellow Claw,['Sax Rohmer'],./data/2/0/2/2028/2028.txt,"{'Crime and Mystery', 'Crime Fiction'}"
+The Short Life,['Francis Donovan'],./data/2/3/9/2/23928/23928.txt,{'Science Fiction'}
+Deadly City,['Paul W. Fairman'],./data/3/2/7/0/32705/32705.txt,{'Science Fiction'}
+A Thief in the Night,['E.W. Hornung'],./data/2/0/9/2098/2098.txt,{'Crime Fiction'}
+Juju,['Murray Leinster'],./data/5/0/7/1/50719/50719-8.txt,{'Science Fiction'}
+Cost of Living,['Robert Sheckley'],./data/2/9/4/5/29458/29458.txt,{'Science Fiction'}
+Louise de la Valliere,"['Alexandre Dumas', 'Pere']",./data/2/7/1/2710/2710.txt,{'Adventure'}
+Brigands of the Moon,['Ray Cummings'],./data/1/9/0/6/19066/19066.txt,{'Science Fiction'}
+The Talleyrand Maxim,['J.S. Fletcher'],./data/9/8/3/9834/9834.txt,{'Detective Fiction'}
+Hopalong Cassidy,['Clarence E. Mulford'],./data/3/8/2/3/38234/38234.txt,{'Western'}
+Industrial Revolution,['Poul William Anderson'],./data/3/0/9/7/30971/30971.txt,{'Science Fiction'}
+One-Shot,['James Benjamin Blish'],./data/2/2/9/5/22958/22958.txt,{'Science Fiction'}
+Bodyguard,['Christopher Grimm'],./data/5/0/9/8/50988/50988.txt,{'Science Fiction'}
+Tarzan the Terrible,['Edgar Rice Burroughs'],./data/2/0/2/2020/2020.txt,"{'Adventure', 'Fantasy'}"
+"Astounding Stories, May, 1931",['Various'],./data/3/0/5/3/30532/30532.txt,{'Science Fiction'}
+Keep Out,['Fredric Brown'],./data/2/9/1/4/29142/29142.txt,{'Science Fiction'}
+The Passenger from Calais,['Arthur Griffiths'],./data/1/6/3/3/16339/16339.txt,{'Detective Fiction'}
+Jane Eyre,['Charlotte Bronte'],./data/1/2/6/1260/1260.txt,{'Romance'}
+The Mystery Of The Boule Cabinet,['Burton Egbert Stevenson'],./data/1/0/0/6/10067/10067.txt,{'Detective Fiction'}
+An African Millionaire,['Grant Allen'],./data/4/7/1/4715/4715.txt,{'Crime Fiction'}
+Tom Swift and his Airship,['Victor Appleton'],./data/3/0/0/3005/3005.txt,{'Adventure'}
+The Outbreak of Peace,['Horace Brown Fyfe'],./data/2/9/9/8/29989/29989.txt,{'Science Fiction'}
+"Le Morte D'Arthur, Volume II (of II)",['Thomas Malory'],./data/1/2/5/1252/1252.txt,{'Fantasy'}
+Rebel Spurs,['Andre Norton'],./data/2/0/8/4/20840/20840.txt,{'Western'}
+The Dueling Machine,['Benjamin William Bova'],./data/3/0/7/9/30796/30796.txt,{'Science Fiction'}
+Pushbutton War,['Joseph P. Martino'],./data/2/4/1/2/24122/24122.txt,{'Science Fiction'}
+The Man Who Hated Mars,['Gordon Randall Garrett'],./data/2/5/6/4/25644/25644.txt,{'Science Fiction'}
+The Man the Martians Made,['Frank Belknap Long'],./data/2/9/4/3/29432/29432.txt,{'Science Fiction'}
+Hunter Quatermain's Story,['H. Rider Haggard'],./data/2/7/2/2728/2728.txt,{'Adventure'}
+"We Didn't Do Anything Wrong, Hardly",['Roger Kuykendall'],./data/2/4/1/1/24118/24118.txt,{'Science Fiction'}
+The Marvellous Land of Oz,['L. Frank Baum'],./data/5/54/54.txt,{'Fantasy'}
+The Black Arrow,['Robert Louis Stevenson'],./data/8/4/848/848.txt,{'Adventure'}
+The Finding of Haldgren,['Charles Willard Diffin'],./data/2/9/7/1/29717/29717.txt,{'Science Fiction'}
+Planet of the Damned,['Harry Harrison'],./data/2/1/8/7/21873/21873.txt,{'Science Fiction'}
+Faithfully Yours,['Lou Tabakow'],./data/2/4/5/6/24566/24566.txt,{'Science Fiction'}
+The Great Drought,['Sterner St. Paul Meek'],./data/2/9/3/2/29326/29326.txt,{'Science Fiction'}
+Dead End,['Wallace Macfarlane'],./data/5/1/2/4/51247/51247.txt,{'Science Fiction'}
+Solomon's Orbit,['William Carroll'],./data/2/3/1/6/23160/23160.txt,{'Science Fiction'}
+A Matter of Protocol,['Jack Sharkey'],./data/5/1/6/1/51615/51615.txt,{'Science Fiction'}
+Medal of Honor,['Dallas McCord Reynolds'],./data/2/7/3/9/27393/27393.txt,{'Science Fiction'}
+Mate in Two Moves,['Winston Marks'],./data/3/2/7/4/32748/32748.txt,{'Science Fiction'}
+And Then the Town Took Off,['Richard Wilson'],./data/4/2/1/1/42111/42111.txt,{'Science Fiction'}
+Victory,['Joseph Conrad'],./data/6/3/7/6378/6378.txt,{'Adventure'}
+If,"['Lord Dunsany Dunsany', 'Edward John Moreton Drax Plunkett', 'Baron']",./data/1/3/1/1311/1311.txt,{'Fantasy'}
+The Hunters,['William Morrison'],./data/2/2/5/2/22524/22524.txt,{'Science Fiction'}
+Get Out of Our Skies!,['E.K. Jarvis'],./data/2/6/7/9/26795/26795.txt,{'Science Fiction'}
+The Fantasy Fan February 1934,['Various'],./data/4/6/6/1/46616/46616.txt,{'Science Fiction'}
+Highways in Hiding,['George Oliver Smith'],./data/2/0/5/1/20519/20519.txt,{'Science Fiction'}
+Regeneration,['Charles Dye'],./data/1/9/9/6/19964/19964.txt,{'Science Fiction'}
+The Sentimentalists,['Murray Leinster'],./data/5/1/1/0/51102/51102-8.txt,{'Science Fiction'}
+A Matter of Proportion,['Anne Walker'],./data/2/3/9/2/23920/23920.txt,{'Science Fiction'}
+The Sleeper Awakes,['H.G. Wells'],./data/1/2/1/6/12163/12163.txt,{'Science Fiction'}
+Mr. Justice Raffles,['E.W. Hornung'],./data/9/8/0/9806/9806.txt,{'Crime Fiction'}
+Under Drake's Flag,['G.A. Henty'],./data/1/9/2/0/19206/19206.txt,{'Adventure'}
+Rescue Squad,"[""Thomas J. O'Hara""]",./data/2/9/8/2/29822/29822.txt,{'Science Fiction'}
+"Swenson, Dispatcher",['R. DeWitt Miller'],./data/5/1/3/3/51331/51331.txt,{'Science Fiction'}
+Belly Laugh,['Gordon Randall Garrett'],./data/2/8/6/4/28643/28643.txt,{'Science Fiction'}
+All Day September,['Roger Kuykendall'],./data/2/4/1/6/24161/24161.txt,{'Science Fiction'}
+The Rayner-Slade Amalgamation,['J.S. Fletcher'],./data/1/0/4/4/10443/10443.txt,{'Detective Fiction'}
+The Surprising Adventures of the Magical Monarch of Mo and His People,['L. Frank Baum'],./data/1/6/2/5/16259/16259.txt,{'Fantasy'}
+"Quiet, Please",['Kevin Scott'],./data/2/1/5/4/21541/21541.txt,{'Science Fiction'}
+The Lookout Man,['B.M. Bower'],./data/1/5/6/2/15625/15625.txt,{'Western'}
+The Gloved Hand,['Burton E. Stevenson'],./data/1/3/3/7/13372/13372.txt,{'Detective Fiction'}
+Tom Swift in the Land of Wonders,['Victor Appleton'],./data/4/9/499/499.txt,{'Adventure'}
+In the Year 2889,"['Jules Verne', 'Michel Verne']",./data/1/9/3/6/19362/19362.txt,{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 1",['Mark Twain'],./data/7/1/0/7100/7100.txt,{'Adventure'}
+The Syndic,['C.M. Kornbluth'],./data/4/1/7/1/41714/41714.txt,{'Science Fiction'}
+Voodoo Planet,['Andre Norton'],./data/1/8/8/4/18846/18846.txt,{'Science Fiction'}
+The Mercenaries,['Henry Beam Piper'],./data/1/8/8/1/18814/18814.txt,{'Science Fiction'}
+The Undetected,['George O. Smith'],./data/5/1/8/1/51810/51810.txt,{'Science Fiction'}
+The Circuit Riders,['R.C. FitzPatrick'],./data/2/4/5/4/24543/24543.txt,{'Science Fiction'}
+Arsene Lupin,['Edgar Jepson'],./data/4/0/1/4014/4014.txt,{'Crime Fiction'}
+Innocent At Large,['Poul Anderson'],./data/5/1/6/5/51650/51650.txt,{'Science Fiction'}
+Dead Giveaway,['Gordon Randall Garrett'],./data/2/4/0/5/24054/24054.txt,{'Science Fiction'}
+...So They Baked a Cake,['Winston Marks'],./data/5/1/4/1/51414/51414.txt,{'Science Fiction'}
+An Occurrence at Owl Creek,['Ambrose Bierce'],./data/3/7/375/375.txt,{'Horror'}
+Pirates of the Gorm,['Nat Schachner'],./data/2/9/2/9/29299/29299.txt,{'Science Fiction'}
+The Bluff of the Hawk,['Anthony Gilmore'],./data/2/9/2/9/29298/29298.txt,{'Science Fiction'}
+The Wing-and-Wing,['J. Fenimore Cooper'],./data/1/1/9/5/11957/11957.txt,{'Adventure'}
+Jewels of Gwahlur,['Robert E. Howard'],./data/4/2/2/3/42236/42236.txt,{'Science Fiction'}
+The Waker Dreams,['Richard Matheson'],./data/5/1/0/7/51076/51076-8.txt,{'Science Fiction'}
+The Queen's Cup,['G.A. Henty'],./data/1/7/4/3/17436/17436.txt,{'Adventure'}
+Pagan Passions,['Gordon Randall Garrett'],./data/2/2/7/6/22767/22767.txt,{'Science Fiction'}
+The Lost Kafoozalum,['Pauline Ashwell'],./data/3/0/4/2/30427/30427.txt,{'Science Fiction'}
+The Indulgence of Negu Mah,['Robert Andrew Arthur'],./data/2/3/6/8/23688/23688.txt,{'Science Fiction'}
+Chronicles of Martin Hewitt,['Arthur Morrison'],./data/3/7/8/2/37820/37820.txt,{'Detective Fiction'}
+More Russian Picture Tales,['Valery Carrick'],./data/2/3/4/6/23462/23462.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Man Who Was Six,['F.L. Wallace'],./data/5/1/2/9/51295/51295.txt,{'Science Fiction'}
+Attrition,['Jim Wannamaker'],./data/2/4/2/8/24282/24282.txt,{'Science Fiction'}
+Priestess of the Flame,['Sewell Peaslee Wright'],./data/2/9/2/9/29293/29293.txt,{'Science Fiction'}
+Man of Distinction,['Michael Shaara'],./data/5/1/2/8/51288/51288.txt,{'Science Fiction'}
+Toy Shop,['Henry Maxwell Dempsey'],./data/2/2/9/6/22966/22966.txt,{'Science Fiction'}
+"Sodom and Gomorrah, Texas",['Raphael Aloysius Lafferty'],./data/2/3/1/6/23161/23161.txt,{'Science Fiction'}
+That Affair at Elizabeth,['Burton E. Stevenson'],./data/3/5/2/4/35247/35247.txt,{'Detective Fiction'}
+The Great Gray Plague,['Raymond F. Jones'],./data/2/8/1/1/28118/28118.txt,{'Science Fiction'}
+Address: Centauri,['F.L. Wallace'],./data/5/0/7/3/50736/50736.txt,{'Science Fiction'}
+One Man's Poison,['Robert Sheckley'],./data/3/2/0/4/32041/32041.txt,{'Science Fiction'}
+Stories the Iroquois Tell Their Children,['Mabel Powers'],./data/2/2/0/9/22096/22096.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+New Lamps,['Robert Moore Williams'],./data/5/2/0/0/52009/52009.txt,{'Science Fiction'}
+Wet Magic,['E. Nesbit'],./data/5/0/3/6/50361/50361-0.txt,{'Fantasy'}
+Nothing But the Best,['Alan Cogan'],./data/5/1/1/3/51136/51136.txt,{'Science Fiction'}
+Islands of Space,['John W Campbell'],./data/2/0/9/8/20988/20988.txt,{'Science Fiction'}
+The Good Neighbors,['Edgar Pangborn'],./data/2/6/5/3/26536/26536.txt,{'Science Fiction'}
+The Monster,['S.M. Tenneshaw'],./data/2/4/9/1/24913/24913.txt,{'Science Fiction'}
+The Tunnel Under The World,['Frederik Pohl'],./data/3/1/9/7/31979/31979.txt,{'Science Fiction'}
+In the Orbit of Saturn,['Roman Frederick Starzl'],./data/2/9/0/3/29038/29038.txt,{'Science Fiction'}
+"Goodbye, Dead Man!",['Tom W. Harris'],./data/2/9/9/6/29963/29963.txt,{'Science Fiction'}
+The King in Yellow,['Robert W. Chambers'],./data/8/4/9/8492/8492.txt,{'Horror'}
+Progress Report,['Mark Clifton'],./data/3/6/8/6/36867/36867.txt,{'Science Fiction'}
+The Count's Millions,['Emile Gaboriau'],./data/3/0/305/305.txt,{'Detective Fiction'}
+The Underground City,['Jules Verne'],./data/1/3/5/1355/1355.txt,{'Adventure'}
+The Water Eater,['Win Marks'],./data/3/1/8/4/31841/31841.txt,{'Science Fiction'}
+History Repeats,['George Oliver Smith'],./data/2/3/8/8/23884/23884.txt,{'Science Fiction'}
+The K-Factor,['Harry Harrison'],./data/2/2/5/4/22540/22540.txt,{'Science Fiction'}
+The Day of the Beast,['Zane Grey'],./data/1/5/6/7/15673/15673.txt,{'Western'}
+Allan Quatermain,['H. Rider Haggard'],./data/7/1/711/711.txt,{'Adventure'}
+Flight From Tomorrow,['Henry Beam Piper'],./data/1/8/4/6/18460/18460.txt,{'Science Fiction'}
+The Radio Boys on Secret Service Duty,['Gerald Breckenridge'],./data/3/9/5/7/39574/39574.txt,{'Adventure'}
+Sorry: Wrong Dimension,['Ross Rocklynne'],./data/2/9/6/2/29620/29620.txt,{'Science Fiction'}
+Vigorish,['Gordon Randall Garrett'],./data/2/4/3/8/24382/24382.txt,{'Science Fiction'}
+Volpla,['Wyman Guin'],./data/5/1/2/0/51201/51201.txt,{'Science Fiction'}
+Weak on Square Roots,['Russell Burton'],./data/2/9/9/7/29976/29976.txt,{'Science Fiction'}
+The Piebald Hippogriff,['Karen Anderson'],./data/4/3/0/4/43048/43048.txt,{'Science Fiction'}
+The Enchanted Castle,['E. Nesbit'],./data/3/4/2/1/34219/34219.txt,{'Fantasy'}
+The Stowaway,['Alvin Heiner'],./data/3/0/3/6/30361/30361.txt,{'Science Fiction'}
+The Big Time,['Fritz Reuter Leiber'],./data/3/2/2/5/32256/32256.txt,{'Science Fiction'}
+Rip Foster in Ride the Gray Planet,['Harold Leland Goodwin'],./data/1/8/1/3/18139/18139.txt,{'Science Fiction'}
+Citizen Jell,['Michael Shaara'],./data/5/1/3/4/51342/51342.txt,{'Science Fiction'}
+And All the Earth a Grave,['Carroll M. Capps'],./data/2/3/1/4/23146/23146.txt,{'Science Fiction'}
+The Marching Morons,['C.M. Kornbluth'],./data/5/1/2/3/51233/51233.txt,{'Science Fiction'}
+The Blindman's World,['Edward Bellamy'],./data/2/2/7/0/22701/22701.txt,{'Science Fiction'}
+The Tiger of Mysore,['G.A. Henty'],./data/1/8/8/1/18813/18813.txt,{'Adventure'}
+Roumanian Fairy Tales,['Various'],./data/2/0/5/5/20552/20552.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Hard Guy,['H.B. Carleton'],./data/2/6/8/5/26855/26855.txt,{'Science Fiction'}
+The Destroyers,['Gordon Randall Garrett'],./data/2/4/1/6/24166/24166.txt,{'Science Fiction'}
+"Star, Bright",['Mark Clifton'],./data/5/0/9/3/50935/50935.txt,{'Science Fiction'}
+"A Connecticut Yankee in King Arthur's Court, Part 8.",['Mark Twain'],./data/7/2/4/7249/7249.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+With a Vengeance,['J.B. Woodley'],./data/3/0/4/7/30475/30475.txt,{'Science Fiction'}
+The Vicomte de Bragelonne,"['Alexandre Dumas', 'Pere']",./data/1/2/5/2609/2609.txt,{'Adventure'}
+Dead Ringer,['Lester del Rey'],./data/3/0/2/3/30234/30234.txt,{'Science Fiction'}
+The Beginning,['Henry Hasse'],./data/2/7/6/4/27645/27645.txt,{'Science Fiction'}
+Ultima Thule,['Dallas McCord Reynolds'],./data/3/0/3/3/30334/30334.txt,{'Science Fiction'}
+The Pioneers,['James Fenimore Cooper'],./data/2/2/7/2275/2275.txt,{'Adventure'}
+Red Nails,['Robert E. Howard'],./data/3/2/7/5/32759/32759.txt,{'Science Fiction'}
+Revolution,['Dallas McCord Reynolds'],./data/2/3/9/2/23929/23929.txt,{'Science Fiction'}
+The Jewel of Seven Stars,['Bram Stoker'],./data/3/7/8/3781/3781.txt,{'Horror'}
+The Ivory Trail,['Talbot Mundy'],./data/5/1/9/5194/5194.txt,{'Adventure'}
+The Wood Beyond the World,['William Morris'],./data/3/0/5/3055/3055.txt,{'Fantasy'}
+"Astounding Stories of Super-Science, March 1930",['Various'],./data/2/9/6/0/29607/29607.txt,{'Science Fiction'}
+Twelve Stories and a Dream,['H.G. Wells'],./data/1/7/4/1743/1743.txt,{'Science Fiction'}
+Postmark Ganymede,['Robert Silverberg'],./data/2/5/6/2/25629/25629.txt,{'Science Fiction'}
+Tarrano the Conqueror,['Raymond King Cummings'],./data/2/1/6/3/21638/21638.txt,{'Science Fiction'}
+Problem on Balak,['Roger D. Aycock'],./data/3/3/8/3/33839/33839.txt,{'Science Fiction'}
+The Picture of Dorian Gray,['Oscar Wilde'],./data/1/7/174/174.txt,{'Fantasy'}
+Appointment In Tomorrow,['Fritz Leiber'],./data/5/1/1/5/51152/51152.txt,{'Science Fiction'}
+Slave Planet,['Laurence Janifer'],./data/5/1/8/5/51855/51855-8.txt,{'Science Fiction'}
+Astounding Stories of Super-Science February 1930,['Various'],./data/2/8/6/1/28617/28617.txt,{'Science Fiction'}
+Phantastes,['George MacDonald'],./data/3/2/325/325-8.txt,{'Fantasy'}
+Loot of the Void,['Edwin K. Sloat'],./data/2/9/4/5/29457/29457.txt,{'Science Fiction'}
+Five Weeks in a Balloon,['Jules Verne'],./data/3/5/2/3526/3526.txt,{'Adventure'}
+Stopover,['William Gerken'],./data/2/8/4/5/28450/28450.txt,{'Science Fiction'}
+Through the Air to the North Pole,['Roy Rockwood'],./data/1/4/6/6/14665/14665.txt,{'Science Fiction'}
+The Door in the Wall And Other Stories,['H.G. Wells'],./data/4/5/456/456.txt,{'Science Fiction'}
+The Quantum Jump,['Robert Wicks'],./data/2/4/4/1/24418/24418.txt,{'Science Fiction'}
+The Lost World,['Arthur Conan Doyle'],./data/1/3/139/139.txt,"{'Adventure', 'Science Fiction'}"
+The Glory of Ippling,['Helen M. Urban'],./data/2/3/1/8/23185/23185.txt,{'Science Fiction'}
+The Pathfinder,['James Fenimore Cooper'],./data/1/8/8/1880/1880.txt,{'Adventure'}
+"Waste Not, Want",['Dave Dryfoos'],./data/3/0/4/1/30416/30416.txt,{'Science Fiction'}
+The Eagle's Shadow,['James Branch Cabell'],./data/1/0/8/8/10882/10882/10882.txt,{'Fantasy'}
+Forever,['Robert Sheckley'],./data/2/9/4/8/29487/29487.txt,{'Science Fiction'}
+Doomsday Eve,['Robert Moore Williams'],./data/5/0/1/3/50138/50138.txt,{'Science Fiction'}
+The Draw,['Jerome Bixby'],./data/3/1/7/7/31778/31778.txt,{'Science Fiction'}
+The Stutterer,['R.R. Merliss'],./data/2/2/5/1/22512/22512.txt,{'Science Fiction'}
+The Diamond Lens,"[""Fitz-James O'Brien""]",./data/5/0/3/3/50332/50332-8.txt,{'Science Fiction'}
+The Emancipatrix,['Homer Eon Flint'],./data/5/6/9/5699/5699.txt,{'Science Fiction'}
+The Poison Belt,['Arthur Conan Doyle'],./data/1/2/126/126.txt,{'Science Fiction'}
+American Fairy Tales,['L. Frank Baum'],./data/4/3/5/4357/4357.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Venus is a Man's World,['William Tenn'],./data/5/1/1/5/51150/51150.txt,{'Science Fiction'}
+Mother America,['Sam McClatchie'],./data/2/6/1/8/26180/26180.txt,{'Science Fiction'}
+Disqualified,['Charles Louis Fontenay'],./data/3/0/2/5/30251/30251.txt,{'Science Fiction'}
+King Arthur's Knights,['Henry Gilbert'],./data/2/2/3/9/22396/22396.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Men in the Walls,['William Tenn'],./data/5/1/1/2/51122/51122.txt,{'Science Fiction'}
+Kai Lung's Golden Hours,['Ernest Bramah'],./data/1/2/6/1267/1267.txt,{'Fantasy'}
+End as a World,['F.L. Wallace'],./data/5/0/9/5/50959/50959.txt,{'Science Fiction'}
+Romance,"['Joseph Conrad', 'F.M. Hueffer']",./data/1/7/6/4/17642/17642.txt,{'Adventure'}
+Facing Death,['G.A. Henty'],./data/3/1/1/2/31128/31128.txt,{'Adventure'}
+The Link,['Alan Edward Nourse'],./data/2/2/8/7/22876/22876.txt,{'Science Fiction'}
+The Quirt,['B.M. Bower'],./data/1/9/1/6/19166/19166.txt,{'Western'}
+The Rome Express,['Arthur Griffiths'],./data/1/1/4/5/11451/11451.txt,{'Detective Fiction'}
+The Street That Wasn't There,['Clifford Donald Simak'],./data/2/2/2/1/22218/22218.txt,{'Science Fiction'}
+Warlord of Kor,['Terry Gene Carr'],./data/1/7/9/5/17958/17958.txt,{'Science Fiction'}
+"The Boats of the ""Glen Carrig",['William Hope Hodgson'],./data/1/0/5/4/10542/10542.txt,"{'Horror', 'Fantasy'}"
+Oomphel in the Sky,['Henry Beam Piper'],./data/2/0/6/4/20649/20649.txt,{'Science Fiction'}
+The Hollow Needle,['Maurice Leblanc'],./data/4/0/1/4017/4017.txt,{'Crime Fiction'}
+The Spicy Sound of Success,['Jim Harmon'],./data/5/1/3/5/51351/51351.txt,{'Science Fiction'}
+Temple Trouble,['Henry Beam Piper'],./data/1/8/8/6/18861/18861.txt,{'Science Fiction'}
+My Friend Bobby,['Alan Edward Nourse'],./data/2/2/8/8/22881/22881.txt,{'Science Fiction'}
+The Lamps of the Angels,['Richard Sabia'],./data/5/1/6/6/51669/51669-8.txt,{'Science Fiction'}
+Ghost Stories of an Antiquary,['M.R. James'],./data/8/4/8/8486/8486.txt,{'Horror'}
+Tales of Space and Time,['Herbert George Wells'],./data/2/7/3/6/27365/27365.txt,{'Science Fiction'}
+Aaron's Rod,['D.H. Lawrence'],./data/4/5/2/4520/4520.txt,{'Adventure'}
+Collector's Item,['Robert F. Young'],./data/2/8/9/2/28924/28924.txt,{'Science Fiction'}
+The Holes Around Mars,['Jerome Bixby'],./data/3/2/3/6/32360/32360.txt,{'Science Fiction'}
+John Dough and the Cherub,['L. Frank Baum'],./data/4/7/1/6/47166/47166.txt,{'Fantasy'}
+The Galaxy Primes,['Edward Elmer Smith'],./data/2/0/8/9/20898/20898.txt,"{'Adventure', 'Science Fiction'}"
+My Father's Dragon,['Ruth Stiles Gannett'],./data/3/0/0/1/30017/30017.txt,{'Fantasy'}
+The Stolen Bacillus and Other Incidents,['H.G.  Wells'],./data/1/2/7/5/12750/12750.txt,{'Science Fiction'}
+Heart,['Henry Slesar'],./data/3/0/8/8/30885/30885.txt,{'Science Fiction'}
+The World That Couldn't Be,['Clifford Donald Simak'],./data/3/2/0/2/32026/32026.txt,{'Science Fiction'}
+Subject to Change,['Ron Goulart'],./data/5/1/5/7/51571/51571.txt,{'Science Fiction'}
+Black Amazon of Mars,['Leigh Brackett'],./data/3/2/6/6/32664/32664.txt,{'Science Fiction'}
+The Line of Love,['James Branch Cabell'],./data/9/4/8/9488/9488.txt,{'Fantasy'}
+The Last Evolution,['John Wood Campbell'],./data/2/7/4/6/27462/27462.txt,{'Science Fiction'}
+Disturbing Sun,['Robert Shirley Richardson'],./data/2/4/1/5/24150/24150.txt,{'Science Fiction'}
+Tom Swift and his Big Tunnel,['Victor Appleton'],./data/9/5/953/953.txt,{'Adventure'}
+The Clique of Gold,['Emile Gaboriau'],./data/4/6/0/4604/4604.txt,{'Detective Fiction'}
+Red Eve,['H. Rider Haggard'],./data/3/0/9/3094/3094.txt,{'Adventure'}
+Criminal Negligence,['Jesse Francis McComas'],./data/2/4/3/9/24399/24399.txt,{'Science Fiction'}
+"Someone Comes to Town, Someone Leaves Town",['Cory Doctorow'],./data/1/8/2/2/18224/18224-8.txt,"{'Science Fantasy', 'Science Fiction'}"
+Space Station 1,['Frank Belknap Long'],./data/5/0/2/9/50290/50290-8.txt,{'Science Fiction'}
+Giants on the Earth,['Sterner St. Paul Meek'],./data/2/2/1/3/22132/22132.txt,{'Science Fiction'}
+Trailin'!,['Max Brand'],./data/1/1/0/9/11093/11093.txt,{'Western'}
+Sight Gag,['Laurence Mark Janifer'],./data/3/0/2/8/30288/30288.txt,{'Science Fiction'}
+Captains Courageous,['Rudyard Kipling'],./data/2/2/2/2225/2225.txt,{'Adventure'}
+Asteroid of Fear,['Raymond Zinke Gallun'],./data/3/2/7/8/32780/32780.txt,{'Science Fiction'}
+The Awakening,['Jack Sharkey'],./data/5/0/8/3/50834/50834.txt,{'Science Fiction'}
+Reluctant Genius,['Henry Slesar'],./data/2/8/0/3/28030/28030.txt,{'Science Fiction'}
+Stop Look and Dig,['George O. Smith'],./data/1/9/9/6/19963/19963.txt,{'Science Fiction'}
+Security Plan,['Joseph Farrell'],./data/5/1/5/8/51588/51588.txt,{'Science Fiction'}
+Queen of the Black Coast,['Robert E. Howard'],./data/4/2/1/8/42183/42183.txt,{'Science Fiction'}
+As Long As You Wish,"[""John O'Keefe""]",./data/2/4/1/2/24121/24121.txt,{'Science Fiction'}
+Greylorn,['John Keith Laumer'],./data/2/3/0/2/23028/23028.txt,{'Science Fiction'}
+Where the World is Quiet,['Henry Kuttner'],./data/3/1/2/0/31207/31207.txt,{'Science Fiction'}
+Lex,['W.T. Haggert'],./data/5/1/3/6/51362/51362.txt,{'Science Fiction'}
+The Deadly Daughters,['Winston K. Marks'],./data/2/4/9/6/24965/24965.txt,{'Science Fiction'}
+Flight Through Tomorrow,['Stanton Arthur Coblentz'],./data/2/8/4/5/28453/28453.txt,{'Science Fiction'}
+The Enchanted Island of Yew,['L. Frank Baum'],./data/5/1/518/518.txt,{'Fantasy'}
+Sabotage in Space,['Carey Rockwell'],./data/1/8/5/2/18520/18520.txt,{'Science Fiction'}
+The Radio Planet,['Ralph Milne Farley'],./data/5/2/3/2/52326/52326.txt,{'Science Fiction'}
+Bread Overhead,['Fritz Reuter Leiber'],./data/2/2/5/7/22579/22579.txt,{'Science Fiction'}
+The Bell Tone,['Edmund H.  Leftwich'],./data/2/2/4/7/22470/22470.txt,{'Science Fiction'}
+Crime and Punishment,['Fyodor Dostoevsky'],./data/2/5/5/2554/2554.txt,"{'Crime and Mystery', 'Crime Fiction'}"
+Kreativity For Kats,['Fritz Leiber'],./data/5/1/4/9/51493/51493.txt,{'Science Fiction'}
+A Deal in Wheat,['Frank Norris'],./data/9/9/0/9905/9905.txt,{'Western'}
+The Rangeland Avenger,['Max Brand'],./data/1/0/6/0/10601/10601.txt,{'Western'}
+The Ancient Allan,['H. Rider Haggard'],./data/5/7/4/5746/5746.txt,{'Adventure'}
+The Saracen: Land of the Infidel,['Robert Shea'],./data/2/8/5/1/28515/28515.txt,{'Science Fiction'}
+White Jacket,['Herman Melville'],./data/1/0/7/1/10712/10712.txt,{'Adventure'}
+For Name and Fame,['G.A. Henty'],./data/2/1/9/7/21979/21979.txt,{'Adventure'}
+"A Connecticut Yankee in King Arthur's Court, Part 2.",['Mark Twain'],./data/7/2/4/7243/7243.txt,"{'Fantasy', 'Science Fiction', 'Time Travel'}"
+The Count of Monte Cristo,"['Alexandre Dumas', 'pÃ¨re']",./data/1/1/8/1184/1184-0.txt,{'Adventure'}
+Guns of the Gods,['Talbot Mundy'],./data/5/6/0/5606/5606.txt,{'Adventure'}
+Jungle Tales of Tarzan,['Edgar Rice Burroughs'],./data/1/0/106/106.txt,"{'Adventure', 'Fantasy'}"
+Advance Agent,['Christopher Anvil'],./data/5/1/2/7/51273/51273.txt,{'Science Fiction'}
+A Place so Foreign,['Cory Doctorow'],./data/1/6/7/2/16721/16721-8.txt,{'Science Fiction'}
+Cow-Country,['B.M. Bower'],./data/1/7/2/1723/1723.txt,{'Western'}
+The Telenizer,['Don Thompson'],./data/3/2/5/7/32574/32574.txt,{'Science Fiction'}
+Under Arctic Ice,['H.G. Winter'],./data/2/9/4/7/29475/29475.txt,{'Science Fiction'}
+Circus,['Alan Edward Nourse'],./data/2/2/8/7/22875/22875.txt,{'Science Fiction'}
+The World Beyond,['Raymond King Cummings'],./data/2/9/0/5/29059/29059.txt,{'Science Fiction'}
+Zarlah the Martian,['R. Norman Grisewood'],./data/1/3/4/2/13423/13423.txt,{'Science Fiction'}
+The Answer,['Henry Beam Piper'],./data/1/8/3/4/18342/18342.txt,{'Science Fiction'}
+Rebels of the Red Planet,['Charles Louis Fontenay'],./data/2/0/7/3/20739/20739.txt,{'Science Fiction'}
+The U.P. Trail,['Zane Grey'],./data/4/6/8/4684/4684.txt,{'Western'}
+The Seventh Man,['Max Brand'],./data/1/8/9/1897/1897.txt,{'Western'}
+Robin Hood,['J. Walker McSpadden'],./data/8/3/832/832.txt,{'Fantasy'}
+Modus Vivendi,['Gordon Randall Garrett'],./data/3/0/3/1/30311/30311.txt,{'Science Fiction'}
+The Hammer of Thor,['Charles Willard Diffin'],./data/2/9/2/0/29202/29202.txt,{'Science Fiction'}
+The Space Pioneers,['Carey Rockwell'],./data/1/8/7/5/18753/18753.txt,{'Science Fiction'}
+Operation Lorelie,['William P. Salton'],./data/2/9/1/6/29160/29160.txt,{'Science Fiction'}
+The Daffodil Mystery,['Edgar Wallace'],./data/2/0/9/1/20912/20912.txt,{'Detective Fiction'}
+The Radio Boys with the Revenue Guards,['Gerald Breckenridge'],./data/2/8/7/3/28735/28735.txt,{'Adventure'}
+The Place Where Chicago Was,['Jim Harmon'],./data/5/1/8/3/51832/51832.txt,{'Science Fiction'}
+Moral Equivalent,['Kris Neville'],./data/5/1/4/4/51449/51449.txt,{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 2",['Mark Twain'],./data/7/1/0/7101/7101.txt,{'Adventure'}
+Meeting of the Minds,['Robert Sheckley'],./data/5/1/8/3/51833/51833.txt,{'Science Fiction'}
+A Fine Fix,['R.C. Noll'],./data/2/7/6/9/27696/27696.txt,{'Science Fiction'}
+The Glimpses of the Moon,['Edith Wharton'],./data/1/2/6/1263/1263.txt,{'Romance'}
+The Story of the Champions of the Round Table,['Howard Pyle'],./data/1/0/7/4/10745/10745.txt,{'Fantasy'}
+"The Business, As Usual",['Jack Sharkey'],./data/5/1/4/3/51435/51435.txt,{'Science Fiction'}
+From the Earth to the Moon,['Jules Verne'],./data/8/83/83.txt,"{'Adventure', 'Science Fiction'}"
+Gone Fishing,['James H. Schmitz'],./data/3/0/1/4/30140/30140.txt,{'Science Fiction'}
+The Secret Martians,['Jack Sharkey'],./data/5/0/6/6/50668/50668.txt,{'Science Fiction'}
+The Chapter Ends,['Poul William Anderson'],./data/4/1/0/6/41064/41064.txt,{'Science Fiction'}
+I'll Kill You Tomorrow,['Helen Huber'],./data/3/0/0/3/30034/30034.txt,{'Science Fiction'}
+The Defenders,['Philip K. Dick'],./data/2/8/7/6/28767/28767.txt,{'Science Fiction'}
+Fairy Tales Every Child Should Know,['Various'],./data/1/4/9/1/14916/14916.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Other Worlds,['Garrett P. Serviss'],./data/1/8/4/3/18431/18431.txt,{'Science Fiction'}
+No Strings Attached,['Lester del Rey'],./data/3/2/3/9/32395/32395.txt,{'Science Fiction'}
+With The Night Mail,['Rudyard Kipling'],./data/2/9/1/3/29135/29135.txt,{'Science Fiction'}
+The Leavenworth Case,['Anna Katherine Green'],./data/4/0/4/4047/4047.txt,{'Detective Fiction'}
+A Transmutation of Muddles,['Horace Brown Fyfe'],./data/2/4/1/8/24187/24187.txt,{'Science Fiction'}
+A Journey to the Centre of the Earth,['Jules Verne'],./data/1/8/8/5/18857/18857.txt,"{'Science Fantasy', 'Science Fiction'}"
+Rinkitink in Oz,['L. Frank Baum'],./data/9/5/958/958.txt,{'Fantasy'}
+Farmer,['Mack Reynolds'],./data/5/1/7/9/51799/51799-8.txt,{'Science Fiction'}
+G-r-r-r...!,['Roger Arcot'],./data/2/9/1/9/29194/29194.txt,{'Science Fiction'}
+Minor Detail,['John Michael Sharkey'],./data/2/8/1/5/28156/28156.txt,{'Science Fiction'}
+Twenty Thousand Leagues under the Sea,['Jules Verne'],./data/1/6/164/164.txt,"{'Adventure', 'Science Fiction'}"
+The Tin Woodman of Oz,['L. Frank Baum'],./data/9/6/960/960.txt,{'Fantasy'}
+All Around the Moon,['Jules Verne'],./data/1/6/4/5/16457/16457.txt,{'Science Fiction'}
+DP,['Arthur Dekker Savage'],./data/3/0/3/0/30305/30305.txt,{'Science Fiction'}
+Leviathan,['Thomas Hobbes'],./data/3/2/0/3207/3207.txt,"{'Fantasy', 'Dark Fantasy'}"
+Breeder Reaction,['Winston Marks'],./data/3/2/0/7/32077/32077.txt,{'Science Fiction'}
+Jack of No Trades,['Evelyn E. Smith'],./data/4/9/8/3/49838/49838.txt,{'Science Fiction'}
+Delayed Action,['Charles Vincent De Vet'],./data/3/3/7/9/33790/33790.txt,{'Science Fiction'}
+Larson's Luck,['Gerald Vance'],./data/3/0/4/3/30437/30437.txt,{'Science Fiction'}
+Not Fit for Children,['Evelyn E. Smith'],./data/5/0/8/7/50872/50872.txt,{'Science Fiction'}
+To Remember Charlie By,['Roger Dee'],./data/3/1/5/9/31599/31599.txt,{'Science Fiction'}
+A Touch of E Flat,['Joe Gibson'],./data/5/1/3/0/51304/51304.txt,{'Science Fiction'}
+The Redheaded Outfield and Other Baseball Stories,['Zane Grey'],./data/3/8/385/385.txt,{'Western'}
+Favorite Fairy Tales,['Logan Marshall'],./data/2/0/7/4/20748/20748.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Two Thousand Miles Below,['Charles Willard Diffin'],./data/2/9/9/6/29965/29965.txt,{'Science Fiction'}
+The Leader,['William Fitzgerald Jenkins'],./data/2/3/6/1/23612/23612.txt,{'Science Fiction'}
+A Matter of Magnitude,['Al Sevcik'],./data/2/4/9/2/24927/24927.txt,{'Science Fiction'}
+Trent's Last Case,['E.C.  Bentley'],./data/2/5/6/2568/2568.txt,"{'Crime and Mystery', 'Detective Fiction'}"
+The Woman in White,['Wilkie Collins'],./data/5/8/583/583.txt,"{'Mystery Fiction', 'Crime and Mystery'}"
+Home is Where You Left It,['Adam Chase'],./data/3/2/8/9/32890/32890.txt,{'Science Fiction'}
+Caesar Dies,['Talbot Mundy'],./data/1/0/4/2/10422/10422.txt,{'Adventure'}
+The Devil's Asteroid,['Manly Wade Wellman'],./data/2/2/5/3/22538/22538.txt,{'Science Fiction'}
+Inside John Barth,['William W. Stuart'],./data/2/8/6/0/28608/28608.txt,{'Science Fiction'}
+Sales Talk,['Con Blomberg'],./data/5/1/6/1/51616/51616.txt,{'Science Fiction'}
+Orphans of the Void,['Michael Shaara'],./data/5/0/8/2/50827/50827.txt,{'Science Fiction'}
+Zeritsky's Law,['Ann Griffith'],./data/5/1/2/3/51234/51234.txt,{'Science Fiction'}
+Planet of Dread,['Murray Leinster'],./data/4/3/0/4/43046/43046.txt,{'Science Fiction'}
+"Astounding Stories of Super-Science, May, 1930",['Various'],./data/2/9/8/0/29809/29809.txt,{'Science Fiction'}
+"Starr, of the Desert",['B. M Bower'],./data/1/2/5/7/12570/12570.txt,{'Western'}
+Pipe of Peace,['James McKimmey'],./data/3/0/3/8/30380/30380.txt,{'Science Fiction'}
+Shipwreck in the Sky,['Eando Binder'],./data/2/9/1/3/29133/29133.txt,{'Science Fiction'}
+Glinda of Oz,['L. Frank Baum'],./data/9/6/961/961.txt,{'Fantasy'}
+The Lost Warship,['Robert Moore Williams'],./data/3/2/5/6/32563/32563.txt,{'Science Fiction'}
+Seed of the Arctic Ice,['H.G. Winter'],./data/3/2/0/2/32029/32029.txt,{'Science Fiction'}
+The Music Master of Babylon,['Edgar Pangborn'],./data/5/1/3/7/51379/51379.txt,{'Science Fiction'}
+Security Risk,['Ed M. Clinton'],./data/3/5/7/5/35759/35759.txt,{'Science Fiction'}
+Ham Sandwich,['James H. Schmitz'],./data/3/0/7/6/30764/30764.txt,{'Science Fiction'}
+From An Unseen Censor,['Rosel George Brown'],./data/5/1/7/5/51758/51758.txt,{'Science Fiction'}
+Operation Haystack,['Frank Patrick Herbert'],./data/2/4/7/2/24721/24721.txt,{'Science Fiction'}
+Second Variety,['Philip Kindred Dick'],./data/3/2/0/3/32032/32032.txt,{'Science Fiction'}
+In the Irish Brigade,['G.A. Henty'],./data/1/8/3/4/18349/18349.txt,{'Adventure'}
+A City Near Centaurus,['Bill Doede'],./data/5/0/8/0/50802/50802.txt,{'Science Fiction'}
+Omnilingual,['H. Beam Piper'],./data/1/9/4/4/19445/19445.txt,{'Science Fiction'}
+At the Earth's Core,['Edgar Rice Burroughs'],./data/1/2/123/123.txt,"{'Adventure', 'Science Fiction'}"
+The House of the Vampire,['George Sylvester Viereck'],./data/1/7/1/4/17144/17144.txt,{'Horror'}
+Dead World,['Jack Douglas'],./data/2/7/6/3/27631/27631.txt,{'Science Fiction'}
+The Sea Lady,['Herbert George Wells'],./data/3/5/9/2/35920/35920.txt,"{'Fantasy', 'Science Fiction'}"
+Perfect Answer,['L.J. Stecher'],./data/5/1/4/8/51482/51482.txt,{'Science Fiction'}
+The Beloved Traitor,['Frank L. Packard'],./data/3/4/0/3/34034/34034.txt,{'Romance'}
+Pictures Don't Lie,['Katherine MacLean'],./data/5/1/1/9/51193/51193.txt,{'Science Fiction'}
+Tom Swift and his Motor-cycle,['Victor Appleton'],./data/4/2/3/4230/4230.txt,{'Adventure'}
+Skin Game,['Charles E. Fritch'],./data/3/1/6/6/31665/31665.txt,{'Science Fiction'}
+The House of Souls,['Arthur Machen'],./data/2/5/0/1/25016/25016.txt,{'Horror'}
+The Phantom of the Opera,['Gaston Leroux'],./data/1/7/175/175.txt,"{'Fantasy', 'Dark Fantasy', 'Romance'}"
+The Angel of Terror,['Edgar Wallace'],./data/2/1/5/3/21530/21530.txt,{'Detective Fiction'}
+Carmilla,['J. Sheridan LeFanu'],./data/1/0/0/0/10007/10007.txt,{'Horror'}
+They Also Serve,['Donald E. Westlake'],./data/3/0/4/7/30474/30474.txt,{'Science Fiction'}
+"The Fantasy Fan, March, 1934",['Various'],./data/4/8/8/6/48866/48866-0.txt,{'Science Fiction'}
+Uller Uprising,"['Henry Beam Piper', 'John D. Clark', 'John F. Carr']",./data/1/9/4/7/19474/19474.txt,{'Science Fiction'}
+Tarzan of the Apes,['Edgar Rice Burroughs'],./data/7/78/78.txt,"{'Adventure', 'Fantasy'}"
+Death of a Spaceman,['Walter M. Miller'],./data/2/9/6/4/29643/29643.txt,{'Science Fiction'}
+The Lost Continent,['C.J. Cutcliffe Hyne'],./data/2/8/285/285.txt,{'Science Fiction'}
+Valley of Dreams,['Stanley Grauman Weinbaum'],./data/2/2/3/0/22301/22301.txt,{'Science Fiction'}
+D-99,['H.B. Fyfe'],./data/5/1/8/6/51866/51866.txt,{'Science Fiction'}
+Don't Shoot,['Robert Zacks'],./data/5/1/0/7/51074/51074.txt,{'Science Fiction'}
+Big Pill,['Raymond Zinke Gallun'],./data/3/1/9/2/31929/31929.txt,{'Science Fiction'}
+A Primary Reader,['E. Louise Smythe'],./data/7/8/4/7841/7841.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Grove of the Unborn,['Lyn Venable'],./data/2/9/2/0/29205/29205.txt,{'Science Fiction'}
+Has Anyone Here Seen Kelly?,['Bryce Walton'],./data/3/0/0/8/30086/30086.txt,{'Science Fiction'}
+Just William,['Richmal Crompton'],./data/3/4/4/1/34414/34414.txt,{'Adventure'}
+A Texas Matchmaker,['Andy Adams'],./data/1/2/9/1/12919/12919.txt,{'Western'}
+Racketty-Packetty House,['Frances H. Burnett'],./data/8/5/7/8574/8574.txt,{'Fantasy'}
+Med Ship Man,['Murray Leinster'],./data/5/0/9/9/50999/50999.txt,{'Science Fiction'}
+Bones in London,['Edgar Wallace'],./data/2/7/5/2/27525/27525.txt,{'Adventure'}
+The Perfectionists,['Arnold Castle'],./data/2/4/9/7/24977/24977.txt,{'Science Fiction'}
+The Ghost Pirates,['William Hope Hodgson'],./data/1/0/9/6/10966/10966.txt,{'Science Fiction'}
+The Saracen: The Holy War,['Robert Shea'],./data/2/8/5/1/28516/28516.txt,{'Science Fiction'}
+...And It Comes Out Here,['Lester del Rey'],./data/5/1/0/4/51046/51046.txt,{'Science Fiction'}
+Up For Renewal,['Lucius Daniel'],./data/5/1/0/3/51035/51035.txt,{'Science Fiction'}
+Make Mine Homogenized,['Rick Raphael'],./data/2/4/1/1/24119/24119.txt,{'Science Fiction'}
+Empire,['Clifford Donald Simak'],./data/2/8/2/1/28215/28215.txt,"{'Adventure', 'Science Fiction'}"
+Brown John's Body,['Winston Marks'],./data/3/2/0/7/32076/32076.txt,{'Science Fiction'}
+The Lodger,['Marie Belloc Lowndes'],./data/2/0/1/2014/2014.txt,{'Crime and Mystery'}
+"Astounding Stories of Super-Science, August 1930",['Various'],./data/2/9/7/6/29768/29768.txt,{'Science Fiction'}
+The Velvet Glove,['Harry Harrison'],./data/2/9/4/7/29471/29471.txt,{'Science Fiction'}
+Security,['Poul William Anderson'],./data/2/2/2/3/22239/22239.txt,{'Science Fiction'}
+The Big Engine,['Fritz Leiber'],./data/5/1/5/4/51549/51549.txt,{'Science Fiction'}
+The Ideal,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22897/22897.txt,{'Science Fiction'}
+Half past Alligator,['Donald Colvin'],./data/5/0/8/8/50889/50889.txt,{'Science Fiction'}
+The First Men in the Moon,['H.G. Wells'],./data/5/2/5/0/52501/52501-0.txt,"{'Adventure', 'Horror', 'Science Fiction'}"
+The Damned Thing,['Ambrose Bierce'],./data/2/3/1/7/23172/23172.txt,{'Horror'}
+The Paradise Mystery,['J.S. Fletcher'],./data/5/3/0/5308/5308.txt,{'Detective Fiction'}
+The Outlaw of Torn,['Edgar Rice Burroughs'],./data/3/6/369/369.txt,{'Science Fiction'}
+Fee of the Frontier,['Horace Brown Fyfe'],./data/3/0/9/0/30901/30901.txt,{'Science Fiction'}
+The Pilot and the Bushman,['Sylvia Jacobs'],./data/5/1/2/9/51297/51297-8.txt,{'Science Fiction'}
+Impact,['Irving E. Cox'],./data/2/5/5/6/25567/25567.txt,{'Science Fiction'}
+The Mabinogion,['Lady Charlotte Guest'],./data/5/1/6/5160/5160-0.txt,{'Fantasy'}
+The Gifts of Asti,['Andre Alice Norton'],./data/1/9/0/2/19029/19029.txt,{'Science Fiction'}
+Tom Swift Among The Diamond Makers,['Victor Appleton'],./data/1/2/8/1282/1282.txt,{'Adventure'}
+Lonesome Land,['B.M. Bower'],./data/8/5/3/8537/8537.txt,{'Western'}
+"Futuria Fantasia, Spring 1940",['Various'],./data/4/1/6/5/41651/41651.txt,{'Science Fiction'}
+Russian Fairy Tales,['W.R.S. Ralston'],./data/2/2/3/7/22373/22373.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+...After a Few Words...,['Gordon Randall Garrett'],./data/2/3/9/6/23960/23960.txt,{'Science Fiction'}
+Second Childhood,['Clifford D. Simak'],./data/5/1/0/3/51037/51037.txt,{'Science Fiction'}
+The Castle of Otranto,['Horace Walpole'],./data/6/9/696/696-0.txt,"{'Horror', 'Fantasy', 'Dark Fantasy'}"
+Operation Interstellar,['George O. Smith'],./data/5/0/4/0/50406/50406-8.txt,{'Science Fiction'}
+Ruth Fielding in the Great Northwest,['Alice B. Emerson'],./data/1/5/7/2/15720/15720.txt,{'Adventure'}
+The Arrow of Gold,['Joseph Conrad'],./data/1/0/8/1083/1083.txt,{'Adventure'}
+Naudsonce,['H. Beam Piper'],./data/1/9/0/7/19076/19076.txt,{'Science Fiction'}
+The Rainbow Trail,['Zane Grey'],./data/5/0/6/5067/5067.txt,{'Western'}
+Masters of Space,['Edward Elmer Smith'],./data/2/2/7/5/22754/22754.txt,{'Science Fiction'}
+Super Man and the Bug Out,['Cory Doctorow'],./data/1/7/0/3/17030/17030/17030.txt,{'Science Fiction'}
+Adaptation,['Dallas McCord Reynolds'],./data/2/4/7/4/24749/24749.txt,{'Science Fiction'}
+"Punch, or the London Charivari, Vol. 156, Apr 2, 1919",['Various'],./data/1/1/6/1/11617/11617.txt,{'Adventure'}
+Keep Your Shape,['Robert Sheckley'],./data/3/2/3/4/32346/32346.txt,{'Science Fiction'}
+The Sword of Welleran and Other Stories,['Lord Dunsany'],./data/1/0/8/0/10806/10806.txt,{'Fantasy'}
+"Thuvia, Maid of Mars",['Edgar Rice Burroughs'],./data/7/72/72.txt,"{'Science Fantasy', 'Science Fiction'}"
+The Story of Grettir The Strong,"['Eirikr Magnusson', 'William Morris']",./data/1/2/7/4/12747/12747.txt,{'Fantasy'}
+A Witch Shall Be Born,['Robert E. Howard'],./data/4/2/2/2/42227/42227.txt,{'Science Fiction'}
+A Bottle of Old Wine,['Richard O. Lewis'],./data/3/0/0/0/30004/30004.txt,{'Science Fiction'}
+Missing Link,['Frank Patrick Herbert'],./data/2/3/2/1/23210/23210.txt,{'Science Fiction'}
+Hall of Mirrors,['Fredric Brown'],./data/2/9/7/2/29720/29720.txt,{'Science Fiction'}
+Erewhon Revisited,['Samuel Butler'],./data/1/9/7/1971/1971.txt,{'Science Fiction'}
+The Troubadour,['Robert Augustine Ward Lowndes'],./data/2/3/0/9/23091/23091.txt,{'Science Fiction'}
+Bull Hunter,['Max Brand'],./data/1/0/3/2/10324/10324/10324.txt,{'Western'}
+Viking Tales,['Jennie Hall'],./data/2/4/8/1/24811/24811.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+"Sentiment, Inc.",['Poul William Anderson'],./data/3/7/6/5/37653/37653.txt,{'Science Fiction'}
+A Roving Commission,['G.A. Henty'],./data/3/8/7/6/38764/38764.txt,{'Adventure'}
+Walls of Acid,['Henry Hasse'],./data/2/8/0/4/28045/28045.txt,{'Science Fiction'}
+Sunset Pass,['Charles King'],./data/1/9/9/2/19928/19928.txt,{'Western'}
+Bad Memory,['Patrick Fahy'],./data/5/1/4/9/51498/51498.txt,{'Science Fiction'}
+The Crystal Crypt,['Philip Kindred Dick'],./data/2/8/6/9/28698/28698.txt,{'Science Fiction'}
+Dearest,['Henry Beam Piper'],./data/1/9/1/0/19102/19102.txt,{'Science Fiction'}
+The Man,['Bram Stoker'],./data/2/5/2/2520/2520.txt,"{'Horror', 'Romance'}"
+Black Eyes and the Daily Grind,['Milton Lesser'],./data/3/0/3/2/30329/30329.txt,{'Science Fiction'}
+An Elephant for the Prinkip,['L.J. Stecher'],./data/5/1/4/3/51434/51434.txt,{'Science Fiction'}
+The Ruby of Kishmoor,['Howard Pyle'],./data/3/6/8/3687/3687.txt,{'Fantasy'}
+The Stoker and the Stars,['Algirdas Jonas Budrys'],./data/2/2/9/6/22967/22967.txt,{'Science Fiction'}
+City of Endless Night,['Milo Hastings'],./data/9/8/6/9862/9862.txt,{'Science Fiction'}
+Figures of Earth,['James Branch Cabell'],./data/1/1/6/3/11639/11639.txt,{'Fantasy'}
+Don Quixote,['Miguel de Cervantes Saavedra'],./data/9/9/996/996.txt,{'Adventure'}
+Exile,['Horace Brown Fyfe'],./data/2/2/3/4/22346/22346.txt,{'Science Fiction'}
+The Jupiter Weapon,['Charles Louis Fontenay'],./data/2/7/5/8/27588/27588.txt,{'Science Fiction'}
+The Fantasy Fan December 1933,['Charles D. Hornig'],./data/4/6/5/3/46535/46535.txt,{'Science Fiction'}
+Earthmen Bearing Gifts,['Fredric Brown'],./data/2/6/5/2/26521/26521.txt,{'Science Fiction'}
+The Last Place on Earth,['James Judson Harmon'],./data/2/3/4/2/23426/23426.txt,{'Science Fiction'}
+Star-Crossed Lover,['William W. Stuart'],./data/5/1/7/3/51736/51736.txt,{'Science Fiction'}
+Unborn Tomorrow,['Dallas McCord Reynolds'],./data/2/3/9/4/23942/23942.txt,{'Science Fiction'}
+Reel Life Films,['Samuel Kimball Merwin'],./data/2/9/2/0/29209/29209.txt,{'Science Fiction'}
+The Air of Castor Oil,['Jim Harmon'],./data/5/1/6/8/51688/51688-8.txt,{'Science Fiction'}
+Break a Leg,['Jim Harmon'],./data/5/1/3/2/51320/51320.txt,{'Science Fiction'}
+The Princess and the Curdie,['George MacDonald'],./data/7/0/709/709.txt,{'Fantasy'}
+The Man from Time,['Frank Belknap Long'],./data/2/9/4/1/29418/29418.txt,{'Science Fiction'}
+Beyond the Vanishing Point,['Raymond King Cummings'],./data/2/2/5/2/22527/22527.txt,{'Science Fiction'}
+The Eight Strokes of the Clock,['Maurice Le Blanc'],./data/7/8/9/7896/7896.txt,{'Crime Fiction'}
+Looking Backward,['Edward Bellamy'],./data/2/5/4/3/25439/25439.txt,{'Science Fiction'}
+Ask a Foolish Question,['Robert Sheckley'],./data/3/3/8/5/33854/33854.txt,{'Science Fiction'}
+The Common Man,['Guy McCord'],./data/2/3/1/9/23194/23194.txt,{'Science Fiction'}
+A Traveler in Time,['August Derleth'],./data/4/0/9/5/40953/40953.txt,{'Science Fiction'}
+The Great Stone of Sardis,['Frank R. Stockton'],./data/6/1/2/6127/6127.txt,"{'Adventure', 'Science Fiction'}"
+The Birds of Lorrane,['Bill Doede'],./data/5/0/8/9/50890/50890.txt,{'Science Fiction'}
+Brink of Madness,['Walter J. Sheldon'],./data/3/2/3/3/32339/32339.txt,{'Science Fiction'}
+Earthbound,['Lester del Rey'],./data/5/0/8/7/50876/50876.txt,{'Science Fiction'}
+Michael Strogoff,['Jules Verne'],./data/1/8/4/1842/1842.txt,{'Adventure'}
+The Big Bounce,['Walter S. Tevis'],./data/2/3/1/5/23153/23153.txt,{'Science Fiction'}
+The Adventurer,['Cyril M. Kornbluth'],./data/2/9/9/0/29908/29908.txt,{'Science Fiction'}
+Shamar's War,['Kris Neville'],./data/5/1/0/7/51072/51072.txt,{'Science Fiction'}
+The Uphill Climb,['B.M. Bower'],./data/1/4/4/5/14456/14456.txt,{'Western'}
+The Man Who Rocked the Earth,['Arthur Train'],./data/1/9/1/7/19174/19174.txt,{'Science Fiction'}
+Indirection,['Everett B. Cole'],./data/2/3/3/3/23339/23339.txt,{'Science Fiction'}
+The Moon Rock,['Arthur J. Rees'],./data/1/2/5/0/12509/12509.txt,{'Detective Fiction'}
+"The Story of the Volsungs, (Volsunga Saga)",['Anonymous'],./data/1/1/5/1152/1152.txt,{'Fantasy'}
+Maiwa's Revenge,['H. Rider Haggard'],./data/2/7/1/2713/2713.txt,{'Adventure'}
+Man and Wife,['Wilkie Collins'],./data/1/5/8/1586/1586.txt,{'Crime and Mystery'}
+The Planet Savers,['Marion Zimmer Bradley'],./data/3/1/6/1/31619/31619.txt,"{'Science Fantasy', 'Science Fiction'}"
+Education of a Martian,['Joseph Shallit'],./data/5/0/8/7/50877/50877.txt,{'Science Fiction'}
+The Lost Stradivarius,['John Meade Falkner'],./data/1/4/1/0/14107/14107.txt,{'Horror'}
+The Yillian Way,['John Keith Laumer'],./data/2/1/7/8/21782/21782.txt,{'Science Fiction'}
+Shipping Clerk,['William Morrison'],./data/5/0/7/9/50796/50796.txt,{'Science Fiction'}
+Bar-20 Days,['Clarence E. Mulford'],./data/4/9/2/4922/4922.txt,{'Western'}
+Point of Departure,['Vaughan Shelton'],./data/5/0/9/4/50945/50945.txt,"{'Crime and Mystery', 'Science Fiction'}"
+The Hour of Battle,['Robert Sheckley'],./data/2/9/4/4/29445/29445.txt,{'Science Fiction'}
+The Night Land,['William Hope Hodgson'],./data/1/0/6/6/10662/10662.txt,"{'Horror', 'Fantasy', 'Science Fiction'}"
+The Insidious Dr. Fu-Manchu,['Sax Rohmer'],./data/1/7/173/173.txt,"{'Adventure', 'Crime and Mystery', 'Crime Fiction'}"
+The Next Logical Step,['Benjamin William Bova'],./data/2/8/0/6/28063/28063.txt,{'Science Fiction'}
+Dreamworld,['R.A. Lafferty'],./data/5/1/6/6/51668/51668.txt,{'Science Fiction'}
+Triplanetary,['Edward Elmer Smith'],./data/2/0/7/8/20782/20782.txt,"{'Adventure', 'Science Fiction'}"
+Out Around Rigel,['Robert H. Wilson'],./data/2/0/5/5/20553/20553.txt,{'Science Fiction'}
+Winds of the World,['Talbot Mundy'],./data/6/7/5/6751/6751.txt,{'Adventure'}
+The Swiss Family Robinson,['Jean Rudolph Wyss'],./data/3/4/8/0/34808/34808.txt,{'Adventure'}
+Prelude to Space,['Robert W. Haseltine'],./data/3/0/3/8/30381/30381.txt,{'Science Fiction'}
+Upstarts,['L.J. Stecher'],./data/2/7/4/9/27492/27492.txt,{'Science Fiction'}
+A World is Born,['Leigh Douglass Brackett'],./data/2/2/5/4/22544/22544.txt,{'Science Fiction'}
+The Man Who Knew Too Much,['G.K. Chesterton'],./data/1/7/2/1720/1720.txt,{'Crime and Mystery'}
+The Chessmen of Mars,['Edgar Rice Burroughs'],./data/1/1/5/1153/1153.txt,"{'Science Fantasy', 'Science Fiction'}"
+The Dictator,['Milton Lesser'],./data/3/2/1/3/32134/32134.txt,{'Science Fiction'}
+The Runaway Asteroid,['Michael D. Cooper'],./data/1/1/5/8/11583/11583-8.txt,{'Science Fiction'}
+Harrigan,['Max Brand'],./data/9/7/9/9791/9791.txt,{'Western'}
+Operation Earthworm,['Joe Archibald'],./data/2/9/3/0/29303/29303.txt,{'Science Fiction'}
+The Ethical Way,['Joseph Farrell'],./data/3/1/9/6/31962/31962.txt,{'Science Fiction'}
+The Sweeper of Loray,"[""Finn O'Donnevan""]",./data/5/1/5/4/51545/51545.txt,{'Science Fiction'}
+The Lair of the White Worm,['Bram Stoker'],./data/1/1/8/1188/1188.txt,{'Horror'}
+The Problem Makers,['Robert P. Hoskins'],./data/5/0/9/7/50971/50971.txt,{'Science Fiction'}
+Time and the Gods,['Lord Dunsany Edward J.M.D. Plunkett'],./data/8/1/8/8183/8183.txt,{'Fantasy'}
+The People Of The Mist,['H. Rider Haggard'],./data/6/7/6/6769/6769.txt,{'Adventure'}
+A Journey to the Interior of the Earth,['Jules Verne'],./data/3/7/4/3748/3748.txt,{'Science Fiction'}
+Flatland: A Romance of Many Dimensions (Illustrated),['Edwin A. Abbot'],./data/2/0/201/201.txt,{'Science Fiction'}
+The History of the Caliph Vathek,['William Beckford'],./data/2/0/6/2060/2060.txt,{'Fantasy'}
+At the Back of the North Wind,['George MacDonald'],./data/2/2/225/225.txt,{'Fantasy'}
+Gulliver's Travels,['Jonathan Swift'],./data/1/7/1/5/17157/17157.txt,{'Adventure'}
+Dead Men Tell No Tales,['E.W. Hornung'],./data/1/7/0/1703/1703.txt,{'Crime Fiction'}
+Poppa Needs Shorts,['Leigh Richmond'],./data/2/9/7/8/29789/29789.txt,{'Science Fiction'}
+Brightside Crossing,['Alan Edward Nourse'],./data/4/9/1/6/49165/49165-0.txt,{'Science Fiction'}
+File No. 113,['Emile Gaboriau'],./data/3/8/0/3803/3803.txt,{'Detective Fiction'}
+Little Fuzzy,['Henry Beam Piper'],./data/1/8/1/3/18137/18137.txt,{'Science Fiction'}
+The Damned,['Algernon Blackwood'],./data/1/1/0/7/11074/11074.txt,{'Horror'}
+Tarzan and the Jewels of Opar,['Edgar Rice Burroughs'],./data/9/92/92.txt,"{'Adventure', 'Fantasy'}"
+The Metal Moon,['Everett C. Smith'],./data/4/1/0/8/41084/41084.txt,{'Science Fiction'}
+Crossroads of Destiny,['Henry Beam Piper'],./data/1/8/6/3/18632/18632.txt,{'Science Fiction'}
+Cattle Brands,['Andy Adams'],./data/1/2/2/8/12281/12281.txt,{'Western'}
+"Talents, Incorporated",['William Fitzgerald Jenkins'],./data/2/3/8/4/23845/23845.txt,{'Science Fiction'}
+His Last Bow,['Arthur Conan Doyle'],./data/2/3/5/2350/2350.txt,{'Detective Fiction'}
+Blind Love,['Wilkie Collins'],./data/7/8/9/7890/7890.txt,"{'Crime and Mystery', 'Romance'}"
+A Bad Day for Vermin,['Keith Laumer'],./data/5/1/2/5/51258/51258.txt,{'Science Fiction'}
+The Penal Cluster,['Ivar Jorgensen'],./data/2/5/0/6/25061/25061.txt,{'Science Fiction'}
+The Point of View,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22895/22895.txt,{'Science Fiction'}
+Laughing Bill Hyde and Other Stories,['Rex Beach'],./data/1/1/5/0/11501/11501.txt,{'Western'}
+The Cartels Jungle,['Irving E. Cox Jr.'],./data/3/1/0/6/31062/31062.txt,{'Science Fiction'}
+The Fifth-Dimension Tube,['William Fitzgerald Jenkins'],./data/3/0/4/0/30408/30408.txt,{'Science Fiction'}
+The One and the Many,['Milton Lesser'],./data/3/0/3/8/30386/30386.txt,{'Science Fiction'}
+A Place in the Sun,['C.H. Thames'],./data/2/6/9/6/26966/26966.txt,{'Science Fiction'}
+Duel on Syrtis,['Poul William Anderson'],./data/3/2/4/3/32436/32436.txt,{'Science Fiction'}
+The Thunder Bird,['B.M. Bower'],./data/1/4/4/8/14486/14486.txt,{'Western'}
+Judas Ram,['Sam Merwin'],./data/5/1/0/5/51053/51053.txt,{'Science Fiction'}
+The Brand of Silence,['Harrington Strong'],./data/2/1/8/9/21891/21891.txt,{'Detective Fiction'}
+The Weakling,['Everett B. Cole'],./data/2/8/4/8/28486/28486.txt,{'Science Fiction'}
+The Mysterious Rider,['Zane Grey'],./data/1/3/9/3/13937/13937.txt,{'Western'}
+The Return of Dr. Fu-Manchu,['Sax Rohmer'],./data/1/1/8/1183/1183.txt,"{'Adventure', 'Crime and Mystery', 'Crime Fiction'}"
+The Mystery of the Hasty Arrow,['Anna Katharine Green'],./data/1/7/7/6/17763/17763.txt,{'Detective Fiction'}
+The Clean and Wholesome Land,['Ralph Sholto'],./data/3/0/4/0/30405/30405.txt,{'Science Fiction'}
+Summer Snow Storm,['Adam Chase'],./data/2/6/9/6/26968/26968.txt,{'Science Fiction'}
+The Man With The Broken Ear,['Edmond About'],./data/2/0/7/2/20724/20724.txt,{'Science Fiction'}
+Space Viking,['Henry Beam Piper'],./data/2/0/7/2/20728/20728.txt,{'Science Fiction'}
+Cleek: the Man of the Forty Faces,['Thomas W. Hanshew'],./data/1/4/3/3/14332/14332.txt,{'Detective Fiction'}
+Affair in Araby,['Talbot Mundy'],./data/1/0/5/5/10551/10551.txt,{'Adventure'}
+The Sword and the Atopen,['Taylor H. Greenfield'],./data/2/6/8/8/26883/26883.txt,{'Science Fiction'}
+Service with a Smile,['Charles Louis Fontenay'],./data/3/0/3/7/30371/30371.txt,{'Science Fiction'}
+The Eyes Have It,['James McKimmey'],./data/3/0/4/3/30438/30438.txt,{'Science Fiction'}
+Robur the Conqueror,['Jules Verne'],./data/3/8/0/3808/3808.txt,{'Adventure'}
+Tony and the Beetles,['Philip K. Dick'],./data/4/0/9/6/40964/40964.txt,{'Science Fiction'}
+Spacemen Die at Home,['Edward W. Ludwig'],./data/5/1/2/4/51249/51249.txt,{'Science Fiction'}
+Backlash,['Winston Marks'],./data/3/2/8/2/32828/32828.txt,{'Science Fiction'}
+Droozle,['Frank Banta'],./data/2/3/1/4/23148/23148.txt,{'Science Fiction'}
+This World Must Die!,['Horace Brown Fyfe'],./data/2/3/1/0/23102/23102.txt,{'Science Fiction'}
+The Adventure of the Bruce-Partington Plans,['Arthur Conan Doyle'],./data/2/3/4/2346/2346.txt,{'Detective Fiction'}
+The Sundering Flood,['William Morris'],./data/2/5/5/4/25547/25547.txt,{'Fantasy'}
+Remember the Alamo,['R.R. Fehrenbach'],./data/3/0/2/6/30267/30267.txt,{'Science Fiction'}
+Fire-Tongue,['Sax Rohmer'],./data/1/1/5/1159/1159.txt,{'Crime Fiction'}
+Dave Dashaway and his Hydroplane,['Roy Rockwood'],./data/6/7/1/6714/6714.txt,{'Science Fiction'}
+The Addicts,['William Morrison'],./data/5/1/2/4/51240/51240.txt,{'Science Fiction'}
+Blessed Are the Meek,['G.C. Edmondson'],./data/2/3/7/6/23762/23762.txt,{'Science Fiction'}
+"The Nigger Of The ""Narcissus",['Joseph Conrad'],./data/1/7/7/3/17731/17731.txt,{'Adventure'}
+What is Posat?,['Phyllis Sterling Smith'],./data/5/1/3/3/51336/51336.txt,{'Science Fiction'}
+Riders of the Purple Sage,['Zane Grey'],./data/1/3/0/1300/1300.txt,{'Western'}
+The Gun,['Philip K. Dick'],./data/2/9/1/3/29132/29132.txt,{'Science Fiction'}
+The Vortex Blaster,['Edward Elmer Smith'],./data/2/2/6/2/22629/22629.txt,"{'Adventure', 'Science Fiction'}"
+The Moons of Mars,['Dean Evans'],./data/5/0/8/2/50826/50826.txt,{'Science Fiction'}
+The Furious Rose,['Dean Evans'],./data/5/1/2/5/51257/51257.txt,{'Science Fiction'}
+Evolution,['Joseph Le Conte'],./data/4/6/8/3/46834/46834.txt,{'Science Fiction'}
+Solar Stiff,['Chas. A. Stopher'],./data/2/8/6/4/28646/28646.txt,{'Science Fiction'}
+Raffles,['E.W. Hornung'],./data/7/0/707/707.txt,{'Crime Fiction'}
+Noble Redman,['Jesse Franklin Bone'],./data/3/1/7/0/31701/31701.txt,{'Science Fiction'}
+The Phantom Ship,['Captain Frederick Marryat'],./data/1/2/9/5/12954/12954.txt,{'Adventure'}
+The Lure of the Dim Trails,['B.M. Bower'],./data/1/0/1/1014/1014.txt,{'Western'}
+The Shadow-Line,['Joseph Conrad'],./data/4/5/451/451.txt,{'Adventure'}
+First Lensman,['Edward Elmer Smith'],./data/4/9/5/2/49525/49525-8.txt,"{'Adventure', 'Science Fiction'}"
+The Star Hyacinths,['James H. Schmitz'],./data/2/6/2/9/26292/26292.txt,{'Science Fiction'}
+Space Prison,['Tom Godwin'],./data/2/2/5/4/22549/22549.txt,{'Science Fiction'}
+Founding Father,['J.F. Bone'],./data/5/1/8/5/51852/51852.txt,{'Science Fiction'}
+Never Come Midnight,['Christopher Grimm'],./data/5/1/8/3/51834/51834-8.txt,{'Science Fiction'}
+The Untamed,['Max Brand'],./data/1/0/8/8/10886/10886.txt,{'Western'}
+A Bad Day for Sales,['Fritz Leiber'],./data/5/0/8/1/50819/50819.txt,{'Science Fiction'}
+The Venus Trap,['Evelyn E. Smith'],./data/3/1/5/8/31583/31583.txt,{'Science Fiction'}
+Almayer's Folly,['Joseph Conrad'],./data/7/2/720/720.txt,{'Adventure'}
+Fairy Tales of the Slav Peasants and Herdsmen,['Alexander Chodsko'],./data/2/5/5/5/25555/25555.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Oriental Story Book,['Wilhelm Hauff'],./data/2/4/5/9/24593/24593.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+Skyrider,['B.M. Bower'],./data/1/6/8/7/16871/16871.txt,{'Western'}
+Beach Scene,['Marshall King'],./data/5/1/4/9/51494/51494.txt,{'Science Fiction'}
+The Lonesome Trail and Other Stories,['B.M. Bower'],./data/1/4/5/4/14542/14542.txt,{'Western'}
+Dumbwaiter,['James Stamers'],./data/5/1/4/7/51478/51478.txt,{'Science Fiction'}
+The Peacemaker,['Alfred Coppel'],./data/3/1/7/6/31767/31767.txt,{'Science Fiction'}
+The Cave of Gold,['Everett McNeil'],./data/2/0/1/2/20126/20126.txt,{'Western'}
+Lost on the Moon,['Roy Rockwood'],./data/7/4/7/7473/7473.txt,{'Science Fiction'}
+The Success Machine,['Henry Slesar'],./data/2/6/1/6/26168/26168.txt,{'Science Fiction'}
+Allan and the Holy Flower,['H. Rider Haggard'],./data/5/1/7/5174/5174.txt,{'Adventure'}
+Junior Achievement,['William Lee'],./data/2/7/6/6/27665/27665.txt,{'Science Fiction'}
+Second Sight,['Alan Edward Nourse'],./data/2/2/9/9/22997/22997.txt,{'Science Fiction'}
+The Trail of the Hawk,['Sinclair Lewis'],./data/2/6/6/1/26610/26610.txt,{'Adventure'}
+Planet of the Gods,['Robert Moore Williams'],./data/3/2/6/9/32696/32696.txt,{'Science Fiction'}
+The Legion of Lazarus,['Edmond Hamilton'],./data/3/2/4/8/32486/32486.txt,{'Science Fiction'}
+Martians Never Die,['Lucius Daniel'],./data/2/9/7/3/29735/29735.txt,{'Science Fiction'}
+It Could Be Anything,['John Keith Laumer'],./data/2/6/7/8/26782/26782.txt,{'Science Fiction'}
+Think Yourself to Death,['C.H. Thames'],./data/3/2/8/2/32827/32827.txt,{'Science Fiction'}
+Prime Difference,['Alan E. Nourse'],./data/5/1/3/2/51321/51321.txt,{'Science Fiction'}
+Rattle OK,['Harry Warner'],./data/5/1/0/9/51092/51092.txt,{'Science Fiction'}
+Plays of Gods and Men,['Lord Dunsany'],./data/1/1/2/8/11283/11283.txt,{'Fantasy'}
+Amateur in Chancery,['George O. Smith'],./data/5/1/6/8/51681/51681.txt,{'Science Fiction'}
+The Instant of Now,['Irving E. Cox Jr.'],./data/3/1/6/5/31651/31651.txt,{'Science Fiction'}
+Not a Creature Was Stirring,['Dean Evans'],./data/5/1/3/9/51396/51396.txt,{'Science Fiction'}
+A Martian Odyssey,['Stanley Grauman Weinbaum'],./data/2/3/7/3/23731/23731.txt,{'Science Fiction'}
+The Last of the Plainsmen,['Zane Grey'],./data/2/0/5/2057/2057.txt,{'Western'}
+Delay in Transit,['F.L. Wallace'],./data/5/0/9/9/50998/50998.txt,{'Science Fiction'}
+Curiosities of the Sky,['Garrett Serviss'],./data/6/6/3/6630/6630.txt,{'Science Fiction'}
+Whiskaboom,['Alan Arkin'],./data/5/1/1/3/51132/51132.txt,{'Science Fiction'}
+"Oh, Rats!",['Miriam Allen deFord'],./data/5/1/7/5/51751/51751.txt,{'Science Fiction'}
+Starman's Quest,['Robert Silverberg'],./data/2/7/4/4/27444/27444.txt,{'Science Fiction'}
+Felony,['James Causey'],./data/3/1/9/2/31922/31922.txt,{'Science Fiction'}
+Otto of the Silver Hand,['Howard Pyle'],./data/2/8/6/2865/2865.txt,{'Fantasy'}
+Big Stupe,['Charles V. De Vet'],./data/3/2/5/5/32551/32551.txt,{'Science Fiction'}
+The Rivet in Grandfather's Neck,['James Branch Cabell'],./data/1/0/0/4/10041/10041.txt,{'Fantasy'}
+Later Than You Think,['Fritz Leiber'],./data/5/0/7/5/50753/50753.txt,{'Science Fiction'}
+Peter Pan,['James M. Barrie'],./data/1/16/16.txt,"{'Adventure', 'Fantasy'}"
+The Man Who Was Thursday,['G.K. Chesterton'],./data/1/6/9/1695/1695.txt,{'Adventure'}
+Stamped Caution,['Raymond Zinke Gallun'],./data/3/2/0/5/32054/32054.txt,{'Science Fiction'}
+The Land That Time Forgot,['Edgar Rice Burroughs'],./data/5/5/551/551.txt,{'Science Fiction'}
+Dr. Jekyll and Mr. Hyde,['Robert Louis Stevenson'],./data/4/42/42.txt,{'Horror'}
+The Repairman,['Harry Harrison'],./data/2/2/0/7/22073/22073.txt,{'Science Fiction'}
+The Radiant Shell,['Paul Ernst'],./data/2/2/1/7/22171/22171.txt,{'Science Fiction'}
+In the Days of the Comet,['H.G. Wells'],./data/3/7/9/3797/3797.txt,{'Science Fiction'}
+"Astounding Stories, March, 1931",['Various'],./data/3/0/1/6/30166/30166.txt,{'Science Fiction'}
+The Old Man in the Corner,['Baroness Orczy'],./data/1/0/5/5/10556/10556.txt,{'Detective Fiction'}
+Hints for Lovers,['Arnold Haultain'],./data/1/4/2/5/14255/14255.txt,{'Love'}
+Welsh Fairy Tales,['William Elliott Griffis'],./data/9/3/6/9368/9368.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+A Gleeb for Earth,['Charles Shafhauser'],./data/5/0/8/6/50869/50869.txt,{'Science Fiction'}
+Thompson's Cat,['Robert Moore Williams'],./data/3/1/9/4/31948/31948.txt,{'Science Fiction'}
+Doorstep,['Keith Laumer'],./data/5/1/5/0/51509/51509.txt,{'Science Fiction'}
+The Judas Valley,['Gerald Vance'],./data/2/5/7/1/25713/25713.txt,{'Science Fiction'}
+The Moon is Green,['Fritz Reuter Leiber'],./data/2/9/6/6/29662/29662.txt,{'Science Fiction'}
+Genesis,['H. Beam Piper'],./data/1/8/1/0/18105/18105.txt,{'Science Fiction'}
+Tales of Wonder,['Baron Edward John Moreton Drax Plunkett Dunsany'],./data/1/3/8/2/13821/13821.txt,{'Fantasy'}
+The Thirty-nine Steps,['John Buchan'],./data/5/5/558/558.txt,"{'Adventure', 'Mystery Fiction'}"
+The Mating of the Moons,"[""Kenneth O'Hara""]",./data/4/0/9/6/40969/40969.txt,{'Science Fiction'}
+The Adventure of the Red Circle,['Arthur Conan Doyle'],./data/2/3/4/2345/2345.txt,{'Detective Fiction'}
+An Incident on Route 12,['James H. Schmitz'],./data/2/1/8/9/21897/21897.txt,{'Science Fiction'}
+Pet Farm,['Roger Dee'],./data/3/2/3/4/32344/32344.txt,{'Science Fiction'}
+The Red Dust,['Murray Leinster'],./data/4/1/5/8/41586/41586.txt,{'Science Fiction'}
+The Research Magnificent,['H.G. Wells'],./data/1/1/3/1138/1138.txt,{'Science Fiction'}
+"The Country of the Blind, And Other Stories",['H.G. Wells'],./data/1/1/8/7/11870/11870.txt,{'Science Fiction'}
+The Mightiest Man,['Patrick Fahy'],./data/2/1/5/8/21582/21582.txt,{'Science Fiction'}
+Gold in the Sky,['Alan Edward Nourse'],./data/2/3/8/8/23882/23882.txt,{'Science Fiction'}
+The Gallery,['Roger Phillips Graham'],./data/2/6/9/3/26936/26936.txt,{'Science Fiction'}
+The Winged Men of Orcon,['David R. Sparks'],./data/2/2/1/7/22176/22176.txt,{'Science Fiction'}
+On Handling the Data,['M.I. Mayfield'],./data/2/3/4/2/23429/23429.txt,{'Science Fiction'}
+The Hand in the Dark,['Arthur J. Rees'],./data/2/0/5/4/20546/20546.txt,{'Detective Fiction'}
+The Wendigo,['Algernon Blackwood'],./data/1/0/8/9/10897/10897.txt,{'Horror'}
+Breakaway,['Stanley Gimble'],./data/2/3/5/9/23592/23592.txt,{'Science Fiction'}
+The Day of the Boomer Dukes,['Frederik Pohl'],./data/2/2/5/5/22559/22559.txt,{'Science Fiction'}
+Max Carrados,['Ernest Bramah'],./data/3/4/7/3/34732/34732.txt,{'Detective Fiction'}
+On the Fourth Planet,['J.F. Bone'],./data/5/0/9/0/50904/50904.txt,{'Science Fiction'}
+Pygmalion's Spectacles,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22893/22893.txt,{'Science Fiction'}
+The Trouble with Telstar,['John Berryman'],./data/3/0/6/7/30679/30679.txt,{'Science Fiction'}
+Star Mother,['Robert F. Young'],./data/2/6/9/5/26957/26957.txt,{'Science Fiction'}
+This Crowded Earth,['Robert Bloch'],./data/2/5/7/7/25776/25776.txt,{'Science Fiction'}
+Syndrome Johnny,['Charles Dye'],./data/5/1/2/3/51231/51231.txt,{'Science Fiction'}
+The Narrative of Arthur Gordon Pym of Nantucket,['Edgar Allan Poe'],./data/5/1/0/6/51060/51060-8.txt,"{'Adventure', 'Fantasy'}"
+Insidekick,['Jesse Franklin Bone'],./data/3/2/2/7/32272/32272.txt,{'Science Fiction'}
+Gladiator,['Philip Wylie'],./data/4/2/9/1/42914/42914.txt,{'Science Fiction'}
+The Keeper,['Henry Beam Piper'],./data/1/9/3/3/19338/19338.txt,{'Science Fiction'}
+Tabby,['Winston Marks'],./data/3/2/6/1/32613/32613.txt,{'Science Fiction'}
+Ronicky Doone,['Max Brand'],./data/1/1/8/8/11880/11880.txt,{'Western'}
+The Odyssey of Sam Meecham,['Charles E. Fritch'],./data/2/9/3/5/29355/29355.txt,{'Science Fiction'}
+Badge of Infamy,['Lester del Rey'],./data/1/9/4/7/19471/19471.txt,{'Science Fiction'}
+The Victor,['Bryce Walton'],./data/3/2/9/0/32903/32903.txt,{'Science Fiction'}
+Clean Break,['Roger Dee'],./data/3/2/2/1/32212/32212.txt,{'Science Fiction'}
+Luna Escapade,['H.B. Fyfe'],./data/4/0/9/6/40961/40961.txt,{'Science Fiction'}
+Blind Man's Lantern,['Allen Kim Lang'],./data/2/4/5/6/24567/24567.txt,{'Science Fiction'}
+No Hero,['E.W. Hornung'],./data/1/1/1/5/11153/11153.txt,{'Crime Fiction'}
+"Astounding Stories of Super-Science, June, 1930",['Various'],./data/2/9/8/4/29848/29848.txt,{'Science Fiction'}
+She and Allan,['H. Rider Haggard'],./data/5/7/4/5745/5745.txt,{'Adventure'}
+Swiss Family Robinson,['Johann David Wyss'],./data/3/8/3/3836/3836.txt,{'Adventure'}
+Chain Reaction,['Boyd Ellanby'],./data/5/1/2/5/51255/51255.txt,{'Science Fiction'}
+The Martian Cabal,['Roman Frederick Starzl'],./data/2/9/4/3/29437/29437.txt,{'Science Fiction'}
+An Outcast of the Islands,['Joseph Conrad'],./data/6/3/638/638.txt,{'Adventure'}
+The Rat Racket,['David Henry Keller'],./data/2/6/8/9/26890/26890.txt,{'Science Fiction'}
+The Altar at Midnight,['Cyril M. Kornbluth'],./data/2/9/6/1/29619/29619.txt,{'Science Fiction'}
+The Butterfly Kiss,['Arthur Dekker Savage'],./data/4/0/9/9/40991/40991.txt,{'Science Fiction'}
+Operation: Outer Space,['William Fitzgerald Jenkins'],./data/1/8/3/6/18361/18361.txt,{'Science Fiction'}
+Police Operation,['H. Beam Piper'],./data/1/9/0/6/19067/19067.txt,{'Science Fiction'}
+The Amateur Cracksman,['E.W. Hornung'],./data/7/0/706/706.txt,{'Crime Fiction'}
+Out with Garibaldi,['G.A. Henty'],./data/4/5/5/7/45573/45573.txt,{'Adventure'}
+This World Is Taboo,['Murray Leinster'],./data/1/8/1/7/18172/18172.txt,{'Science Fiction'}
+The Angel of the Revolution,['George Griffith'],./data/3/1/3/2/31324/31324.txt,{'Science Fiction'}
+"Buck Peters, Ranchman","['Clarence E. Mulford', 'John Wood Clay']",./data/4/2/8/0/42800/42800.txt,{'Western'}
+The Eel,['Miriam Allen DeFord'],./data/3/1/9/8/31981/31981.txt,{'Science Fiction'}
+"Wall of Crystal, Eye of Night",['Algis Budrys'],./data/5/1/7/2/51726/51726.txt,{'Science Fiction'}
+The Range Dwellers,['B.M. Bower'],./data/1/4/3/3/14334/14334.txt,{'Western'}
+A Pail of Air,['Fritz Leiber'],./data/5/1/4/6/51461/51461.txt,{'Science Fiction'}
+Tales of Fantasy and Fact,['Brander Matthews'],./data/2/3/6/7/23678/23678.txt,{'Science Fiction'}
+The Coming Race,['Edward Bulwer Lytton'],./data/1/9/5/1951/1951.txt,"{'Adventure', 'Science Fiction'}"
+Invaders from the Infinite,['John Wood Campbell'],./data/2/0/1/5/20154/20154.txt,{'Science Fiction'}
+The Sword,['Frank Quattrocchi'],./data/3/2/6/9/32697/32697.txt,{'Science Fiction'}
+Herland,['Charlotte Perkins Stetson Gilman'],./data/3/32/32.txt,{'Science Fiction'}
+Let'em Breathe Space,['Lester del Rey'],./data/3/1/2/8/31286/31286.txt,{'Science Fiction'}
+A Matter of Importance,['William Fitzgerald Jenkins'],./data/2/3/6/3/23636/23636.txt,{'Science Fiction'}
+Beyond Pandora,['Robert J. Martin'],./data/2/3/9/3/23930/23930.txt,{'Science Fiction'}
+The Mysterious Affair at Styles,['Agatha Christie'],./data/8/6/863/863-0.txt,"{'Crime and Mystery', 'Detective Fiction'}"
+The Blue Tower,['Evelyn E. Smith'],./data/2/3/1/0/23104/23104.txt,{'Science Fiction'}
+The Princess and the Physicist,['Evelyn E. Smith'],./data/5/1/1/2/51126/51126.txt,{'Science Fiction'}
+Tom Swift and his Giant Cannon,['Victor Appleton'],./data/1/3/6/1361/1361.txt,{'Adventure'}
+Tom Swift and his Wireless Message,['Victor Appleton'],./data/4/2/2/4227/4227.txt,{'Adventure'}
+The Curse of Carne's Hold,['G.A. Henty'],./data/3/9/3/7/39374/39374.txt,{'Adventure'}
+The Skylark of Space,"['Edward Elmer Smith', 'Lee Hawkins Garby']",./data/2/0/8/6/20869/20869.txt,"{'Adventure', 'Science Fiction'}"
+Zehru of Xollar,['Hal K. Wells'],./data/2/6/9/1/26917/26917.txt,{'Science Fiction'}
+Untechnological Employment,['E.M. Clinton'],./data/2/3/1/4/23147/23147.txt,{'Science Fiction'}
+"Adventures of Huckleberry Finn, Part 5",['Mark Twain'],./data/7/1/0/7104/7104.txt,{'Adventure'}
+The Beetle,['Richard Marsh'],./data/5/1/6/5164/5164.txt,{'Mystery Fiction'}
+Stories from Le Morte D'Arthur and the Mabinogion,['Beatrice Clay'],./data/1/5/5/5/15551/15551.txt,{'Fantasy'}
+In the Fog,['Richard Harding Davis'],./data/7/8/8/7884/7884.txt,{'Detective Fiction'}
+The Young Forester,['Zane Grey'],./data/1/8/8/1882/1882.txt,{'Western'}
+They Twinkled Like Jewels,['Philip Jose Farmer'],./data/2/9/5/5/29559/29559.txt,{'Science Fiction'}
+The Solar Magnet,['Sterner St. Paul Meek'],./data/2/9/4/0/29401/29401.txt,{'Science Fiction'}
+Moment of Truth,['Basil Eugene Wells'],./data/2/8/1/1/28111/28111.txt,{'Science Fiction'}
+The Face And The Mask,['Robert Barr'],./data/8/6/8/8681/8681.txt,{'Science Fiction'}
+Nor Iron Bars a Cage....,['Gordon Randall Garrett'],./data/3/0/8/3/30832/30832.txt,{'Science Fiction'}
+Hunted Down,['Charles Dickens'],./data/8/0/807/807-0.txt,{'Detective Fiction'}
+Four-Day Planet,['Henry Beam Piper'],./data/1/9/4/7/19478/19478.txt,{'Science Fiction'}
+The Other Now,['Murray Leinster'],./data/5/1/1/1/51112/51112.txt,{'Science Fiction'}
+The Man Who Saw the Future,['Edmond Hamilton'],./data/2/8/0/6/28062/28062.txt,{'Science Fiction'}
+I Am A Nucleus,['Stephen Barr'],./data/5/1/3/3/51330/51330-8.txt,{'Science Fiction'}
+The Mystery of the Yellow Room,['Gaston Leroux'],./data/1/6/8/1685/1685.txt,{'Detective Fiction'}
+Runaway,['William Morrison'],./data/2/9/8/9/29897/29897.txt,{'Science Fiction'}
+Wind,['Charles Louis Fontenay'],./data/2/2/5/9/22590/22590.txt,{'Science Fiction'}
+The Big Tomorrow,['Paul Lohrman'],./data/2/9/9/3/29931/29931.txt,{'Science Fiction'}
+Ayesha,['H. Rider Haggard'],./data/5/2/2/5228/5228.txt,{'Adventure'}
+Pariah Planet,['Murray Leinster'],./data/2/9/4/4/29448/29448.txt,{'Science Fiction'}
+The Nostalgia Gene,['Roy Hutchins'],./data/5/0/9/8/50989/50989.txt,{'Science Fiction'}
+"Futuria Fantasia, Fall 1939",['Ray Bradbury'],./data/4/1/6/2/41624/41624.txt,{'Science Fiction'}
+Mars is my Destination,['Frank Belknap Long'],./data/5/1/1/2/51125/51125.txt,{'Science Fiction'}
+"Holes, Incorporated",['L. Major Reynolds'],./data/3/0/4/6/30468/30468.txt,{'Science Fiction'}
+On a Torn-Away World,['Roy Rockwood'],./data/6/4/6/6468/6468.txt,{'Science Fiction'}
+The Martian,['Allen Glasser'],./data/4/0/9/9/40992/40992.txt,{'Science Fiction'}
+Freedom,['Dallas McCord Reynolds'],./data/3/0/3/3/30338/30338.txt,{'Science Fiction'}
+She Knew He Was Coming,['Kris Neville'],./data/3/3/9/3/33934/33934.txt,{'Science Fiction'}
+Bimmie Says,['Sydney Van Scyoc'],./data/5/0/8/0/50800/50800.txt,{'Science Fiction'}
+The Infra-Medians,['Sewell Peaslee Wright'],./data/2/0/8/3/20838/20838.txt,{'Science Fiction'}
+News from Nowhere,['William Morris'],./data/3/2/6/3261/3261.txt,"{'Fantasy', 'Science Fiction'}"
+The Time Machine,['H.G.  Wells'],./data/3/35/35.txt,"{'Time Travel', 'Science Fiction'}"
+Metamorphosis,['Charles V. de Vet'],./data/5/1/7/1/51713/51713.txt,{'Science Fiction'}
+The Golden Judge,['Nathaniel Gordon'],./data/2/4/4/9/24495/24495.txt,{'Science Fiction'}
+The Unnecessary Man,['Gordon Randall Garrett'],./data/2/4/5/2/24529/24529.txt,{'Science Fiction'}
+Rip Foster Rides the Gray Planet,['Blake Savage'],./data/2/0/1/4/20147/20147.txt,{'Science Fiction'}
+The Adventure of Wisteria Lodge,['Arthur Conan Doyle'],./data/2/3/4/2343/2343.txt,{'Detective Fiction'}
+Tom Swift and his Photo Telephone,['Victor Appleton'],./data/4/5/3/4532/4532.txt,{'Adventure'}
+Star Surgeon,['Alan Nourse'],./data/1/8/4/9/18492/18492.txt,{'Science Fiction'}
+The Gift Bearer,['Charles Louis Fontenay'],./data/2/4/9/7/24975/24975.txt,{'Science Fiction'}
+Bullet With His Name,['Fritz Leiber'],./data/5/1/4/3/51436/51436.txt,{'Science Fiction'}
+The Right Time,['Walter Bupp'],./data/3/0/7/7/30770/30770.txt,{'Science Fiction'}
+Voyage To Eternity,['Milton Lesser'],./data/3/2/3/5/32351/32351.txt,{'Science Fiction'}
+The Hoofer,['Walter M. Miller'],./data/2/9/1/7/29170/29170.txt,{'Science Fiction'}
+The Call of the Wild,['Jack London'],./data/2/1/215/215.txt,{'Adventure'}
+Death's Wisher,['Jim Wannamaker'],./data/5/1/7/6/51767/51767.txt,{'Science Fiction'}
+The Lone Star Ranger,['Zane Grey'],./data/1/0/2/1027/1027.txt,{'Western'}
+Shadows in Zamboula,['Robert E. Howard'],./data/4/2/1/9/42196/42196.txt,{'Science Fiction'}
+Project Hush,['Philip Klass'],./data/3/2/6/5/32654/32654.txt,{'Science Fiction'}
+The Girls From Earth,['Frank M. Robinson'],./data/5/1/2/6/51268/51268.txt,{'Science Fiction'}
+Arm of the Law,['Harry Harrison'],./data/2/9/2/0/29204/29204.txt,{'Science Fiction'}
+Soldier Boy,['Michael Shaara'],./data/5/0/8/4/50848/50848.txt,{'Science Fiction'}
+The Rag and Bone Men,['Algis Budrys'],./data/5/1/5/8/51589/51589.txt,{'Science Fiction'}
+The Fantasy Fan January 1934,['Various'],./data/4/6/6/1/46615/46615.txt,{'Science Fiction'}
+Survival Kit,['Frederik Pohl'],./data/5/1/8/0/51809/51809.txt,{'Science Fiction'}
+The Year When Stardust Fell,['Raymond F. Jones'],./data/3/3/6/6/33660/33660.txt,{'Science Fiction'}
+Time Crime,['H. Beam Piper'],./data/1/8/1/5/18151/18151.txt,{'Science Fiction'}
+One of the 28th,['G.A. Henty'],./data/1/4/3/1/14313/14313.txt,{'Adventure'}
+Diplomatic Immunity,['Robert Sheckley'],./data/3/2/0/4/32040/32040.txt,{'Science Fiction'}
+The Champdoce Mystery,['Emile Gaboriau'],./data/2/7/3/2736/2736.txt,{'Detective Fiction'}
+Anthem,['Ayn Rand'],./data/1/2/5/1250/1250.txt,{'Science Fiction'}
+The Creature from Cleveland Depths,['Fritz Reuter Leiber'],./data/2/3/1/6/23164/23164.txt,{'Science Fiction'}
+Key Out of Time,['Andre Alice Norton'],./data/1/9/6/5/19651/19651.txt,"{'Time Travel', 'Science Fiction'}"
+Self Portrait,['Bernard Wolfe'],./data/5/1/5/3/51534/51534.txt,{'Science Fiction'}
+The Haunted Hotel,['Wilkie Collins'],./data/1/7/170/170.txt,{'Horror'}
+The Helpful Robots,['Robert J. Shea'],./data/2/8/4/3/28438/28438.txt,{'Science Fiction'}
+The Issahar Artifacts,['Jesse Franklin Bone'],./data/2/9/2/7/29271/29271.txt,{'Science Fiction'}
+Prison of a Billion Years,['C.H. Thames'],./data/3/2/1/5/32150/32150.txt,{'Science Fiction'}
+Pinocchio,['C. Collodi'],./data/1/6/8/6/16865/16865.txt,{'Fantasy'}
+Forty-one Thieves,['Angelo Hall'],./data/1/9/6/9/19695/19695.txt,{'Western'}
+Pythias,['Frederik Pohl'],./data/3/0/3/9/30399/30399.txt,{'Science Fiction'}
+Adolescents Only,['Irving E. Cox'],./data/3/2/6/5/32651/32651.txt,{'Science Fiction'}
+The Plague,['Teddy Keller'],./data/3/0/0/6/30062/30062.txt,{'Science Fiction'}
+Unspecialist,['Murray F. Yaco'],./data/2/3/4/4/23443/23443.txt,{'Science Fiction'}
+Tom Cringle's Log,['Michael Scott'],./data/7/2/8/7281/7281.txt,{'Adventure'}
+A Honeymoon in Space,['George Griffith'],./data/1/9/4/7/19476/19476.txt,{'Science Fiction'}
+The Cross-Cut,['Courtney Ryley Cooper'],./data/2/0/1/0/20104/20104.txt,{'Western'}
+A Man Obsessed,['Alan Edward Nourse'],./data/4/9/5/3/49531/49531.txt,{'Science Fiction'}
+King--of the Khyber Rifles,['Talbot Mundy'],./data/6/0/6/6066/6066.txt,{'Adventure'}
+The Deerslayer,['James Fenimore Cooper'],./data/3/2/8/3285/3285.txt,{'Adventure'}
+Widdershins,['Oliver Onions'],./data/1/4/1/6/14168/14168.txt,{'Horror'}
+The Whispering Spheres,['Russell Robert  Winterbotham'],./data/2/2/2/2/22226/22226.txt,{'Science Fiction'}
+Tom Swift and his Electric Locomotive,['Victor Appleton'],./data/1/3/6/1364/1364.txt,{'Adventure'}
+A Spaceship Named McGuire,['Gordon Randall Garrett'],./data/2/4/1/9/24198/24198.txt,{'Science Fiction'}
+Selections from the Writings of Lord Dunsay,['Lord Dunsany'],./data/1/3/6/6/13664/13664.txt,{'Fantasy'}
+The Sign of the Four,['Arthur Conan Doyle'],./data/2/0/9/2097/2097.txt,{'Detective Fiction'}
+The Guardians,['Irving Cox'],./data/2/4/1/5/24152/24152.txt,{'Science Fiction'}
+The Leech,['Phillips Barbee'],./data/2/9/5/2/29525/29525.txt,{'Science Fiction'}
+Tom Swift and his Undersea Search,['Victor Appleton'],./data/1/3/6/1362/1362.txt,"{'Adventure', 'Science Fiction'}"
+One Against the Moon,['Donald A. Wollheim'],./data/5/0/7/1/50713/50713.txt,{'Science Fiction'}
+The Wonderful Visit,['Herbert George Wells'],./data/3/3/9/1/33913/33913.txt,"{'Horror', 'Science Fiction'}"
+"The Long, Silvery Day",['Magnus Ludens'],./data/5/1/5/5/51550/51550.txt,{'Science Fiction'}
+The Hated,['Frederik Pohl'],./data/2/9/5/0/29503/29503.txt,{'Science Fiction'}
+The Golden Road,['Lucy Maud Montgomery'],./data/3/1/316/316.txt,{'Adventure'}
+The Certain Hour,['James Branch Cabell'],./data/2/8/288/288.txt,{'Fantasy'}
+Pleasant Journey,['Richard F. Thieme'],./data/2/9/7/9/29790/29790.txt,{'Science Fiction'}
+The Fantasy Fan November 1933,['Charles D. Hornig'],./data/4/6/5/3/46534/46534.txt,{'Science Fiction'}
+Sinister Paradise,['Robert Moore Williams'],./data/3/2/3/5/32359/32359.txt,{'Science Fiction'}
+The Secret of the Night,['Gaston Leroux'],./data/1/6/8/1686/1686.txt,{'Detective Fiction'}
+The Elusive Pimpernel,['Baroness Emmuska Orczy'],./data/2/7/8/2785/2785.txt,{'Adventure'}
+The Merry Adventures of Robin Hood,['Howard Pyle'],./data/1/0/1/4/10148/10148.txt,"{'Adventure', 'Fantasy'}"
+The Mystery of Edwin Drood,['Charles Dickens'],./data/5/6/564/564.txt,"{'Mystery Fiction', 'Crime and Mystery'}"
+The Knights of Arthur,['Frederik Pohl'],./data/3/2/0/0/32004/32004.txt,{'Science Fiction'}
+The Worlds of If,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22890/22890.txt,{'Science Fiction'}
+The Snare,['Richard R. Smith'],./data/4/9/9/0/49901/49901.txt,{'Science Fiction'}
+The Red Thumb Mark,['R. Austin Freeman'],./data/1/1/1/2/11128/11128.txt,{'Detective Fiction'}
+To Each His Star,['Bryce Walton'],./data/3/1/3/5/31355/31355.txt,{'Science Fiction'}
+Two Boys in Wyoming,['Edward S. Ellis'],./data/2/0/2/2/20223/20223.txt,{'Western'}
+The Light of Western Stars,['Zane Grey'],./data/1/0/9/1095/1095.txt,"{'Western', 'Romance'}"
+Old Rambling House,['Frank Patrick Herbert'],./data/2/9/4/9/29492/29492.txt,{'Science Fiction'}
+Old Mr. Wiley,['Fanny Greye La Spina'],./data/2/3/3/7/23379/23379.txt,{'Science Fiction'}
+A Choice of Miracles,['James A. Cox'],./data/2/6/1/9/26190/26190.txt,{'Science Fiction'}
+The Invisible Man,['H.G. Wells'],./data/5/2/3/5230/5230.txt,"{'Horror', 'Science Fiction'}"
+A Trip to Venus,['John Munro'],./data/1/3/7/1/13716/13716.txt,{'Science Fiction'}
+"Psychotennis, Anyone?",['Lloyd Williams'],./data/5/1/2/3/51232/51232.txt,{'Science Fiction'}
+In Greek Waters,['G.A. Henty'],./data/4/2/2/7/42276/42276.txt,{'Adventure'}
+Once a Greech,['Evelyn E. Smith'],./data/3/1/6/6/31664/31664.txt,{'Science Fiction'}
+Thin Edge,['Gordon Randall Garrett'],./data/3/0/8/6/30869/30869.txt,{'Science Fiction'}
+Of All Possible Worlds,['William Tenn'],./data/5/0/9/4/50948/50948.txt,{'Science Fiction'}
+The Prisoner of Zenda,['Anthony Hope'],./data/9/95/95.txt,{'Adventure'}
+Unbegotten Child,['Winston Marks'],./data/3/2/1/4/32149/32149.txt,{'Science Fiction'}
+The Metal Monster,['A. Merritt'],./data/3/4/7/3479/3479.txt,"{'Adventure', 'Fantasy', 'Science Fiction'}"
+The Triumphs of Eugene Valmont,['Robert Barr'],./data/1/9/3/6/19369/19369.txt,{'Detective Fiction'}
+Sweet Tooth,['Robert F. Young'],./data/5/0/9/2/50924/50924-8.txt,{'Science Fiction'}
+Vulcan's Workshop,['Harl Vincent'],./data/2/9/3/2/29321/29321.txt,{'Science Fiction'}
+The Atlantic Book of Modern Plays,['Various'],./data/1/6/4/3/16435/16435.txt,{'Fantasy'}
+The Book of Nature Myths,['Florence Holbrook'],./data/2/2/4/2/22420/22420.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Phoenix and the Carpet,['E. Nesbit'],./data/8/3/836/836.txt,{'Fantasy'}
+Such Blooming Talk,['L. Major Reynolds'],./data/2/9/3/5/29356/29356.txt,{'Science Fiction'}
+The Terror from the Depths,['Sewell Peaslee Wright'],./data/2/9/1/1/29118/29118.txt,{'Science Fiction'}
+The Princess and the Goblin,['George MacDonald'],./data/3/4/3/3/34339/34339.txt,{'Fantasy'}
+The Day Time Stopped Moving,['Bradner Buckner'],./data/2/7/0/5/27053/27053.txt,{'Science Fiction'}
+A Christmas Carol,['Charles Dickens'],./data/1/9/3/3/19337/19337.txt,{'Horror'}
+The Man Outside,['Evelyn E. Smith'],./data/5/1/3/3/51337/51337.txt,{'Science Fiction'}
+Hex,['Laurence Mark Janifer'],./data/2/4/3/9/24397/24397.txt,{'Science Fiction'}
+Teething Ring,['James Causey'],./data/2/9/6/2/29625/29625.txt,{'Science Fiction'}
+The Other Likeness,['James H. Schmitz'],./data/3/0/3/9/30398/30398.txt,{'Science Fiction'}
+Cliges: A Romance,['Chretien de Troyes'],./data/2/4/1/2414/2414.txt,{'Fantasy'}
+The Big Trip Up Yonder,['Kurt Vonnegut'],./data/3/0/2/4/30240/30240.txt,{'Science Fiction'}
+Brood of the Dark Moon,['Charles Willard Diffin'],./data/3/2/3/9/32398/32398.txt,{'Science Fiction'}
+Citadel,['Algirdas Jonas Budrys'],./data/2/6/1/9/26191/26191.txt,{'Science Fiction'}
+Cum Grano Salis,['Gordon Randall Garrett'],./data/2/5/2/3/25234/25234.txt,{'Science Fiction'}
+Far from Home,['J.A. Taylor'],./data/2/3/4/0/23408/23408.txt,{'Science Fiction'}
+The Beasts of Tarzan,['Edgar Rice Burroughs'],./data/8/85/85.txt,"{'Adventure', 'Fantasy'}"
+Child of Storm,['H. Rider Haggard'],./data/1/7/1/1711/1711.txt,{'Adventure'}
+No Hiding Place,['Richard R. Smith'],./data/2/9/2/7/29272/29272.txt,{'Science Fiction'}
+Year of the Big Thaw,['Marion Zimmer Bradley'],./data/2/8/6/5/28650/28650.txt,{'Science Fiction'}
+"Martin Hewitt, Investigator",['Arthur Morrison'],./data/1/1/2/5/11252/11252.txt,{'Detective Fiction'}
+Wanderer of Infinity,['Harl Vincent'],./data/2/9/4/0/29408/29408.txt,{'Science Fiction'}
+Stories from the Ballads,['Mary  MacGregor'],./data/2/2/1/7/22175/22175.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+"Cogito, Ergo Sum",['John Foster West'],./data/2/9/1/4/29149/29149.txt,{'Science Fiction'}
+The Lady of the Shroud,['Bram Stoker'],./data/3/0/9/3095/3095.txt,{'Horror'}
+Tex,['Clarence E. Mulford'],./data/4/3/1/0/43100/43100.txt,{'Western'}
+"Say ""Hello"" for Me",['Frank W. Coggins'],./data/3/0/3/8/30382/30382.txt,{'Science Fiction'}
+The Story of Sigurd the Volsung and the Fall of the Niblungs,['William Morris'],./data/1/8/3/2/18328/18328.txt,{'Fantasy'}
+The Hands,['Richard Sternbach'],./data/2/9/5/3/29535/29535.txt,{'Science Fiction'}
+The Highest Mountain,['Bryce Walton'],./data/5/0/8/6/50868/50868.txt,{'Science Fiction'}
+Comet's Burial,['Raymond Zinke Gallun'],./data/3/7/4/4/37448/37448.txt,{'Science Fiction'}
+Conditionally Human,['Walter M. Miller'],./data/5/1/6/5/51651/51651-8.txt,{'Science Fiction'}
+Cabin Fever,['B.M. Bower'],./data/1/2/0/1204/1204.txt,{'Western'}
+Native Son,['T.D. Hamm'],./data/3/0/0/1/30014/30014.txt,{'Science Fiction'}
+Rex Ex Machina,['Frederic Max'],./data/2/8/5/4/28543/28543.txt,{'Science Fiction'}
+Jimsy and the Monsters,['Walt Sheldon'],./data/3/1/7/1/31716/31716.txt,{'Science Fiction'}
+All Jackson's Children,['Daniel F. Galouye'],./data/5/1/1/8/51185/51185.txt,{'Science Fiction'}
+The White Company,['Arthur Conan Doyle'],./data/9/0/903/903.txt,{'Adventure'}
+Astounding Stories of Super-Science July 1930,['Various'],./data/2/9/1/9/29198/29198.txt,{'Science Fiction'}
+The Foreign Hand Tie,['Gordon Randall Garrett'],./data/3/0/4/9/30497/30497.txt,{'Science Fiction'}
+Small World,['William F. Nolan'],./data/2/9/3/0/29308/29308.txt,{'Science Fiction'}
+To Choke an Ocean,['Jesse F.  Bone'],./data/3/2/1/2/32124/32124.txt,{'Science Fiction'}
+Hot Planet,['Hal Clement'],./data/5/0/9/2/50928/50928.txt,{'Science Fiction'}
+Double or Nothing,['Jack Sharkey'],./data/4/3/0/4/43041/43041.txt,{'Science Fiction'}
+The Ivory Child,['H. Rider Haggard'],./data/2/8/4/2841/2841.txt,{'Adventure'}
+Tom Swift and his War Tank,['Victor Appleton'],./data/9/5/954/954.txt,{'Adventure'}
+Hunt the Hunter,['Kris Neville'],./data/5/1/4/3/51433/51433.txt,{'Science Fiction'}
+Wheels Within,['Charles V. De Vet'],./data/3/2/1/2/32127/32127.txt,{'Science Fiction'}
+The Smiler,['Albert Hernhunter'],./data/3/0/3/5/30353/30353.txt,{'Science Fiction'}
+The Spy in the Elevator,['Donald E. Westlake'],./data/5/1/6/8/51687/51687.txt,{'Science Fiction'}
+The White Feather Hex,['Don Peterson'],./data/2/3/3/0/23308/23308.txt,{'Science Fiction'}
+"We're Friends, Now",['Henry Hasse'],./data/2/9/4/8/29488/29488.txt,{'Science Fiction'}
+The End of Time,['Wallace West'],./data/2/9/4/1/29410/29410.txt,{'Science Fiction'}
+The Night of the Long Knives,['Fritz Reuter Leiber'],./data/2/5/0/2/25024/25024.txt,{'Science Fiction'}
+The Last Trail,['Zane Grey'],./data/9/9/3/9932/9932.txt,{'Western'}
+Preferred Risk,['Edson McCann'],./data/5/1/8/1/51814/51814-8.txt,{'Science Fiction'}
+My Fair Planet,['Evelyn E. Smith'],./data/3/1/6/4/31648/31648.txt,{'Science Fiction'}
+Spacewrecked on Venus,['Neil R. Jones'],./data/4/0/9/9/40993/40993.txt,{'Science Fiction'}
+Kidnapped,['Robert Louis Stevenson'],./data/4/2/421/421.txt,{'Adventure'}
+The Memory of Mars,['Raymond F. Jones'],./data/2/6/0/9/26093/26093.txt,{'Science Fiction'}
+Dead Men's Money,['J.S. Fletcher'],./data/1/2/2/3/12239/12239.txt,{'Detective Fiction'}
+The Valley of Fear,['Sir Arthur Conan Doyle'],./data/3/2/8/3289/3289.txt,"{'Crime and Mystery', 'Detective Fiction'}"
+The Anglers of Arz,['Roger Phillips Dee'],./data/3/2/6/6/32665/32665.txt,{'Science Fiction'}
+The Revolt on Venus,['Carey Rockwell'],./data/1/9/0/2/19027/19027.txt,{'Science Fiction'}
+The Radio Boys' Search for the Inca's Treasure,['Gerald Breckenridge'],./data/3/5/9/8/35987/35987.txt,{'Adventure'}
+The Circular Study,['Anna Katharine Green'],./data/1/8/7/6/18761/18761.txt,{'Detective Fiction'}
+The House of the Wolfings,['William Morris'],./data/2/8/8/2885/2885.txt,{'Fantasy'}
+"Clarissa, Or The History Of A Young Lady, Volume 8",['Samuel Richardson'],./data/1/2/1/8/12180/12180.txt,{'Romance'}
+Recruit for Andromeda,['Milton Lesser'],./data/5/0/4/4/50449/50449.txt,{'Science Fiction'}
+Selected Stories,['Bret Harte'],./data/1/3/1/1312/1312.txt,{'Western'}
+Butterfly 9,['Donald Keith'],./data/5/1/1/6/51167/51167.txt,{'Science Fiction'}
+Summit,['Dallas McCord Reynolds'],./data/2/3/6/6/23669/23669.txt,{'Science Fiction'}
+The Aliens,['Murray Leinster'],./data/2/4/1/0/24104/24104.txt,{'Science Fiction'}
+The Fairy Book,['Dinah Maria Mulock'],./data/1/9/7/3/19734/19734.txt,"{""Children's Myths, Fairy Tales, etc.""}"
+The Secret of Kralitz,['Henry Kuttner'],./data/3/2/5/8/32584/32584.txt,{'Science Fiction'}
+Vital Ingredient,['Charles V. De Vet'],./data/3/0/4/9/30491/30491.txt,{'Science Fiction'}
+The Great Dome on Mercury,['Arthur Leo Zagat'],./data/2/9/1/9/29190/29190.txt,{'Science Fiction'}
+Confidence Game,['James McKimmey'],./data/3/2/2/4/32243/32243.txt,{'Science Fiction'}
+The Protector,['Betsy Curtis'],./data/5/1/0/2/51028/51028.txt,{'Science Fiction'}
+The Aggravation of Elmer,['Robert Andrew Arthur'],./data/2/9/6/1/29618/29618.txt,{'Science Fiction'}
+Thy Name Is Woman,['Bryce Walton'],./data/3/2/9/0/32906/32906.txt,{'Science Fiction'}
+With These Hands,['C.M. Kornbluth'],./data/5/1/5/3/51531/51531.txt,{'Science Fiction'}
+Measure for a Loner,['James Judson Harmon'],./data/2/2/5/9/22596/22596.txt,{'Science Fiction'}

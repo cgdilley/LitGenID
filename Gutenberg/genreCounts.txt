@@ -1,0 +1,29 @@
+GENRE: Science Fiction
+COUNT = 1292
+
+GENRE: Western
+COUNT = 91
+
+GENRE: Mystery Fiction
+COUNT = 14
+
+GENRE: Fantasy
+COUNT = 90
+
+GENRE: Horror
+COUNT = 44
+
+GENRE: Children's Myths, Fairy Tales, etc.
+COUNT = 47
+
+GENRE: Love
+COUNT = 4
+
+GENRE: Detective Fiction
+COUNT = 86
+
+GENRE: Adventure
+COUNT = 73
+
+GENRE: Crime Fiction
+COUNT = 29
