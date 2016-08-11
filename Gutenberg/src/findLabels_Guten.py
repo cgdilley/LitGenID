@@ -4,24 +4,23 @@ import csv
 import progressbar
 from bs4 import BeautifulSoup
 
+'''
+FINDLABELS_GUTEN.PY
+
+Reads Title, Author, and Path data for each book from "textData.txt", queries Gutenberg catalog in ./epub/ directory
+for the genre of each book, stores books that match at least one of the genres in the defined genre set, and writes
+these books labelled with their appropriate genre into "textDataWithGenre.txt".
+
+'''
+
 # Gutenberg genres to filter by
 genres = {'Adventure', 'Fantasy', 'Horror', 'Mystery Fiction', 'Western', 'Science Fiction', 'Crime Fiction',
-          "Children's Myths, Fairy Tales, etc.", 'Love'}
+          "Children's Myths, Fairy Tales, etc.", 'Love', 'Detective Fiction'}
 
 
 print("Reading data from CSV file...")
 
-data = []
-
-# Open csv file containing text data
-with open("../textData.txt", "r") as f:
-    csvReader = csv.reader(f)
-    # Iterate through all data rows
-    for row in csvReader:
-        datum = findLabels_utils.extract_data_from_row(row)
-        if datum is not None:
-            data.append(datum)
-
+data = findLabels_utils.csv_to_text_data_list("./textData.txt")
 
 print("Finding texts in defined genres...")
 
@@ -31,7 +30,8 @@ bar = progressbar.ProgressBar(max_value=len(data)-1)
 
 # Iterate through all data
 for i in range(len(data)):
-    bar.update(i)
+    if i % 20 == 0:
+        bar.update(i)
 
     datum = data[i]
 
@@ -43,7 +43,7 @@ for i in range(len(data)):
     textNumber = re.sub(r'.*/(\d+)(-.+)?\.txt', r'\1', datum.path)
 
     # Convert this number into a path in the catalog
-    catalogPath = "../epub/{}/pg{}.rdf".format(textNumber, textNumber)
+    catalogPath = "./epub/{}/pg{}.rdf".format(textNumber, textNumber)
     try:
         # Attempt to open the catalog file at the path
         f = open(catalogPath)
@@ -61,22 +61,28 @@ for i in range(len(data)):
     bookshelves = soup.find_all("bookshelf")
 
     # Iterate through all found bookshelves
+    genreMatches = []
     for bookshelf in bookshelves:
         # Extract the bookshelf label
         value = bookshelf.find("value").contents[0]
 
         # If the label is within the set of genres
         if value in genres:
-            # Add it to the list of output data
-            outputData.append((datum.title, datum.authors, datum.path, value))
+            # Add it to the list of genre matches
+            genreMatches.append(value)
 
-            # Progressively update the output csv file with each match
-            with open('textDataWithGenre.txt', 'w') as out:
-                csv_out = csv.writer(out)
-                csv_out.writerow(['TITLE', 'AUTHOR', 'FILEPATH', 'GENRE'])
+    if len(genreMatches) > 0:
+        outputData.append((datum.title, datum.authors, datum.path, genreMatches))
 
-                for text in outputData:
-                    csv_out.writerow(text)
+bar.finish()
+
+# Write to the output csv file
+with open('textDataWithGenre.txt', 'w') as out:
+    csv_out = csv.writer(out)
+    csv_out.writerow(['TITLE', 'AUTHOR', 'FILEPATH', 'GENRE'])
+
+    for text in outputData:
+        csv_out.writerow(text)
 
 
 

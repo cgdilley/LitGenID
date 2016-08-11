@@ -218,3 +218,1029 @@ Egmont,['Johann Wolfgang Von Goethe'],./data/1/9/4/1945/1945.txt,http://www.ibli
 Eight Cousins,['Louisa M. Alcott'],./data/2/7/2/2726/2726.txt,http://www.iblist.com/book12901.htm
 Eight Cousins,['Louisa May Alcott'],./data/3/8/5/6/38567/38567.txt,http://www.iblist.com/book12901.htm
 El Dorado,['Baroness Orczy'],./data/1/7/5/1752/1752.txt,http://www.iblist.com/book51660.htm
+Emma,['Jane Austen'],./data/1/5/158/158.txt,http://www.iblist.com/book221.htm
+Empire,['Clifford Donald Simak'],./data/2/8/2/1/28215/28215.txt,http://www.iblist.com/book33587.htm
+End as a Hero,['Keith Laumer'],./data/5/1/2/6/51267/51267.txt,http://www.iblist.com/book31287.htm
+End as a World,['F.L. Wallace'],./data/5/0/9/5/50959/50959.txt,http://www.iblist.com/book36175.htm
+Enoch Soames,['Max Beerbohm'],./data/7/6/760/760.txt,http://www.iblist.com/book14403.htm
+Erewhon,['Samuel Butler'],./data/1/9/0/1906/1906.txt,http://www.iblist.com/book15299.htm
+Erewhon Revisited,['Samuel Butler'],./data/1/9/7/1971/1971.txt,http://www.iblist.com/book60546.htm
+Ethan Frome,['Edith Wharton'],./data/4/5/1/4517/4517.txt,http://www.iblist.com/book3002.htm
+Eugenie Grandet,['Honore de Balzac'],./data/1/7/1/1715/1715.txt,http://www.iblist.com/book67735.htm
+Evelina,['Fanny Burney'],./data/6/0/5/6053/6053.txt,http://www.iblist.com/book62231.htm
+Every Man In His Humor,['Ben Jonson'],./data/5/3/3/5333/5333.txt,http://www.iblist.com/book20448.htm
+Every Man In His Humour,['Ben Jonson'],./data/3/6/9/3694/3694.txt,http://www.iblist.com/book20448.htm
+Evolution,['Joseph Le Conte'],./data/4/6/8/3/46834/46834.txt,http://www.iblist.com/book2397.htm
+Fables in Slang,['George Ade'],./data/2/5/3/2/25322/25322.txt,http://www.iblist.com/book67310.htm
+Facing Death,['G.A. Henty'],./data/3/1/1/2/31128/31128.txt,http://www.iblist.com/book50908.htm
+Fairies and Fusiliers,['Robert Graves'],./data/1/0/1/2/10122/10122.txt,http://www.iblist.com/book11213.htm
+Fairy and Folk Tales of the Irish Peasantry,['William Butler Yeats'],./data/3/3/8/8/33887/33887.txt,http://www.iblist.com/book25346.htm
+Falcons of Narabedla,['Marion Zimmer Bradley'],./data/5/0/5/6/50566/50566.txt,http://www.iblist.com/book57681.htm
+Fanshawe,['Nathaniel Hawthorne'],./data/7/0/8/7085/7085.txt,http://www.iblist.com/book13700.htm
+Far from the Madding Crowd,['Thomas Hardy'],./data/1/0/107/107.txt,http://www.iblist.com/book1032.htm
+Far from the Madding Crowd,['Thomas Hardy'],./data/2/27/27.txt,http://www.iblist.com/book1032.htm
+Father Goriot,['Honore de Balzac'],./data/1/2/3/1237/1237.txt,http://www.iblist.com/book4271.htm
+Father Sergius,['Leo Tolstoy'],./data/9/8/985/985.txt,http://www.iblist.com/book29393.htm
+Fathers and Sons,['Ivan Sergeevich Turgenev'],./data/4/7/9/3/47935/47935-8.txt,http://www.iblist.com/book4434.htm
+Faust,['Johann Wolfgang Von Goethe'],./data/1/4/5/9/14591/14591.txt,http://www.iblist.com/book57970.htm
+"Felix Holt, The Radical",['George Eliot'],./data/4/0/8/8/40882/40882.txt,http://www.iblist.com/book14953.htm
+Fifty-one Tales,['Lord Dunsany Edward J.M.D. Plunkett'],./data/7/8/3/7838/7838.txt,http://www.iblist.com/book3588.htm
+Find the Woman,['Arthur Somers Roche'],./data/4/2/7/4/42740/42740.txt,http://www.iblist.com/book37071.htm
+Finn The Wolfhound,['A.J. Dawson'],./data/3/0/5/5/30550/30550.txt,http://www.iblist.com/book10734.htm
+First Lensman,['Edward Elmer Smith'],./data/4/9/5/2/49525/49525-8.txt,http://www.iblist.com/book5047.htm
+Five Children and It,['E. Nesbit'],./data/1/7/3/1/17314/17314.txt,http://www.iblist.com/book12770.htm
+Five Weeks in a Balloon,['Jules Verne'],./data/3/5/2/3526/3526.txt,http://www.iblist.com/book624.htm
+Flappers and Philosophers,['F. Scott Fitzgerald'],./data/4/3/6/4368/4368.txt,http://www.iblist.com/book63581.htm
+Flower Fables,['Louisa May Alcott'],./data/1/6/163/163.txt,http://www.iblist.com/book15416.htm
+For Name and Fame,['G.A. Henty'],./data/2/1/9/7/21979/21979.txt,http://www.iblist.com/book50909.htm
+For the Temple,['G.A. Henty'],./data/2/1/6/1/21614/21614.txt,http://www.iblist.com/book50745.htm
+Frankenstein,['Mary Shelley'],./data/4/1/4/4/41445/41445.txt,http://www.iblist.com/book1706.htm
+Frankenstein,['Mary W. Shelley'],./data/4/2/3/2/42324/42324.txt,http://www.iblist.com/book1706.htm
+Frankenstein,['Mary Wollstonecraft  Shelley'],./data/8/84/84.txt,http://www.iblist.com/book1706.htm
+Free Air,['Sinclair Lewis'],./data/2/6/7/3/26732/26732.txt,http://www.iblist.com/book14299.htm
+"Friends, though divided",['G.A. Henty'],./data/1/1/5/6/11565/11565.txt,http://www.iblist.com/book50910.htm
+From the Earth to the Moon,['Jules Verne'],./data/8/83/83.txt,http://www.iblist.com/book630.htm
+Further Chronicles of Avonlea,['Lucy Maud Montgomery'],./data/5/3/4/5340/5340.txt,http://www.iblist.com/book37290.htm
+Get Out of Our Skies!,['E.K. Jarvis'],./data/2/6/7/9/26795/26795.txt,http://www.iblist.com/book5402.htm
+Ghost Stories of an Antiquary,['M.R. James'],./data/8/4/8/8486/8486.txt,http://www.iblist.com/book58957.htm
+Ghost Stories of an Antiquary,['Montague Rhodes James'],./data/9/6/2/9629/9629.txt,http://www.iblist.com/book58957.htm
+Ghosts,['Henrik Ibsen'],./data/2/4/6/2467/2467.txt,http://www.iblist.com/book6303.htm
+Ghosts,['Henrik Ibsen'],./data/8/1/2/8121/8121.txt,http://www.iblist.com/book6303.htm
+Glinda of Oz,['L. Frank Baum'],./data/3/9/8/6/39868/39868.txt,http://www.iblist.com/book2003.htm
+Glinda of Oz,['L. Frank Baum'],./data/9/6/961/961.txt,http://www.iblist.com/book2003.htm
+Great Expectations,['Charles Dickens'],./data/1/4/0/1400/1400.txt,http://www.iblist.com/book802.htm
+Greenmantle,['John Buchan'],./data/5/5/559/559.txt,http://www.iblist.com/book60034.htm
+Gulliver's Travels,['Jonathan Swift'],./data/1/7/1/5/17157/17157.txt,http://www.iblist.com/book16126.htm
+Gulliver's Travels,['Jonathan Swift'],./data/8/2/829/829.txt,http://www.iblist.com/book16126.htm
+Hamlet,['William Shakespeare'],./data/2/7/7/6/27761/27761.txt,http://www.iblist.com/book2126.htm
+Hard Times,['Charles Dickens'],./data/7/8/786/786-0.txt,http://www.iblist.com/book33142.htm
+He Knew He Was Right,['Anthony Trollope'],./data/5/1/4/5140/5140.txt,http://www.iblist.com/book39975.htm
+Heart of Darkness,['Joseph Conrad'],./data/2/1/219/219.txt,http://www.iblist.com/book1158.htm
+Heart of Darkness,['Joseph Conrad'],./data/5/2/526/526.txt,http://www.iblist.com/book1158.htm
+Heartbreak House,['George Bernard Shaw'],./data/3/5/4/3543/3543.txt,http://www.iblist.com/book16006.htm
+Hedda Gabler,['Henrik Ibsen'],./data/4/0/9/4093/4093.txt,http://www.iblist.com/book13917.htm
+Heidi,['Johanna Spyri'],./data/1/4/4/1448/1448.txt,http://www.iblist.com/book12888.htm
+Heidi,['Johanna Spyri'],./data/2/0/7/8/20781/20781.txt,http://www.iblist.com/book12888.htm
+Heidi,['Johanna Spyri'],./data/4/6/4/0/46409/46409.txt,http://www.iblist.com/book12888.htm
+Held Fast For England,['G.A. Henty'],./data/2/1/7/8/21788/21788.txt,http://www.iblist.com/book50912.htm
+Herland,['Charlotte Perkins Stetson Gilman'],./data/3/32/32.txt,http://www.iblist.com/book6086.htm
+Hermann and Dorothea,['Johann Wolfgang von Goethe'],./data/1/9/5/1958/1958.txt,http://www.iblist.com/book58673.htm
+Herodias,['Gustave Flaubert'],./data/1/2/9/1291/1291.txt,http://www.iblist.com/book60402.htm
+Hide and Seek,['Wilkie Collins'],./data/7/8/9/7893/7893.txt,http://www.iblist.com/book17044.htm
+Hopalong Cassidy,['Clarence E. Mulford'],./data/3/8/2/3/38234/38234.txt,http://www.iblist.com/book47203.htm
+Howards End,['E.M. Forster'],./data/2/8/9/2891/2891.txt,http://www.iblist.com/book854.htm
+Howards End,['E.M. Forster'],./data/2/9/4/2946/2946.txt,http://www.iblist.com/book854.htm
+Hunger,['Knut Hamsun'],./data/8/3/8/8387/8387.txt,http://www.iblist.com/book22968.htm
+Hungry Hearts,['Anzia Yezierska'],./data/4/1/2/3/41232/41232.txt,http://www.iblist.com/book34640.htm
+Idylls of the King,"['Alfred', 'Lord Tennyson']",./data/6/1/610/610.txt,http://www.iblist.com/book34003.htm
+Immensee,['Theodore W. Storm'],./data/6/6/5/6650/6650.txt,http://www.iblist.com/book15465.htm
+In Freedom's Cause,['G.A. Henty'],./data/4/7/9/4792/4792.txt,http://www.iblist.com/book50740.htm
+In Greek Waters,['G.A. Henty'],./data/4/2/2/7/42276/42276.txt,http://www.iblist.com/book50914.htm
+In His Steps,['Charles M. Sheldon'],./data/4/5/4/4540/4540.txt,http://www.iblist.com/book63291.htm
+In Honour Bound,['Sydney Grundy'],./data/4/1/3/6/41369/41369.txt,http://www.iblist.com/book65515.htm
+In The Days of Giants,['Abbie Farwell Brown'],./data/4/4/6/2/44622/44622.txt,http://www.iblist.com/book7773.htm
+In The Library,['W.W. Jacobs'],./data/1/2/1/2/12126/12126.txt,http://www.iblist.com/book29322.htm
+In Times of Peril,['G.A. Henty'],./data/7/0/7/7071/7071.txt,http://www.iblist.com/book50918.htm
+In a German Pension,['Katherine Mansfield'],./data/1/4/7/1472/1472.txt,http://www.iblist.com/book58956.htm
+In the Days of the Comet,['H.G. Wells'],./data/3/7/9/3797/3797.txt,http://www.iblist.com/book67861.htm
+In the Hands of the Cave-Dwellers,['G.A. Henty'],./data/4/3/0/6/43067/43067.txt,http://www.iblist.com/book50915.htm
+In the Heart of the Rockies,['G.A. Henty'],./data/8/6/7/8670/8670.txt,http://www.iblist.com/book50742.htm
+In the Irish Brigade,['G.A. Henty'],./data/1/8/3/4/18349/18349.txt,http://www.iblist.com/book50917.htm
+In the Reign of Terror,['G.A. Henty'],./data/3/7/8/3785/3785.txt,http://www.iblist.com/book31964.htm
+In the Village of Viger,['Duncan Campbell Scott'],./data/4/8/9/9/48998/48998-0.txt,http://www.iblist.com/book66824.htm
+In the Year 2889,"['Jules Verne', 'Michel Verne']",./data/1/9/3/6/19362/19362.txt,http://www.iblist.com/book11821.htm
+In the Year of Jubilee,['George Gissing'],./data/4/3/0/4307/4307.txt,http://www.iblist.com/book33130.htm
+Iola Leroy,['Frances E.W. Harper'],./data/1/2/3/5/12352/12352.txt,http://www.iblist.com/book26913.htm
+Iphigenia in Tauris,['Johann Wolfgang von Goethe'],./data/1/5/8/5/15850/15850.txt,http://www.iblist.com/book57458.htm
+Ivanhoe,['Walter Scott'],./data/8/82/82.txt,http://www.iblist.com/book7690.htm
+Ixion In Heaven,['Benjamin Disraeli'],./data/2/0/0/0/20009/20009.txt,http://www.iblist.com/book31760.htm
+Jack Archer,['G.A. Henty'],./data/1/1/0/5/11058/11058.txt,http://www.iblist.com/book50919.htm
+Jack and Jill,['Louisa May Alcott'],./data/2/7/8/2786/2786.txt,http://www.iblist.com/book15413.htm
+Jacob's Room,['Virginia Woolf'],./data/5/6/7/5670/5670.txt,http://www.iblist.com/book31726.htm
+Jane Eyre,['Charlotte Bronte'],./data/1/2/6/1260/1260.txt,http://www.iblist.com/book5949.htm
+Jeppe on the Hill,['Ludvig Holberg'],./data/4/2/0/2/42022/42022.txt,http://www.iblist.com/book33453.htm
+Jewels of Gwahlur,['Robert E. Howard'],./data/4/2/2/3/42236/42236.txt,http://www.iblist.com/book34630.htm
+Jo's Boys,['Louisa May Alcott'],./data/3/4/9/3499/3499.txt,http://www.iblist.com/book930.htm
+John Dough and the Cherub,['L. Frank Baum'],./data/4/7/1/6/47166/47166.txt,http://www.iblist.com/book10659.htm
+John Gabriel Borkman,['Henrik Ibsen'],./data/1/8/7/9/18792/18792.txt,http://www.iblist.com/book13920.htm
+John Jones's Dollar,['Harry Stephen Keeler'],./data/2/6/8/6/26867/26867.txt,http://www.iblist.com/book26467.htm
+Jude the Obscure,['Thomas Hardy'],./data/1/5/153/153.txt,http://www.iblist.com/book39467.htm
+Jungle Tales of Tarzan,['Edgar Rice Burroughs'],./data/1/0/106/106.txt,http://www.iblist.com/book1463.htm
+Jurgen,['James Branch Cabell'],./data/8/7/7/8771/8771.txt,http://www.iblist.com/book13644.htm
+Just So Stories,['Rudyard Kipling'],./data/2/7/8/2781/2781.txt,http://www.iblist.com/book124.htm
+Just So Stories,['Rudyard Kipling'],./data/3/2/4/8/32488/32488.txt,http://www.iblist.com/book124.htm
+Just William,['Richmal Crompton'],./data/3/4/4/1/34414/34414.txt,http://www.iblist.com/book25389.htm
+Kari the Elephant,['Dhan Gopal Mukerji'],./data/2/4/4/6/24460/24460.txt,http://www.iblist.com/book25202.htm
+Kazan,['James Oliver Curwood'],./data/1/0/0/8/10084/10084.txt,http://www.iblist.com/book45337.htm
+Keep Out,['Fredric Brown'],./data/2/9/1/4/29142/29142.txt,http://www.iblist.com/book69077.htm
+Key Out of Time,['Andre Alice Norton'],./data/1/9/6/5/19651/19651.txt,http://www.iblist.com/book23272.htm
+Kidnapped,['Robert Louis Stevenson'],./data/4/2/421/421.txt,http://www.iblist.com/book2020.htm
+Kilmeny of the Orchard,['Lucy Maud Montgomery'],./data/5/3/4/5341/5341.txt,http://www.iblist.com/book37285.htm
+Kim,['Rudyard Kipling'],./data/2/2/2/2226/2226.txt,http://www.iblist.com/book13697.htm
+Kim,['Rudyard Kipling'],./data/3/5/5/5/35555/35555.txt,http://www.iblist.com/book13697.htm
+King Solomon's Mines,['H. Rider Haggard'],./data/2/1/6/2166/2166.txt,http://www.iblist.com/book13312.htm
+Kreativity For Kats,['Fritz Leiber'],./data/5/1/4/9/51493/51493.txt,http://www.iblist.com/book18556.htm
+Lady Audley's Secret,['Mary Elizabeth Braddon'],./data/8/9/5/8954/8954.txt,http://www.iblist.com/book13224.htm
+Lady Into Fox,['David Garnett'],./data/1/0/3/3/10337/10337.txt,http://www.iblist.com/book27986.htm
+Lady Windermere's Fan,['Oscar Wilde'],./data/7/9/790/790-0.txt,http://www.iblist.com/book13730.htm
+Le Morte Darthur,['Thomas Malory'],./data/4/6/8/5/46853/46853-0.txt,http://www.iblist.com/book3385.htm
+Le Morte Darthur,['Thomas Malory'],./data/4/6/8/5/46853/46853-8.txt,http://www.iblist.com/book3385.htm
+Leaves of Grass,['Walt Whitman'],./data/1/3/2/1322/1322.txt,http://www.iblist.com/book58081.htm
+Legacy,['James H Schmitz'],./data/2/1/5/1/21510/21510.txt,http://www.iblist.com/book15013.htm
+Letter of the Law,['Alan Edward Nourse'],./data/2/4/2/7/24275/24275.txt,http://www.iblist.com/book24339.htm
+Leviathan,['Thomas Hobbes'],./data/3/2/0/3207/3207.txt,http://www.iblist.com/book34094.htm
+Lightfoot the Deer,['Thornton W. Burgess'],./data/4/6/7/4670/4670.txt,http://www.iblist.com/book32018.htm
+Lilith,['George MacDonald'],./data/1/6/4/1640/1640.txt,http://www.iblist.com/book11223.htm
+Little Black Sambo,['Helen Bannerman'],./data/1/7/8/2/17824/17824.txt,http://www.iblist.com/book59197.htm
+Little Brother,['Cory Doctorow'],./data/3/0/1/4/30142/30142-8.txt,http://www.iblist.com/book64876.htm
+Little Dorrit,['Charles Dickens'],./data/9/6/963/963.txt,http://www.iblist.com/book2303.htm
+Little Eyolf,['Henrik Ibsen'],./data/7/9/4/7942/7942.txt,http://www.iblist.com/book13925.htm
+Little Fuzzy,['Henry Beam Piper'],./data/1/8/1/3/18137/18137.txt,http://www.iblist.com/book4036.htm
+Little Lord Fauntleroy,['Frances Hodgson Burnett'],./data/4/7/479/479.txt,http://www.iblist.com/book13233.htm
+Little Men,['Louisa May Alcott'],./data/2/7/8/2788/2788.txt,http://www.iblist.com/book209.htm
+Little Women,['Louisa M. Alcott'],./data/3/7/1/0/37106/37106.txt,http://www.iblist.com/book209.htm
+Little Women,['Louisa May Alcott'],./data/5/1/514/514.txt,http://www.iblist.com/book209.htm
+Liza of Lambeth,['W. Somerset Maugham'],./data/1/6/5/1/16517/16517.txt,http://www.iblist.com/book50609.htm
+Looking Backward,['Edward Bellamy'],./data/2/5/4/3/25439/25439.txt,http://www.iblist.com/book15288.htm
+Lord Arthur Savile's Crime,['Oscar Wilde'],./data/7/7/773/773-0.txt,http://www.iblist.com/book32397.htm
+Lord Jim,['Joseph Conrad'],./data/5/6/5/5658/5658.txt,http://www.iblist.com/book1069.htm
+Lord Tedric,['Edward Elmer Smith'],./data/4/9/4/6/49462/49462.txt,http://www.iblist.com/book2238.htm
+Lorna Doone,['R.D. Blackmore'],./data/1/7/4/6/17460/17460.txt,http://www.iblist.com/book22211.htm
+Louise de la Valliere,"['Alexandre Dumas', 'Pere']",./data/2/7/1/2710/2710.txt,http://www.iblist.com/book1387.htm
+Love Among the Chickens,['P.G. Wodehouse'],./data/2/0/5/3/20532/20532.txt,http://www.iblist.com/book20075.htm
+Love Among the Chickens,['P.G. Wodehouse'],./data/3/8/2/3829/3829.txt,http://www.iblist.com/book20075.htm
+Love Under Fire,['Randall Parrish'],./data/1/2/0/1/12015/12015.txt,http://www.iblist.com/book52429.htm
+Love and Intrigue,['Frederich Schiller'],./data/6/7/8/6784/6784.txt,http://www.iblist.com/book68587.htm
+Love and Mr. Lewisham,['H.G. Wells'],./data/1/1/6/4/11640/11640.txt,http://www.iblist.com/book1490.htm
+Love for Love,['William Congreve'],./data/1/2/4/1244/1244-0.txt,http://www.iblist.com/book26002.htm
+Lysistrata,['Aristophanes'],./data/7/7/0/7700/7700.txt,http://www.iblist.com/book13151.htm
+Madame Bovary,['Gustave Flaubert'],./data/2/4/1/2413/2413.txt,http://www.iblist.com/book10445.htm
+Madame Bovary,['Gustave Flaubert'],./data/2/7/5/7/27575/27575.txt,http://www.iblist.com/book10445.htm
+Madame de Treymes,['Edith Wharton'],./data/4/5/1/4518/4518.txt,http://www.iblist.com/book2996.htm
+Maggie: A Girl of the Streets,['Stephen Crane'],./data/4/4/447/447.txt,http://www.iblist.com/book14672.htm
+Main Street,['Sinclair Lewis'],./data/5/4/543/543.txt,http://www.iblist.com/book13877.htm
+Major Barbara,['George Bernard Shaw'],./data/3/7/9/3790/3790.txt,http://www.iblist.com/book3877.htm
+Major Barbara,['George Bernard Shaw'],./data/5/1/5/6/51565/51565.txt,http://www.iblist.com/book3877.htm
+Man And Superman,['George Bernard Shaw'],./data/3/3/2/3328/3328.txt,http://www.iblist.com/book3878.htm
+Man Overboard!,['F Marion Crawford'],./data/2/4/5/8/24584/24584.txt,http://www.iblist.com/book16705.htm
+Man and Wife,['Wilkie Collins'],./data/1/5/8/1586/1586.txt,http://www.iblist.com/book17034.htm
+Manalive,['G.K. Chesterton'],./data/1/7/1/1718/1718.txt,http://www.iblist.com/book18280.htm
+Mansfield Park,['Jane Austen'],./data/1/4/141/141.txt,http://www.iblist.com/book222.htm
+Maori and Settler,['G.A. Henty'],./data/3/3/6/1/33619/33619.txt,http://www.iblist.com/book50921.htm
+Marie,['H. Rider Haggard'],./data/1/6/9/1690/1690.txt,http://www.iblist.com/book14335.htm
+Marley's Chain,['Alan Edward Nourse'],./data/3/2/1/4/32142/32142.txt,http://www.iblist.com/book69957.htm
+Marriage,['H.G. Wells'],./data/3/5/3/3/35338/35338.txt,http://www.iblist.com/book67872.htm
+Martian V.F.W.,['G.L. Vandenburg'],./data/2/2/1/1/22110/22110.txt,http://www.iblist.com/book69202.htm
+Martin Eden,['Jack London'],./data/1/0/5/1056/1056.txt,http://www.iblist.com/book33962.htm
+Martyr,['Alan Edward Nourse'],./data/3/1/2/3/31236/31236.txt,http://www.iblist.com/book69967.htm
+Mary Stuart,['Frederich Schiller'],./data/6/7/9/6791/6791.txt,http://www.iblist.com/book33322.htm
+"Mary, Mary",['James Stephens'],./data/2/4/7/4/24742/24742.txt,http://www.iblist.com/book50778.htm
+Masterman Ready,['Captain Frederick Marryat'],./data/2/1/5/5/21552/21552.txt,http://www.iblist.com/book63105.htm
+Measure for Measure,['William Shakespeare'],./data/2/3/0/4/23045/23045.txt,http://www.iblist.com/book2138.htm
+Memoirs of Sherlock Holmes,['Sir Arthur Conan Doyle'],./data/8/3/834/834.txt,http://www.iblist.com/book2149.htm
+Memoirs of a Midget,['Walter de la Mare'],./data/3/9/1/2/39122/39122.txt,http://www.iblist.com/book14746.htm
+Men of Iron,['Howard Pyle'],./data/1/5/5/1557/1557.txt,http://www.iblist.com/book15728.htm
+Micah Clarke,['Arthur Conan Doyle'],./data/9/5/0/9504/9504.txt,http://www.iblist.com/book2157.htm
+Michael Strogoff,['Jules Verne'],./data/1/8/4/1842/1842.txt,http://www.iblist.com/book650.htm
+Middlemarch,['George Eliot'],./data/1/4/145/145.txt,http://www.iblist.com/book5772.htm
+Mike,['P.G. Wodehouse'],./data/7/4/2/7423/7423.txt,http://www.iblist.com/book20078.htm
+Mike and Psmith,['P.G. Wodehouse'],./data/1/0/5/8/10586/10586.txt,http://www.iblist.com/book20082.htm
+Misalliance,['George Bernard Shaw'],./data/9/4/943/943.txt,http://www.iblist.com/book25475.htm
+Miss Marjoribanks,['Mrs  Oliphant'],./data/4/1/2/8/41286/41286.txt,http://www.iblist.com/book18904.htm
+Moby Dick,['Herman Melville'],./data/1/15/15.txt,http://www.iblist.com/book2475.htm
+Montezuma's Daughter,['H. Rider Haggard'],./data/1/8/4/1848/1848.txt,http://www.iblist.com/book14333.htm
+Moods,['Louisa May Alcott'],./data/2/8/2/0/28203/28203.txt,http://www.iblist.com/book15421.htm
+More William,['Richmal Crompton'],./data/1/7/1/2/17125/17125.txt,http://www.iblist.com/book25390.htm
+Mr. Britling Sees It Through,['H.G. Wells'],./data/1/4/0/6/14060/14060.txt,http://www.iblist.com/book67903.htm
+Mr. Midshipman Easy,['Captain Frederick Marryat'],./data/2/1/5/5/21553/21553.txt,http://www.iblist.com/book41864.htm
+Mr. Midshipman Easy,['Frederick Marryat'],./data/6/6/2/6629/6629.txt,http://www.iblist.com/book41864.htm
+Mr. Standfast,['John Buchan'],./data/5/6/560/560.txt,http://www.iblist.com/book60082.htm
+Mrs. Craddock,['W. Somerset Maugham'],./data/4/7/4/7/47470/47470-0.txt,http://www.iblist.com/book50603.htm
+Mrs. Warren's Profession,['George Bernard Shaw'],./data/1/0/9/1097/1097.txt,http://www.iblist.com/book15470.htm
+Much Ado About Nothing,['William Shakespeare'],./data/1/1/1/1118/1118.txt,http://www.iblist.com/book6298.htm
+Mugby Junction,['Charles Dickens'],./data/1/4/1/1419/1419.txt,http://www.iblist.com/book42215.htm
+Mugby Junction,['Charles Dickens'],./data/2/7/9/2/27924/27924.txt,http://www.iblist.com/book42215.htm
+My Father's Dragon,['Ruth Stiles Gannett'],./data/3/0/0/1/30017/30017.txt,http://www.iblist.com/book5071.htm
+My Lady's Money,['Wilkie Collins'],./data/1/6/2/1628/1628.txt,http://www.iblist.com/book17047.htm
+My Man Jeeves,['P.G. Wodehouse'],./data/8/1/6/8164/8164.txt,http://www.iblist.com/book20106.htm
+Nada the Lily,['H. Rider Haggard'],./data/1/2/0/1207/1207.txt,http://www.iblist.com/book14334.htm
+Native Son,['T.D. Hamm'],./data/3/0/0/1/30014/30014.txt,http://www.iblist.com/book69284.htm
+New Grub Street,['George Gissing'],./data/1/7/0/1709/1709.txt,http://www.iblist.com/book33128.htm
+News from Nowhere,['William Morris'],./data/3/2/6/3261/3261.txt,http://www.iblist.com/book15281.htm
+Njal's Saga,['Unknown Icelanders'],./data/5/9/597/597.txt,http://www.iblist.com/book12942.htm
+No Name,['Wilkie Collins'],./data/1/4/3/1438/1438.txt,http://www.iblist.com/book17033.htm
+No Surrender!,['G.A. Henty'],./data/2/0/0/9/20091/20091.txt,http://www.iblist.com/book50922.htm
+Northanger Abbey,['Jane Austen'],./data/1/2/121/121.txt,http://www.iblist.com/book224.htm
+Notes from the Underground,['Feodor Dostoevsky'],./data/6/0/600/600.txt,http://www.iblist.com/book16041.htm
+O Pioneers!,['Willa Cather'],./data/2/24/24.txt,http://www.iblist.com/book14507.htm
+Of Human Bondage,['W. Somerset Maugham'],./data/3/5/351/351.txt,http://www.iblist.com/book2241.htm
+Off on a Comet,['Jules Verne'],./data/1/3/5/1353/1353.txt,http://www.iblist.com/book652.htm
+Oliver Twist,['Charles Dickens'],./data/7/3/730/730.txt,http://www.iblist.com/book2296.htm
+Omnilingual,['H. Beam Piper'],./data/1/9/4/4/19445/19445.txt,http://www.iblist.com/book27881.htm
+On the Eve,['Ivan Turgenev'],./data/6/9/0/6902/6902.txt,http://www.iblist.com/book39202.htm
+On the Irrawaddy,['G.A. Henty'],./data/2/1/2/4/21242/21242.txt,http://www.iblist.com/book50923.htm
+Once on a Time,['A.A. Milne'],./data/2/7/7/7/27771/27771.txt,http://www.iblist.com/book12909.htm
+One of Ours,['Willa Cather'],./data/2/3/6/2369/2369.txt,http://www.iblist.com/book14509.htm
+One of the 28th,['G.A. Henty'],./data/1/4/3/1/14313/14313.txt,http://www.iblist.com/book50924.htm
+Orange and Green,['G.A. Henty'],./data/1/8/3/5/18356/18356.txt,http://www.iblist.com/book50925.htm
+Orlando Furioso,['Lodovico Ariosto'],./data/6/1/615/615.txt,http://www.iblist.com/book17484.htm
+Otto of the Silver Hand,['Howard Pyle'],./data/2/8/6/2865/2865.txt,http://www.iblist.com/book15733.htm
+Our Mr. Wrenn,['Sinclair Lewis'],./data/4/9/6/4961/4961.txt,http://www.iblist.com/book14305.htm
+Our Mutual Friend,['Charles Dickens'],./data/8/8/883/883.txt,http://www.iblist.com/book15531.htm
+Out on the Pampas,['G.A. Henty'],./data/3/0/1/4/30143/30143.txt,http://www.iblist.com/book50926.htm
+Out with Garibaldi,['G.A. Henty'],./data/4/5/5/7/45573/45573.txt,http://www.iblist.com/book50927.htm
+Over the Brazier,['Robert Graves'],./data/4/7/1/4/47144/47144.txt,http://www.iblist.com/book11211.htm
+Ozma of Oz,['L. Frank Baum'],./data/3/3/3/6/33361/33361.txt,http://www.iblist.com/book1956.htm
+Ozma of Oz,['L. Frank Baum'],./data/4/8/486/486.txt,http://www.iblist.com/book1956.htm
+"Pamela, or Virtue Rewarded",['Samuel Richardson'],./data/6/1/2/6124/6124.txt,http://www.iblist.com/book20208.htm
+Pan,['Knut Hamsun'],./data/7/2/1/7214/7214.txt,http://www.iblist.com/book22971.htm
+Paradise Lost,['John Milton'],./data/2/20/20.txt,http://www.iblist.com/book193.htm
+Paradise Lost,['John Milton'],./data/2/26/26.txt,http://www.iblist.com/book193.htm
+Paradise Regained,['John Milton'],./data/5/58/58.txt,http://www.iblist.com/book3540.htm
+Parnassus on Wheels,['Christopher Morley'],./data/5/3/1/5311/5311.txt,http://www.iblist.com/book16959.htm
+Pellucidar,['Edgar Rice Burroughs'],./data/6/0/605/605.txt,http://www.iblist.com/book66991.htm
+Pembroke,['Mary E. Wilkins Freeman'],./data/1/7/4/2/17428/17428.txt,http://www.iblist.com/book15522.htm
+Penguin Island,['Anatole France'],./data/1/9/3/1930/1930.txt,http://www.iblist.com/book13538.htm
+People Soup,['Alan Arkin'],./data/5/1/3/9/51397/51397.txt,http://www.iblist.com/book61026.htm
+Percival Keene,['Frederick Marryat'],./data/2/1/5/7/21572/21572.txt,http://www.iblist.com/book41877.htm
+Personal Recollections of Joan of Arc,['Mark Twain'],./data/2/8/7/2874/2874.txt,http://www.iblist.com/book34201.htm
+Personal Recollections of Joan of Arc,['Mark Twain'],./data/2/8/7/2875/2875.txt,http://www.iblist.com/book34201.htm
+Persuasion,['Jane Austen'],./data/1/0/105/105.txt,http://www.iblist.com/book228.htm
+Peter Pan,['James M. Barrie'],./data/1/16/16.txt,http://www.iblist.com/book328.htm
+Peter Pan in Kensington Gardens,['J.M. Barrie'],./data/1/3/3/1332/1332.txt,http://www.iblist.com/book54676.htm
+Peter Pan in Kensington Gardens,['J.M. Barrie'],./data/2/6/9/9/26998/26998.txt,http://www.iblist.com/book54676.htm
+Peter Pan in Kensington Gardens,['J.M. Barrie'],./data/2/6/9/9/26999/26999.txt,http://www.iblist.com/book54676.htm
+Phaedra,['Jean Baptiste Racine'],./data/1/9/7/1977/1977.txt,http://www.iblist.com/book26140.htm
+Phantastes,['George MacDonald'],./data/3/2/325/325-8.txt,http://www.iblist.com/book11226.htm
+Philoktetes,['Sophocles'],./data/8/0/806/806.txt,http://www.iblist.com/book57207.htm
+Piccadilly Jim,['P.G. Wodehouse'],./data/2/0/0/2005/2005.txt,http://www.iblist.com/book56324.htm
+Pierre and Jean,['Guy de Maupassant'],./data/3/8/0/3804/3804.txt,http://www.iblist.com/book68120.htm
+Pillars of Society,['Henrik Ibsen'],./data/2/2/9/2296/2296.txt,http://www.iblist.com/book13927.htm
+Pinocchio,['C. Collodi'],./data/1/6/8/6/16865/16865.txt,http://www.iblist.com/book23529.htm
+Plague of Pythons,['Frederik Pohl'],./data/5/1/8/0/51804/51804.txt,http://www.iblist.com/book29276.htm
+Poems,['Sir John Carr'],./data/1/0/3/6/10367/10367/10367.txt,http://www.iblist.com/book6611.htm
+Poems,['John Hay'],./data/1/0/5/1/10518/10518/10518.txt,http://www.iblist.com/book6611.htm
+Poems,['John William Draper'],./data/4/2/0/3/42034/42034.txt,http://www.iblist.com/book6611.htm
+Poems,['Robert Lovell'],./data/4/2/6/2/42621/42621.txt,http://www.iblist.com/book11221.htm
+Poems,['Frederic Manning'],./data/4/3/6/1/43615/43615.txt,http://www.iblist.com/book63072.htm
+Point of Departure,['Vaughan Shelton'],./data/5/0/9/4/50945/50945.txt,http://www.iblist.com/book55157.htm
+Police Your Planet,['Lester del Rey'],./data/2/0/2/1/20212/20212.txt,http://www.iblist.com/book36492.htm
+Pollyanna,['Eleanor H. Porter'],./data/1/4/5/1450/1450.txt,http://www.iblist.com/book15038.htm
+Pollyanna Grows Up,['Eleanor H. Porter'],./data/6/1/0/6100/6100.txt,http://www.iblist.com/book15039.htm
+Poor Folk,['Fyodor Dostoyevsky'],./data/2/3/0/2302/2302.txt,http://www.iblist.com/book63104.htm
+Poor Miss Finch,['Wilkie Collins'],./data/3/6/3/3632/3632.txt,http://www.iblist.com/book17035.htm
+Preferred Risk,['Edson McCann'],./data/5/1/8/1/51814/51814-8.txt,http://www.iblist.com/book29284.htm
+Pride and Prejudice,['Jane Austen'],./data/1/3/4/1342/1342.txt,http://www.iblist.com/book226.htm
+Pride and Prejudice,['Jane Austen'],./data/4/2/6/7/42671/42671.txt,http://www.iblist.com/book226.htm
+Proof of the Pudding,['Robert Sheckley'],./data/5/0/8/4/50844/50844.txt,http://www.iblist.com/book58616.htm
+Prufrock and Other Observations,['T.S. Eliot'],./data/1/4/5/1459/1459.txt,http://www.iblist.com/book1480.htm
+Psmith in the City,['P.G. Wodehouse'],./data/6/7/5/6753/6753.txt,http://www.iblist.com/book20079.htm
+"Psmith, Journalist",['P.G. Wodehouse'],./data/2/6/0/2607/2607.txt,http://www.iblist.com/book20080.htm
+Psyche,['Louis Couperus'],./data/3/8/0/0/38005/38005.txt,http://www.iblist.com/book60663.htm
+Puck of Pook's Hill,['Rudyard Kipling'],./data/1/5/9/7/15976/15976.txt,http://www.iblist.com/book13696.htm
+Puck of Pook's Hill,['Rudyard Kipling'],./data/2/6/0/2/26027/26027.txt,http://www.iblist.com/book13696.htm
+Puck of Pook's Hill,['Rudyard Kipling'],./data/5/5/557/557.txt,http://www.iblist.com/book13696.htm
+Putois,['Anatole France'],./data/2/3/2/1/23219/23219.txt,http://www.iblist.com/book64079.htm
+Pygmalion,['George Bernard Shaw'],./data/3/8/2/3825/3825.txt,http://www.iblist.com/book42.htm
+Pygmalion's Spectacles,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22893/22893.txt,http://www.iblist.com/book52454.htm
+Queen of the Black Coast,['Robert E. Howard'],./data/4/2/1/8/42183/42183.txt,http://www.iblist.com/book34582.htm
+Quo Vadis,['Henryk Sienkiewicz'],./data/2/8/5/2853/2853.txt,http://www.iblist.com/book33013.htm
+Racketty-Packetty House,['Frances H. Burnett'],./data/8/5/7/8574/8574.txt,http://www.iblist.com/book16996.htm
+Rainbow Valley,['Lucy Maud Montgomery'],./data/5/3/4/5343/5343.txt,http://www.iblist.com/book8837.htm
+Ralestone Luck,['Andre Norton'],./data/1/8/8/1/18817/18817.txt,http://www.iblist.com/book4418.htm
+Rasselas,['Samuel Johnson'],./data/6/5/652/652-0.txt,http://www.iblist.com/book20189.htm
+Red Eve,['H. Rider Haggard'],./data/3/0/9/3094/3094.txt,http://www.iblist.com/book31019.htm
+Red Nails,['Robert E. Howard'],./data/3/2/7/5/32759/32759.txt,http://www.iblist.com/book34628.htm
+Resurrection,['Leo Tolstoy'],./data/1/9/3/1938/1938.txt,http://www.iblist.com/book26667.htm
+Resurrection,['Robert Joseph Shea'],./data/2/8/0/3/28031/28031.txt,http://www.iblist.com/book49791.htm
+Return of the Native,['Thomas Hardy'],./data/1/2/122/122.txt,http://www.iblist.com/book25647.htm
+Riders of the Purple Sage,['Zane Grey'],./data/1/3/0/1300/1300.txt,http://www.iblist.com/book19865.htm
+Riders to the Sea,['J.M. Synge'],./data/9/9/994/994.txt,http://www.iblist.com/book20861.htm
+"Right Ho, Jeeves",['P.G. Wodehouse'],./data/1/0/5/5/10554/10554.txt,http://www.iblist.com/book20110.htm
+Rilla of Ingleside,['Lucy Maud Montgomery'],./data/3/7/9/3796/3796.txt,http://www.iblist.com/book8836.htm
+Rinkitink in Oz,['L. Frank Baum'],./data/2/5/5/8/25581/25581.txt,http://www.iblist.com/book1984.htm
+Rinkitink in Oz,['L. Frank Baum'],./data/9/5/958/958.txt,http://www.iblist.com/book1984.htm
+Robur the Conqueror,['Jules Verne'],./data/3/8/0/3808/3808.txt,http://www.iblist.com/book1100.htm
+Roderick Hudson,['Henry James'],./data/1/7/176/176.txt,http://www.iblist.com/book64953.htm
+Rodney Stone,['Arthur Conan Doyle'],./data/5/1/4/5148/5148-0.txt,http://www.iblist.com/book2163.htm
+Romance,"['Joseph Conrad', 'F.M. Hueffer']",./data/1/7/6/4/17642/17642.txt,http://www.iblist.com/book1099.htm
+Romeo and Juliet,['William Shakespeare'],./data/1/1/1/1112/1112.txt,http://www.iblist.com/book2099.htm
+Romola,['George Eliot'],./data/2/4/0/2/24020/24020.txt,http://www.iblist.com/book14950.htm
+Rose in Bloom,['Louisa May Alcott'],./data/2/8/0/2804/2804.txt,http://www.iblist.com/book15410.htm
+Rose in Bloom,['Louisa May Alcott'],./data/4/1/1/2/41127/41127.txt,http://www.iblist.com/book15410.htm
+Rosmerholm,['Henrik Ibsen'],./data/2/2/8/2289/2289.txt,http://www.iblist.com/book13923.htm
+Royal Highness,['Thomas Mann'],./data/3/6/0/2/36028/36028-8.txt,http://www.iblist.com/book13964.htm
+Rudin,['Ivan Turgenev'],./data/6/9/0/6900/6900.txt,http://www.iblist.com/book39208.htm
+"Rujub, the Juggler",['G.A. Henty'],./data/7/2/2/7229/7229.txt,http://www.iblist.com/book50928.htm
+Rupert of Hentzau,['Anthony Hope'],./data/1/1/4/1145/1145.txt,http://www.iblist.com/book6176.htm
+Ruth Fielding in the Great Northwest,['Alice B. Emerson'],./data/1/5/7/2/15720/15720.txt,http://www.iblist.com/book3080.htm
+Saint Bartholomew's Eve,['G.A. Henty'],./data/2/0/0/9/20092/20092.txt,http://www.iblist.com/book50929.htm
+Saint George for England,['G.A. Henty'],./data/3/4/2/3429/3429.txt,http://www.iblist.com/book31969.htm
+Salammbo,['Gustave Flaubert'],./data/1/2/9/1290/1290.txt,http://www.iblist.com/book58852.htm
+Salome,['Oscar Wilde'],./data/4/2/7/0/42704/42704.txt,http://www.iblist.com/book13729.htm
+Sanctuary,['Edith Wharton'],./data/7/5/1/7517/7517.txt,http://www.iblist.com/book17742.htm
+Sartor Resartus,['Thomas Carlyle'],./data/1/0/5/1051/1051.txt,http://www.iblist.com/book14377.htm
+Search the Sky,['Frederik Pohl'],./data/5/2/2/2/52228/52228-0.txt,http://www.iblist.com/book3104.htm
+Second Sight,['Alan Edward Nourse'],./data/2/2/9/9/22997/22997.txt,http://www.iblist.com/book69080.htm
+Second Variety,['Philip Kindred Dick'],./data/3/2/0/3/32032/32032.txt,http://www.iblist.com/book17805.htm
+Secresy,['E.  Fenwick'],./data/4/3/5/2/43529/43529.txt,http://www.iblist.com/book60368.htm
+Select Conversations with an Uncle,['H.G. Wells'],./data/2/9/4/7/29472/29472.txt,http://www.iblist.com/book67961.htm
+Selected Stories,['Bret Harte'],./data/1/3/1/1312/1312.txt,http://www.iblist.com/book48426.htm
+Sense and Sensibility,['Jane Austen'],./data/1/6/161/161.txt,http://www.iblist.com/book227.htm
+Sense and Sensibility,['Jane Austen'],./data/2/1/8/3/21839/21839.txt,http://www.iblist.com/book227.htm
+Seven Men,['Max Beerbohm'],./data/1/3/0/1306/1306.txt,http://www.iblist.com/book18290.htm
+Shadows in Zamboula,['Robert E. Howard'],./data/4/2/1/9/42196/42196.txt,http://www.iblist.com/book34609.htm
+She,['H. Rider Haggard'],./data/3/1/5/3155/3155-0.txt,http://www.iblist.com/book14331.htm
+She Stoops to Conquer,['Oliver Goldsmith'],./data/3/8/383/383.txt,http://www.iblist.com/book14384.htm
+Shirley,['Charlotte Bronte'],./data/3/0/4/8/30486/30486.txt,http://www.iblist.com/book14482.htm
+Siddhartha,['Herman Hesse'],./data/2/5/0/2500/2500.txt,http://www.iblist.com/book6681.htm
+Sight Unseen,['Mary Roberts Rinehart'],./data/1/9/6/1960/1960.txt,http://www.iblist.com/book64716.htm
+Silas Marner,['George Eliot'],./data/5/5/550/550.txt,http://www.iblist.com/book5027.htm
+Sintram and His Companions,['Friedrich de la Motte Fouque'],./data/2/8/2/2824/2824.txt,http://www.iblist.com/book19369.htm
+Sir Gibbie,['George MacDonald'],./data/2/3/7/2370/2370.txt,http://www.iblist.com/book18883.htm
+Sir Nigel,['Arthur Conan Doyle'],./data/2/8/4/2845/2845.txt,http://www.iblist.com/book2164.htm
+Sister Carrie,['Theodore Dreiser'],./data/2/3/233/233.txt,http://www.iblist.com/book14935.htm
+Sister Carrie,['Theodore Dreiser'],./data/5/2/6/5267/5267.txt,http://www.iblist.com/book14935.htm
+"Someone Comes to Town, Someone Leaves Town",['Cory Doctorow'],./data/1/8/2/2/18224/18224-8.txt,http://www.iblist.com/book25531.htm
+Songs of Innocence and Songs of Experience,['William Blake'],./data/1/9/3/1934/1934.txt,http://www.iblist.com/book887.htm
+Sons and Lovers,['David Herbert Lawrence'],./data/2/1/217/217.txt,http://www.iblist.com/book2239.htm
+Sons and Lovers,['David Herbert Lawrence'],./data/4/7/6/3/47634/47634-0.txt,http://www.iblist.com/book2239.htm
+Space Platform,['Murray Leinster'],./data/2/5/0/5/25051/25051.txt,http://www.iblist.com/book48707.htm
+Space Tug,['Murray Leinster'],./data/1/8/7/1/18719/18719.txt,http://www.iblist.com/book47111.htm
+Spirits in Bondage,['C.S. Lewis'],./data/2/0/0/2003/2003.txt,http://www.iblist.com/book33945.htm
+Spoon River Anthology,['Edgar Lee Masters'],./data/1/2/8/1280/1280.txt,http://www.iblist.com/book4751.htm
+St. George for England,['G.A. Henty'],./data/3/4/8/8/34886/34886.txt,http://www.iblist.com/book31969.htm
+Star Born,['Andre Norton'],./data/1/8/4/5/18458/18458.txt,http://www.iblist.com/book34221.htm
+Storm Over Warlock,['Andre Norton'],./data/2/0/7/8/20788/20788.txt,http://www.iblist.com/book58003.htm
+Sturdy and Strong,['G.A. Henty'],./data/3/3/9/3/33939/33939.txt,http://www.iblist.com/book50930.htm
+Subjectivity,['Norman Spinrad'],./data/3/0/7/2/30722/30722.txt,http://www.iblist.com/book36532.htm
+Summer,['Edith Wharton'],./data/1/6/166/166.txt,http://www.iblist.com/book3007.htm
+Sunshine Sketches of a Little Town,['Stephen Leacock'],./data/3/5/3/3533/3533.txt,http://www.iblist.com/book27863.htm
+Swann's Way,['Marcel Proust'],./data/7/1/7/7178/7178-8.txt,http://www.iblist.com/book30474.htm
+Swiss Family Robinson,['Johann David Wyss'],./data/3/8/3/3836/3836.txt,http://www.iblist.com/book12883.htm
+Sylvie and Bruno,['Lewis Carroll'],./data/6/2/620/620.txt,http://www.iblist.com/book6741.htm
+THE JAPANESE TWINS,['Lucy Fitch Perkins'],./data/3/4/9/3496/3496.txt,http://www.iblist.com/book16054.htm
+Tales From Jokai,['Mor Jokai'],./data/3/7/2/8/37286/37286.txt,http://www.iblist.com/book67044.htm
+Tales Of Hearsay,['Joseph Conrad'],./data/1/7/7/3/17732/17732.txt,http://www.iblist.com/book64972.htm
+Tales of Secret Egypt,['Sax Rohmer'],./data/4/0/1/0/40108/40108.txt,http://www.iblist.com/book37553.htm
+Tales of Space and Time,['Herbert George Wells'],./data/2/7/3/6/27365/27365.txt,http://www.iblist.com/book67968.htm
+Tales of St. Austin's,['P.G. Wodehouse'],./data/6/9/8/6980/6980.txt,http://www.iblist.com/book20070.htm
+Tales of Terror and Mystery,['Arthur Conan Doyle'],./data/5/3/537/537.txt,http://www.iblist.com/book2169.htm
+Tales of Unrest,['Joseph Conrad'],./data/1/2/0/1202/1202.txt,http://www.iblist.com/book1178.htm
+Tales of the Jazz Age,['F. Scott Fitzgerald'],./data/6/6/9/6695/6695.txt,http://www.iblist.com/book63584.htm
+Tam O'Shanter,['Robert Burns'],./data/2/5/7/3/25733/25733.txt,http://www.iblist.com/book53340.htm
+Tanglewood Tales,['Nathaniel Hawthorne'],./data/5/1/9/9/51995/51995-0.txt,http://www.iblist.com/book13678.htm
+Tanglewood Tales,['Nathaniel Hawthorne'],./data/9/7/976/976.txt,http://www.iblist.com/book13678.htm
+Taras Bulba and Other Tales,['Nikolai Vasilievich Gogol'],./data/1/1/9/1197/1197.txt,http://www.iblist.com/book62785.htm
+Tarzan and the Jewels of Opar,['Edgar Rice Burroughs'],./data/9/92/92.txt,http://www.iblist.com/book1462.htm
+Tarzan of the Apes,['Edgar Rice Burroughs'],./data/7/78/78.txt,http://www.iblist.com/book1457.htm
+Tarzan the Terrible,['Edgar Rice Burroughs'],./data/2/0/2/2020/2020.txt,http://www.iblist.com/book1450.htm
+Tarzan the Untamed,['Edgar Rice Burroughs'],./data/1/4/0/1401/1401.txt,http://www.iblist.com/book1465.htm
+Tess of the d'Urbervilles,['Thomas Hardy'],./data/1/1/110/110.txt,http://www.iblist.com/book2244.htm
+Tex,['Clarence E. Mulford'],./data/4/3/1/0/43100/43100.txt,http://www.iblist.com/book47205.htm
+That Lass O' Lowrie's,['Frances Hodgson Burnett'],./data/2/5/7/2/25725/25725.txt,http://www.iblist.com/book16997.htm
+The AEsop for Children,['AEsop'],./data/1/9/9/9/19994/19994.txt,http://www.iblist.com/book5888.htm
+The Acharnians,['Aristophanes'],./data/3/0/1/3012/3012.txt,http://www.iblist.com/book19163.htm
+The Adventures of Huckleberry Finn,['Mark Twain'],./data/3/2/3/2/32325/32325.txt,http://www.iblist.com/book1932.htm
+The Adventures of Sally,['P.G. Wodehouse'],./data/7/4/6/7464/7464.txt,http://www.iblist.com/book56320.htm
+The Adventures of Sherlock Holmes,['Arthur Conan Doyle'],./data/1/6/6/1661/1661.txt,http://www.iblist.com/book2147.htm
+The Aeneid,['Virgil'],./data/2/2/228/228.txt,http://www.iblist.com/book5676.htm
+The Age of Innocence,['Edith Wharton'],./data/5/4/541/541.txt,http://www.iblist.com/book3010.htm
+The Aggravation of Elmer,['Robert Andrew Arthur'],./data/2/9/6/1/29618/29618.txt,http://www.iblist.com/book69851.htm
+The Alchemist,['Ben Jonson'],./data/4/0/8/4081/4081.txt,http://www.iblist.com/book20459.htm
+The Alien,['Raymond F. Jones'],./data/5/0/7/8/50783/50783-8.txt,http://www.iblist.com/book33608.htm
+The Aliens,['Murray Leinster'],./data/2/4/1/0/24104/24104.txt,http://www.iblist.com/book48437.htm
+The Amateur Cracksman,['E.W. Hornung'],./data/7/0/706/706.txt,http://www.iblist.com/book47692.htm
+The Ambassadors,['Henry James'],./data/4/3/432/432.txt,http://www.iblist.com/book1218.htm
+The American,['Henry James'],./data/1/7/177/177-0.txt,http://www.iblist.com/book1196.htm
+The Arrow of Gold,['Joseph Conrad'],./data/1/0/8/1083/1083.txt,http://www.iblist.com/book1129.htm
+The Awakening,['Jack Sharkey'],./data/5/0/8/3/50834/50834.txt,http://www.iblist.com/book38424.htm
+The Ball and The Cross,['G.K. Chesterton'],./data/5/2/6/5265/5265.txt,http://www.iblist.com/book18281.htm
+The Ballad of Reading Gaol,['Oscar Wilde'],./data/3/0/301/301.txt,http://www.iblist.com/book14329.htm
+The Beasts of Tarzan,['Edgar Rice Burroughs'],./data/8/85/85.txt,http://www.iblist.com/book1460.htm
+The Beautiful and the Damned,['F. Scott Fitzgerald'],./data/9/8/3/9830/9830.txt,http://www.iblist.com/book1030.htm
+The Beggar's Opera,['John Gay'],./data/2/5/0/6/25063/25063.txt,http://www.iblist.com/book14383.htm
+The Belgian Twins,['Lucy Fitch Perkins'],./data/3/6/4/3642/3642.txt,http://www.iblist.com/book16061.htm
+The Bell in the Fog and Other Stories,['Gertrude Atherton'],./data/1/4/2/5/14256/14256.txt,http://www.iblist.com/book63787.htm
+The Beloved Traitor,['Frank L. Packard'],./data/3/4/0/3/34034/34034.txt,http://www.iblist.com/book32741.htm
+The Big Time,['Fritz Reuter Leiber'],./data/3/2/2/5/32256/32256.txt,http://www.iblist.com/book2139.htm
+The Birds,['Aristophanes'],./data/3/0/1/3013/3013.txt,http://www.iblist.com/book26169.htm
+The Birth of Tragedy,['Friedrich Nietzsche'],./data/5/1/3/5/51356/51356-0.txt,http://www.iblist.com/book46570.htm
+The Black Arrow,['Robert Louis Stevenson'],./data/3/2/9/5/32954/32954.txt,http://www.iblist.com/book28687.htm
+The Black Arrow,['Robert Louis Stevenson'],./data/8/4/848/848.txt,http://www.iblist.com/book28687.htm
+The Black Moth,['Georgette Heyer'],./data/3/8/7/0/38703/38703.txt,http://www.iblist.com/book64605.htm
+The Black Robe,['Wilkie Collins'],./data/1/5/8/1587/1587.txt,http://www.iblist.com/book17041.htm
+The Black Star Passes,['John W Campbell'],./data/2/0/7/0/20707/20707.txt,http://www.iblist.com/book58054.htm
+The Black Tulip,['Alexandre Dumas'],./data/9/6/965/965.txt,http://www.iblist.com/book1311.htm
+The Blithedale Romance,['Nathaniel Hawthorne'],./data/2/0/8/2081/2081.txt,http://www.iblist.com/book13677.htm
+The Blockade Runners,['Jules Verne'],./data/8/9/9/8992/8992.txt,http://www.iblist.com/book2514.htm
+"The Boats of the ""Glen Carrig",['William Hope Hodgson'],./data/1/0/5/4/10542/10542.txt,http://www.iblist.com/book3598.htm
+The Book of Dragons,['Edith Nesbit'],./data/2/3/6/6/23661/23661.txt,http://www.iblist.com/book17058.htm
+The Border Legion,['Zane Grey'],./data/4/5/5/4552/4552.txt,http://www.iblist.com/book19829.htm
+The Box-Car Children,['Gertrude Chandler Warner'],./data/4/2/7/9/42796/42796.txt,http://www.iblist.com/book13313.htm
+The Bravest of the Brave,['G.A. Henty'],./data/7/3/1/7318/7318.txt,http://www.iblist.com/book50931.htm
+The Brothers Karamazov,['Fyodor Dostoyevsky'],./data/2/8/0/5/28054/28054.txt,http://www.iblist.com/book2745.htm
+The Brown Fairy Book,['Andrew Lang'],./data/3/1/2/0/31201/31201.txt,http://www.iblist.com/book23327.htm
+The Brown Fairy Book,['Andrew Lang'],./data/3/2/8/3282/3282.txt,http://www.iblist.com/book23327.htm
+The Call of the Canyon,['Zane Grey'],./data/1/8/8/1881/1881.txt,http://www.iblist.com/book19831.htm
+The Call of the Wild,['Jack London'],./data/2/1/215/215.txt,http://www.iblist.com/book340.htm
+The Canterville Ghost,['Oscar Wilde'],./data/1/4/5/2/14522/14522.txt,http://www.iblist.com/book14328.htm
+The Cask of Amontillado,['Edgar Allan Poe'],./data/1/0/6/1063/1063.txt,http://www.iblist.com/book7968.htm
+The Casting Away of Mrs. Lecks and Mrs. Aleshine,['Frank R. Stockton'],./data/3/5/5/7/35570/35570.txt,http://www.iblist.com/book12997.htm
+The Castle of Otranto,['Horace Walpole'],./data/6/9/696/696-0.txt,http://www.iblist.com/book15273.htm
+The Cat of Bubastes,['G.A. Henty'],./data/2/9/7/5/29756/29756.txt,http://www.iblist.com/book50737.htm
+The Cave Twins,['Lucy Fitch Perkins'],./data/2/8/4/2/28425/28425.txt,http://www.iblist.com/book16057.htm
+The Chessmen of Mars,['Edgar Rice Burroughs'],./data/1/1/5/1153/1153.txt,http://www.iblist.com/book1617.htm
+The Chimes,['Charles Dickens'],./data/6/5/653/653-0.txt,http://www.iblist.com/book60599.htm
+The Chronicles of Clovis,['Saki'],./data/3/6/8/3688/3688.txt,http://www.iblist.com/book61473.htm
+The Cid,['Pierre Corneille'],./data/1/4/9/5/14954/14954.txt,http://www.iblist.com/book49850.htm
+The Clicking of Cuthbert,['P.G. Wodehouse'],./data/7/0/2/7028/7028.txt,http://www.iblist.com/book20220.htm
+The Clockmaker,['Thomas Chandler Haliburton'],./data/5/8/1/5817/5817.txt,http://www.iblist.com/book65410.htm
+The Clockmaker,['Thomas Chandler Haliburton'],./data/9/1/9/9196/9196.txt,http://www.iblist.com/book65410.htm
+The Club of Queer Trades,['G.K. Chesterton'],./data/1/6/9/1696/1696.txt,http://www.iblist.com/book18282.htm
+The Coffin Cure,['Alan Edward Nourse'],./data/2/4/2/7/24276/24276.txt,http://www.iblist.com/book69955.htm
+The Comedy of Errors,['William Shakespeare'],./data/2/3/0/4/23046/23046.txt,http://www.iblist.com/book2072.htm
+The Coming Race,['Edward Bulwer Lytton'],./data/1/9/5/1951/1951.txt,http://www.iblist.com/book33123.htm
+The Confessions of Saint Augustine,['Saint Augustine'],./data/3/2/9/3296/3296.txt,http://www.iblist.com/book59521.htm
+The Confidence-Man,['Herman Melville'],./data/2/1/8/1/21816/21816.txt,http://www.iblist.com/book31783.htm
+The Cornet of Horse,['G.A. Henty'],./data/1/7/4/0/17403/17403.txt,http://www.iblist.com/book50932.htm
+The Cosmic Computer,['Henry Beam Piper'],./data/2/0/7/2/20727/20727.txt,http://www.iblist.com/book20958.htm
+The Cossacks,['Leo Tolstoy'],./data/4/7/6/4761/4761.txt,http://www.iblist.com/book26668.htm
+The Count of Monte Cristo,"['Alexandre Dumas', 'pÃ¨re']",./data/1/1/8/1184/1184-0.txt,http://www.iblist.com/book1232.htm
+The Country of the Pointed Firs,['Sarah Orne Jewett'],./data/3/6/367/367.txt,http://www.iblist.com/book58881.htm
+The Crock of Gold,['James Stephens'],./data/1/6/0/1605/1605.txt,http://www.iblist.com/book15854.htm
+The Crux,['Charlotte Perkins Gilman'],./data/3/8/5/5/38551/38551.txt,http://www.iblist.com/book6084.htm
+The Curse of Carne's Hold,['G.A. Henty'],./data/3/9/3/7/39374/39374.txt,http://www.iblist.com/book50933.htm
+The Custom of the Country,['Edith Wharton'],./data/1/1/0/5/11052/11052.txt,http://www.iblist.com/book3006.htm
+The Damned Thing,['Ambrose Bierce'],./data/2/3/1/7/23172/23172.txt,http://www.iblist.com/book63854.htm
+The Dangerous Age,['Karin Michaelis'],./data/1/4/1/8/14187/14187.txt,http://www.iblist.com/book42853.htm
+The Dark Door,['Alan Edward Nourse'],./data/2/2/8/6/22869/22869.txt,http://www.iblist.com/book69956.htm
+The Dash for Khartoum,['George Alfred Henty'],./data/2/1/9/8/21986/21986.txt,http://www.iblist.com/book50934.htm
+The Day of the Beast,['Zane Grey'],./data/1/5/6/7/15673/15673.txt,http://www.iblist.com/book19835.htm
+The Dead Are Silent,['Arthur Schnitzler'],./data/2/3/0/6/23061/23061.txt,http://www.iblist.com/book51260.htm
+The Dead Secret,['Wilkie Collins'],./data/4/3/0/9/43092/43092.txt,http://www.iblist.com/book17039.htm
+The Deerslayer,['James Fenimore Cooper'],./data/3/2/8/3285/3285.txt,http://www.iblist.com/book2274.htm
+The Defiant Agents,['Andre Alice Norton'],./data/2/5/5/5/25550/25550.txt,http://www.iblist.com/book23271.htm
+The Descent of Man and Other Stories,['Edith Wharton'],./data/4/5/1/4519/4519.txt,http://www.iblist.com/book3029.htm
+The Desert of Wheat,['Zane Grey'],./data/1/0/2/0/10201/10201/10201.txt,http://www.iblist.com/book19838.htm
+The Deserted Village,['Oliver Goldsmith'],./data/5/0/5/0/50500/50500.txt,http://www.iblist.com/book20188.htm
+The Devil in Iron,['Robert E. Howard'],./data/4/2/2/0/42209/42209.txt,http://www.iblist.com/book34594.htm
+The Devil's Dictionary,['Ambrose Bierce'],./data/9/7/972/972.txt,http://www.iblist.com/book5374.htm
+The Devil's Elixir,['E.T.A. Hoffmann'],./data/3/6/4/9/36494/36494.txt,http://www.iblist.com/book66902.htm
+The Devil's Elixir,['E.T.A. Hoffmann'],./data/3/7/0/0/37005/37005.txt,http://www.iblist.com/book66902.htm
+The Devolutionist and The Emancipatrix,['Homer Eon Flint'],./data/5/9/6/5965/5965.txt,http://www.iblist.com/book58057.htm
+The Doctor's Wife,['M.E. Braddon'],./data/3/5/4/8/35485/35485.txt,http://www.iblist.com/book13225.htm
+The Dolliver Romance,['Nathaniel Hawthorne'],./data/7/1/1/7119/7119.txt,http://www.iblist.com/book16548.htm
+The Dominion in 1983,['Ralph Centennius'],./data/4/2/9/4290/4290.txt,http://www.iblist.com/book18073.htm
+The Doom of the Griffiths,['Elizabeth Gaskell'],./data/2/5/4/2549/2549-0.txt,http://www.iblist.com/book16553.htm
+The Door Through Space,['Marion Zimmer Bradley'],./data/1/9/7/2/19726/19726.txt,http://www.iblist.com/book57656.htm
+The Door in the Wall And Other Stories,['H.G. Wells'],./data/4/5/456/456.txt,http://www.iblist.com/book67976.htm
+The Dragon and the Raven,['G.A. Henty'],./data/3/6/7/3674/3674.txt,http://www.iblist.com/book50935.htm
+The Dueling Machine,['Benjamin William Bova'],./data/3/0/7/9/30796/30796.txt,http://www.iblist.com/book38918.htm
+The Dunwich Horror,['H.P. Lovecraft'],./data/5/0/1/3/50133/50133-8.txt,http://www.iblist.com/book41910.htm
+The Dutch Twins,['Lucy Fitch Perkins'],./data/4/0/1/4012/4012.txt,http://www.iblist.com/book16058.htm
+The Elusive Pimpernel,['Baroness Emmuska Orczy'],./data/2/7/8/2785/2785.txt,http://www.iblist.com/book51659.htm
+The Emerald City of Oz,['L. Frank Baum'],./data/4/1/6/6/41667/41667.txt,http://www.iblist.com/book1963.htm
+The Emerald City of Oz,['L. Frank Baum'],./data/5/1/517/517.txt,http://www.iblist.com/book1963.htm
+The Emperor of Portugallia,['Selma Lagerlof'],./data/1/4/3/5/14356/14356.txt,http://www.iblist.com/book12878.htm
+The Empty House And Other Ghost Stories,['Algernon Blackwood'],./data/1/4/4/7/14471/14471.txt,http://www.iblist.com/book67572.htm
+The Enchanted Castle,['E. Nesbit'],./data/3/4/2/1/34219/34219.txt,http://www.iblist.com/book17055.htm
+The Enchanted Castle,['E. Nesbit'],./data/3/5/3/3536/3536.txt,http://www.iblist.com/book17055.htm
+The Enormous Room,['Edward Estlin Cummings'],./data/8/4/4/8446/8446-8.txt,http://www.iblist.com/book3787.htm
+The Eskimo Twins,['Lucy Fitch Perkins'],./data/3/7/7/3774/3774.txt,http://www.iblist.com/book16055.htm
+The Evil Genius,['Wilkie Collins'],./data/1/6/2/1627/1627.txt,http://www.iblist.com/book17043.htm
+The Explorer,['W. Somerset Maugham'],./data/2/7/1/9/27198/27198.txt,http://www.iblist.com/book68551.htm
+The Fall of the House of Usher,['Edgar Allan Poe'],./data/9/3/932/932.txt,http://www.iblist.com/book7969.htm
+The Field of Ice,['Jules Verne'],./data/9/6/1/9618/9618.txt,http://www.iblist.com/book1282.htm
+The Financier,['Theodore Dreiser'],./data/1/8/4/1840/1840.txt,http://www.iblist.com/book14937.htm
+The First Men In The Moon,['H.G. Wells'],./data/1/0/1/1013/1013.txt,http://www.iblist.com/book67852.htm
+The First Men in the Moon,['H.G. Wells'],./data/5/2/5/0/52501/52501-0.txt,http://www.iblist.com/book67852.htm
+The Forest,['Stewart Edward White'],./data/9/3/7/9376/9376.txt,http://www.iblist.com/book9084.htm
+The Forgotten Planet,['Murray Leinster'],./data/4/1/6/3/41637/41637.txt,http://www.iblist.com/book6605.htm
+The Fortunate Youth,['William J. Locke'],./data/4/3/7/4379/4379.txt,http://www.iblist.com/book62954.htm
+The French Twins,['Lucy Fitch Perkins'],./data/4/0/9/4091/4091.txt,http://www.iblist.com/book16063.htm
+The Frogs,['Aristophanes'],./data/7/9/9/7998/7998.txt,http://www.iblist.com/book57252.htm
+The Fruit of the Tree,['Edith Wharton'],./data/1/9/1/9/19191/19191.txt,http://www.iblist.com/book2998.htm
+The Galaxy Primes,['Edward Elmer Smith'],./data/2/0/8/9/20898/20898.txt,http://www.iblist.com/book58000.htm
+The Gambler,['Fyodor Dostoyevsky'],./data/2/1/9/2197/2197.txt,http://www.iblist.com/book16042.htm
+The Game of Rat and Dragon,['Cordwainer Smith'],./data/2/9/6/1/29614/29614.txt,http://www.iblist.com/book27430.htm
+The Garden Party,['Katherine Mansfield'],./data/1/4/2/1429/1429.txt,http://www.iblist.com/book61373.htm
+The Gentle Grafter,['O. Henry'],./data/1/8/0/1805/1805.txt,http://www.iblist.com/book64072.htm
+The Ghost,"[""William. D. O'Connor""]",./data/2/6/7/7/26779/26779.txt,http://www.iblist.com/book16728.htm
+The Ghost Ship,['Richard Middleton'],./data/1/1/0/4/11045/11045.txt,http://www.iblist.com/book26474.htm
+The Gift of the Magi,['O. Henry'],./data/7/2/5/7256/7256.txt,http://www.iblist.com/book29415.htm
+The Glimpses of the Moon,['Edith Wharton'],./data/1/2/6/1263/1263.txt,http://www.iblist.com/book3011.htm
+The Gods of Mars,['Edgar Rice Burroughs'],./data/2/9/4/0/29405/29405.txt,http://www.iblist.com/book2249.htm
+The Gods of Mars,['Edgar Rice Burroughs'],./data/6/64/64.txt,http://www.iblist.com/book2249.htm
+The Gold Bat,['P.G. Wodehouse'],./data/6/8/7/6879/6879.txt,http://www.iblist.com/book20187.htm
+The Golden Asse,['Lucius Apuleius'],./data/1/6/6/1666/1666.txt,http://www.iblist.com/book59376.htm
+The Golden Bowl,['Henry James'],./data/4/2/6/4264/4264.txt,http://www.iblist.com/book15471.htm
+The Golden Road,['Lucy Maud Montgomery'],./data/3/1/316/316.txt,http://www.iblist.com/book37288.htm
+The Golden Scorpion,['Sax Rohmer'],./data/1/8/6/1/18613/18613.txt,http://www.iblist.com/book36035.htm
+The Great God Pan,['Arthur Machen'],./data/3/8/389/389.txt,http://www.iblist.com/book3021.htm
+The Great Hunger,['Johan Bojer'],./data/2/9/4/2943/2943.txt,http://www.iblist.com/book67454.htm
+The Great Stone Face,['Nathaniel Hawthorne'],./data/1/9/1/1916/1916.txt,http://www.iblist.com/book16546.htm
+The Great Stone of Sardis,['Frank R. Stockton'],./data/6/1/2/6127/6127.txt,http://www.iblist.com/book31651.htm
+The Great War Syndicate,['Frank Stockton'],./data/4/2/427/427.txt,http://www.iblist.com/book19448.htm
+The Greater Inclination,['Edith Wharton'],./data/9/1/9/9190/9190.txt,http://www.iblist.com/book3027.htm
+The Green Carnation,['Robert Smythe Hichens'],./data/2/4/4/9/24499/24499.txt,http://www.iblist.com/book39354.htm
+The Green Odyssey,['Philip José Farmer'],./data/5/0/5/7/50571/50571-8.txt,http://www.iblist.com/book33316.htm
+The Grey Fairy Book,['Andrew Lang'],./data/3/3/5/4/33547/33547.txt,http://www.iblist.com/book23322.htm
+The Hairy Ape,"[""Eugene O'Neill""]",./data/4/0/1/4015/4015.txt,http://www.iblist.com/book17728.htm
+The Hand Of Fu-Manchu,['Sax Rohmer'],./data/1/7/9/5/17959/17959.txt,http://www.iblist.com/book35970.htm
+The Hand of Ethelberta,['Thomas Hardy'],./data/3/4/6/3469/3469.txt,http://www.iblist.com/book62970.htm
+The Happy Man,['Gerald Wilburn Page'],./data/3/0/7/0/30705/30705.txt,http://www.iblist.com/book61687.htm
+The Happy Prince,['Oscar Wilde'],./data/9/0/902/902-0.txt,http://www.iblist.com/book17719.htm
+The Happy Prince and Other Tales,['Oscar Wilde'],./data/3/0/1/2/30120/30120.txt,http://www.iblist.com/book61504.htm
+The Haunted Bookshop,['Christopher Morley'],./data/1/7/172/172.txt,http://www.iblist.com/book16960.htm
+The Haunted Hotel,['Wilkie Collins'],./data/1/7/170/170.txt,http://www.iblist.com/book17040.htm
+The Head of Kay's,['P.G. Wodehouse'],./data/6/8/7/6877/6877.txt,http://www.iblist.com/book20072.htm
+The Helpful Hand of God,['Tom Godwin'],./data/3/0/3/2/30322/30322.txt,http://www.iblist.com/book10544.htm
+The Heritage of the Desert,['Zane Grey'],./data/1/2/6/1262/1262.txt,http://www.iblist.com/book19846.htm
+The Hill of Dreams,['Arthur Machen'],./data/1/3/9/6/13969/13969.txt,http://www.iblist.com/book3025.htm
+The History of Emily Montague,['Frances Brooke'],./data/1/6/3/0/16300/16300.txt,http://www.iblist.com/book66184.htm
+"The History of Henry Esmond, Esq.",['W.M. Thackeray'],./data/2/5/1/2511/2511.txt,http://www.iblist.com/book4432.htm
+The History of Mr. Polly,['H.G. Wells'],./data/7/3/0/7308/7308.txt,http://www.iblist.com/book67901.htm
+The Home and the World,['Rabindranath Tagore'],./data/7/1/6/7166/7166-8.txt,http://www.iblist.com/book28280.htm
+The Hound of the Baskervilles,['A. Conan Doyle'],./data/2/8/5/2852/2852.txt,http://www.iblist.com/book2145.htm
+The Hound of the Baskervilles,['Arthur Conan Doyle'],./data/3/0/7/3070/3070.txt,http://www.iblist.com/book2145.htm
+The Hour of the Dragon,['Robert E. Howard'],./data/4/2/2/4/42243/42243.txt,http://www.iblist.com/book34638.htm
+The House of the Seven Gables,['Nathaniel Hawthorne'],./data/7/77/77.txt,http://www.iblist.com/book941.htm
+The House on the Borderland,['William Hope Hodgson'],./data/1/0/0/0/10002/10002.txt,http://www.iblist.com/book3599.htm
+The Human Chord,['Algernon Blackwood'],./data/1/1/9/8/11988/11988.txt,http://www.iblist.com/book13231.htm
+The Hunting of the Snark,['Lewis Carroll'],./data/1/13/13.txt,http://www.iblist.com/book2471.htm
+The Hunting of the Snark,['Lewis Carroll'],./data/2/9/8/8/29888/29888.txt,http://www.iblist.com/book2471.htm
+The Ideal,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22897/22897.txt,http://www.iblist.com/book52690.htm
+The Idiot,['Fyodor Dostoyevsky'],./data/2/6/3/2638/2638.txt,http://www.iblist.com/book522.htm
+The Iliad,['Homer'],./data/2/1/9/2199/2199.txt,http://www.iblist.com/book25020.htm
+The Iliad,['Homer'],./data/6/1/5/6150/6150.txt,http://www.iblist.com/book25020.htm
+The Imaginary Invalid,['Molière'],./data/9/0/7/9070/9070.txt,http://www.iblist.com/book49487.htm
+The Imperialist,['Sara Jeannette Duncan'],./data/5/3/0/5301/5301.txt,http://www.iblist.com/book6035.htm
+The Importance of Being Earnest,['Oscar Wilde'],./data/8/4/844/844.txt,http://www.iblist.com/book3061.htm
+The Innocence of Father Brown,['G.K. Chesterton'],./data/2/0/204/204.txt,http://www.iblist.com/book18283.htm
+The Insidious Dr. Fu-Manchu,['Sax Rohmer'],./data/1/7/173/173.txt,http://www.iblist.com/book35968.htm
+The Invisible Man,['H.G. Wells'],./data/5/2/3/5230/5230.txt,http://www.iblist.com/book1475.htm
+The Iphigenia in Tauris,['Euripedes'],./data/5/0/6/5063/5063.txt,http://www.iblist.com/book13797.htm
+The Irish Twins,['Lucy Fitch Perkins'],./data/2/8/4/3/28431/28431.txt,http://www.iblist.com/book16060.htm
+The Island of Doctor Moreau,['H.G. Wells'],./data/1/5/159/159.txt,http://www.iblist.com/book1468.htm
+The Italian Twins,['Lucy Fitch Perkins'],./data/2/8/4/2/28426/28426.txt,http://www.iblist.com/book16068.htm
+The Jew of Malta,['Christopher Marlowe'],./data/9/0/901/901.txt,http://www.iblist.com/book13950.htm
+The Jewel of Seven Stars,['Bram Stoker'],./data/3/7/8/3781/3781.txt,http://www.iblist.com/book1242.htm
+The Jewels of Aptor,['Samuel R. Delany'],./data/4/1/9/8/41981/41981.txt,http://www.iblist.com/book3371.htm
+The Job,['Sinclair Lewis'],./data/2/5/4/7/25474/25474.txt,http://www.iblist.com/book14303.htm
+The Jolly Corner,['Henry James'],./data/1/1/9/1190/1190.txt,http://www.iblist.com/book16642.htm
+The Joyous Adventures of Aristide Pujol,['William J. Locke'],./data/2/6/1/5/26154/26154.txt,http://www.iblist.com/book62952.htm
+The Jungle,['Upton Sinclair'],./data/1/4/140/140.txt,http://www.iblist.com/book871.htm
+The Jungle Book,['Rudyard Kipling'],./data/2/3/236/236.txt,http://www.iblist.com/book9598.htm
+The King of the Golden River,['John Ruskin.'],./data/7/0/701/701.txt,http://www.iblist.com/book16859.htm
+The King's Own,['Captain Frederick Marryat'],./data/2/1/5/5/21550/21550.txt,http://www.iblist.com/book41861.htm
+The Lady From The Sea,['Henrik Ibsen'],./data/2/7/6/2765/2765.txt,http://www.iblist.com/book13921.htm
+The Lady of the Shroud,['Bram Stoker'],./data/3/0/9/3095/3095.txt,http://www.iblist.com/book69816.htm
+"The Lady, or the Tiger?",['Frank R. Stockton'],./data/3/9/396/396.txt,http://www.iblist.com/book19446.htm
+The Lair of the White Worm,['Bram Stoker'],./data/1/1/8/1188/1188.txt,http://www.iblist.com/book1240.htm
+The Land of the Blue Flower,['Frances Hodgson Burnett'],./data/5/3/0/5302/5302.txt,http://www.iblist.com/book16993.htm
+The Last Days of Pompeii,['Edward George Bulwer-Lytton'],./data/1/5/6/1565/1565.txt,http://www.iblist.com/book53132.htm
+The Last Man,['Mary Shelley'],./data/1/8/2/4/18247/18247.txt,http://www.iblist.com/book52181.htm
+The Last Supper,['T.D. Hamm'],./data/3/0/3/4/30348/30348.txt,http://www.iblist.com/book69283.htm
+The Last Trail,['Zane Grey'],./data/9/9/3/9932/9932.txt,http://www.iblist.com/book56507.htm
+The Last of the Mohicans,['James Fenimore Cooper'],./data/2/7/6/8/27681/27681.txt,http://www.iblist.com/book2270.htm
+The Last of the Mohicans,['James Fenimore Cooper'],./data/9/4/940/940.txt,http://www.iblist.com/book2270.htm
+The Last of the Plainsmen,['Zane Grey'],./data/2/0/5/2057/2057.txt,http://www.iblist.com/book19850.htm
+The Law and the Lady,['Wilkie Collins'],./data/1/6/2/1622/1622.txt,http://www.iblist.com/book17032.htm
+The Legacy of Cain,['Wilkie Collins'],./data/1/9/7/1975/1975.txt,http://www.iblist.com/book17046.htm
+The Legend of Sleepy Hollow,['Washington Irving'],./data/4/41/41.txt,http://www.iblist.com/book18986.htm
+"The Life and Opinions of Tristram Shandy, Gentleman",['Laurence Sterne'],./data/1/0/7/1079/1079.txt,http://www.iblist.com/book32396.htm
+"The Life and Opinions of Tristram Shandy, Gentleman",['Laurence Sterne'],./data/3/9/2/7/39270/39270-0.txt,http://www.iblist.com/book32396.htm
+"The Life and Opinions of Tristram Shandy, Gentleman",['Laurence Sterne'],./data/3/9/2/7/39270/39270-8.txt,http://www.iblist.com/book32396.htm
+The Light Princess,['George MacDonald'],./data/6/9/697/697.txt,http://www.iblist.com/book12923.htm
+The Light That Failed,['Rudyard Kipling'],./data/2/8/7/2876/2876.txt,http://www.iblist.com/book13698.htm
+The Light of Western Stars,['Zane Grey'],./data/1/0/9/1095/1095.txt,http://www.iblist.com/book19851.htm
+The Lilac Fairy Book,['Andrew Lang'],./data/2/8/0/9/28096/28096.txt,http://www.iblist.com/book23330.htm
+The Lilac Fairy Book,['Andrew Lang'],./data/3/4/5/3454/3454.txt,http://www.iblist.com/book23330.htm
+The Lion of Saint Mark,['G.A. Henty'],./data/1/7/5/4/17546/17546.txt,http://www.iblist.com/book51106.htm
+The Lion of the North,['G.A. Henty'],./data/5/0/7/5075/5075.txt,http://www.iblist.com/book51107.htm
+The Little Clay Cart,['King Shudraka'],./data/2/1/0/2/21020/21020.txt,http://www.iblist.com/book18376.htm
+The Lodger,['Marie Belloc Lowndes'],./data/2/0/1/2014/2014.txt,http://www.iblist.com/book68368.htm
+The Log of a Cowboy,['Andy Adams'],./data/1/2/7/9/12797/12797.txt,http://www.iblist.com/book36146.htm
+The Lone Star Ranger,['Zane Grey'],./data/1/0/2/1027/1027.txt,http://www.iblist.com/book19852.htm
+The Lord of Death and the Queen of Life,['Homer Eon Flint'],./data/5/7/0/5703/5703.txt,http://www.iblist.com/book58051.htm
+The Lost Girl,['D.H. Lawrence'],./data/2/3/7/2/23727/23727.txt,http://www.iblist.com/book56628.htm
+The Lost Heir,['G.A. Henty'],./data/3/6/9/7/36975/36975.txt,http://www.iblist.com/book51108.htm
+The Lost Prince,['Frances Hodgson Burnett'],./data/3/8/384/384.txt,http://www.iblist.com/book13232.htm
+The Lost Princess of Oz,['L. Frank Baum'],./data/2/4/4/5/24459/24459.txt,http://www.iblist.com/book1989.htm
+The Lost Princess of Oz,['L. Frank Baum'],./data/9/5/959/959.txt,http://www.iblist.com/book1989.htm
+The Lost World,['Arthur Conan Doyle'],./data/1/3/139/139.txt,http://www.iblist.com/book55431.htm
+The Magic City,['Edith Nesbit'],./data/2/0/6/0/20606/20606.txt,http://www.iblist.com/book17060.htm
+The Magic Fishbone,['Charles Dickens'],./data/2/3/3/4/23344/23344.txt,http://www.iblist.com/book17107.htm
+The Magic World,['Edith Nesbit'],./data/2/7/9/0/27903/27903.txt,http://www.iblist.com/book17069.htm
+The Magic of Oz,['L. Frank Baum'],./data/4/1/419/419.txt,http://www.iblist.com/book1998.htm
+The Magic of Oz,['L. Frank Baum'],./data/5/0/1/9/50194/50194.txt,http://www.iblist.com/book1998.htm
+The Magician,['Somerset Maugham'],./data/1/4/2/5/14257/14257.txt,http://www.iblist.com/book50606.htm
+The Maid of Orleans,['Frederich Schiller'],./data/6/7/9/6792/6792.txt,http://www.iblist.com/book68583.htm
+The Man,['Bram Stoker'],./data/2/5/2/2520/2520.txt,http://www.iblist.com/book69814.htm
+The Man From Glengarry,['Ralph Connor'],./data/3/2/8/3287/3287.txt,http://www.iblist.com/book27810.htm
+The Man Who Could Not Lose,['Richard Harding Davis'],./data/1/7/6/1760/1760.txt,http://www.iblist.com/book58820.htm
+The Man Who Knew Too Much,['G.K. Chesterton'],./data/1/7/2/1720/1720.txt,http://www.iblist.com/book21392.htm
+The Man Who Was Thursday,['G.K. Chesterton'],./data/1/6/9/1695/1695.txt,http://www.iblist.com/book13626.htm
+The Man With The Broken Ear,['Edmond About'],./data/2/0/7/2/20724/20724.txt,http://www.iblist.com/book46123.htm
+The Man in the Iron Mask,"['Alexandre Dumas', 'Pere']",./data/2/7/5/2759/2759.txt,http://www.iblist.com/book1392.htm
+The Man of Adamant,['Nathaniel Hawthorne'],./data/9/2/4/9240/9240.txt,http://www.iblist.com/book18977.htm
+The Man of the Forest,['Zane Grey'],./data/3/4/5/3457/3457.txt,http://www.iblist.com/book19856.htm
+The Man that Corrupted Hadleyburg,['Mark Twain'],./data/1/2/1/1213/1213.txt,http://www.iblist.com/book22284.htm
+The Marching Morons,['C.M. Kornbluth'],./data/5/1/2/3/51233/51233.txt,http://www.iblist.com/book64946.htm
+The Mark of the Beast,['Sidney Watson'],./data/1/8/8/1/18815/18815.txt,http://www.iblist.com/book63727.htm
+The Marne,['Edith Wharton'],./data/4/1/8/5/41855/41855.txt,http://www.iblist.com/book3008.htm
+The Marrow of Tradition,['Charles W. Chesnutt'],./data/1/1/2/2/11228/11228.txt,http://www.iblist.com/book26914.htm
+The Masque of the Red Death,['Edgar Allan Poe'],./data/1/0/6/1064/1064.txt,http://www.iblist.com/book7971.htm
+The Master Builder,['Henrik Ibsen'],./data/4/0/7/4070/4070.txt,http://www.iblist.com/book13919.htm
+The Master of Ballantrae,['Robert Louis Stevenson'],./data/8/6/864/864-0.txt,http://www.iblist.com/book45027.htm
+The Master of the World,['Jules Verne'],./data/3/8/0/3809/3809.txt,http://www.iblist.com/book664.htm
+The Mayor of Casterbridge,['Thomas Hardy'],./data/1/4/143/143.txt,http://www.iblist.com/book2735.htm
+The Merry Adventures of Robin Hood,['Howard Pyle'],./data/1/0/1/4/10148/10148.txt,http://www.iblist.com/book2759.htm
+The Merry Adventures of Robin Hood,['Howard Pyle'],./data/9/6/964/964.txt,http://www.iblist.com/book2759.htm
+The Merry Wives of Windsor,"['William Shakespeare Craig', 'Oxford edition']",./data/1/5/1/1517/1517.txt,http://www.iblist.com/book2112.htm
+The Merry Wives of Windsor,['William Shakespeare'],./data/2/3/0/4/23044/23044.txt,http://www.iblist.com/book2112.htm
+The Metal Monster,['A. Merritt'],./data/3/4/7/3479/3479.txt,http://www.iblist.com/book17083.htm
+The Mexican Twins,['Lucy Fitch Perkins'],./data/2/8/8/8/28889/28889.txt,http://www.iblist.com/book16056.htm
+The Mill on the Floss,['George Eliot'],./data/6/6/8/6688/6688.txt,http://www.iblist.com/book14952.htm
+The Mississippi Saucer,['Frank Belknap Long'],./data/2/3/5/6/23568/23568.txt,http://www.iblist.com/book69062.htm
+The Model of a Judge,['William Morrison'],./data/3/2/4/3/32431/32431.txt,http://www.iblist.com/book36168.htm
+The Monkey's Paw,['W.W. Jacobs'],./data/1/2/1/2/12122/12122.txt,http://www.iblist.com/book13118.htm
+The Moon Pool,['A. Merritt'],./data/7/6/765/765.txt,http://www.iblist.com/book58048.htm
+The Moon and Sixpence,['W. Somerset Maugham'],./data/2/2/222/222.txt,http://www.iblist.com/book46790.htm
+The Moonstone,['Wilkie Collins'],./data/1/5/155/155.txt,http://www.iblist.com/book17031.htm
+The Music Master of Babylon,['Edgar Pangborn'],./data/5/1/3/7/51379/51379.txt,http://www.iblist.com/book69162.htm
+The Mysteries of Udolpho,['Ann Radcliffe'],./data/3/2/6/3268/3268.txt,http://www.iblist.com/book15274.htm
+The Mysterious Affair at Styles,['Agatha Christie'],./data/8/6/863/863-0.txt,http://www.iblist.com/book1804.htm
+The Mysterious Affair at Styles,['Agatha Christie'],./data/8/6/863/863-8.txt,http://www.iblist.com/book1804.htm
+The Mysterious Island,['Jules Verne'],./data/1/2/6/1268/1268.txt,http://www.iblist.com/book63567.htm
+The Mysterious Rider,['Zane Grey'],./data/1/3/9/3/13937/13937.txt,http://www.iblist.com/book19858.htm
+The Mysterious Stranger,['Mark Twain'],./data/5/0/1/0/50109/50109-0.txt,http://www.iblist.com/book12798.htm
+The Mystery of Edwin Drood,['Charles Dickens'],./data/5/6/564/564.txt,http://www.iblist.com/book33145.htm
+The Mystery of the Sea,['Bram Stoker'],./data/4/2/4/5/42455/42455.txt,http://www.iblist.com/book69813.htm
+The Napoleon of Notting Hill,['Gilbert K. Chesterton'],./data/2/0/0/5/20058/20058.txt,http://www.iblist.com/book5652.htm
+The Narrative of Arthur Gordon Pym of Nantucket,['Edgar Allan Poe'],./data/5/1/0/6/51060/51060-8.txt,http://www.iblist.com/book8558.htm
+The Nether World,['George Gissing'],./data/4/3/0/4301/4301.txt,http://www.iblist.com/book33129.htm
+The New Machiavelli,['Herbert George Wells'],./data/1/0/4/1047/1047.txt,http://www.iblist.com/book67871.htm
+The Newcomes,['William Makepeace Thackeray'],./data/7/4/6/7467/7467.txt,http://www.iblist.com/book15303.htm
+The Nibelungenlied,['Unknown'],./data/1/1/5/1151/1151.txt,http://www.iblist.com/book12941.htm
+The Nibelungenlied,['Unknown'],./data/3/8/4/6/38468/38468.txt,http://www.iblist.com/book12941.htm
+The Nibelungenlied,['Unknown'],./data/7/3/2/7321/7321.txt,http://www.iblist.com/book12941.htm
+"The Nigger Of The ""Narcissus",['Joseph Conrad'],./data/1/7/7/3/17731/17731.txt,http://www.iblist.com/book1066.htm
+The Nothing Equation,['Tom Godwin'],./data/2/5/6/2/25628/25628.txt,http://www.iblist.com/book10541.htm
+The Octopus,['Frank Norris'],./data/2/6/268/268.txt,http://www.iblist.com/book4437.htm
+The Odd Women,['George Gissing'],./data/4/3/1/4313/4313.txt,http://www.iblist.com/book33127.htm
+The Odyssey,['Homer'],./data/1/7/2/1727/1727.txt,http://www.iblist.com/book25019.htm
+The Old Curiosity Shop,['Charles Dickens'],./data/7/0/700/700.txt,http://www.iblist.com/book2299.htm
+The Orange Fairy Book,['Andrew Lang'],./data/3/0/2/3027/3027.txt,http://www.iblist.com/book23328.htm
+The Outlet,['Andy Adams'],./data/1/9/8/1987/1987.txt,http://www.iblist.com/book36147.htm
+The Passionate Friends,['Herbert George Wells'],./data/3/0/3/4/30340/30340.txt,http://www.iblist.com/book67907.htm
+The Patchwork Girl of Oz,['L. Frank Baum'],./data/3/2/0/9/32094/32094.txt,http://www.iblist.com/book1969.htm
+The Patchwork Girl of Oz,['L. Frank Baum'],./data/9/5/955/955.txt,http://www.iblist.com/book1969.htm
+The Pathfinder,['James Fenimore Cooper'],./data/1/8/8/1880/1880.txt,http://www.iblist.com/book2273.htm
+The People of the Black Circle,['Robert E. Howard'],./data/4/2/2/5/42259/42259.txt,http://www.iblist.com/book34606.htm
+The Peterkin Papers,['Lucretia P  Hale'],./data/2/5/6/4/25648/25648.txt,http://www.iblist.com/book51797.htm
+The Peterkin Papers,['Lucretia P. Hale'],./data/3/0/2/3028/3028.txt,http://www.iblist.com/book51797.htm
+The Phantom Ship,['Captain Frederick Marryat'],./data/1/2/9/5/12954/12954.txt,http://www.iblist.com/book41870.htm
+The Phantom Ship,['Frederick Marryat'],./data/2/1/5/7/21573/21573.txt,http://www.iblist.com/book41870.htm
+The Phantom of the Opera,['Gaston Leroux'],./data/1/7/175/175.txt,http://www.iblist.com/book34167.htm
+The Philanderer,['George Bernard Shaw'],./data/5/0/7/5071/5071.txt,http://www.iblist.com/book69405.htm
+The Phoenix and the Carpet,['E. Nesbit'],./data/8/3/836/836.txt,http://www.iblist.com/book17054.htm
+The Piazza Tales,['Herman Melville'],./data/1/5/8/5/15859/15859.txt,http://www.iblist.com/book62214.htm
+The Pickwick Papers,['Charles Dickens'],./data/5/8/580/580.txt,http://www.iblist.com/book2295.htm
+The Picture of Dorian Gray,['Oscar Wilde'],./data/1/7/174/174.txt,http://www.iblist.com/book777.htm
+The Picture of Dorian Gray,['Oscar Wilde'],./data/2/6/7/4/26740/26740.txt,http://www.iblist.com/book777.htm
+The Picture of Dorian Gray,['Oscar Wilde'],./data/4/0/7/4078/4078.txt,http://www.iblist.com/book777.htm
+The Pied Piper of Hamelin,['Robert Browning'],./data/1/8/3/4/18343/18343.txt,http://www.iblist.com/book11856.htm
+The Pier-Glass,['Robert Graves'],./data/4/7/8/2/47824/47824.txt,http://www.iblist.com/book11216.htm
+The Pilgrim's Progress,['John Bunyan'],./data/1/3/131/131.txt,http://www.iblist.com/book437.htm
+The Pioneers,['James Fenimore Cooper'],./data/2/2/7/2275/2275.txt,http://www.iblist.com/book2268.htm
+The Planet Savers,['Marion Zimmer Bradley'],./data/3/1/6/1/31619/31619.txt,http://www.iblist.com/book57679.htm
+The Plattner Story and Others,['H.G. Wells'],./data/4/2/9/8/42989/42989.txt,http://www.iblist.com/book67963.htm
+The Playboy of the Western World,['J.M. Synge'],./data/1/2/4/1240/1240.txt,http://www.iblist.com/book10660.htm
+The Poison Belt,['Arthur Conan Doyle'],./data/1/2/126/126.txt,http://www.iblist.com/book28744.htm
+The Portent and Other Stories,['George MacDonald'],./data/8/9/1/8913/8913.txt,http://www.iblist.com/book18880.htm
+The Portrait of a Lady,['Henry James'],./data/2/8/3/2833/2833.txt,http://www.iblist.com/book1187.htm
+The Portrait of a Lady,['Henry James'],./data/2/8/3/2834/2834.txt,http://www.iblist.com/book1187.htm
+The Pothunters,['P.G. Wodehouse'],./data/6/9/8/6984/6984.txt,http://www.iblist.com/book20068.htm
+The Prairie,['J. Fenimore Cooper'],./data/6/4/5/6450/6450.txt,http://www.iblist.com/book2271.htm
+The Prince,['Nicolo Machiavelli'],./data/1/2/3/1232/1232.txt,http://www.iblist.com/book798.htm
+The Princess Nobody,['Andrew Lang'],./data/5/2/5/4/52545/52545-0.txt,http://www.iblist.com/book18777.htm
+The Princess and Curdie,['George MacDonald'],./data/3/6/6/1/36612/36612.txt,http://www.iblist.com/book11228.htm
+The Princess and the Curdie,['George MacDonald'],./data/7/0/709/709.txt,http://www.iblist.com/book11228.htm
+The Princess and the Goblin,['George MacDonald'],./data/3/4/3/3/34339/34339.txt,http://www.iblist.com/book11227.htm
+The Princess and the Goblin,['George MacDonald'],./data/7/0/708/708.txt,http://www.iblist.com/book11227.htm
+The Prisoner of Zenda,['Anthony Hope'],./data/9/95/95.txt,http://www.iblist.com/book6175.htm
+The Privateersman,['Frederick Marryat'],./data/2/1/5/7/21576/21576.txt,http://www.iblist.com/book41878.htm
+The Prophet of the Great Smoky Mountains,['Charles Egbert Craddock'],./data/3/5/6/1/35619/35619.txt,http://www.iblist.com/book57042.htm
+The Puritan Twins,['Lucy Fitch Perkins'],./data/1/6/6/4/16644/16644.txt,http://www.iblist.com/book16069.htm
+The Purple Cloud,['M.P. Shiel'],./data/1/1/2/2/11229/11229.txt,http://www.iblist.com/book28736.htm
+The Queen Of Spades,['Alexander Sergeievitch Poushkin'],./data/2/3/0/5/23058/23058.txt,http://www.iblist.com/book38085.htm
+The Queen's Cup,['G.A. Henty'],./data/1/7/4/3/17436/17436.txt,http://www.iblist.com/book51109.htm
+The Radio Boys Rescue the Lost Alaska Expedition,['Gerald Breckenridge'],./data/3/6/3/1/36314/36314.txt,http://www.iblist.com/book9297.htm
+The Radio Boys on Secret Service Duty,['Gerald Breckenridge'],./data/3/9/5/7/39574/39574.txt,http://www.iblist.com/book9294.htm
+The Radio Boys on the Mexican Border,['Gerald Breckenridge'],./data/1/4/2/7/14278/14278.txt,http://www.iblist.com/book9293.htm
+The Radio Boys with the Revenue Guards,['Gerald Breckenridge'],./data/2/8/7/3/28735/28735.txt,http://www.iblist.com/book9295.htm
+The Radio Boys' Search for the Inca's Treasure,['Gerald Breckenridge'],./data/3/5/9/8/35987/35987.txt,http://www.iblist.com/book9296.htm
+The Railway Children,['E. Nesbit'],./data/1/8/7/1874/1874.txt,http://www.iblist.com/book17057.htm
+The Rainbow,['D.H.  Lawrence'],./data/2/8/9/4/28948/28948.txt,http://www.iblist.com/book25555.htm
+The Rainbow Trail,['Zane Grey'],./data/5/0/6/5067/5067.txt,http://www.iblist.com/book19861.htm
+The Raven,['Edgar Allan Poe'],./data/1/0/6/1065/1065.txt,http://www.iblist.com/book7978.htm
+The Raven,['Edgar Allan Poe'],./data/1/7/1/9/17192/17192.txt,http://www.iblist.com/book7978.htm
+The Raven,['Edgar Allan Poe'],./data/4/5/4/8/45484/45484.txt,http://www.iblist.com/book7978.htm
+The Red Badge of Courage,['Stephen Crane'],./data/4/6/463/463.txt,http://www.iblist.com/book1411.htm
+The Red Badge of Courage,['Stephen Crane'],./data/7/73/73.txt,http://www.iblist.com/book1411.htm
+The Red and the Black,['Stendhal'],./data/4/4/7/4/44747/44747.txt,http://www.iblist.com/book4558.htm
+The Reef,['Edith Wharton'],./data/2/8/283/283.txt,http://www.iblist.com/book10340.htm
+The Refugees,['Arthur Conan Doyle'],./data/1/1/4/1/11413/11413.txt,http://www.iblist.com/book2160.htm
+The Republic,['Plato'],./data/1/4/9/1497/1497.txt,http://www.iblist.com/book40082.htm
+The Rescue,['Joseph Conrad'],./data/1/7/1/1712/1712.txt,http://www.iblist.com/book1133.htm
+The Research Magnificent,['H.G. Wells'],./data/1/1/3/1138/1138.txt,http://www.iblist.com/book67902.htm
+The Return,['Walter de la Mare'],./data/3/0/7/3075/3075.txt,http://www.iblist.com/book14745.htm
+The Return of Dr. Fu-Manchu,['Sax Rohmer'],./data/1/1/8/1183/1183.txt,http://www.iblist.com/book35969.htm
+The Return of Sherlock Holmes,['Arthur Conan Doyle'],./data/1/0/108/108.txt,http://www.iblist.com/book2152.htm
+The Return of Sherlock Holmes,['Arthur Conan Doyle'],./data/2/2/221/221.txt,http://www.iblist.com/book2152.htm
+The Return of Tarzan,['Edgar Rice Burroughs'],./data/8/81/81.txt,http://www.iblist.com/book1458.htm
+The Return of the Native,['Thomas Hardy'],./data/1/7/5/0/17500/17500.txt,http://www.iblist.com/book25647.htm
+The Riddle of the Sands,['Erskine Childers'],./data/2/3/6/2360/2360.txt,http://www.iblist.com/book1434.htm
+The Rime of the Ancient Mariner,['Samuel Taylor Coleridge'],./data/1/5/151/151.txt,http://www.iblist.com/book14622.htm
+The Rise of David Levinsky,['Abraham Cahan'],./data/2/8/0/2803/2803.txt,http://www.iblist.com/book33087.htm
+The Road to Oz,['L. Frank Baum'],./data/2/6/6/2/26624/26624.txt,http://www.iblist.com/book1961.htm
+The Road to Oz,['L. Frank Baum'],./data/4/8/485/485.txt,http://www.iblist.com/book1961.htm
+The Robbers,['Frederich Schiller'],./data/6/7/8/6782/6782.txt,http://www.iblist.com/book68586.htm
+The Romance of Leonardo da Vinci,['Dmitry Sergeyevich Merezhkovsky'],./data/4/7/9/0/47902/47902.txt,http://www.iblist.com/book49384.htm
+The Sacred Fount,['Henry James'],./data/3/2/9/3/32939/32939.txt,http://www.iblist.com/book15474.htm
+The Satyricon,['Petronius Arbiter'],./data/5/6/1/5611/5611-0.txt,http://www.iblist.com/book69132.htm
+The Scarecrow of Oz,['L. Frank Baum'],./data/5/1/2/6/51263/51263.txt,http://www.iblist.com/book1981.htm
+The Scarecrow of Oz,['L. Frank Baum'],./data/9/5/957/957.txt,http://www.iblist.com/book1981.htm
+The Scarlet Letter,['Nathaniel Hawthorne'],./data/2/5/3/4/25344/25344.txt,http://www.iblist.com/book2867.htm
+The Scarlet Letter,['Nathaniel Hawthorne'],./data/3/33/33.txt,http://www.iblist.com/book2867.htm
+The Scarlet Pimpernel,['Baroness Orczy'],./data/6/60/60.txt,http://www.iblist.com/book5028.htm
+The School For Scandal,['Richard Brinsley Sheridan'],./data/1/9/2/1929/1929.txt,http://www.iblist.com/book25663.htm
+The Scotch Twins,['Lucy Fitch Perkins'],./data/4/0/8/4086/4086.txt,http://www.iblist.com/book16067.htm
+The Sea Lady,['Herbert George Wells'],./data/3/5/9/2/35920/35920.txt,http://www.iblist.com/book67854.htm
+The Sea-Wolf,['Jack London'],./data/1/0/7/1074/1074.txt,http://www.iblist.com/book342.htm
+The Second Jungle Book,['Rudyard Kipling'],./data/1/9/3/1937/1937.txt,http://www.iblist.com/book13695.htm
+The Second Jungle Book,['Rudyard Kipling'],./data/3/7/3/6/37364/37364.txt,http://www.iblist.com/book13695.htm
+The Secret Adversary,['Agatha Christie'],./data/1/1/5/1155/1155-0.txt,http://www.iblist.com/book2901.htm
+The Secret Agent,['Joseph Conrad'],./data/9/7/974/974.txt,http://www.iblist.com/book1108.htm
+The Secret Garden,['Frances Hodgson Burnett'],./data/1/1/113/113.txt,http://www.iblist.com/book1632.htm
+The Secret Garden,['Frances Hodgson Burnett'],./data/1/7/3/9/17396/17396.txt,http://www.iblist.com/book1632.htm
+The Secret Places of the Heart,['H.G. Wells'],./data/1/7/3/1734/1734.txt,http://www.iblist.com/book67880.htm
+The Secret Sharer,['Joseph Conrad'],./data/2/2/220/220.txt,http://www.iblist.com/book60493.htm
+The Secret of the Ninth Planet,['Donald Allen Wollheim'],./data/3/3/6/4/33644/33644.txt,http://www.iblist.com/book5910.htm
+The Settlers,['William H.G. Kingston'],./data/2/1/4/8/21482/21482.txt,http://www.iblist.com/book10883.htm
+The Seven Wives Of Bluebeard,['Anatole France'],./data/2/5/4/1/25411/25411.txt,http://www.iblist.com/book13539.htm
+The Shadow-Line,['Joseph Conrad'],./data/4/5/451/451.txt,http://www.iblist.com/book1125.htm
+The Shunned House,['Howard Phillips Lovecraft'],./data/3/1/4/6/31469/31469.txt,http://www.iblist.com/book4708.htm
+The Skylark of Space,"['Edward Elmer Smith', 'Lee Hawkins Garby']",./data/2/0/8/6/20869/20869.txt,http://www.iblist.com/book2237.htm
+The Snow Image,['Nathaniel Hawthorne'],./data/5/1/513/513.txt,http://www.iblist.com/book13675.htm
+The Snow-Image,['Nathaniel Hawthorne'],./data/3/0/3/7/30376/30376.txt,http://www.iblist.com/book13675.htm
+The Snowball Effect,['Katherine MacLean'],./data/5/0/7/6/50766/50766.txt,http://www.iblist.com/book12112.htm
+The Son of Tarzan,['Edgar Rice Burroughs'],./data/9/90/90.txt,http://www.iblist.com/book1461.htm
+The Sorrows of Young Werther,['J.W. von Goethe'],./data/2/5/2/2527/2527.txt,http://www.iblist.com/book13409.htm
+The Spartan Twins,['Lucy  Perkins'],./data/9/9/6/9966/9966.txt,http://www.iblist.com/book16065.htm
+The Spirit of the Border,['Zane Grey'],./data/1/2/3/1239/1239.txt,http://www.iblist.com/book56505.htm
+The Spoils of Poynton,['Henry James'],./data/3/3/3/2/33325/33325.txt,http://www.iblist.com/book60104.htm
+The Sport of the Gods,['Paul Laurence Dunbar'],./data/1/7/8/5/17854/17854.txt,http://www.iblist.com/book20551.htm
+The Spy,['J. Fenimore Cooper'],./data/3/2/6/3/32632/32632.txt,http://www.iblist.com/book2275.htm
+The Spy,['James Fenimore Cooper'],./data/9/8/4/9845/9845.txt,http://www.iblist.com/book2275.htm
+The Status Civilization,['Robert Sheckley'],./data/2/0/9/1/20919/20919.txt,http://www.iblist.com/book6803.htm
+The Stolen Bacillus and Other Incidents,['H.G.  Wells'],./data/1/2/7/5/12750/12750.txt,http://www.iblist.com/book67949.htm
+The Story Girl,['Lucy Maud Montgomery'],./data/5/3/4/5342/5342.txt,http://www.iblist.com/book37286.htm
+The Story of Doctor Dolittle,['Hugh Lofting'],./data/5/0/501/501-0.txt,http://www.iblist.com/book20299.htm
+The Story of Miss Moppet,['Beatrix Potter'],./data/1/4/8/4/14848/14848.txt,http://www.iblist.com/book18132.htm
+The Story of Sir Launcelot and His Companions,['Howard Pyle'],./data/3/3/7/0/33702/33702.txt,http://www.iblist.com/book15736.htm
+The Story of a Bad Boy,['Thomas Bailey Aldrich'],./data/1/9/4/1948/1948.txt,http://www.iblist.com/book59058.htm
+The Story of a Fierce Bad Rabbit,['Beatrix Potter'],./data/4/5/2/6/45265/45265.txt,http://www.iblist.com/book18134.htm
+The Story of the Amulet,['E. Nesbit'],./data/8/3/837/837.txt,http://www.iblist.com/book17056.htm
+The Story of the Champions of the Round Table,['Howard Pyle'],./data/1/0/7/4/10745/10745.txt,http://www.iblist.com/book15731.htm
+The Story of the Treasure Seekers,['E. Nesbit'],./data/7/7/770/770.txt,http://www.iblist.com/book12875.htm
+The Strange Case Of Dr. Jekyll And Mr. Hyde,['Robert Louis Stevenson'],./data/4/43/43.txt,http://www.iblist.com/book2015.htm
+The Sundering Flood,['William Morris'],./data/2/5/5/4/25547/25547.txt,http://www.iblist.com/book67249.htm
+The Survivors of the Chancellor,['Jules Verne'],./data/1/6/5/1652/1652.txt,http://www.iblist.com/book648.htm
+The Survivors of the Chancellor,['Jules Verne'],./data/1/6/9/1698/1698.txt,http://www.iblist.com/book648.htm
+The Swiss Family Robinson,['Jean Rudolph Wyss'],./data/3/4/8/0/34808/34808.txt,http://www.iblist.com/book12883.htm
+The Swiss Family Robinson,['Johann David Wyss'],./data/4/1/6/5/41659/41659.txt,http://www.iblist.com/book12883.htm
+The Swiss Twins,['Lucy Fitch Perkins'],./data/3/4/9/3497/3497.txt,http://www.iblist.com/book16070.htm
+The Syndic,['C.M. Kornbluth'],./data/4/1/7/1/41714/41714.txt,http://www.iblist.com/book6637.htm
+The Tailor of Gloucester,['Beatrix Potter'],./data/1/4/8/6/14868/14868.txt,http://www.iblist.com/book13857.htm
+The Tale Of Benjamin Bunny,['Beatrix Potter'],./data/1/4/4/0/14407/14407.txt,http://www.iblist.com/book13859.htm
+The Tale Of Peter Rabbit,['Beatrix Potter'],./data/1/4/3/0/14304/14304.txt,http://www.iblist.com/book13858.htm
+The Tale of Ginger and Pickles,['Beatrix Potter'],./data/1/4/8/7/14877/14877.txt,http://www.iblist.com/book13866.htm
+The Tale of Jemima Puddle-Duck,['Beatrix Potter'],./data/1/4/8/1/14814/14814.txt,http://www.iblist.com/book13860.htm
+The Tale of Johnny Town-Mouse,['Beatrix Potter'],./data/1/5/2/8/15284/15284.txt,http://www.iblist.com/book13864.htm
+The Tale of Mr. Jeremy Fisher,['Beatrix Potter'],./data/1/5/0/7/15077/15077.txt,http://www.iblist.com/book13871.htm
+The Tale of Mr. Tod,['Beatrix Potter'],./data/1/9/8/0/19805/19805.txt,http://www.iblist.com/book18136.htm
+The Tale of Mrs. Tiggy-Winkle,['Beatrix Potter'],./data/1/2/1/0/12103/12103.txt,http://www.iblist.com/book18131.htm
+The Tale of Mrs. Tiggy-Winkle,['Beatrix Potter'],./data/1/5/1/3/15137/15137.txt,http://www.iblist.com/book18131.htm
+The Tale of Mrs. Tittlemouse,['Beatrix Potter'],./data/1/7/0/8/17089/17089.txt,http://www.iblist.com/book13863.htm
+The Tale of Peter Rabbit,['Beatrix Potter'],./data/1/4/8/3/14838/14838.txt,http://www.iblist.com/book13858.htm
+The Tale of Squirrel Nutkin,['Beatrix Potter'],./data/1/4/8/7/14872/14872.txt,http://www.iblist.com/book13861.htm
+The Tale of Timmy Tiptoes,['Beatrix Potter'],./data/1/4/7/9/14797/14797.txt,http://www.iblist.com/book13865.htm
+The Tale of Tom Kitten,['Beatrix Potter'],./data/1/4/8/3/14837/14837.txt,http://www.iblist.com/book13870.htm
+The Tale of Two Bad Mice,['Beatrix Potter'],./data/4/5/2/6/45264/45264.txt,http://www.iblist.com/book13862.htm
+The Tale of the Flopsy Bunnies,['Beatrix Potter'],./data/1/4/2/2/14220/14220.txt,http://www.iblist.com/book13869.htm
+The Tale of the Pie and the Patty Pan,['Beatrix Potter'],./data/1/5/2/3/15234/15234.txt,http://www.iblist.com/book18135.htm
+The Tempest,['William Shakespeare'],./data/2/3/0/4/23042/23042.txt,http://www.iblist.com/book2182.htm
+The Tenant of Wildfell Hall,['Anne Bronte'],./data/9/6/969/969.txt,http://www.iblist.com/book14479.htm
+The Thirty-nine Steps,['John Buchan'],./data/5/5/558/558.txt,http://www.iblist.com/book5070.htm
+The Three Golden Apples,['Nathaniel Hawthorne'],./data/9/2/5/9257/9257.txt,http://www.iblist.com/book14793.htm
+The Three Musketeers,"['Alexandre Dumas', 'Pere']",./data/1/2/5/1257/1257.txt,http://www.iblist.com/book1264.htm
+The Tiger of Mysore,['G.A. Henty'],./data/1/8/8/1/18813/18813.txt,http://www.iblist.com/book51110.htm
+The Time Machine,['H.G.  Wells'],./data/3/35/35.txt,http://www.iblist.com/book1259.htm
+The Time Traders,['Andre Norton'],./data/1/9/1/4/19145/19145.txt,http://www.iblist.com/book23269.htm
+The Tin Woodman of Oz,['L. Frank  Baum'],./data/3/0/8/5/30852/30852.txt,http://www.iblist.com/book1992.htm
+The Tin Woodman of Oz,['L. Frank Baum'],./data/9/6/960/960.txt,http://www.iblist.com/book1992.htm
+The Touchstone,['Edith Wharton'],./data/2/6/267/267.txt,http://www.iblist.com/book2988.htm
+The Trail of the Hawk,['Sinclair Lewis'],./data/2/6/6/1/26610/26610.txt,http://www.iblist.com/book14306.htm
+The Treasure of the Incas,['G.A. Henty'],./data/7/0/7/7070/7070.txt,http://www.iblist.com/book51111.htm
+The Trial,['Franz Kafka'],./data/7/8/4/7849/7849.txt,http://www.iblist.com/book1538.htm
+The Trumpet-Major,['Thomas Hardy'],./data/2/8/6/2864/2864.txt,http://www.iblist.com/book62958.htm
+The Tunnel Under The World,['Frederik Pohl'],./data/3/1/9/7/31979/31979.txt,http://www.iblist.com/book11996.htm
+The Turn of the Screw,['Henry James'],./data/2/0/209/209.txt,http://www.iblist.com/book1143.htm
+The U.P. Trail,['Zane Grey'],./data/4/6/8/4684/4684.txt,http://www.iblist.com/book19881.htm
+The Unbearable Bassington,['Saki'],./data/5/5/555/555-0.txt,http://www.iblist.com/book15207.htm
+The Underground City,['Jules Verne'],./data/1/3/5/1355/1355.txt,http://www.iblist.com/book654.htm
+The Unwilling Vestal,['Edward Lucas White'],./data/6/0/7/6070/6070.txt,http://www.iblist.com/book33019.htm
+The Upper Berth,['Francis Marion Crawford'],./data/2/2/2/4/22246/22246.txt,http://www.iblist.com/book63852.htm
+The Valley of Decision,['Edith Wharton'],./data/4/3/2/4327/4327.txt,http://www.iblist.com/book2993.htm
+The Valley of Fear,['Sir Arthur Conan Doyle'],./data/3/2/8/3289/3289.txt,http://www.iblist.com/book66988.htm
+The Valley of Fear,['Arthur Conan Doyle'],./data/3/7/7/3776/3776.txt,http://www.iblist.com/book66988.htm
+The Valley of the Moon,['Jack London'],./data/1/4/4/1449/1449.txt,http://www.iblist.com/book33965.htm
+The Valor of Cappen Varra,['Poul William Anderson'],./data/2/9/5/4/29542/29542.txt,http://www.iblist.com/book17877.htm
+The Velveteen Rabbit,['Margery Williams'],./data/1/1/7/5/11757/11757.txt,http://www.iblist.com/book16137.htm
+The Vicar of Wakefield,['Oliver Goldsmith'],./data/2/6/6/2667/2667.txt,http://www.iblist.com/book3721.htm
+The Vicomte de Bragelonne,"['Alexandre Dumas', 'Pere']",./data/1/2/5/2609/2609.txt,http://www.iblist.com/book1382.htm
+The Vicomte de Bragelonne,['Alexandre Dumas'],./data/1/8/9/9/18997/18997.txt,http://www.iblist.com/book1382.htm
+The Vicomte de Bragelonne,"['Alexandre Dumas', 'Pere']",./data/2/6/0/2609/2609.txt,http://www.iblist.com/book1382.htm
+The Vilbar Party,['Evelyn E. Smith'],./data/3/1/6/2/31626/31626.txt,http://www.iblist.com/book36176.htm
+The Virginian,['Owen Wister'],./data/1/2/9/1298/1298.txt,http://www.iblist.com/book55389.htm
+The Vortex Blaster,['Edward Elmer Smith'],./data/2/2/6/2/22629/22629.txt,http://www.iblist.com/book5052.htm
+The Voyage Out,['Virginia Woolf'],./data/1/4/144/144.txt,http://www.iblist.com/book39392.htm
+The Wailing Asteroid,['Murray Leinster'],./data/5/0/0/2/50022/50022-8.txt,http://www.iblist.com/book47108.htm
+The War of the Worlds,['H.G. Wells'],./data/3/36/36.txt,http://www.iblist.com/book1466.htm
+The Waste Land,['T.S. Eliot'],./data/1/3/2/1321/1321-0.txt,http://www.iblist.com/book1486.htm
+The Waste Land,['T.S. Eliot'],./data/1/3/2/1321/1321-8.txt,http://www.iblist.com/book1486.htm
+The Water-Babies,['Charles Kingsley'],./data/2/5/5/6/25564/25564.txt,http://www.iblist.com/book16127.htm
+The Water-Babies,['Charles Kingsley'],./data/3/6/3/0/36309/36309.txt,http://www.iblist.com/book16127.htm
+The Water-Babies,['Charles Kingsley'],./data/etext97/wtrbs10.txt,http://www.iblist.com/book16127.htm
+The Way We Live Now,['Anthony Trollope'],./data/5/2/3/5231/5231.txt,http://www.iblist.com/book60112.htm
+The Way of All Flesh,['Samuel Butler'],./data/2/0/8/2084/2084.txt,http://www.iblist.com/book15300.htm
+The Way of the World,['William Congreve'],./data/1/2/9/1292/1292-0.txt,http://www.iblist.com/book25513.htm
+The Well at the World's End,['William Morris'],./data/1/6/169/169.txt,http://www.iblist.com/book15280.htm
+The Well-Beloved,['Thomas Hardy'],./data/3/3/2/3326/3326.txt,http://www.iblist.com/book62938.htm
+The Wendigo,['Algernon Blackwood'],./data/1/0/8/9/10897/10897.txt,http://www.iblist.com/book3711.htm
+The Wheels of Chance,['H.G. Wells'],./data/1/2/6/1264/1264.txt,http://www.iblist.com/book67905.htm
+The White Company,['Arthur Conan Doyle'],./data/9/0/903/903.txt,http://www.iblist.com/book2159.htm
+The White Feather,['P.G. Wodehouse'],./data/6/9/2/6927/6927.txt,http://www.iblist.com/book20073.htm
+The Wife of Sir Isaac Harman,['H.G.  Wells'],./data/3/0/8/5/30855/30855.txt,http://www.iblist.com/book67874.htm
+The Willows,['Algernon Blackwood'],./data/1/1/4/3/11438/11438.txt,http://www.iblist.com/book67526.htm
+The Wind in the Willows,['Kenneth Grahame'],./data/2/7/8/0/27805/27805.txt,http://www.iblist.com/book1537.htm
+The Wind in the Willows,['Kenneth Grahame'],./data/2/8/289/289.txt,http://www.iblist.com/book1537.htm
+The Wing-and-Wing,['J. Fenimore Cooper'],./data/1/1/9/5/11957/11957.txt,http://www.iblist.com/book41887.htm
+The Winter's Tale,['William Shakespeare'],./data/1/5/3/1539/1539.txt,http://www.iblist.com/book2177.htm
+The Wisdom of Father Brown,['G.K. Chesterton'],./data/2/2/223/223.txt,http://www.iblist.com/book18286.htm
+The Wives of The Dead,['Nathaniel Hawthorne'],./data/9/2/4/9243/9243.txt,http://www.iblist.com/book18975.htm
+The Wolf Hunters,['James Oliver Curwood'],./data/1/2/1/7/12170/12170.txt,http://www.iblist.com/book47011.htm
+The Woman in White,['Wilkie Collins'],./data/5/8/583/583.txt,http://www.iblist.com/book17030.htm
+The Wonder,['J.D. Beresford'],./data/2/7/1/8/27188/27188.txt,http://www.iblist.com/book28737.htm
+The Wonderful Adventures of Nils,['Selma Lagerloef'],./data/1/0/9/3/10935/10935.txt,http://www.iblist.com/book12877.htm
+The Wonderful Visit,['Herbert George Wells'],./data/3/3/9/1/33913/33913.txt,http://www.iblist.com/book67853.htm
+The Wonderful Wizard of Oz,['L. Frank Baum'],./data/4/3/9/3/43936/43936.txt,http://www.iblist.com/book5.htm
+The Wonderful Wizard of Oz,['L. Frank Baum'],./data/5/55/55.txt,http://www.iblist.com/book5.htm
+The Wood Beyond the World,['William Morris'],./data/3/0/5/3055/3055.txt,http://www.iblist.com/book13012.htm
+The Woodlanders,['Thomas Hardy'],./data/4/8/482/482.txt,http://www.iblist.com/book62951.htm
+The World Set Free,['Herbert George Wells'],./data/1/0/5/1059/1059.txt,http://www.iblist.com/book67873.htm
+The Worlds of If,['Stanley Grauman Weinbaum'],./data/2/2/8/9/22890/22890.txt,http://www.iblist.com/book52638.htm
+The Wouldbegoods,['E. Nesbit'],./data/3/2/4/6/32466/32466.txt,http://www.iblist.com/book12977.htm
+The Wouldbegoods,['E. Nesbit'],./data/7/9/794/794.txt,http://www.iblist.com/book12977.htm
+The Wound Dresser,['Walt Whitman'],./data/3/5/7/2/35725/35725.txt,http://www.iblist.com/book60731.htm
+The Wrong Box,"['Robert Louis Stevenson', 'Lloyd Osbourne']",./data/1/5/8/1585/1585.txt,http://www.iblist.com/book10486.htm
+The Year When Stardust Fell,['Raymond F. Jones'],./data/3/3/6/6/33660/33660.txt,http://www.iblist.com/book5918.htm
+The Yellow Claw,['Sax Rohmer'],./data/2/0/2/2028/2028.txt,http://www.iblist.com/book36034.htm
+The Yellow Wallpaper,['Charlotte Perkins Gilman'],./data/1/9/5/1952/1952.txt,http://www.iblist.com/book6081.htm
+The Young Buglers,['G.A. Henty'],./data/9/6/1/9613/9613.txt,http://www.iblist.com/book51112.htm
+The Young Carthaginian,['G.A. Henty'],./data/5/1/2/5128/5128.txt,http://www.iblist.com/book31963.htm
+The Young Colonists,['G.A. Henty'],./data/3/2/9/3/32934/32934.txt,http://www.iblist.com/book51113.htm
+The Young Franc Tireurs,['G.A. Henty'],./data/2/2/0/6/22060/22060.txt,http://www.iblist.com/book51114.htm
+The jungle book,['Rudyard Kipling'],./data/3/5/9/9/35997/35997.txt,http://www.iblist.com/book9598.htm
+Therese Raquin,['Emile Zola'],./data/6/6/2/6626/6626.txt,http://www.iblist.com/book57462.htm
+This Side of Paradise,['F. Scott Fitzgerald'],./data/8/0/805/805.txt,http://www.iblist.com/book13541.htm
+Three Men in a Boat,['Jerome K. Jerome'],./data/3/0/308/308.txt,http://www.iblist.com/book50219.htm
+Through Russian Snows,['G. A Henty'],./data/3/0/4/5/30457/30457.txt,http://www.iblist.com/book51115.htm
+Through the Fray,['G.A. Henty'],./data/8/7/3/8732/8732.txt,http://www.iblist.com/book51394.htm
+Thus Spake Zarathustra,['Friedrich Nietzsche'],./data/1/9/9/1998/1998.txt,http://www.iblist.com/book14668.htm
+"Thuvia, Maid of Mars",['Edgar Rice Burroughs'],./data/7/72/72.txt,http://www.iblist.com/book1610.htm
+Tik-Tok of Oz,['L. Frank  Baum'],./data/5/2/1/7/52176/52176.txt,http://www.iblist.com/book1976.htm
+Tik-Tok of Oz,['L. Frank Baum'],./data/9/5/956/956.txt,http://www.iblist.com/book1976.htm
+Time Fuze,['Gordon Randall Garrett'],./data/3/2/3/4/32347/32347.txt,http://www.iblist.com/book11815.htm
+Time In the Round,['Fritz Leiber'],./data/5/1/3/8/51380/51380.txt,http://www.iblist.com/book36174.htm
+Time and the Gods,['Lord Dunsany Edward J.M.D. Plunkett'],./data/8/1/8/8183/8183.txt,http://www.iblist.com/book64854.htm
+To the Last Man,['Zane Grey'],./data/2/0/7/2070/2070.txt,http://www.iblist.com/book19877.htm
+Toilers of the Sea,['Victor Hugo'],./data/3/2/3/3/32338/32338.txt,http://www.iblist.com/book59109.htm
+Tom Brown's Schooldays,['Thomas Hughes'],./data/1/4/8/1480/1480.txt,http://www.iblist.com/book31961.htm
+Tom Cringle's Log,['Michael Scott'],./data/7/2/8/7281/7281.txt,http://www.iblist.com/book41879.htm
+Tom Sawyer Abroad,['Mark Twain'],./data/9/91/91.txt,http://www.iblist.com/book13093.htm
+"Tom Sawyer, Detective",['Mark Twain'],./data/9/93/93.txt,http://www.iblist.com/book13094.htm
+Tom Swift Among The Diamond Makers,['Victor Appleton'],./data/1/2/8/1282/1282.txt,http://www.iblist.com/book42202.htm
+Tom Swift among the Fire Fighters,['Victor Appleton'],./data/1/3/6/1363/1363.txt,http://www.iblist.com/book42234.htm
+Tom Swift and His Giant Telescope,['Victor Appleton'],./data/2/1/1/8/21188/21188.txt,http://www.iblist.com/book42319.htm
+Tom Swift and The Visitor from Planet X,['Victor Appleton'],./data/1/7/9/8/17985/17985.txt,http://www.iblist.com/book24316.htm
+Tom Swift and his Aerial Warship,['Victor Appleton'],./data/1/2/8/1281/1281.txt,http://www.iblist.com/book42224.htm
+Tom Swift and his Air Glider,['Victor Appleton'],./data/9/5/952/952.txt,http://www.iblist.com/book42210.htm
+Tom Swift and his Air Scout,['Victor Appleton'],./data/1/2/8/1284/1284.txt,http://www.iblist.com/book42232.htm
+Tom Swift and his Airship,['Victor Appleton'],./data/3/0/0/3005/3005.txt,http://www.iblist.com/book24277.htm
+Tom Swift and his Big Tunnel,['Victor Appleton'],./data/9/5/953/953.txt,http://www.iblist.com/book42225.htm
+Tom Swift and his Electric Locomotive,['Victor Appleton'],./data/1/3/6/1364/1364.txt,http://www.iblist.com/book42304.htm
+Tom Swift and his Electric Rifle,['Victor Appleton'],./data/3/7/7/3777/3777.txt,http://www.iblist.com/book42206.htm
+Tom Swift and his Electric Runabout,['Victor Appleton'],./data/9/5/950/950.txt,http://www.iblist.com/book42198.htm
+Tom Swift and his Giant Cannon,['Victor Appleton'],./data/1/3/6/1361/1361.txt,http://www.iblist.com/book42221.htm
+Tom Swift and his Great Searchlight,['Victor Appleton'],./data/4/6/3/4635/4635.txt,http://www.iblist.com/book42216.htm
+Tom Swift and his Motor-boat,['Victor Appleton'],./data/2/2/7/2273/2273.txt,http://www.iblist.com/book24276.htm
+Tom Swift and his Motor-cycle,['Victor Appleton'],./data/4/2/3/4230/4230.txt,http://www.iblist.com/book24275.htm
+Tom Swift and his Photo Telephone,['Victor Appleton'],./data/4/5/3/4532/4532.txt,http://www.iblist.com/book42223.htm
+Tom Swift and his Sky Racer,['Victor Appleton'],./data/9/5/951/951.txt,http://www.iblist.com/book42205.htm
+Tom Swift and his Submarine Boat,['Victor Appleton'],./data/9/4/949/949.txt,http://www.iblist.com/book42194.htm
+Tom Swift and his Undersea Search,['Victor Appleton'],./data/1/3/6/1362/1362.txt,http://www.iblist.com/book11315.htm
+Tom Swift and his War Tank,['Victor Appleton'],./data/9/5/954/954.txt,http://www.iblist.com/book42229.htm
+Tom Swift and his Wireless Message,['Victor Appleton'],./data/4/2/2/4227/4227.txt,http://www.iblist.com/book42201.htm
+Tom Swift and his Wizard Camera,['Victor Appleton'],./data/1/2/8/1283/1283.txt,http://www.iblist.com/book42214.htm
+Tom Swift and the Electronic Hydrolung,['Victor Appleton'],./data/1/9/2/5/19258/19258.txt,http://www.iblist.com/book42327.htm
+Tom Swift in Captivity,['Victor Appleton'],./data/4/6/0/4608/4608.txt,http://www.iblist.com/book42211.htm
+Tom Swift in the Caves of Ice,['Victor Appleton'],./data/3/7/3/3734/3734.txt,http://www.iblist.com/book42204.htm
+Tom Swift in the Land of Wonders,['Victor Appleton'],./data/4/9/499/499.txt,http://www.iblist.com/book42226.htm
+Tono Bungay,['H.G. Wells'],./data/7/1/718/718.txt,http://www.iblist.com/book67870.htm
+Treasure Island,['Robert Louis Stevenson'],./data/1/2/120/120.txt,http://www.iblist.com/book2018.htm
+Treasure Island,['Robert Louis Stevenson'],./data/2/7/7/8/27780/27780.txt,http://www.iblist.com/book2018.htm
+Trent's Last Case,['E.C.  Bentley'],./data/2/5/6/2568/2568.txt,http://www.iblist.com/book38645.htm
+Trilby,['George Du Maurier'],./data/3/9/8/5/39858/39858-0.txt,http://www.iblist.com/book58895.htm
+Trilby,['George Du Maurier'],./data/3/9/8/5/39858/39858-8.txt,http://www.iblist.com/book58895.htm
+Triplanetary,['Edward Elmer Smith'],./data/2/0/7/8/20782/20782.txt,http://www.iblist.com/book2235.htm
+Triplanetary,['Edward Elmer Smith'],./data/3/2/7/0/32706/32706.txt,http://www.iblist.com/book2235.htm
+Troilus and Criseyde,['Geoffrey Chaucer'],./data/2/5/257/257.txt,http://www.iblist.com/book12940.htm
+Twas the Night before Christmas,['Clement C. Moore'],./data/1/7/1/3/17135/17135.txt,http://www.iblist.com/book50489.htm
+Twelfth Night,['William Shakspeare'],./data/3/8/9/0/38901/38901.txt,http://www.iblist.com/book2128.htm
+Twelve Stories and a Dream,['H.G. Wells'],./data/1/7/4/1743/1743.txt,http://www.iblist.com/book67971.htm
+Twenty Thousand Leagues under the Sea,['Jules Verne'],./data/1/6/164/164.txt,http://www.iblist.com/book636.htm
+Twenty Years After,"['Alexandre Dumas', 'Pere']",./data/1/2/5/1259/1259.txt,http://www.iblist.com/book1274.htm
+Twice Told Tales,['Nathaniel Hawthorne'],./data/1/3/7/0/13707/13707.txt,http://www.iblist.com/book13661.htm
+Twice-Told Tales,['Nathaniel Hawthorne'],./data/5/0/508/508.txt,http://www.iblist.com/book13661.htm
+Two Gentlemen of Verona,['William Shakespeare'],./data/2/3/0/4/23043/23043.txt,http://www.iblist.com/book2197.htm
+Two on a Tower,['Thomas Hardy'],./data/3/1/4/3146/3146.txt,http://www.iblist.com/book62955.htm
+Typee,['Herman Melville'],./data/1/9/0/1900/1900.txt,http://www.iblist.com/book13651.htm
+Typee,['Herman Melville'],./data/2/8/6/5/28656/28656.txt,http://www.iblist.com/book13651.htm
+Uller Uprising,"['Henry Beam Piper', 'John D. Clark', 'John F. Carr']",./data/1/9/4/7/19474/19474.txt,http://www.iblist.com/book20947.htm
+Ullr Uprising,['Henry Beam Piper'],./data/1/9/3/7/19370/19370.txt,http://www.iblist.com/book20947.htm
+Ulysses,['James Joyce'],./data/4/3/0/4300/4300.txt,http://www.iblist.com/book1138.htm
+Uncle Tom's Cabin,['Harriet Beecher Stowe'],./data/2/0/203/203.txt,http://www.iblist.com/book863.htm
+Uncle Vanya,['Anton Checkov'],./data/1/7/5/1756/1756.txt,http://www.iblist.com/book17714.htm
+Under Drake's Flag,['G.A. Henty'],./data/1/9/2/0/19206/19206.txt,http://www.iblist.com/book31966.htm
+Under Western Eyes,['Joseph Conrad'],./data/2/4/8/2480/2480.txt,http://www.iblist.com/book1110.htm
+Under the Andes,['Rex Stout'],./data/5/4/546/546.txt,http://www.iblist.com/book20017.htm
+Under the Lilacs,['Louisa May Alcott'],./data/3/7/9/3795/3795.txt,http://www.iblist.com/book15415.htm
+Undine,['Friedrich de la Motte Fouquee'],./data/1/8/7/5/18752/18752.txt,http://www.iblist.com/book12952.htm
+Undine,['Friedrich de la Motte Fouque'],./data/2/8/2/2825/2825.txt,http://www.iblist.com/book12952.htm
+Undine,['Friedrich de la Motte Fouque'],./data/3/7/1/3714/3714.txt,http://www.iblist.com/book12952.htm
+Utopia,['Thomas More'],./data/2/1/3/2130/2130.txt,http://www.iblist.com/book15279.htm
+Valley of Dreams,['Stanley Grauman Weinbaum'],./data/2/2/3/0/22301/22301.txt,http://www.iblist.com/book52229.htm
+Vanity Fair,['William Makepeace Thackeray'],./data/5/9/599/599.txt,http://www.iblist.com/book15301.htm
+Vathek,['William Beckford'],./data/4/2/4/0/42401/42401-0.txt,http://www.iblist.com/book62586.htm
+Venus and Adonis,['William Shakespeare'],./data/1/0/4/1045/1045.txt,http://www.iblist.com/book2091.htm
+Venus in Furs,['Ritter von Leopold Sacher-Masoch'],./data/6/8/5/6852/6852.txt,http://www.iblist.com/book12963.htm
+Victory,['Joseph Conrad'],./data/6/3/7/6378/6378.txt,http://www.iblist.com/book1117.htm
+Villette,['Charlotte Bronte'],./data/9/1/8/9182/9182.txt,http://www.iblist.com/book14481.htm
+Volpla,['Wyman Guin'],./data/5/1/2/0/51201/51201.txt,http://www.iblist.com/book36166.htm
+War and Peace,['Leo Tolstoy'],./data/2/6/0/2600/2600-0.txt,http://www.iblist.com/book524.htm
+Warm,['Robert Sheckley'],./data/2/9/5/0/29509/29509.txt,http://www.iblist.com/book16676.htm
+Washington Square,['Henry James'],./data/2/8/7/2870/2870-0.txt,http://www.iblist.com/book1199.htm
+Wessex Tales,['Thomas Hardy'],./data/3/0/5/3056/3056.txt,http://www.iblist.com/book63676.htm
+Wet Magic,['E. Nesbit'],./data/5/0/3/6/50361/50361-0.txt,http://www.iblist.com/book17059.htm
+What Diantha Did,['Charlotte Perkins Gilman'],./data/3/0/1/3016/3016.txt,http://www.iblist.com/book6082.htm
+What Maisie Knew,['Henry James'],./data/7/1/1/7118/7118.txt,http://www.iblist.com/book15475.htm
+When London Burned,['G.A. Henty'],./data/7/8/3/7831/7831.txt,http://www.iblist.com/book50743.htm
+When We Dead Awaken,['Henrik Ibsen'],./data/4/7/8/4782/4782.txt,http://www.iblist.com/book13924.htm
+Where Angels Fear to Tread,['E.M. Forster'],./data/2/9/4/2948/2948.txt,http://www.iblist.com/book842.htm
+Whirligigs,['O. Henry'],./data/1/5/9/1595/1595.txt,http://www.iblist.com/book63322.htm
+Whiskaboom,['Alan Arkin'],./data/5/1/1/3/51132/51132.txt,http://www.iblist.com/book69826.htm
+White Fang,['Jack London'],./data/9/1/910/910.txt,http://www.iblist.com/book341.htm
+White Jacket,['Herman Melville'],./data/1/0/7/1/10712/10712.txt,http://www.iblist.com/book13652.htm
+Wild Animals I Have  Known,['Ernest Thompson Seton'],./data/3/0/3/3031/3031.txt,http://www.iblist.com/book66825.htm
+Wildfire,['Zane Grey'],./data/2/0/6/2066/2066.txt,http://www.iblist.com/book19888.htm
+Wilhelm Tell,['Frederich Schiller'],./data/6/7/8/6788/6788.txt,http://www.iblist.com/book33321.htm
+"Winesburg, Ohio",['Sherwood Anderson'],./data/4/1/416/416.txt,http://www.iblist.com/book4641.htm
+Winning His Spurs,['George Alfred Henty'],./data/1/2/3/0/12308/12308.txt,http://www.iblist.com/book31965.htm
+With Lee in Virginia,['G.A. Henty'],./data/1/9/1/5/19154/19154.txt,http://www.iblist.com/book31968.htm
+With Lee in Virginia,['G.A. Henty'],./data/2/8/0/2805/2805.txt,http://www.iblist.com/book31968.htm
+With The Night Mail,['Rudyard Kipling'],./data/2/9/1/3/29135/29135.txt,http://www.iblist.com/book12106.htm
+Within the Tides,['Joseph Conrad'],./data/1/0/5/1053/1053.txt,http://www.iblist.com/book1171.htm
+Wolfbane,['Frederik Pohl'],./data/5/1/8/4/51845/51845-8.txt,http://www.iblist.com/book61518.htm
+Women in Love,['D.H. Lawrence'],./data/4/2/4/4240/4240.txt,http://www.iblist.com/book25556.htm
+Won by the Sword,['G.A. Henty'],./data/4/9/3/4931/4931.txt,http://www.iblist.com/book31967.htm
+Work: A Story of Experience,['Louisa May Alcott'],./data/4/7/7/4770/4770.txt,http://www.iblist.com/book15419.htm
+Wulf the Saxon,['G.A. Henty'],./data/8/7/4/8745/8745.txt,http://www.iblist.com/book31956.htm
+Wuthering Heights,['Emily Bronte'],./data/7/6/768/768.txt,http://www.iblist.com/book818.htm
+Youth,['Joseph Conrad'],./data/5/2/525/525.txt,http://www.iblist.com/book1155.htm
+Zadig,['Voltaire'],./data/1/8/9/7/18972/18972.txt,http://www.iblist.com/book53250.htm
+Zeritsky's Law,['Ann Griffith'],./data/5/1/2/3/51234/51234.txt,http://www.iblist.com/book12401.htm
+Zuleika Dobson,['Max Beerbohm'],./data/1/8/4/1845/1845.txt,http://www.iblist.com/book14404.htm

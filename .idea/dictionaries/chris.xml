@@ -2,6 +2,8 @@
   <dictionary name="chris">
     <words>
       <w>filepath</w>
+      <w>filepaths</w>
+      <w>iblist</w>
     </words>
   </dictionary>
 </component>

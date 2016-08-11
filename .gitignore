@@ -1,0 +1,8 @@
+Gutenberg/data/
+Gutenberg/epub/
+Gutenberg/CORPUS/
+.idea/Project.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Gutenberg/src/__pycache__/
