@@ -2,32 +2,43 @@
 
 ## Premise
 
-We intend to apply machine learning methodology to determine the genre of a particular text based on its textual content.
+We intend to apply machine learning methodology to determine the genre of a particular novel based on its textual content.
 
-What kind of genres remains to be determined.  Do we want to differentiate texts based on very broad categories such as "Fiction" and "Non-fiction", "Poetry", or whatever else?  Or do we want to get more specific, such as "Romance" or "Mystery"?  If the latter, do we want to limit ourselves to just fiction novels?
+The genres we wish to identify are as follows:
+
+ - Adventure
+ - Crime/Mystery
+ - Fairy tale
+ - Fantasy
+ - Horror
+ - Romance
+ - Science Fiction
+ - Western
 
 ## Data Source
 
-We plan to use freely available books from [Project Gutenberg](https://www.gutenberg.org/).  Other sources of freely available data may be considered (such as the [Corpus of Contemporary American English](http://corpus.byu.edu/coca/)).  We also may ask Coltekin what other sources we may have access to through the university.
+We are utilizing texts acquired from [Project Gutenberg](http://www.gutenberg.org) as well as [ManyBooks](http://manybooks.net/).
 
-We must determine what kind of texts we want to include in our dataset.  If we are looking to differentiate more specific genres, we may wish to limit our dataset to fiction novels, for example.
+#### **Project Gutenberg**
 
-Texts can be downloaded as described on [this](http://www.gutenberg.org/wiki/Gutenberg:Information_About_Robot_Access_to_our_Pages) page.  Downloading the texts will likely take a very long time, as there are quite a lot.  Maybe something to let run overnight.  Until we determine how we wish to filter our dataset, however, this is not immediately necessary.
+After downloading all texts made available from their [download](http://www.gutenberg.org/wiki/Gutenberg:Information_About_Robot_Access_to_our_Pages) page, we extracted as much information from the raw text files as possible and used various methods to assign genre labels to these texts.  An explanation of this entire process can be found in *Gutenberg.md*, and all files associated with the process are found in the *Gutenberg/* directory.
+
+By doing so, we managed to collect and successfully label 1964 texts.
+
+#### **ManyBooks**
+
+???
 
 
 ## Processing of Data
 
-If we choose to utilize the unstructured data from Project Gutenberg, then we will have to do pre-processing of the text ourselves.  This would include extracting any meta-data and would likely involve splitting sentences and tokenizing the text.
+After acquiring all texts and sorting them by genre, we will need to process the files to prepare them for the machine learning process.  This will likely entail cleaning out useless data from the files, and then tokenizing them.  
 
-Briefly looking at the few texts I've already downloaded, it seems that it will also take some effort disentangling the files and extracting useful information.  It also seems that they are **not** labelled with any kind of genre information, so we may need to attach such labels ourselves from some other source.  Somewhere may exist a database that attributes a genre to a particular book that we can utilize for labeling our training set.
-
-Parsing of the texts may be considered, but only if everything else is going smoothly.
+We will have to determine and decide upon the most effective means of tokenizing the data, and apply it consistently across all texts in our corpus.
 
 ## Programming Language and Tools
 
-We must decide upon which programming language we would like to work in primarily.  Some small tools for pre-processing and whatnot can be built in any arbitrary language, but the bulk of the code should be in one language that we are all comfortable working with.  For me, Java is my most comfortable language (or other C-derivatives), but I wouldn't mind working in Python if that is preferred by others.
-
-After determining our language of choice, we will have to find which machine learning tools we wish to use along with it.  For Python we can use the tools we've already been using in the course.  For Java, we can use the same sort of libraries that we are utilizing in the SNLP course (specifically, [WEKA](http://www.cs.waikato.ac.nz/ml/index.html)).  Any other options that we may be familiar with are possibilities as well.
+We are primarily working with Python, but each portion of the project is independent enough to not strictly require it.  We will likely be using [Keras](https://keras.io/) as our machine learning tool of choice.
 
 ## Learning from the Data
 
@@ -46,18 +57,22 @@ The above videos are quite excellent for explaining the idea behind CNNs.  They 
 
 ## Summary of Tasks
 
-#### First Steps
+#### Completed tasks
 
  - Determine what exactly we're hoping to identify in terms of genres
  - Determine where to assemble our data from
  - Determine what kind of filtering we wish to apply to that data
- - Determine machine learning methodology to employ
  - Decide upon programming language of choice and tools to utilize that best suit our needs
+ - Download text data and assign genre labels to them
 
-#### Other Steps
+#### Next steps
 
+ - Merge disparate corpora from our multiple sources into a single, consistent corpus
  - Pre-process the data into a useful form
- - If applicable, assign labels to data for any supervised learning methods
+ - Determine machine learning methodology to employ
+
+#### Other steps
+
  - Construct and implement our machine learning model, tweaking as we see fit until reaching a satisfactory conclusion.
 
 
