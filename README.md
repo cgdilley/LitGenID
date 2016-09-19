@@ -45,7 +45,7 @@ After preprocessing, we were left with our final corpus of labelled texts.  In t
 A breakdown of the corpus by genre is depicted below:
 
  Genre           | Files    | Tokens        | Types    
- ---------------:|---------:|--------------:|---------:
+ ---------------:|---------:|--------------:|-------------:
 Crime/Mystery:   | 134      | 11,126,930    | 62,274     
 Fairy Tale:      | 47       | 2,680,628     | 37,717     
 Adventure:       | 1767     | 134,857,684   | 287,165
