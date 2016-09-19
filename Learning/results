@@ -1,0 +1,686 @@
+16,32,8,128
+
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre FairyTale:
+100% (47 of 47) |#########################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (1767 of 1767) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre fantasy:
+100% (278 of 278) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (174 of 174) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (1560 of 1560) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre scifi:
+100% (1321 of 1321) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre western:
+100% (495 of 495) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Shape of data tensor: (5776, 12000)
+Shape of label tensor: (5776, 8)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:06 Time: 0:00:06
+Found 400000 word vectors.
+Building embedding matrix...
+
+CONSTRUCTING MODEL...
+------------------------------
+
+FITTING MODEL...
+---------------------------------------
+Epoch 1/1
+5198/5198 [==============================] - 904s - loss: 2.6809 - acc: 0.4998
+Accuracy = 0.598615916955
+Precision = 0.302475796187
+Recall = 0.292890014215
+F1 Score = 0.270449770817
+Confusion Matrix = 
+[[  0   0   0   0   0  11   0   0]
+ [  0   0   0   0   0   5   1   0]
+ [  0   0  87   0   0  79   8   6]
+ [  0   0   2   0   0  25   3   0]
+ [  0   0   0   0   0   8   3   0]
+ [  0   0   1   0   0 144   3   2]
+ [  0   0   8   0   0  15 111   0]
+ [  0   0  12   0   0  39   1   4]]
+
+
+
+===================================================================================================================
+
+4,32,8,128  cm4
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre FairyTale:
+100% (47 of 47) |#########################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (1767 of 1767) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre fantasy:
+100% (278 of 278) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (174 of 174) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (1560 of 1560) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre scifi:
+100% (1321 of 1321) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre western:
+100% (495 of 495) |#######################| Elapsed Time: 0:00:01 Time: 0:00:01
+Shape of data tensor: (5776, 12000)
+Shape of label tensor: (5776, 8)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:07 Time: 0:00:07
+Found 400000 word vectors.
+Building embedding matrix...
+
+CONSTRUCTING MODEL...
+------------------------------
+
+FITTING MODEL...
+---------------------------------------
+Epoch 1/1
+5198/5198 [==============================] - 832s - loss: 1.5047 - acc: 0.5346   
+Accuracy = 0.596885813149
+Precision = 0.282801603222
+Recall = 0.311032362282
+F1 Score = 0.28941059752
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Confusion Matrix = 
+[[  0   0   1   0   0   4   1   1]
+ [  0   0   1   0   0   0   1   0]
+ [  0   0 124   0   0  15  16  25]
+ [  0   0  10   0   0   6   8   2]
+ [  0   0   3   0   0   3   7   0]
+ [  0   0  48   0   0  87  14  24]
+ [  0   0  15   0   0   1 115   2]
+ [  0   0  24   0   0   1   0  19]]
+
+=========================================================================================================
+
+16,32,8,128 (2 epochs)  cm5
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre FairyTale:
+100% (47 of 47) |#########################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (1767 of 1767) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre fantasy:
+100% (278 of 278) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (174 of 174) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (1560 of 1560) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre scifi:
+100% (1321 of 1321) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre western:
+100% (495 of 495) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Shape of data tensor: (5776, 12000)
+Shape of label tensor: (5776, 8)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:06 Time: 0:00:06
+Found 400000 word vectors.
+Building embedding matrix...
+
+CONSTRUCTING MODEL...
+------------------------------
+
+FITTING MODEL...
+---------------------------------------
+Epoch 1/2
+5198/5198 [==============================] - 801s - loss: 1.8576 - acc: 0.5456   
+Epoch 2/2
+5198/5198 [==============================] - 802s - loss: 0.9178 - acc: 0.6826   
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Accuracy = 0.621107266436
+Precision = 0.308815530727
+Recall = 0.29531291834
+F1 Score = 0.272585339215
+Confusion Matrix = 
+[[  0   0   3   0   0   9   5   0]
+ [  0   0   2   0   0   0   0   0]
+ [  0   0 104   0   0  43  15   8]
+ [  0   0   9   1   0  17   2   0]
+ [  0   0   3   0   0  15   3   0]
+ [  0   0  17   0   0 145   3   4]
+ [  0   0   7   1   0  10 109   0]
+ [  0   0  21   0   0  20   2   0]]
+
+==================================================================================================================
+8,32,8,128 cm6
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre FairyTale:
+100% (47 of 47) |#########################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (1767 of 1767) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre fantasy:
+100% (278 of 278) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (174 of 174) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (1560 of 1560) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre scifi:
+100% (1321 of 1321) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre western:
+100% (495 of 495) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Shape of data tensor: (5776, 12000)
+Shape of label tensor: (5776, 8)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:06 Time: 0:00:06
+Found 400000 word vectors.
+Building embedding matrix...
+
+CONSTRUCTING MODEL...
+------------------------------
+
+FITTING MODEL...
+---------------------------------------
+Epoch 1/1
+5198/5198 [==============================] - 904s - loss: 1.5221 - acc: 0.5644   
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Accuracy = 0.603806228374
+Precision = 0.365962666011
+Recall = 0.288444395322
+F1 Score = 0.263226128502
+Confusion Matrix = 
+[[  0   0   3   0   0  15   2   0]
+ [  0   0   1   0   0   1   0   0]
+ [  0   0 101   0   0  63   9   6]
+ [  0   0   5   1   0  21   3   0]
+ [  0   0   2   0   0   6   6   0]
+ [  0   0  13   0   0 127  10   0]
+ [  0   0  11   0   0   8 120   0]
+ [  0   0  13   0   0  26   5   0]]
+
+===============================================================================================================
+
+16,32,8,128 (400 genre limit) cm7
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre FairyTale:
+100% (47 of 47) |#########################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (400 of 400) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre fantasy:
+100% (278 of 278) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (174 of 174) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (400 of 400) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre scifi:
+100% (400 of 400) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre western:
+100% (400 of 400) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Shape of data tensor: (2233, 12000)
+Shape of label tensor: (2233, 8)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:07 Time: 0:00:07
+Found 400000 word vectors.
+Building embedding matrix...
+
+CONSTRUCTING MODEL...
+------------------------------
+
+FITTING MODEL...
+---------------------------------------
+Epoch 1/1
+2009/2009 [==============================] - 392s - loss: 2.7005 - acc: 0.3006   
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Accuracy = 0.379464285714
+Precision = 0.367640000179
+Recall = 0.267191736358
+F1 Score = 0.237203931637
+Confusion Matrix = 
+[[ 1  0  0 12  0  0  1  0]
+ [ 0  0  1  1  0  0  3  0]
+ [ 0  0 28  8  0  1  4  2]
+ [ 0  0  6 13  0  4  6  0]
+ [ 0  0  1 10  0  0  8  0]
+ [ 0  0  7 13  0  5  4  1]
+ [ 0  0  3 11  0  0 35  0]
+ [ 0  0 13  5  0 10  4  3]]
+
+
+Process finished with exit code 0
+
+===============================================================================================================
+16,32,8,128 [2,5,6] cm8
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre adventure:
+100% (1767 of 1767) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre romance:
+100% (1560 of 1560) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre scifi:
+100% (1321 of 1321) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Shape of data tensor: (4648, 12000)
+Shape of label tensor: (4648, 3)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:06 Time: 0:00:06
+Found 400000 word vectors.
+Building embedding matrix...
+
+CONSTRUCTING MODEL...
+------------------------------
+
+FITTING MODEL...
+---------------------------------------
+Epoch 1/1
+4183/4183 [==============================] - 809s - loss: 1.9713 - acc: 0.6352   
+Accuracy = 0.733333333333
+Precision = 0.756087816078
+Recall = 0.720859442043
+F1 Score = 0.727317831988
+Confusion Matrix = 
+[[113  51   9]
+ [ 14 155   4]
+ [ 29  17  73]]
+
+========================================================================================================
+16,32,8,128 (2 epochs, 10 folds) cm10, cm10-2, cm10-3, cm10-4
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre FairyTale:
+100% (47 of 47) |#########################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (1767 of 1767) |#####################| Elapsed Time: 0:00:04 Time: 0:00:04
+Loading genre fantasy:
+100% (278 of 278) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (174 of 174) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (1560 of 1560) |#####################| Elapsed Time: 0:00:03 Time: 0:00:03
+Loading genre scifi:
+100% (1321 of 1321) |#####################| Elapsed Time: 0:00:02 Time: 0:00:02
+Loading genre western:
+100% (495 of 495) |#######################| Elapsed Time: 0:00:01 Time: 0:00:01
+Shape of data tensor: (5776, 12000)
+Shape of label tensor: (5776, 8)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:06 Time: 0:00:06
+Found 400000 word vectors.
+Building embedding matrix...
+
+FITTING MODEL...
+---------------------------------------
+Fold #1:
+------------------
+Epoch 1/2
+5195/5195 [==============================] - 780s - loss: 1.8309 - acc: 0.5353   
+Epoch 2/2
+5195/5195 [==============================] - 777s - loss: 0.9701 - acc: 0.6693   
+Accuracy = 0.650602409639
+Precision = 0.361774521445
+Recall = 0.355763654029
+F1 Score = 0.350866356052
+Confusion Matrix = 
+[[  0   0   0   0   0  14   0   0]
+ [  0   0   2   0   0   3   0   0]
+ [  0   0 121   0   2  40   6   8]
+ [  0   0   4   0   2  20   2   0]
+ [  0   0   4   0   2   8   4   0]
+ [  0   0   8   0   3 138   0   7]
+ [  0   0  21   0   4  14  94   0]
+ [  0   0   9   0   1  17   0  23]]
+
+Fold #2:
+------------------
+Epoch 1/2
+5196/5196 [==============================] - 777s - loss: 1.6090 - acc: 0.5699   
+Epoch 2/2
+5196/5196 [==============================] - 777s - loss: 0.9149 - acc: 0.6809   
+Accuracy = 0.593103448276
+Precision = 0.289967504378
+Recall = 0.301019978139
+F1 Score = 0.28928596114
+Confusion Matrix = 
+[[  0   0   0   0   0  14   0   0]
+ [  0   0   1   0   0   4   0   0]
+ [  1   0 111   0   4  42   7  12]
+ [  0   0   7   0   4  15   2   0]
+ [  0   0   1   0   2   7   8   0]
+ [  0   0  17   3   3 122   4   7]
+ [  0   0   9   1   4  14 104   0]
+ [  0   0  20   0   1  23   1   5]]
+
+Fold #3:
+------------------
+Epoch 1/2
+5196/5196 [==============================] - 777s - loss: 1.6364 - acc: 0.5624   
+Epoch 2/2
+5196/5196 [==============================] - 776s - loss: 0.9099 - acc: 0.6892   
+Accuracy = 0.622413793103
+Precision = 0.4826470291
+Recall = 0.329101298889
+F1 Score = 0.327530924084
+Confusion Matrix = 
+[[  0   0   2   0   0  12   0   0]
+ [  0   0   1   1   0   2   1   0]
+ [  0   0 101   4   0  63   8   1]
+ [  0   0   1   4   0  22   1   0]
+ [  0   0   0   3   1   9   5   0]
+ [  0   0  10   6   0 133   3   4]
+ [  0   0   4   3   0  10 115   0]
+ [  0   0  14   1   0  27   1   7]]
+
+Fold #4:
+------------------
+Epoch 1/2
+5196/5196 [==============================] - 775s - loss: 1.8481 - acc: 0.5387   
+Epoch 2/2
+5196/5196 [==============================] - 779s - loss: 0.9583 - acc: 0.6632   
+Accuracy = 0.612068965517
+Precision = 0.242829552746
+Recall = 0.287076271186
+F1 Score = 0.260868348299
+Confusion Matrix = 
+[[  0   0   8   0   0   3   3   0]
+ [  0   0   2   0   0   2   1   0]
+ [  0   0 141   0   0  18  18   0]
+ [  0   0  13   0   1  11   3   0]
+ [  0   0   6   0   0   3   9   0]
+ [  0   0  48   0   1 104   3   0]
+ [  0   0  14   0   4   4 110   0]
+ [  0   0  42   0   0   8   0   0]]
+
+Fold #5:
+------------------
+Epoch 1/2
+5198/5198 [==============================] - 778s - loss: 1.6021 - acc: 0.5552   
+Epoch 2/2
+5198/5198 [==============================] - 777s - loss: 0.9205 - acc: 0.6835   
+Accuracy = 0.662629757785
+Precision = 0.421689190923
+Recall = 0.362700540984
+F1 Score = 0.360392545963
+Confusion Matrix = 
+[[  0   0   1   0   0   6   6   0]
+ [  0   0   4   0   0   1   0   0]
+ [  0   0 116   0   0  37   9  15]
+ [  0   0  13   4   0   7   4   0]
+ [  0   0   3   0   0   5   9   0]
+ [  0   0  31   0   0 118   5   2]
+ [  0   0   4   1   1   1 125   0]
+ [  0   0  12   0   0  18   0  20]]
+
+Fold #6:
+------------------
+Epoch 1/2
+5199/5199 [==============================] - 777s - loss: 2.0125 - acc: 0.5499   
+Epoch 2/2
+5199/5199 [==============================] - 776s - loss: 0.9847 - acc: 0.6630   
+Accuracy = 0.620450606586
+Precision = 0.299038483096
+Recall = 0.307862989038
+F1 Score = 0.286304675229
+Confusion Matrix = 
+[[  0   0   1   0   0   9   3   0]
+ [  0   0   1   0   0   2   2   0]
+ [  0   0 112   0   0  35  30   0]
+ [  0   0   9   2   1  12   4   0]
+ [  0   0   0   1   1   9   6   0]
+ [  1   0  20   2   3 121   7   2]
+ [  0   0   5   1   1   3 122   0]
+ [  0   0  20   0   1  25   3   0]]
+
+Fold #7:
+------------------
+Epoch 1/2
+5199/5199 [==============================] - 774s - loss: 1.9823 - acc: 0.5488   
+Epoch 2/2
+5199/5199 [==============================] - 775s - loss: 0.8956 - acc: 0.6869   
+Accuracy = 0.596187175043
+Precision = 0.312591516465
+Recall = 0.338499018192
+F1 Score = 0.319969385747
+Confusion Matrix = 
+[[  0   0   3   0   0   9   1   0]
+ [  0   0   3   2   0   0   0   0]
+ [  0   0  90   1   2  44  13  27]
+ [  0   0   8   0   4   8   8   0]
+ [  0   0   5   0   2   5   5   0]
+ [  0   0  14   0   1 116   5  20]
+ [  0   0  12   0   1   7 112   0]
+ [  0   0   8   0   0  14   3  24]]
+
+Fold #8:
+------------------
+Epoch 1/2
+5201/5201 [==============================] - 777s - loss: 1.7339 - acc: 0.5551   
+Epoch 2/2
+5201/5201 [==============================] - 778s - loss: 0.9863 - acc: 0.6651   
+Accuracy = 0.59652173913
+Precision = 0.379204696285
+Recall = 0.334789597657
+F1 Score = 0.341945836006
+Confusion Matrix = 
+[[  0   0   4   0   0   8   1   0]
+ [  0   0   2   0   1   1   0   0]
+ [  0   0 116   0   1  37   8  14]
+ [  0   0  14   0   0  13   0   1]
+ [  0   0   4   0   5   6   2   0]
+ [  0   0  29   0   0 117   0  10]
+ [  0   0  26   0   0  12  91   3]
+ [  0   0  22   0   0  12   1  14]]
+
+Fold #9:
+------------------
+Epoch 1/2
+5202/5202 [==============================] - 775s - loss: 1.9952 - acc: 0.5342   
+Epoch 2/2
+5202/5202 [==============================] - 776s - loss: 0.9769 - acc: 0.6638   
+Accuracy = 0.6393728223
+Precision = 0.372600033482
+Recall = 0.31359104685
+F1 Score = 0.305916880559
+Confusion Matrix = 
+[[  0   0   7   0   0   5   1   0]
+ [  0   0   3   1   0   0   0   0]
+ [  0   0 147   0   0  23   5   1]
+ [  0   0  15   3   0   7   2   0]
+ [  0   0   5   0   0   9   3   0]
+ [  0   0  46   2   0 103   3   2]
+ [  0   0  14   1   0   6 111   0]
+ [  0   0  36   0   0   8   2   3]]
+
+Fold #10:
+------------------
+Epoch 1/2
+5202/5202 [==============================] - 776s - loss: 1.7422 - acc: 0.5423   
+Epoch 2/2
+5202/5202 [==============================] - 775s - loss: 0.9673 - acc: 0.6644   
+Accuracy = 0.679442508711
+Precision = 0.362640214298
+Recall = 0.329991437134
+F1 Score = 0.307749366513
+Confusion Matrix = 
+[[  0   0   1   0   0  12   0   0]
+ [  0   0   3   0   0   1   0   0]
+ [  0   0 128   0   0  25  23   0]
+ [  0   0   8   0   0  11   8   0]
+ [  0   0   2   0   0   6   9   0]
+ [  0   0  19   0   0 128   8   1]
+ [  0   0   4   0   0   0 128   0]
+ [  0   0  16   0   0  27   0   6]]
+
+
+FINAL RESULTS:
+===================
+Accuracy = 0.627279322609
+Precision = 0.352498274222
+Recall = 0.32603958321
+F1-Score = 0.315083027959
+Overall confusion matrix = 
+[[  0    0   27    0    0   92   15    0]
+ [  0    0   22    4    1   16    4    0]
+ [  1    0 1183    5    9  364  127   78]
+ [  0    0   92   13   12  126   34    1]
+ [  0    0   30    4   13   67   60    0]
+ [  1    0  242   13   11 1200   38   55]
+ [  0    0  113    7   15   71 1112    3]
+ [  0    0  199    1    3  179   11  102]]
+
+====================================================================================================================
+16,32,8,128 [0,2,3,4,5,6,7] (134 genre limit) cm11
+
+
+/usr/bin/python3.5 "/media/chris/Users/Chris/Documents/Files/College Files/Tuebingen/Semester 4/Machine Learning/Project/Project/Learning/cnn.py"
+Using Theano backend.
+ERROR (theano.sandbox.cuda): nvcc compiler not found on $PATH. Check your nvcc installation and try again.
+LOADING DATA FROM FILES...
+----------------------------------
+Loading word index...
+Loading label index...
+Loading data files...
+Loading genre CrimeMystery:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre adventure:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre fantasy:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre horror:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre romance:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre scifi:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Loading genre western:
+100% (134 of 134) |#######################| Elapsed Time: 0:00:00 Time: 0:00:00
+Shape of data tensor: (938, 12000)
+Shape of label tensor: (938, 7)
+
+LOADING EMBEDDING VECTORS...
+--------------------------------
+100% (400000 of 400000) |#################| Elapsed Time: 0:00:06 Time: 0:00:06
+Found 400000 word vectors.
+Building embedding matrix...
+
+FITTING MODEL...
+---------------------------------------
+Fold #1:
+------------------
+Epoch 1/1
+840/840 [==============================] - 137s - loss: 3.6765 - acc: 0.2095   
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py:1074: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Accuracy = 0.285714285714
+Precision = 0.179241755182
+Recall = 0.285714285714
+F1 Score = 0.211327540656
+Confusion Matrix = 
+[[ 0  4  1  1  0  0  8]
+ [ 0  8  0  1  0  1  4]
+ [ 0  1  0  4  0  3  6]
+ [ 0  6  0  4  0  3  1]
+ [ 0  2  3  1  0  0  8]
+ [ 0  3  0  4  0  6  1]
+ [ 0  3  0  0  0  1 10]]
+
+
+FINAL RESULTS:
+===================
+Accuracy = 0.285714285714
+Precision = 0.179241755182
+Recall = 0.285714285714
+F1-Score = 0.211327540656
+Overall confusion matrix = 
+[[  0  4  1  1  0  0  8]
+ [  0  8  0  1  0  1  4]
+ [  0  1  0  4  0  3  6]
+ [  0  6  0  4  0  3  1]
+ [  0  2  3  1  0  0  8]
+ [  0  3  0  4  0  6  1]
+ [  0  3  0  0  0  1 10]]
+
+
+
+
+
+
+
+
+

@@ -72,7 +72,7 @@ print("Missing data for " + str(dataNotFoundCount) + " texts (" +
 
 
 print()
-print("Saving extracted info to CSV file...")
+print("Saving extracted info.txt to CSV file...")
 
 with open('textData.txt', 'w') as out:
     csv_out = csv.writer(out)

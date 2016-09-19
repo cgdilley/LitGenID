@@ -37,7 +37,7 @@ def extract_data_from_row(row):
     :return: A TextData object representing the extracted data
     """
 
-    # Extract info from the row list
+    # Extract info.txt from the row list
     title = row[0]
     authors = row[1]
     path = row[2]

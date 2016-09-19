@@ -1,6 +1,8 @@
 Gutenberg/data/
 Gutenberg/epub/
 Gutenberg/CORPUS/
+Learning/Corpus/
+Learning/glove.6B/
 .idea/Project.iml
 .idea/misc.xml
 .idea/modules.xml

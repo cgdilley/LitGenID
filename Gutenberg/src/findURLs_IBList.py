@@ -66,7 +66,7 @@ bar.finish()
 
 print("--------------------")
 print()
-print("Saving extracted info to CSV file...")
+print("Saving extracted info.txt to CSV file...")
 
 # Update progress marker
 with open("./saveMarker.txt", "w") as f:

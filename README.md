@@ -2,13 +2,11 @@
 
 ## Premise
 
-We intend to apply machine learning methodology to determine the genre of a particular novel based on its textual content.
-
-The genres we wish to identify are as follows:
+The purpose of this project is to train a machine learning model to ascertain the literary genre of a novel based on its textual content.  This is something humans can do intuitively (with some subjectivity), but would be challenging to explicitly define and identify by direct means in a computer program.  We are hoping that the model will be able to pick up on the qualities of a book that cause it to belong to a particular genre, and have some success at labeling unknown texts.  To narrow the scope of the identification, we are limiting the model to identify **fiction novels** that belong to one (or more) of the following genres:
 
  - Adventure
  - Crime/Mystery
- - Fairy tale
+ - Fairy Tale
  - Fantasy
  - Horror
  - Romance
@@ -17,7 +15,11 @@ The genres we wish to identify are as follows:
 
 ## Data Source
 
-We are utilizing texts acquired from [Project Gutenberg](http://www.gutenberg.org) as well as [ManyBooks](http://manybooks.net/).
+We are primarily utilizing texts acquired from [ManyBooks](http://manybooks.net/).  We also used some texts downloaded directly from [Project Gutenberg](http://www.gutenberg.org) to fill in some gaps, but the bulk of the data came from ManyBooks.  The process by which we acquired these texts is detailed below.
+
+#### **ManyBooks**
+
+???
 
 #### **Project Gutenberg**
 
@@ -25,55 +27,89 @@ After downloading all texts made available from their [download](http://www.gute
 
 By doing so, we managed to collect and successfully label 1964 texts.
 
-#### **ManyBooks**
-
-???
+However, we found that most of these texts acquired and labelled in this manner made up a smaller subset of the ManyBooks data set.  As a result, only a small handful of these texts were utilized in the final corpus (specifically, those texts belonging to the Crime/Mystery and Fairy Tale genres).  
 
 
 ## Processing of Data
 
-After acquiring all texts and sorting them by genre, we will need to process the files to prepare them for the machine learning process.  This will likely entail cleaning out useless data from the files, and then tokenizing them.  
+After acquiring all texts and sorting them by genre, we underwent a process of preprocessing the data.  This involved cleaning up unnecessary garbage from the texts, as well as conforming them all to a standardized tokenization scheme.    
 
-We will have to determine and decide upon the most effective means of tokenizing the data, and apply it consistently across all texts in our corpus.
+### Description of tokenization process
 
-## Programming Language and Tools
+?????
 
-We are primarily working with Python, but each portion of the project is independent enough to not strictly require it.  We will likely be using [Keras](https://keras.io/) as our machine learning tool of choice.
+## Final Corpus Results
 
-## Learning from the Data
+After preprocessing, we were left with our final corpus of labelled texts.  In total, the corpus contains XXXX individual texts with XXXXX individual tokens with XXXX token types.  These texts are divided into separate folders representing the 8 genres they were labelled by.  Some of the texts are duplicates, as texts that belonged to multiple genres were copied and placed in the folders of all applicable genres.
 
-The most critical aspect of the project is determining what machine learning tools we intend to employ.
+A breakdown of the corpus by genre is depicted below:
 
-We could simply apply clustering of the data based on some measurable aspects of the texts.  This would alleviate the need to have labelled data, but I think it would be difficult to get good clusters and be able to derive anything meaningful from them.
+<<<<<<<< INSERT SOME KIND OF TABLE HERE >>>>>>>>>>>>>>>>
 
-We could utilize standard feed-forward neural networks, or perhaps an RNN variant if we were ambitious.  This is probably the most straightforward solution in general.
+## Implementing the Machine Learning
 
-The solution that appeals most to me, however, is the usage of a CNN.  This makes sense to me, as determining what is or isn't of a certain genre is difficult to define in concrete terms, so leaving the computer to figure it out based on labelled data seems best.  CNNs would allow us to simply run convolutions over the text and determine what combinations of features suggest a particular genre without any real strong direction from us.  
+We attempted a couple of different approaches for defining models to train on our corpus.  
 
-Useful description of CNNs (for images):  [link](https://www.youtube.com/watch?v=py5byOOHZM8)
-Useful visualization of the CNN process (for images):  [link](https://www.youtube.com/watch?v=BFdMrDOx_CM)
+Firstly, we chose to employ a convolutional neural network model.  Texts had their most frequent words removed, and were trimmed or padded to a consistent length.  All words were then represented as word vectors as defined by [GloVe](http://nlp.stanford.edu/projects/glove/) before being fed into the model.
 
-The above videos are quite excellent for explaining the idea behind CNNs.  They apply to images specifically, for which there are a lot of obvious convolutions (blurring, edge detection in various directions, etc).  However, convolutions for NLP are not quite as obvious.  Perhaps we can get some direction from Coltekin about what kind of convolutions to apply, if we decide to go this route.
+Secondly, we utilized a recurrent neural network model as well.
+????????????
 
-## Summary of Tasks
+### Convolutional neural network model
 
-#### Completed tasks
+We opted to write our CNN model utilizing much of the code used in Assignment #3, tweaked to suit this purpose and overall improved.  This code was written in Python, using the the [Keras](www.keras.io) library.  All code related to this process is included in the *"Learning/"* directory.
 
- - Determine what exactly we're hoping to identify in terms of genres
- - Determine where to assemble our data from
- - Determine what kind of filtering we wish to apply to that data
- - Decide upon programming language of choice and tools to utilize that best suit our needs
- - Download text data and assign genre labels to them
+The first stage of the process involved simplifying the text data from string tokens into integers, and creating a word index linking words to these integers.  The total frequency of all tokens was calculated as part of this process as well.  We accomplished this using Keras's tokenizer.  
 
-#### Next steps
+Due the large size of the corpus data, it became difficult to process the entirety of the texts in this manner due to memory constraints.  As such, we opted to pare the texts down further by removing the 1200 most frequent tokens.  This eliminated approximately 78% of the tokens in the documents.  This value was arbitrarily chosen after manually looking through the ranked list of words and after consulting the graph depicted below.  We feel this would have little impact on the learning capabilities of the model, as most of these words would not hold much predictive power.  However, due to limited time, we were unable to tweak this number much in either direction to observe the resulting differences.  As a result, this assertion is purely conjecture.
 
- - Merge disparate corpora from our multiple sources into a single, consistent corpus
- - Pre-process the data into a useful form
- - Determine machine learning methodology to employ
+<<<<<< INSERT RANK VOLUME GRAPH >>>>>>>>>>>>>>
 
-#### Other steps
+Furthermore, we limited all texts to contain no more than 12000 tokens after removing the most frequent tokens.  Texts that contained fewer than this many were padded with 0-tokens to reach this 12000 value.  In the end, all texts contained exactly 12000 integer values representing specific words.  The word index that linked words to their integer representation was also saved into a CSV file.
 
- - Construct and implement our machine learning model, tweaking as we see fit until reaching a satisfactory conclusion.
+After performing this processing, all texts were saved in a separate folder in this format in order to prevent having to repeat this time-consuming task.  All code related to this process can be found in "*Learning/embed.py*"
+
+The second stage of this process involved loading these processed texts, and feeding them into the CNN model.  This was done by forming the texts into a multi-dimensional array of integer values as well as a vector of label values.  Word embedding vectors from GloVe were also loaded, and the words represented by the texts' integers were mapped to their corresponding word vectors.  After experimenting with the 50-, 100-, and 200-dimensional vectors from GloVe, it was found that the 50-dimensional vectors had the best results (in additional to being processed quicker).
+
+The architecture of the model contains the following layers, in sequence:
+
+ - An embedding layer which converts the word identifiers into their corresponding word vectors
+ - A convolutional layer, with **16** convolutional kernels and a filter depth of **32**.
+ - A max-pooling layer, pooling by a factor of **8**.
+ - A flattening layer, converting the 2-dimensional output from the previous layers to one dimension.
+ - A densely-connected layer, with **128** outputs.
+ - A densely-connected layer, with as many outputs as genres (**8**, generally).
+
+These values were settled upon after trying a number of different configurations and tracking their results.  Increasing any of these numbers tended to give worse results, presumably suffering from overfitting issues.
+
+After performing 10-fold cross-validation, with 2 training epochs per fold, we obtained the following results:
+
+<<<<<<<<<<<<<<<<<<< INSERT RESULTS >>>>>>>>>>>>
+
+It is clear from these results that the imbalance in the number of texts per genre has played a significant role.  The model predominantly attempts to classify the texts as either *Adventure*, *Romance*, or *SciFi*, as these are most highly populated genres.  The other genres as predicted by the model far less often, certainly much less than expected based on their relative proportions.
+
+To try combat this issue, we tried utilizing the same model, but limiting each genre to no more than 400 texts each.  In the interests of time, this was performed on only one fold for one training epoch.  The results were as follows:
+
+<<<<<<<<<<<<<<<<<<<<< INSERT RESULTS >>>>>>>>>>>
+
+Making this change greatly reduced the accuracy of the model, but did improve its precision and recall.  However, this is overall a worse result.
+
+Out of curiosity, we ran the model using only those three most frequent genres in order to observe how well the model differentiates between them when alone.  As with the previous experiment, this was performed on only one fold for one training epoch.  These were the results:
+
+<<<<<<<<<<<<<<<<<<<<< INSERT RESULTS >>>>>>>>>>>
+
+These results show improved accuracy and greatly improved precision and recall, and shows the model's overall power in differentiating genres given sufficient training data.  However, this level of accuracy is still not terribly reliable, and would likely not be good enough for a real-world classification system.
+
+Some improvements may have been found by tweaking the processing to include more (or less) of the tokens found in the texts, as well potentially by combining the results of several models into one larger model.  If given time and reason to expand on this system, these are the most likely paths for optimization we would follow.  
+
+### Recurrent neural network model
+
+???????????????
+
+
+## Conclusion
+
+ ???????????????????????????????
 
 
 
