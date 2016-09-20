@@ -1,9 +1,7 @@
 # Automatic Literary Genre Identification
  *Authors:    Inna Pirina, Christopher Dilley, Safeer Mian*
 
-
-----------
-
+---------------------
 
 This repository contains all documents related to our project for our SS16 Machine Learning course.  The goal of this project was to assemble a corpus of various English novels labelled by literary genre, and train a convolutional neural network to identify these genres.
 
