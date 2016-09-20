@@ -8,3 +8,4 @@ Learning/glove.6B/
 .idea/modules.xml
 .idea/workspace.xml
 Gutenberg/src/__pycache__/
+paper/
