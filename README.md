@@ -16,6 +16,3 @@ The **ManyBooks/** directory contains all files related to the scraping and proc
 The **Tokenizing/** directory contains all files related to the tokenization of the texts acquired from ManyBooks and Project Gutenberg.
 
 The **Learning/** directory contains all files related to the final pre-processing of the data as well as the the implementation of the CNN model.
-
-
-> Written with [StackEdit](https://stackedit.io/).
